@@ -1,0 +1,418 @@
+Name,Price,Cuisine_Category,City,Region,Cuisine_Type,Timing,Rating_Types,Rating,Votes
+La Roma Pizzeria,500,"Fast Food,Italian",Amritsar,Ranjit Avenue,Casual Dining,11am to 11pm(Mon-Sun),Excellent,4.9,2763
+Bade Bhai ka Brothers Dhaba,500,North Indian,Amritsar,Town Hall,Casual Dining,8am to 1130pm(Mon-Sun),Very Good,4.4,1008
+Bharawan Da Dhaba,500,"North Indian,Fast Food",Amritsar,Town Hall,Casual Dining,7am to 12midnight(Mon-Sun),Very Good,4.3,989
+R K Food Plaza,400,"North Indian,Chinese,Fast Food",Amritsar,Town Hall,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.2,508
+Makhan Fish and Chicken Corner,700,"North Indian,Chinese",Amritsar,Basant Nagar,Casual Dining,12noon to 11pm(Mon-Sun),Very Good,4.0,868
+Bon Gateau,700,"Cafe,Bakery,Fast Food",Amritsar,Ranjit Avenue,Café,10am to 11pm(Mon-Sun),Very Good,4.3,414
+Kale Da Dhaba,500,North Indian,Amritsar,Ranjit Avenue,Quick Bites,1230pm to 11pm(Mon-Sun),Very Good,4.1,494
+Brothers' Amritsari Dhaba,400,North Indian,Amritsar,Town Hall,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.3,344
+Burger King,400,Burger,Amritsar,Lawrence Road,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.0,569
+Cafe Connect,500,Fast Food,Amritsar,Ranjit Avenue,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.1,395
+Domino's Pizza,700,"Pizza,Fast Food",Amritsar,Lawrence Road,Quick Bites,11am to 12midnight(Mon-Sun),Good,3.8,664
+Sip n Breww,200,Cafe,Amritsar,Lawrence Road,Café,1030am to 11pm(Mon-Sun),Good,3.9,400
+Bombay Pavbhaji - Original,350,"Fast Food,Street Food",Amritsar,INA Colony,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,388
+Sanjha Chulha,400,North Indian,Amritsar,Lawrence Road,Casual Dining,9am to 12midnight(Mon-Sun),Very Good,4.1,468
+Sakhis Watz Kukin,900,"Chinese,Continental,North Indian,Italian,Mughlai",Amritsar,Ranjit Avenue,Casual Dining,1130am to 1140pm(Mon-Sun),Very Good,4.4,386
+Burning Bun,300,Fast Food,Amritsar,Basant Nagar,Quick Bites,1pm to 1030pm(Mon-Sun),Good,3.5,53
+WAFL Café,500,"Desserts,Bakery,Beverages,Fast Food,Continental",Amritsar,Lawrence Road,Café,11am to 12midnight(Mon-Sun),Good,3.9,82
+My Shop,700,"North Indian,Mughlai",Amritsar,Ranjit Avenue,Quick Bites,11am to 1030pm(Mon-Sun),Good,3.7,71
+Jagmohan Veg Champ,150,"Fast Food,North Indian",Amritsar,Basant Nagar,Quick Bites,2pm to 10pm(Mon-Sun),Good,3.6,42
+Krishna Madhur Mishthan Bhandar & Vaishno Dhaba,300,"North Indian,Mithai",Amritsar,Basant Nagar,Dhaba,8am to 10pm(Mon-Sun),Good,3.7,44
+Fun Tym Pizzaria,400,"Pizza,Fast Food",Amritsar,Rani Ka Bagh,Quick Bites,12noon to 930pm(Mon-Sun),Good,3.7,61
+In n Out Bakers,300,Bakery,Amritsar,Ranjit Avenue,Bakery,11am to 930pm(Mon-Sun),Good,3.6,42
+Peddlers,1000,"North Indian,Italian",Amritsar,Ranjit Avenue,Pub,"11am to 12midnight(Mon,Tue,Thu),11am to 2am...",Good,3.8,89
+The Urban Courtyard,1400,"Fast Food,North Indian,Italian",Amritsar,White Avenue,Casual Dining,"1130am to 1130pm(Mon),11am to 1130pm(Tue-Sun)",Good,3.7,110
+The Pizza Studio,500,"Pizza,Fast Food",Amritsar,Ranjit Avenue,Quick Bites,10am to 11pm(Mon-Sun),Average,3.3,117
+New Brijwasi Chat,300,Street Food,Amritsar,Ranjit Avenue,Quick Bites,12noon to 8pm(Mon-Sun),Good,3.7,40
+Yummy Tummy,300,Fast Food,Amritsar,GT Road,Quick Bites,12noon to 10pm(Mon-Sun),Good,3.6,34
+Bon's Food Factory,450,"Italian,Chinese",Amritsar,Ranjit Avenue,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,79
+Enjoy Pizza Plus,450,"Pizza,Beverages",Amritsar,Ranjit Avenue,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,88
+Khanna Sweets,300,Mithai,Amritsar,Lawrence Road,Sweet Shop,11am to 9pm(Mon-Sun),Good,3.5,21
+Sanjha Chulha Dhaba,300,North Indian,Amritsar,Town Hall,Quick Bites,10am to 10pm(Mon-Sun),Good,3.5,63
+The Italian Hub,450,Italian,Amritsar,GT Road,Quick Bites,10am to 11pm(Mon-Sun),Good,3.7,49
+Special Bombay Pav Bhaji & Bhel Puri,300,"Fast Food,Street Food",Amritsar,Basant Nagar,Quick Bites,430pm to 1030pm(Mon-Sun),Average,3.3,10
+Pure Punjabi Vegetarian,300,North Indian,Amritsar,Mall Road,Quick Bites,11am to 10pm(Mon-Sun),Average,3.3,19
+Foodeez,400,"Chinese,Cafe,Pizza,North Indian,Italian",Amritsar,Rani Ka Bagh,Café,11am to 11pm(Mon-Sun),Good,3.5,107
+Subhash Juice Bar,200,"Juices,Fast Food",Amritsar,Basant Nagar,Beverage Shop,9am to 1050pm(Mon-Sun),Good,3.5,20
+Amrit Pastry Shop,150,"Bakery,Desserts",Amritsar,GT Road,Bakery,10am to 9pm(Mon-Sun),Good,3.7,47
+Cheesy Hub,150,"Fast Food,Burger,Sandwich",Amritsar,Basant Nagar,Quick Bites,12noon to 1030pm(Mon-Sun),Average,3.3,11
+Famous Kulcha Corner,100,North Indian,Amritsar,Rani Ka Bagh,Dhaba,8am to 430pm(Mon-Sun),Good,3.6,16
+The  Bakers,350,"Desserts,Fast Food",Amritsar,Kabir Park,Bakery,9am to 10pm(Mon-Sun),Average,3.4,23
+Food Forest,600,"Chinese,North Indian",Amritsar,Ranjit Avenue,Casual Dining,1130am to 1045pm(Mon-Sun),Average,3.2,39
+Sardar Ji Kulcha,150,"North Indian,Fast Food",Amritsar,Basant Nagar,Quick Bites,9am to 315pm(Mon-Sun),Average,3.4,15
+Mom's Cafe,300,"Fast Food,Italian",Amritsar,INA Colony,Quick Bites,12noon to 9pm(Mon-Sun),Average,3.3,14
+Bakewell Bakers,300,Bakery,Amritsar,INA Colony,Bakery,630am to 10pm(Mon-Sun),Average,2.9,43
+Prem Nath & Sons Kulfe Wale,150,"Ice Cream,Desserts",Amritsar,Hathi Gate,Dessert Parlor,11am to 10pm(Mon-Sun),Good,3.5,20
+Chawlas 2,500,North Indian,Amritsar,Ranjit Avenue,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,93
+Dchef's Delite,300,Fast Food,Amritsar,Amritsar Cantonment,Quick Bites,11am to 10pm(Mon-Sun),Average,3.3,12
+BB - Brother Bakery,400,Bakery,Amritsar,Amritsar Cantonment,Bakery,11am to 10pm(Mon-Sun),Average,2.9,8
+Lotizza Pizza,400,Italian,Amritsar,Basant Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,63
+Kulcha King,300,North Indian,Amritsar,Ranjit Avenue,Quick Bites,830am to 4pm(Mon-Sun),Good,3.5,34
+Apsra Dhaba,300,North Indian,Amritsar,Hathi Gate,Quick Bites,12noon to 10pm(Mon-Sun),Average,3.1,4
+British Beer Cafe,500,"North Indian,Cafe",Amritsar,Ranjit Avenue,Café,1130am to 1145pm(Mon-Sun),Average,3.4,33
+American Pizza,200,Pizza,Amritsar,GT Road,Quick Bites,11am to 10pm(Mon-Sun),Average,3.2,9
+Life Bakery,500,Desserts,Amritsar,Mohan Nagar,Bakery,11am to 11pm(Mon-Sun),Good,3.7,70
+BK Chat Bhandar,100,"North Indian,Fast Food,Street Food",Amritsar,Hathi Gate,Quick Bites,4pm to 1045pm(Mon-Sun),Average,3.2,6
+Laxmi Bikaner Sweets,200,Mithai,Amritsar,Ranjit Avenue,Sweet Shop,9am to 10pm(Mon-Sun),Average,3.3,13
+Patola Drinks N Gabru Snacks,250,North Indian,Amritsar,Amritsar Cantonment,Quick Bites,1115am to 915pm(Mon-Sun),Average,3.3,13
+Ambey Bikaner Sweets,100,"Mithai,Street Food",Amritsar,Kabir Park,Sweet Shop,10am to 10pm(Mon-Sun),Average,3.4,20
+Sonu Kulcha Hut,150,Street Food,Amritsar,White Avenue,Quick Bites,10am to 10pm(Mon-Sun),Average,3.4,26
+Mc Grill,500,Fast Food,Amritsar,Kabir Park,Quick Bites,10am to 10pm(Mon-Sun),Average,3.4,29
+Juice And Fruit Shop,100,Juices,Amritsar,INA Colony,Beverage Shop,10am to 10pm(Mon-Sun),Average,3.2,8
+Nanking Express,350,Chinese,Amritsar,GT Road,Food Court,11am to 1030pm(Mon-Sun),Average,3.4,22
+Narula's,600,North Indian,Amritsar,White Avenue,Quick Bites,10am to 1030pm(Mon-Sun),Average,3.4,24
+Jack Shack,200,North Indian,Amritsar,Ranjit Avenue,Quick Bites,"1pm to 1040pm(Mon-Sat),11pm to 1040pm(Sun)",Good,3.5,22
+Punjabi Tadka,400,North Indian,Amritsar,Ranjit Avenue,Quick Bites,9am to 10pm(Mon-Sun),Average,3.3,24
+Chapatti Wala,300,North Indian,Amritsar,Ranjit Avenue,Quick Bites,11am to 10pm(Mon-Sun),Poor,2.4,22
+Rudra Food Court,300,"Burger,South Indian,Fast Food,North Indian",Amritsar,GT Road,Quick Bites,11am to 9pm(Mon-Sun),Average,3.3,15
+Canadian Pizza,350,"Pizza,Fast Food",Amritsar,Hathi Gate,Quick Bites,1030am to 930pm(Mon-Sun),Average,3.3,26
+Mind Kaffe & Shakes,300,Beverages,Amritsar,White Avenue,Quick Bites,11am to 1030pm(Mon-Sun),Average,3.4,17
+The Pisa Pizza,400,"Fast Food,Pizza",Amritsar,Maquboolpura,Quick Bites,1230pm to 1030pm(Mon-Sun),Average,3.2,13
+Cakerz N Bakerz,350,"Bakery,Desserts",Amritsar,Hathi Gate,none,10am to 10pm(Mon-Sun),Average,3.3,21
+The Chocolate Room,300,"Continental,Burger,Fast Food,Desserts",Amritsar,Kabir Park,Quick Bites,11am to 9pm(Mon-Sun),Average,3.2,8
+The Pearl,600,North Indian,Amritsar,Ranjit Avenue,Casual Dining,10am to 10pm(Mon-Sun),Average,3.1,5
+Regal Restaurant,300,"Fast Food,South Indian",Amritsar,Mall Road,Quick Bites,10am to 10pm(Mon-Sun),Average,2.7,5
+Food junction,250,Fast Food,Amritsar,Ranjit Avenue,Quick Bites,10am to 1030pm(Mon-Sun),Average,3.2,19
+Bittu Meat Walla,400,North Indian,Amritsar,Ranjit Nagar,Quick Bites,11am to 530pm(Mon-Sun),Average,3.4,17
+Eat,500,"North Indian,Chinese",Amritsar,Hathi Gate,Casual Dining,11am to 1030pm(Mon-Sun),Average,3.1,6
+Maoh American Food,150,Continental,Amritsar,Town Hall,Quick Bites,12noon to 10pm(Mon-Sun),Average,3.2,8
+Italio,400,"Pizza,Italian",Amritsar,AplhaOne Mall-- GT Road,Quick Bites,(Mon-Sun),Average,3.2,11
+Zyka,700,"Chinese,North Indian,Coffee",Amritsar,Town Hall,Casual Dining,7am to 12midnight(Mon-Sun),Good,3.5,48
+Cafe Square,350,"Pizza,Fast Food",Amritsar,Lawrence Road,Quick Bites,10am to 10pm(Mon-Sun),Average,2.8,9
+Aay Kay Hotel,1000,"North Indian,Chinese,Continental",Amritsar,Rani Ka Bagh,Casual Dining,"1130am to 3pm,730pm to 1030pm(Mon-Sun)",Average,3.3,14
+Honey Hut,200,"Desserts,Ice Cream",Amritsar,AplhaOne Mall-- GT Road,Dessert Parlor,10am to 10pm(Mon-Sun),Average,3.1,11
+Charcoal 'N' Wudz,1100,North Indian,Amritsar,Ranjit Avenue,Casual Dining,1030am to 1230AM(Mon-Sun),Very Good,4.3,99
+Prohibition,300,"Italian,Continental",Amritsar,Ranjit Avenue,Quick Bites,"12noon to 12midnight(Mon),(Tue-Sun)",Average,3.3,20
+Chill out Restaurant,400,"Chinese,Italian",Amritsar,Mohan Nagar,Quick Bites,1230pm to 1030pm(Mon-Sun),Average,3.3,11
+King Chicken Corner,250,"North Indian,Mughlai",Amritsar,Ranjit Avenue,Quick Bites,3pm to 10pm(Mon-Sun),Average,3.2,9
+Om Snacks & Fastfood,300,Fast Food,Amritsar,Ranjit Avenue,Quick Bites,"Closed(Mon),4pm to 9pm(Tue-Sun)",Average,3.3,19
+Man Vs Food,350,"Italian,Fast Food",Amritsar,Shastri Nagar,Quick Bites,11am to 10pm(Mon-Sun),Average,2.9,13
+Giani Punjabi Lassi,100,Mithai,Amritsar,Hathi Gate,Sweet Shop,11am to 9pm(Mon-Sun),Average,3.2,9
+Ravi's Chicken Treat,400,North Indian,Amritsar,Ranjit Avenue,Quick Bites,"3pm to 1030pm(Mon,Wed,Thu,Fri,Sat,Sun)...",Average,3.1,9
+Bawarchi,400,North Indian,Amritsar,Ranjit Avenue,Quick Bites,130pm to 1030pm(Mon-Sun),Average,3.2,9
+Manu Kulcha,200,Street Food,Amritsar,Ranjit Avenue,Quick Bites,9am to 5pm(Mon-Sun),Average,3.2,4
+Arora Bakers,300,"Bakery,Desserts",Amritsar,Kabir Park,Bakery,9am to 9pm(Mon-Sun),Average,3.0,8
+Avtar Non Veg Dhaba,350,North Indian,Amritsar,Rani Ka Bagh,Dhaba,10am to 10pm(Mon-Sun),Average,2.9,17
+Italian Pizza,300,Italian,Amritsar,Maquboolpura,Quick Bites,12noon to 1030pm(Mon-Sun),Average,3.1,10
+New Janta Vaishno Dhaba,250,"North Indian,Fast Food",Amritsar,White Avenue,Dhaba,"10am to 5pm,7pm to 1030pm(Mon-Sun)",Average,3.0,7
+Baskin Robbins,300,Ice Cream,Amritsar,Trillium Mall-- White Avenue,Dessert Parlor,(Mon-Sun),Average,3.1,6
+Chaman Chicken Hut,1000,North Indian,Amritsar,Ranjit Avenue,Casual Dining,12noon to 10pm(Mon-Sun),Average,3.2,14
+Grover Bakers,200,Bakery,Amritsar,Mall Road,Bakery,10am to 915pm(Mon-Sun),Average,3.2,11
+Gill's Chick-inn,350,Mughlai,Amritsar,Ranjit Avenue,Quick Bites,(Mon-Sun),Average,2.7,12
+Republic of Chicken,400,"Raw Meats,Fast Food,Mughlai",Amritsar,Ranjit Avenue,Meat Shop,10am to 10pm(Mon-Sun),Average,2.6,11
+Tare Di Hatti,250,North Indian,Amritsar,Lawrence Road,Kiosk,1pm to 1015pm(Mon-Sun),Average,3.2,9
+Little Princess Treasures,400,"Bakery,Cafe,Desserts",Amritsar,Ranjit Avenue,Bakery,12noon to 8pm(Mon-Sun),Average,2.8,13
+Monga Bakers,200,Bakery,Amritsar,Basant Nagar,Bakery,1030am to 10pm(Mon-Sun),Average,3.3,11
+Chill N Food,300,"Fast Food,Beverages",Amritsar,Ranjit Avenue,Quick Bites,10am to 1030pm(Mon-Sun),Average,3.0,10
+Bemisaal Restaurant,1400,"Chinese,Indian,Italian",Amritsar,Ranjit Avenue,Casual Dining,"11am to 1130am(Mon,Wed,Thu,Fri,Sat,Sun)...",Average,3.0,5
+Ravis Chicken Treat,300,Fast Food,Amritsar,Town Hall,Quick Bites,12noon to 10pm(Mon-Sun),Average,2.9,6
+Ravis Chicken,400,"Fast Food,North Indian",Amritsar,Town Hall,Quick Bites,2pm to 1030pm(Mon-Sun),Average,2.9,6
+Formos,500,"North Indian,Chinese,Fast Food",Amritsar,Lawrence Road,Casual Dining,11am to 11pm(Mon-Sun),Good,3.9,77
+South Indian Dosa Wala,150,South Indian,Amritsar,INA Colony,Quick Bites,5pm to 9pm(Mon-Sun),Average,3.0,4
+Pappu Chicken Shop,400,"North Indian,Fast Food",Amritsar,Amritsar Cantonment,Quick Bites,1pm to 1030pm(Mon-Sun),Average,3.0,7
+Mama Meat Shop,300,Raw Meats,Amritsar,Ranjit Avenue,Meat Shop,130pm to 10pm(Mon-Sun),Average,3.0,4
+Pick n Move,600,North Indian,Amritsar,Lawrence Road,Quick Bites,11am to 1030pm(Mon-Sun),Average,2.7,7
+Hadippa,600,North Indian,Amritsar,Ranjit Avenue,Casual Dining,10am to 10pm(Mon-Sun),Average,2.8,5
+Bakers,200,Bakery,Amritsar,Ranjit Avenue,Bakery,7am to 9pm(Mon-Sun),Average,3.1,6
+Crystal - Takeaway,180,Chinese,Amritsar,INA Colony,Quick Bites,1pm to 11pm(Mon-Sun),Good,3.8,52
+Chaurasia Brothers,100,Juices,Amritsar,Rani Ka Bagh,Beverage Shop,10am to 9pm(Mon-Sun),Average,2.9,6
+Fresh And Tasty,300,"Fast Food,Chinese",Amritsar,Rani Ka Bagh,Quick Bites,11am to 10pm(Mon-Sun),Average,3.2,5
+Lookwell Bakers,300,Bakery,Amritsar,GT Road,Quick Bites,11am to 9pm(Mon-Sun),Average,3.0,4
+Canadian Cafe,500,"Italian,North Indian,Chinese,Continental",Amritsar,Ranjit Avenue,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,53
+The Frozen Factory,250,Ice Cream,Amritsar,Ranjit Avenue,Quick Bites,24,Good,3.9,104
+The Pizza Point,300,Pizza,Amritsar,Mohan Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,41
+Hungry Pizza,500,"Fast Food,Italian,Pizza",Amritsar,Rani Ka Bagh,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.0,294
+Cafe Chokolade,250,"Salad,Cafe,Healthy Food,Fast Food",Amritsar,Ranjit Avenue,Café,"11am to 1am(Mon-Thu),11am to 4am(Fri-Sun)",Very Good,4.0,303
+Janta Food,200,"North Indian,Street Food",Amritsar,INA Colony,Quick Bites,8am to 11pm(Mon-Sun),Very Good,4.1,187
+Subway,500,"Healthy Food,Sandwich,Salad",Amritsar,Lawrence Road,Quick Bites,9am to 1am(Mon-Sun),Very Good,4.1,413
+KFC,500,"Burger,Fast Food",Amritsar,White Avenue,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.2,404
+Annpurna Veg. Dhaba,400,North Indian,Amritsar,Basant Nagar,Quick Bites,"830am to 11pm(Mon),815am to 11pm(Tue-Sun)",Very Good,4.0,269
+Los Fiesta,600,"Italian,Chinese",Amritsar,Basant Nagar,Casual Dining,11am to 11pm(Mon-Sun),Good,3.9,252
+Anjan Mutton and Chicken Products,200,"Biryani,Chinese,Fast Food,North Indian,Burger",Amritsar,Azad Nagar,Quick Bites,930am to 11pm(Mon-Sun),Very Good,4.2,357
+Charming Chicken,600,North Indian,Amritsar,Basant Nagar,Quick Bites,"1pm to 11pm(Mon,Wed,Thu,Fri,Sat,Sun),Closed...",Very Good,4.4,573
+Bubby Fish & Chicken Corner,300,North Indian,Amritsar,INA Colony,Quick Bites,1230pm to 1130pm(Mon-Sun),Good,3.8,342
+Crystal Restaurant,800,"North Indian,Mughlai",Amritsar,INA Colony,Casual Dining,1130am to 12midnight(Mon-Sun),Very Good,4.0,304
+Burgrill,450,"Fast Food,Burger",Amritsar,Ranjit Avenue,Quick Bites,1230pm to 11pm(Mon-Sun),Very Good,4.2,261
+Muskaan,500,North Indian,Amritsar,Ranjit Avenue,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,364
+Zaika Family Restaurant,300,North Indian,Amritsar,GT Road,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.1,114
+Pappi Di Hatti Tandoori Magic,400,North Indian,Amritsar,White Avenue,Quick Bites,"11am to 12midnight(Mon),11am to 1115pm...",Very Good,4.1,231
+Talk Of The Town,500,"Chinese,Cafe,Continental,Fast Food,North Indian,Coffee,Desserts",Amritsar,Ranjit Avenue,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.0,47
+Amrit Dhaba Family Restaurant,300,"North Indian,Chinese",Amritsar,GNDU Area,Dhaba,11am to 11pm(Mon-Sun),Good,3.7,57
+Spicy Hut Vintage,500,"North Indian,Fast Food,Beverages",Amritsar,Ranjit Avenue,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,81
+Fit Fuel,400,"Healthy Food,North Indian",Amritsar,Ranjit Avenue,Quick Bites,8am to 11pm(Mon-Sun),Good,3.7,67
+Peshawari,300,"North Indian,Mughlai",Amritsar,Ranjit Avenue,Quick Bites,"11am to 11pm(Mon,Wed,Thu,Fri,Sat,Sun),Closed...",Good,3.6,93
+South Indian Madrasi Dosa Wala,500,South Indian,Amritsar,INA Colony,Quick Bites,12noon to 1130pm(Mon-Sun),Good,3.8,57
+Tasty Hut's Afghani Soya,400,North Indian,Amritsar,GT Road,Casual Dining,12noon to 11pm(Mon-Sun),Good,3.8,81
+The Cooling Pan,200,Ice Cream,Amritsar,Basant Nagar,Dessert Parlor,12noon to 11pm(Mon-Sun),Average,2.9,6
+Mom'z Restaurant & Cafe,600,"North Indian,Chinese,Continental",Amritsar,Lawrence Road,Casual Dining,12noon to 11pm(Mon-Sun),Average,3.3,94
+Mathura Chat,150,Street Food,Amritsar,Lawrence Road,Quick Bites,1030am to 1130pm(Mon-Sun),Average,3.3,71
+Cafe Oz Restaurant & Lounge Bar,1200,"North Indian,Chinese,Continental,Italian",Amritsar,Ranjit Avenue,Casual Dining,"1130am to 1130pm(Mon-Fri),1130am to 130am...",Average,3.4,78
+The Snack Juction,400,"Chinese,North Indian",Amritsar,Mohan Nagar,Casual Dining,9am to 11pm(Mon-Sun),Good,3.8,101
+Fun Tym Pizzaria,300,"Pizza,Fast Food,Beverages",Amritsar,Lawrence Road,Quick Bites,11am to 11pm(Mon-Sun),Average,2.8,54
+The Floreans,700,"Cafe,Chinese,Continental,North Indian,Italian",Amritsar,Ranjit Avenue,Café,11am to 11pm(Mon-Sun),Average,3.4,77
+Inderpuri Foods,300,North Indian,Amritsar,INA Colony,Quick Bites,"9am to 1130pm(Mon,Tue,Wed,Thu,Fri,Sun),9am...",Good,3.7,80
+KFK Bar-B-Que Fish-N-Chips,500,North Indian,Amritsar,White Avenue,Casual Dining,1230pm to 11pm(Mon-Sun),Good,3.8,56
+Crystal Restaurant Plaza,500,"Mughlai,Continental,Chinese,Italian",Amritsar,INA Colony,Casual Dining,1130am to 12midnight(Mon-Sun),Good,3.6,50
+Ultra Punjabi,300,"North Indian,Chinese,Italian,Continental",Amritsar,GT Road,Quick Bites,9am to 11pm(Mon-Sun),Good,3.5,20
+The Shakes Hub,400,"South Indian,Fast Food,Pizza,Desserts,Beverages",Amritsar,GNDU Area,Beverage Shop,9am to 11pm(Mon-Sun),Good,3.7,42
+Like Italy,500,Italian,Amritsar,AplhaOne Mall-- GT Road,Casual Dining,10am to 11pm(Mon-Sun),Good,3.6,34
+Bombay Pav Bhaji & Bhel Puri,200,Street Food,Amritsar,INA Colony,Quick Bites,3pm to 11pm(Mon-Sun),Good,3.5,44
+Sip 'n' Bite,400,Fast Food,Amritsar,Ranjit Avenue,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,61
+Shake Up,350,"Beverages,Fast Food",Amritsar,Rani Ka Bagh,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,40
+Gautam Food Corner,500,North Indian,Amritsar,Ranjit Avenue,Casual Dining,7am to 11pm(Mon-Sun),Good,3.5,43
+DOMO,150,"Chinese,Momos,South Indian",Amritsar,Mall Road,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.3,79
+Roast N Toast,400,"Cafe,Thai,Lebanese,Italian",Amritsar,Ranjit Avenue,Café,8am to 11pm(Mon-Sun),Good,3.7,64
+Spicy Hut,450,"North Indian,Fast Food",Amritsar,Shakti Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,36
+New Sunny Chicken Corner,300,North Indian,Amritsar,Ranjit Avenue,Quick Bites,2pm to 1130pm(Mon-Sun),Good,3.6,51
+Subhash Juice Bar and Fast Food,200,"Juices,Street Food",Amritsar,Ranjit Avenue,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,37
+Bon's Adda,400,Fast Food,Amritsar,Ranjit Avenue,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,60
+Just Mughlai,300,"Biryani,Hyderabadi,Lucknowi,North Indian,Mughlai",Amritsar,Ranjit Avenue,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,37
+Dinein 181,900,"North Indian,Fast Food",Amritsar,Rani Ka Bagh,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,46
+Ravindra's Dhaba,300,"North Indian,Chinese",Amritsar,Mohan Nagar,Dhaba,11am to 11pm(Mon-Sun),Average,3.4,35
+Wah Ji Wah,200,North Indian,Amritsar,Town Hall,Quick Bites,4pm to 11pm(Mon-Sun),Good,3.5,26
+Moti Mahal Premier - Golden Tulip,1000,"North Indian,Chinese,Mughlai",Amritsar,Golden Tulip-- Rani Ka Bagh,Casual Dining,11am to 11pm(Mon-Sun),Good,3.9,45
+The Chocolate Room,200,Cafe,Amritsar,Ranjit Avenue,Café,1030am to 1230AM(Mon-Sun),Good,3.6,63
+The Amritsar Haveli,400,"Salad,Chinese,Cafe,Sandwich,Fast Food,North Indian,Desserts",Amritsar,Town Hall,Quick Bites,6am to 1130pm(Mon-Sun),Average,3.3,17
+Oka Open Kitchen At Astoria,1000,North Indian,Amritsar,Ranjit Avenue,Casual Dining,12noon to 11pm(Mon-Sun),Good,3.8,52
+Lets Chai,500,"Fast Food,Beverages,North Indian",Amritsar,Ranjit Avenue,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.6,42
+Irish Beach,1200,"Continental,Italian",Amritsar,Mall Road,Club,12noon to 1130pm(Mon-Sun),Good,3.5,42
+The Khansama,500,"North Indian,Chinese",Amritsar,Ranjit Avenue,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,17
+Baskin Robbins,300,Ice Cream,Amritsar,Ranjit Avenue,Dessert Parlor,10am to 12midnight(Mon-Sun),Good,3.7,26
+Abhi's Kitchen Club,500,"North Indian,Chinese",Amritsar,Mohan Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,42
+La Chef,350,"North Indian,Mughlai",Amritsar,White Avenue,Quick Bites,10am to 11pm(Mon-Sun),Average,3.4,40
+Spice - Country Inn & Suites,1200,"North Indian,Mughlai",Amritsar,Country Inn & Suites-- INA Colony,Fine Dining,"730am to 1030am,1230pm to 330pm,7pm to 11pm...",Average,3.4,31
+Mirch Masala Punjabi Dhaba,200,"North Indian,South Indian",Amritsar,Town Hall,Quick Bites,9am to 11pm(Mon-Sun),Average,3.4,13
+Giani,200,"Ice Cream,Desserts",Amritsar,Lawrence Road,Quick Bites,11am to 1230AM(Mon-Sun),Good,3.5,33
+My Food Hub Kulcha Point,100,North Indian,Amritsar,Basant Nagar,Quick Bites,930am to 11pm(Mon-Sun),Average,3.2,26
+Flavours,500,"Chinese,Continental,Fast Food,North Indian",Amritsar,Ranjit Avenue,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,34
+Make My Shake,300,Beverages,Amritsar,Rani Ka Bagh,Beverage Shop,11am to 11pm(Mon-Sun),Average,3.4,41
+The Red Restro,600,"North Indian,Mughlai",Amritsar,Town Hall,Casual Dining,7am to 12midnight(Mon-Sun),Average,3.0,20
+Aurah,1200,"Thai,Chinese",Amritsar,Ranjit Avenue,Casual Dining,11am to 11pm(Mon-Sun),Good,3.7,45
+Barcode,700,North Indian,Amritsar,Basant Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,45
+Cafe Crown Pizza,400,"Italian,Beverages",Amritsar,Hathi Gate,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,41
+Food Hut,300,North Indian,Amritsar,Ranjit Avenue,Quick Bites,10am to 11pm(Mon-Sun),Good,3.5,38
+Grab N Go!,250,"Chinese,South Indian",Amritsar,Ranjit Avenue,Quick Bites,2pm to 11pm(Mon-Sun),Good,3.6,43
+Biryani House,500,Biryani,Amritsar,Ranjit Avenue,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,43
+Kumar Fast Food,600,North Indian,Amritsar,White Avenue,Quick Bites,3pm to 11pm(Mon-Sun),Good,3.5,51
+Chajju Da Dhaba,400,North Indian,Amritsar,Lawrence Road,Dhaba,"11am to 11pm(Mon,Wed,Thu,Fri,Sat,Sun),Closed...",Good,3.6,38
+Inderjit Pehalwan Da Dhaba,500,North Indian,Amritsar,Amritsar Junction,Quick Bites,10am to 1am(Mon-Sun),Good,3.9,50
+Krishna Restaurant,700,"North Indian,Chinese,Continental",Amritsar,Rani Ka Bagh,Casual Dining,10am to 1130pm(Mon-Sun),Good,3.5,35
+Chand Dhaba,300,North Indian,Amritsar,Town Hall,Quick Bites,2pm to 11pm(Mon-Sun),Average,3.4,27
+Lezzetli,200,Desserts,Amritsar,Basant Nagar,Dessert Parlor,11am to 11pm(Mon-Sun),Average,3.2,21
+Omega +,300,North Indian,Amritsar,Basant Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,14
+Hotel HK Continental,400,"North Indian,Chinese,Desserts",Amritsar,GT Road,Casual Dining,8am to 11pm(Mon-Sun),Average,3.1,14
+Ac Chicken And Restaurant,400,North Indian,Amritsar,Hathi Gate,Casual Dining,11am to 1130pm(Mon-Sun),Average,3.3,12
+Sanjay's Real Cheese,300,North Indian,Amritsar,Lawrence Road,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,34
+Basant La Patisserie,300,Bakery,Amritsar,Ranjit Avenue,Bakery,8am to 11pm(Mon-Sun),Good,3.5,25
+The Foodhouse Bistro,400,Fast Food,Amritsar,GT Road,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.6,33
+Chicken Brewery,650,North Indian,Amritsar,Ranjit Avenue,Quick Bites,2pm to 11pm(Mon-Sun),Good,3.6,21
+Zaika-Highland Inn,600,"North Indian,Chinese",Amritsar,INA Colony,Casual Dining,8am to 12midnight(Mon-Sun),Good,3.5,24
+The Brew Kitchen,600,"Arabian,Continental",Amritsar,Ranjit Avenue,Casual Dining,11am to 12midnight(Mon-Sun),Good,3.9,23
+K Nine Restaurant,700,"Italian,North Indian,South Indian,Chinese",Amritsar,INA Colony,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,18
+Shaina Diner,600,"North Indian,Chinese",Amritsar,Hathi Gate,Quick Bites,1pm to 1130pm(Mon-Sun),Average,2.6,17
+Havmor,250,Ice Cream,Amritsar,Ranjit Avenue,Quick Bites,12noon to 12midnight(Mon-Sun),Good,3.5,25
+Swagat Kitchen,600,North Indian,Amritsar,Ranjit Avenue,Casual Dining,12noon to 11pm(Mon-Sun),Average,3.4,33
+Asian Chicken Corner,350,North Indian,Amritsar,Basant Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,49
+Salt n Pepper,300,"North Indian,Italian",Amritsar,Ranjit Avenue,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,31
+Marwari dhaba,500,"Rajasthani,Bengali,Gujarati,North Indian",Amritsar,Town Hall,Quick Bites,10am to 11pm(Mon-Sun),Average,3.3,8
+D.S. Dhaba,200,Street Food,Amritsar,Basant Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,13
+Fouji Dhaba,300,North Indian,Amritsar,GT Road,Quick Bites,10am to 11pm(Mon-Sun),Average,3.2,8
+Purple Rice,1500,Asian,Amritsar,Ranjit Avenue,Casual Dining,11am to 12midnight(Mon-Sun),Average,3.4,26
+Mahajan Chicken House,400,"North Indian,Mughlai",Amritsar,Basant Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,15
+City Junction Food Point,400,"Chinese,North Indian",Amritsar,GT Road,Casual Dining,830am to 11pm(Mon-Sun),Good,3.5,29
+Raja Chicken House,500,"North Indian,Raw Meats",Amritsar,INA Colony,Quick Bites,9am to 11pm(Mon-Sun),Good,3.7,34
+New Munim Di Hatti,400,North Indian,Amritsar,Lawrence Road,Quick Bites,6am to 11pm(Mon-Sun),Good,3.5,17
+Cafe Coffee Day,500,Cafe,Amritsar,Ranjit Avenue,Café,9am to 11pm(Mon-Sun),Good,3.5,28
+Speziato,900,"Chinese,Continental,North Indian,Beverages",Amritsar,Ranjit Avenue,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,29
+3D FoodZ,600,North Indian,Amritsar,Lawrence Road,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,26
+Bombay Special Burger & Soup,100,Burger,Amritsar,INA Colony,Quick Bites,4pm to 11pm(Mon-Sun),Average,3.3,15
+Shaan E Awadh,500,"Mughlai,North Indian,Chinese",Amritsar,Ranjit Avenue,Casual Dining,12noon to 11pm(Mon-Sun),Average,3.4,29
+Bell- A-Sia - Holiday Inn,2000,Italian,Amritsar,Holiday Inn-- Ranjit Avenue,Casual Dining,1230pm to 12midnight(Mon-Sun),Good,3.6,30
+Peakking Hut,400,"North Indian,Chinese",Amritsar,INA Colony,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,22
+Golden Fresh Foods,500,North Indian,Amritsar,Town Hall,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,23
+Tandoori Hub - Hotel Swarn House,600,"Chinese,Continental,Fast Food,North Indian",Amritsar,Azad Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,11
+Cruiser 8,350,North Indian,Amritsar,Hathi Gate,Casual Dining,10am to 1130pm(Mon-Sun),Good,3.5,37
+Beliram Mutton & Galouti Kebab,400,"North Indian,Kebab",Amritsar,Ranjit Avenue,Quick Bites,2pm to 11pm(Mon-Sun),Average,3.4,23
+Old Kundan Dhaba,300,North Indian,Amritsar,Amritsar Junction,Quick Bites,11am to 11pm(Mon-Sun),Average,2.6,22
+Brew Bakers,350,"Bakery,Sandwich,Burger",Amritsar,Ranjit Avenue,Bakery,9am to 11pm(Mon-Sun),Average,2.9,4
+Vinayak Veg Champ,200,"South Indian,Chinese",Amritsar,Basant Nagar,none,"4pm to 11pm(Mon,Fri,Sat),41pm to 11pm(Tue...",Average,2.8,9
+The European Knights,800,"Italian,Biryani",Amritsar,Ranjit Avenue,Casual Dining,9am to 12midnight(Mon-Sun),Good,3.5,24
+Yipple,300,"Ice Cream,Desserts",Amritsar,Lawrence Road,Dessert Parlor,10am to 11pm(Mon-Sun),Average,3.3,7
+Kaka Ram Sweets,200,Mithai,Amritsar,Town Hall,Sweet Shop,11am to 11pm(Mon-Sun),Average,3.1,7
+A R Foods,100,Fast Food,Amritsar,Ranjit Avenue,none,11am to 11pm(Mon-Sun),Average,3.1,9
+Apni Punjabi Rasoi,600,North Indian,Amritsar,Trillium Mall-- White Avenue,Casual Dining,10am to 11pm(Mon-Sun),Average,3.4,19
+Dream Paan Shop,100,"Paan,Beverages",Amritsar,Ranjit Avenue,Paan Shop,10am to 1130pm(Mon-Sun),Good,3.5,19
+Chai Time,400,"Tea,Fast Food,Chinese,North Indian",Amritsar,White Avenue,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,15
+Hi Que Restro & Tea House,900,"Chinese,North Indian",Amritsar,Ranjit Avenue,Casual Dining,1130am to 1130pm(Mon-Sun),Good,3.5,22
+Burger Bite,200,"Fast Food,Burger",Amritsar,GT Road,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,7
+Bobby Meat Shop,300,North Indian,Amritsar,Ranjit Avenue,Quick Bites,2pm to 11pm(Mon-Sun),Average,3.0,24
+Neenoo's Classic Chicken Corner,400,North Indian,Amritsar,White Avenue,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,14
+Barrels Brew Pub,800,"North Indian,Continental,Chinese,Mexican",Amritsar,AplhaOne Mall-- GT Road,Microbrewery,11am to 12midnight(Mon-Sun),Poor,2.4,19
+Metro - Humble Hotels,1000,"North Indian,Chinese,Continental",Amritsar,Lawrence Road,Casual Dining,"7am to 1030am,11am to 330pm,730pm to 1130pm...",Average,3.4,11
+Selfie Korner,350,"Fast Food,Beverages",Amritsar,Rani Ka Bagh,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,13
+BAPU DI RASOI,350,North Indian,Amritsar,Ranjit Avenue,Quick Bites,12noon to 11pm(Mon-Sun),Average,2.8,6
+Palli Chicken,400,North Indian,Amritsar,Ranjit Avenue,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.6,25
+JD Buffeteria,300,North Indian,Amritsar,INA Colony,Quick Bites,11am to 11pm(Mon-Sun),Average,2.6,13
+Tadka Amritsari,400,"North Indian,Chinese",Amritsar,Ranjit Avenue,Quick Bites,1pm to 11pm(Mon-Sun),Average,3.2,23
+Rosies Cafe,600,"Cafe,Fast Food,Steak,Burger,Pizza,Beverages",Amritsar,Ranjit Avenue,Café,11am to 11pm(Mon-Sun),Average,3.3,11
+Lahori's Shakes and Meal,300,"Beverages,Fast Food,Continental,Chinese",Amritsar,Rani Ka Bagh,Beverage Shop,10am to 11pm(Mon-Sun),Average,3.4,22
+Boxeo- bar and Lounge,800,"Italian,Chinese,North Indian",Amritsar,Mall Road,Lounge,10am to 12midnight(Mon-Sun),Average,3.4,12
+Puni Lal Pan And Aam Papad Shop,100,Paan,Amritsar,Lawrence Road,Paan Shop,11am to 11pm(Mon-Sun),Average,3.3,10
+Mothers Zayka,400,"North Indian,Chinese",Amritsar,Kabir Park,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,16
+Sat Da Dhaba,500,North Indian,Amritsar,GT Road,Dhaba,9am to 11pm(Mon-Sun),Average,3.3,11
+Dishoom lounge,800,"Chinese,Continental,Indian,North Indian",Amritsar,Ranjit Avenue,Lounge,1215pm to 11pm(Mon-Sun),Average,3.1,11
+Pizza King,450,"Fast Food,Pizza",Amritsar,Basant Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,16
+Taal Restaurant,500,"North Indian,Chinese",Amritsar,Ranjit Avenue,Quick Bites,"1230pm to 330pm,7pm to 1130pm(Mon-Sun)",Average,2.8,13
+The Yellow Chilli,1200,"North Indian,Mughlai,Chinese",Amritsar,Ranjit Avenue,Casual Dining,11am to 1130pm(Mon-Sun),Good,3.7,237
+Surjit Food Plaza,1000,North Indian,Amritsar,Lawrence Road,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.0,223
+Eldorado,700,"North Indian,Mexican,Chinese",Amritsar,Ranjit Avenue,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.0,280
+Sip N Brew Premium,400,"Cafe,Italian",Amritsar,Rani Ka Bagh,Café,11am to 11pm(Mon-Sun),Good,3.8,175
+Glass House Amritsar,800,"North Indian,Chinese,Continental",Amritsar,Mall Road,Casual Dining,1pm to 12midnight(Mon-Sun),Good,3.9,181
+McDonald's,500,"Burger,Fast Food",Amritsar,The Celebration Mall-- Basant Nagar,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.0,257
+Pizza Italia,600,"Italian,Pizza",Amritsar,Lawrence Road,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.1,264
+Baba Chicken,800,North Indian,Amritsar,Lawrence Road,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.1,241
+Reiki Foods,150,North Indian,Amritsar,GNDU Area,Quick Bites,7am to 11pm(Mon-Sun),Good,3.9,144
+Bombay Pav Bhaji and Bhel Puri,200,"Street Food,Maharashtrian,South Indian,Pizza,Chinese",Amritsar,GNDU Area,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,161
+Brothers Dhaba,300,North Indian,Amritsar,Amritsar Cantonment,Quick Bites,9am to 11pm(Mon-Sun),Very Good,4.0,128
+Beera Chicken House,500,North Indian,Amritsar,Basant Nagar,Quick Bites,12noon to 10pm(Mon-Sun),Very Good,4.3,878
+House of Shakes,400,"Beverages,Fast Food",Amritsar,White Avenue,Beverage Shop,12noon to 11pm(Mon-Sun),Very Good,4.0,120
+The Brothers,600,"North Indian,Chinese",Amritsar,Basant Nagar,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.1,154
+Poornima Chinese Food,150,"Chinese,Fast Food",Amritsar,INA Colony,Quick Bites,4pm to 1130pm(Mon-Sun),Very Good,4.2,140
+The London Club,1000,"North Indian,Finger Food",Amritsar,GT Road,Lounge,11am to 12midnight(Mon-Sun),Average,3.1,13
+Publik,400,"Italian,Mexican,Chinese",Amritsar,Ranjit Avenue,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,7
+A One Snacks Corner,600,North Indian,Amritsar,Ranjit Avenue,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,13
+Vehra,800,North Indian,Amritsar,Lawrence Road,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,12
+Orchid Restaurant - Hotel Shiraz,700,"North Indian,Chinese,Thai,Continental",Amritsar,INA Colony,Casual Dining,11am to 11pm(Mon-Sun),Average,3.0,4
+New Friends Dhaba,200,North Indian,Amritsar,Town Hall,Quick Bites,9am to 11pm(Mon-Sun),Average,2.9,8
+Selfiechino,300,"Fast Food,Burger,Sandwich,Wraps,Chinese",Amritsar,Lawrence Road,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,8
+Athens grill,400,"North Indian,Chinese,Continental",Amritsar,Mohan Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,11
+Lucky Dhaba,400,North Indian,Amritsar,Town Hall,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,6
+The Hungry Bite,200,Fast Food,Amritsar,Ranjit Avenue,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,5
+Subhash Foods & Juice Bar,300,"North Indian,Chinese,Italian",Amritsar,Ranjit Avenue,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,11
+Fuze Plus,400,"North Indian,Chinese,Bar Food",Amritsar,GNDU Area,Lounge,11am to 11pm(Mon-Sun),Average,3.1,8
+Sonu Chicken Corner,300,North Indian,Amritsar,Ranjit Avenue,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,4
+Amar Fish,350,Mughlai,Amritsar,Ranjit Avenue,Quick Bites,5pm to 11pm(Mon-Sun),Average,3.2,11
+La Pinoz Pizza,250,Pizza,Amritsar,GT Road,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,11
+Punjabi Essence Pure Veg Dhabha,200,North Indian,Amritsar,White Avenue,Dhaba,12noon to 11pm(Mon-Sun),Average,2.8,6
+Desi English Kitchen,1400,"North Indian,Lebanese,Asian,Italian",Amritsar,Lawrence Road,Lounge,12noon to 1130pm(Mon-Sun),Average,3.2,8
+Nanda's Hotel And Restaurant,1000,"North Indian,Chinese",Amritsar,Mohan Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,8
+Tibbs Frankie,300,Mughlai,Amritsar,Ranjit Avenue,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,12
+Tasty Bite,300,"North Indian,Chinese,Fast Food",Amritsar,Town Hall,Quick Bites,"10am to 12noon(Mon),12noon to 12midnight(Tue-Sun)",Average,3.0,8
+China Town Chennai Express,450,"South Indian,Chinese",Amritsar,Trillium Mall-- White Avenue,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,8
+pisa pizza,400,Pizza,Amritsar,INA Colony,Quick Bites,11am to 1130pm(Mon-Sun),Average,2.6,13
+The Brew Beer Cafe,500,"Continental,Chinese",Amritsar,Ranjit Avenue,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,9
+Brothers Chicken Corner,350,Fast Food,Amritsar,Ranjit Avenue,Quick Bites,"6pm to 11pm(Mon,Tue,Wed,Fri,Sat,Sun),Closed...",Average,3.3,12
+Ees Ell Restaurant,300,North Indian,Amritsar,Shastri Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,10
+Aroma Multicuisine Restaurant,500,"North Indian,Chinese",Amritsar,GT Road,Casual Dining,1130am to 11pm(Mon-Sun),Average,2.9,7
+Tandoori Flames,300,"North Indian,Chinese",Amritsar,Town Hall,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,10
+Shree Ganpati Veg Champ and Fruit Cream,250,North Indian,Amritsar,White Avenue,Quick Bites,4pm to 11pm(Mon-Sun),Average,3.2,10
+Fire N Ice Restaurant,400,"North Indian,Chinese,Fast Food",Amritsar,Ranjit Avenue,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,4
+Hi-Que Express,300,"North Indian,Chinese",Amritsar,Lawrence Road,Quick Bites,"12midnight to 1am,1pm to 12midnight(Mon,Wed...",Average,3.1,6
+Simar Spicy Food,400,"North Indian,Chinese,Fast Food",Amritsar,Mohan Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,2.8,11
+Sheetal Again,1200,"North Indian,Chinese",Amritsar,Basant Nagar,Lounge,1130am to 12midnight(Mon-Sun),Average,2.9,6
+Caffeine - Golden Tulip,700,"Cafe,Desserts",Amritsar,Golden Tulip-- Rani Ka Bagh,Casual Dining,24,Average,2.7,5
+Giani's,300,"Desserts,Ice Cream,Beverages",Amritsar,AplhaOne Mall-- GT Road,Dessert Parlor,11am to 12midnight(Mon-Sun),Average,3.2,7
+Comfort Inn Alstonia,500,North Indian,Amritsar,Ranjit Avenue,Casual Dining,11am to 11pm(Mon-Sun),Average,2.9,4
+Bombay Special Pani Puri Corner,100,Street Food,Amritsar,Lawrence Road,Quick Bites,4pm to 11pm(Mon-Sun),Média,3.2,8
+@Tenki,800,"North Indian,Continental,Chinese,Italian",Amritsar,Ranjit Avenue,Casual Dining,4pm to 12midnight(Mon-Sun),Average,2.7,7
+Foodmania,300,"Fast Food,Chinese",Amritsar,Ranjit Avenue,Quick Bites,1pm to 11pm(Mon-Sun),Average,3.0,7
+Brother Chicken Corner,500,"North Indian,Chinese,Indian",Amritsar,Ranjit Avenue,Casual Dining,12noon to 11pm(Mon-Sun),Average,2.7,7
+Popular Restaurant,300,North Indian,Amritsar,GT Road,Quick Bites,11am to 11pm(Mon-Sun),Average,2.8,4
+JS Makhan Fish & Chicken,500,"North Indian,Seafood",Amritsar,Hathi Gate,Quick Bites,11am to 11pm(Mon-Sun),Average,2.9,6
+Lazeez Foods,300,"North Indian,Mughlai",Amritsar,Ranjit Avenue,Quick Bites,1130am to 11pm(Mon-Sun),Average,3.0,7
+Arora's Food,400,"North Indian,Mughlai,Fast Food",Amritsar,Rani Ka Bagh,Quick Bites,24,Average,3.1,5
+Narang Oven Foods & Desserts,400,North Indian,Amritsar,GT Road,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,5
+Mr. Burger Hut,250,"Burger,Beverages",Amritsar,Ranjit Avenue,Quick Bites,11am to 11pm(Mon-Sun),Average,2.8,4
+Hotel Raj Darbar,500,"North Indian,South Indian,Chinese",Amritsar,Town Hall,Casual Dining,8am to 11pm(Mon-Sun),Average,3.1,5
+Rotiwala,500,North Indian,Amritsar,Ranjit Avenue,Casual Dining,12noon to 11pm(Mon-Sun),Average,2.7,4
+Pakeeza Dhaba,300,North Indian,Amritsar,Town Hall,Dhaba,10am to 11pm(Mon-Sun),Average,2.9,4
+The Streets Cafe,350,Fast Food,Amritsar,Ranjit Nagar,Quick Bites,9am to 11pm(Mon-Sun),Average,3.0,4
+EatAsia Food,700,"North Indian,South Indian,Chinese,Juices",Amritsar,Ranjit Avenue,Quick Bites,11am to 1130pm(Mon-Sun),Very Good,4.0,139
+Novelty Sweets,150,Mithai,Amritsar,Lawrence Road,Sweet Shop,8am to 12noon(Mon-Sun),Very Good,4.2,349
+Makhan Fish & Chicken Hut,800,"North Indian,Chinese",Amritsar,White Avenue,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,125
+The Kulcha Land,200,"North Indian,Street Food",Amritsar,Ranjit Avenue,Quick Bites,9am to 5pm(Mon-Sun),Excellent,4.5,812
+Lovely Champ,500,"North Indian,South Indian",Amritsar,Mohan Nagar,Quick Bites,9am to 11pm(Mon-Sun),Good,3.5,135
+Subhash Juice Bar & Restaurant,400,"North Indian,Italian,South Indian,Fast Food,Juices,Chinese",Amritsar,Hathi Gate,Casual Dining,10am to 11pm(Mon-Sun),Good,3.8,137
+Food Bowl,500,"Chinese,Continental,North Indian",Amritsar,Kabir Park,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.0,135
+Lovely Dhaba,500,"Chinese,North Indian",Amritsar,Ranjit Avenue,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,130
+Kanha Sweets,150,Fast Food,Amritsar,Lawrence Road,Quick Bites,8am to 10pm(Mon-Sun),Excellent,4.7,452
+Lovely Kulcha Land and champ,400,North Indian,Amritsar,Hathi Gate,Quick Bites,9am to 11pm(Mon-Sun),Very Good,4.0,98
+Gauri Shankar & Sons,300,North Indian,Amritsar,INA Colony,Dhaba,11am to 11pm(Mon-Sun),Good,3.8,105
+El Nido Cafe & Lounge,300,"Chinese,Cafe,Continental,Fast Food,Italian",Amritsar,Ranjit Avenue,Café,1030am to 11pm(Mon-Sun),Good,3.8,139
+Bukhaaraa,500,"North Indian,Mughlai",Amritsar,Ranjit Avenue,Casual Dining,1pm to 1130pm(Mon-Sun),Good,3.9,186
+Keventers,400,"Beverages,Ice Cream,Desserts",Amritsar,Lawrence Road,Beverage Shop,10am to 1230AM(Mon-Sun),Very Good,4.3,164
+Brijwasi Chat Bhandar,150,Street Food,Amritsar,INA Colony,Quick Bites,11am to 8pm(Mon-Sun),Very Good,4.1,390
+Sip n Bite,400,Fast Food,Amritsar,Lawrence Road,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,105
+Pizza Italia,500,Italian,Amritsar,Ranjit Avenue,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.0,166
+Pizza Hut,700,"Italian,Pizza",Amritsar,Trillium Mall-- White Avenue,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,160
+Bariesto,600,"Bakery,Chinese,Cafe,Continental,Italian",Amritsar,Ranjit Avenue,Café,10am to 11pm(Mon-Sun),Good,3.5,148
+Biryani Brews,300,"Biryani,North Indian",Amritsar,Ranjit Avenue,Quick Bites,(Mon-Sun),Good,3.6,364
+Neenoo's Bar-B-Que Fish-N-Chips,800,Finger Food,Amritsar,White Avenue,Casual Dining,1230pm to 11pm(Mon-Sun),Very Good,4.2,127
+Friends Dhaba,400,North Indian,Amritsar,INA Colony,Quick Bites,12noon to 12midnight(Mon-Sun),Average,2.8,124
+Bharawan Da Dhaba,500,"Fast Food,North Indian,Mughlai",Amritsar,Ranjit Avenue,Quick Bites,930am to 1130pm(Mon-Sun),Good,3.7,116
+Durga's,200,"Ice Cream,Desserts",Amritsar,Lawrence Road,Dessert Parlor,10am to 12midnight(Mon-Sun),Good,3.9,86
+Ahuja Milk Bhandar,150,Beverages,Amritsar,Hathi Gate,Beverage Shop,9am to 9pm(Mon-Sun),Excellent,4.5,184
+New Wah ji Wah Champ,300,Fast Food,Amritsar,Lawrence Road,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,130
+Kobe Sizzlers,1000,"American,Asian,Chinese,Cafe,Continental,Mughlai",Amritsar,Ranjit Avenue,Casual Dining,11am to 11pm(Mon-Sun),Good,3.8,142
+Burger Hut,400,"Burger,Beverages",Amritsar,Ranjit Avenue,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,168
+Pritam Dhaba,250,North Indian,Amritsar,INA Colony,Dhaba,8am to 1130pm(Mon-Sun),Good,3.8,75
+Umang Vaishno Bhojan Bhandar,300,North Indian,Amritsar,Lawrence Road,Quick Bites,830am to 11pm(Mon-Sun),Very Good,4.2,114
+Bansal Sweets,150,"Fast Food,Mithai",Amritsar,Lawrence Road,Sweet Shop,8am to 930pm(Mon-Sun),Very Good,4.0,168
+Rolls Mania,250,"Rolls,Fast Food",Amritsar,Lawrence Road,Quick Bites,(Mon-Sun),Very Good,4.1,161
+Taste Of Punjab,500,"Chinese,Sandwich,North Indian,Wraps",Amritsar,GT Road,Casual Dining,12noon to 1130pm(Mon-Sun),Good,3.5,46
+Swagtam Dhaba,250,North Indian,Amritsar,Town Hall,Dhaba,9am to 430pm(Mon-Sun),Good,3.8,79
+Chawlas 2,600,North Indian,Amritsar,Lawrence Road,Casual Dining,11am to 11pm(Mon-Sun),Good,3.9,127
+Hoppers,400,"Cafe,Continental,Italian",Amritsar,Kabir Park,Café,1030am to 1030pm(Mon-Sun),Very Good,4.1,221
+Apna Chulla Dhaba,600,"Burger,North Indian,Chinese,Coffee",Amritsar,GT Road,Quick Bites,"8am to 1130pm(Mon-Fri),8am to 12midnight(Sat-Sun)",Average,2.9,73
+Bakes & Beans,1200,"Italian,Cafe",Amritsar,Ranjit Avenue,Casual Dining,11am to 1030pm(Mon-Sun),Very Good,4.2,150
+Abhishek Chinese Corner,300,"Chinese,North Indian,Fast Food",Amritsar,Ranjit Avenue,Casual Dining,2pm to 1030pm(Mon-Sun),Good,3.9,235
+Astoria Food Pavilion,1000,"North Indian,Italian,Fast Food",Amritsar,Ranjit Avenue,Casual Dining,"12noon to 11pm(Mon-Fri),12noon to 7pm(Sat-Sun)",Very Good,4.1,122
+The BrewMaster,1400,"North Indian,Chinese,Italian,Continental",Amritsar,Ranjit Avenue,Lounge,12noon to 12midnight(Mon-Sun),Very Good,4.0,89
+Annpurna Kulcha,100,Street Food,Amritsar,Lawrence Road,Quick Bites,9am to 9pm(Mon-Sun),Good,3.5,124
+Aamantran,300,North Indian,Amritsar,Basant Nagar,Casual Dining,"12noon to 5pm,7pm to 1045pm(Mon-Sun)",Good,3.8,121
+The Belgian Waffle Co.,400,Ice Cream,Amritsar,Ranjit Avenue,Quick Bites,10am to 12midnight(Mon-Sun),Very Good,4.1,113
+Adarsh Meat Shop,150,North Indian,Amritsar,Ranjit Avenue,Quick Bites,12noon to 12midnight(Mon-Sun),Good,3.8,102
+Punjab Dhaba,900,"North Indian,Mughlai,Chinese",Amritsar,Town Hall,Dhaba,11am to 1am(Mon-Sun),Good,3.9,121
+Monu Kulcha Hut,300,Street Food,Amritsar,Ranjit Avenue,Quick Bites,9am to 4pm(Mon-Sun),Very Good,4.2,154
+Gian Di Lassi,150,"Beverages,Mithai",Amritsar,Hathi Gate,Beverage Shop,9am to 9pm(Mon-Sun),Very Good,4.4,116
+Blues Bakers,600,"Bakery,Desserts,Fast Food",Amritsar,Ranjit Avenue,Bakery,10am to 10pm(Mon-Sun),Good,3.6,148
+Monu Kulcha Hut,200,North Indian,Amritsar,Rani Ka Bagh,none,9am to 5pm(Mon-Sun),Good,3.9,167
+Rajasthani Chat Bhandar,200,Street Food,Amritsar,Town Hall,Quick Bites,4pm to 10pm(Mon-Sun),Very Good,4.1,110
+Sandella's Cafe,700,"Italian,Mexican,Continental,North Indian,Chinese",Amritsar,Ranjit Avenue,Casual Dining,11am to 11pm(Mon-Sun),Good,3.9,107
+Divine Chocolate Factory,800,"Bakery,Cafe,Desserts",Amritsar,Ranjit Avenue,Café,1130am to 930pm(Mon-Sun),Good,3.9,132
+Grill Inn,500,"Fast Food,Fried Chicken",Amritsar,GNDU Area,Quick Bites,1030am to 11pm(Mon-Sun),Good,3.8,126
+New Rajasthan Chat Bhandar,200,"Street Food,Rajasthani",Amritsar,Lawrence Road,Quick Bites,11am to 945pm(Mon-Sun),Very Good,4.0,97
+Muscleholics,450,"Healthy Food,Beverages,Fast Food",Amritsar,Ranjit Avenue,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.0,76
+Popular Bakery,300,Bakery,Amritsar,INA Colony,Bakery,9am to 1045pm(Mon-Sun),Good,3.9,71
+The Boston Pizza,400,"Pizza,Italian,Fast Food",Amritsar,Rani Ka Bagh,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,119
+The Food Village,600,North Indian,Amritsar,GT Road,Quick Bites,11am to 10pm(Mon-Sun),Good,3.8,99
+Temptation Restaurant,700,"Mexican,North Indian,Chinese,Continental",Amritsar,White Avenue,Casual Dining,11am to 11pm(Mon-Sun),Good,3.7,146
+Italian Pizza,600,"Italian,Pizza",Amritsar,Hathi Gate,Quick Bites,"11am to 10pm(Mon-Fri),11am to 1030pm(Sat),2pm...",Good,3.8,103
+Amritsar Nutri Kulcha & Channa Batura,100,North Indian,Amritsar,Lawrence Road,Quick Bites,9am to 730pm(Mon-Sun),Good,3.7,46
+Cake A Licious,400,Bakery,Amritsar,Ranjit Avenue,Bakery,9am to 9pm(Mon-Sun),Average,3.2,36
+Bakers Square,300,Bakery,Amritsar,Basant Nagar,Quick Bites,9am to 10pm(Mon-Sun),Good,3.9,114
+Kolkata Spl Kathi Rolls,200,Fast Food,Amritsar,INA Colony,Quick Bites,4pm to 10pm(Mon-Sun),Good,3.9,70
+The Country Kulcha House,300,North Indian,Amritsar,Kabir Park,Quick Bites,9am to 10pm(Mon-Sun),Good,3.5,77
+Deep Pizzeria,600,Italian,Amritsar,Mohan Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,92
+AFC,350,"American,Fast Food,Burger,Chinese",Amritsar,GNDU Area,Quick Bites,10am to 10pm(Mon-Sun),Good,3.7,72
+Tandoori Tadka,500,"North Indian,Chinese",Amritsar,Ranjit Avenue,none,"1130am to 11pm(Mon,Wed,Thu,Fri,Sat),1130am...",Very Good,4.0,100
+Flourfairy,300,"Bakery,Desserts,Continental",Amritsar,Basant Nagar,Bakery,3pm to 930pm(Mon-Sun),Good,3.6,56
+Underdoggs Bar & Kitchen,1400,"American,Italian,Indian",Amritsar,Ranjit Avenue,Bar,12noon to 12midnight(Mon-Sun),Good,3.9,112
+Shake Smith,300,"Beverages,Drinks Only",Amritsar,Ranjit Avenue,Beverage Shop,10am to 11pm(Mon-Sun),Very Good,4.0,75
+Chaupati Restaurant,600,"North Indian,South Indian,Fast Food,Continental",Amritsar,Lawrence Road,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,102
+Bread Talk by Subhash Juice Bar,250,"Italian,Fast Food",Amritsar,Basant Nagar,Quick Bites,10am to 10pm(Mon-Sun),Good,3.9,77
+New Kundan Dhaba,400,North Indian,Amritsar,Rani Ka Bagh,Dhaba,10am to 10pm(Mon-Sun),Average,2.6,75
+Sabri Bhathura Shop,180,North Indian,Amritsar,INA Colony,Quick Bites,11am to 6pm(Mon-Sun),Good,3.9,92
+London Creek Food Service,100,North Indian,Amritsar,Kabir Park,Quick Bites,8am to 1030pm(Mon-Sun),Good,3.8,77
+Amrit Dhaba,500,North Indian,Amritsar,GT Road,Casual Dining,11am to 11pm(Mon-Sun),Good,3.9,91
+The Little Chef,800,"North Indian,Fast Food",Amritsar,GT Road,Casual Dining,10am to 11pm(Mon-Sun),Good,3.8,91
+Narang Bakery,300,"Desserts,Bakery",Amritsar,GT Road,Bakery,730am to 10pm(Mon-Sun),Good,3.8,59
+M's Oven Fresh,400,Bakery,Amritsar,Shastri Nagar,Casual Dining,830am to 9pm(Mon-Sun),Good,3.5,58
+Burger Brunch,300,Burger,Amritsar,Rani Ka Bagh,Quick Bites,"1130am to 10pm(Mon-Sat),215pm to 10pm(Sun)",Good,3.5,72
+Ziva All Day Dining - Holiday Inn,2000,"North Indian,Asian",Amritsar,Holiday Inn-- Ranjit Avenue,Casual Dining,630am to 1230AM(Mon-Sun),Good,3.7,70
+Vaishno Bhojan Bhandar,400,Fast Food,Amritsar,Town Hall,Quick Bites,9am to 10pm(Mon-Sun),Good,3.8,20
+Aunty Kitchen,150,Street Food,Amritsar,Kabir Park,Quick Bites,8am to 930pm(Mon-Sun),Good,3.6,55
+Raja Chick Chicken,500,North Indian,Amritsar,Lawrence Road,Quick Bites,11am to 1030pm(Mon-Sun),Good,3.6,65
+Bansal Bakers,500,"Desserts,Bakery",Amritsar,Lawrence Road,Food Court,10am to 10pm(Mon-Sun),Average,2.9,48
+Flavour of Mutton & Chicken,400,North Indian,Amritsar,Ranjit Avenue,Quick Bites,11am to 1030pm(Mon-Sun),Average,3.4,56

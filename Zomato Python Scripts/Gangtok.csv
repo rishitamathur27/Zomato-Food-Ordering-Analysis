@@ -1,0 +1,5 @@
+Name,Price,Cuisine_Category,City,Region,Cuisine_Type,Timing,Rating_Types,Rating,Votes
+The Dragon Wok,700,Chinese,Gangtok,Vishal Gaon,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,36
+Nimtho,650,"Tibetan,Nepalese",Gangtok,Vishal Gaon,Casual Dining,1130am to 12midnight(Mon-Sun),Average,3.2,15
+Domino's,400,"Pizza,Fast Food",Gangtok,Vishal Gaon,Quick Bites,10am to 10pm(Mon-Sun),Average,3.2,54
+Bonfire,600,"Tibetan,North Indian,Fast Food,Chinese",Gangtok,Vishal Gaon,Bar,11am to 10pm(Mon-Sun),Average,3.4,23

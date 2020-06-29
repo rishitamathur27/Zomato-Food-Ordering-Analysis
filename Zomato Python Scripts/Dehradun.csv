@@ -1,0 +1,565 @@
+Name,Price,Cuisine_Category,City,Region,Cuisine_Type,Timing,Rating_Types,Rating,Votes
+Doon Darbar,500,"North Indian,Mughlai",Dehradun,Paltan Bazaar,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.2,1026
+Gaylord Xpress,200,Fast Food,Dehradun,Paltan Bazaar,Quick Bites,10am to 12midnight(Mon-Sun),Good,3.9,627
+Mannu Fast Food,250,"Fast Food,North Indian,Chinese",Dehradun,Raipur,Quick Bites,8am to 11pm(Mon-Sun),Very Good,4.3,321
+Walk In Woods,800,"North Indian,Pizza,Chinese,Mughlai",Dehradun,Chironwali,Casual Dining,10am to 11pm(Mon-Sun),Very Good,4.3,405
+Burger King,500,"Burger,Fast Food",Dehradun,Pacific Mall-- Jakhan,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.1,324
+Domino's Pizza,700,"Pizza,Fast Food",Dehradun,Rajpur,Quick Bites,11am to 12midnight(Mon-Sun),Good,3.8,396
+Punjab Grill,1250,"Mughlai,North Indian",Dehradun,Jakhan,Casual Dining,12noon to 11pm(Mon-Sun),Excellent,4.7,804
+Chicago BR,500,"Rolls,Momos,North Indian,Fast Food,Pizza,Desserts",Dehradun,Karanpur,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.1,286
+The Great Indian Pub,1200,"North Indian,Italian,Finger Food",Dehradun,Jakhan,Casual Dining,"12noon to 1045pm(Mon,Tue,Wed,Thu,Fri,Sun)...",Very Good,4.4,309
+Black Pepper Restaurant,1000,"North Indian,Chinese,Continental",Dehradun,Karanpur,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.1,422
+Super Donuts,400,"American,Fast Food,Desserts,Cafe,Italian,Sandwich,Wraps,Burger",Dehradun,Hathibarkala Salwala,Dessert Parlor,11am to 11pm(Mon-Sun),Very Good,4.4,237
+Chilli'z,500,"Mughlai,North Indian,Chinese",Dehradun,Dharampur,Casual Dining,"12noon to 11pm(Mon,Wed,Thu,Fri,Sat,Sun)...",Very Good,4.0,241
+Mughal Darbar,500,"North Indian,Biryani",Dehradun,Paltan Bazaar,Quick Bites,8am to 12midnight(Mon-Sun),Good,3.9,176
+Town Table Restaurant,1800,"North Indian,Chinese,Continental",Dehradun,Hathibarkala Salwala,Fine Dining,12noon to 11pm(Mon-Sun),Very Good,4.2,310
+Infamous Bistro & Bar,500,Cafe,Dehradun,Jakhan,Café,12noon to 11pm(Mon-Sun),Very Good,4.1,272
+Ali's Non Vegetarian Restaurant,500,North Indian,Dehradun,Karanpur,Quick Bites,10am to 1030pm(Mon-Sun),Good,3.6,112
+Grill Zone,250,"South Indian,Continental,Bakery,Ice Cream",Dehradun,Subhash Nagar,Quick Bites,9am to 9pm(Mon-Sun),Average,3.4,58
+New Jassi Restaurant,400,"North Indian,Chinese",Dehradun,Race Course,Quick Bites,10am to 1030pm(Mon-Sun),Good,3.7,81
+Sethi's Food Corner,350,Fast Food,Dehradun,Paltan Bazaar,Quick Bites,10am to 1030pm(Mon-Sun),Good,3.9,92
+The Doon Jaayaka,150,"North Indian,Fast Food",Dehradun,Balliwala,Quick Bites,1pm to 1030pm(Mon-Sun),Good,3.6,83
+Bhura Chicken Corner,500,North Indian,Dehradun,Race Course,Casual Dining,4pm to 1030pm(Mon-Sun),Good,3.8,91
+Aangan Restaurant & Bar,1000,"North Indian,Chinese",Dehradun,Karanpur,Fine Dining,1030am to 1030pm(Mon-Sun),Good,3.9,93
+3 Pyramids,1000,"Italian,Continental,Chinese",Dehradun,Hathibarkala Salwala,Lounge,11am to 11pm(Mon-Sun),Good,3.8,108
+Dope,400,"North Indian,Fast Food",Dehradun,Rajpur,Food Truck,6pm to 1030pm(Mon-Sun),Good,3.9,82
+Goli Vada Pav No. 1,150,Street Food,Dehradun,Jakhan,Quick Bites,10am to 10pm(Mon-Sun),Very Good,4.1,84
+Café NH 72,800,"Cafe,Beverages",Dehradun,Prem Nagar,Café,11am to 9pm(Mon-Sun),Average,3.0,56
+Kolkata's Lazeez Kathi Rolls,250,"North Indian,Rolls",Dehradun,Paltan Bazaar,Quick Bites,11am to 10pm(Mon-Sun),Good,3.5,62
+Ladpur Restaurant,300,"Chinese,North Indian",Dehradun,Raipur,Quick Bites,630am to 1030pm(Mon-Sun),Good,3.7,44
+Singh Soup Bar,150,Fast Food,Dehradun,Hathibarkala Salwala,Quick Bites,11am to 10pm(Mon-Sun),Good,3.5,68
+Woods Grill Lounge & Cafe,800,"Cafe,Continental,Chinese,North Indian,Italian",Dehradun,Dharampur,Café,11am to 11pm(Mon-Sun),Average,3.3,78
+Oggy & Dobby Cafe,250,Fast Food,Dehradun,Jakhan,Quick Bites,11am to 1030pm(Mon-Sun),Good,3.5,28
+Moti Mahal Restaurant,1000,"North Indian,Rajasthani",Dehradun,Race Course,Casual Dining,10am to 11pm(Mon-Sun),Good,3.6,114
+Perfect Cravings,250,"Bakery,Desserts",Dehradun,Paltan Bazaar,Bakery,9am to 9pm(Mon-Sun),Good,3.8,29
+Lemon Chilli Family Restaurant,600,North Indian,Dehradun,Race Course,Casual Dining,11am to 11pm(Mon-Sun),Good,3.8,66
+Standard Bakery The Corner Shop,200,"Fast Food,Desserts,Bakery",Dehradun,Garhi Cantt,Dessert Parlor,9am to 10pm(Mon-Sun),Average,3.4,16
+Fresho,250,North Indian,Dehradun,Jakhan,Quick Bites,12noon to 10pm(Mon-Sun),Good,3.7,49
+Daddy's Restaurant,500,North Indian,Dehradun,Jakhan,Dhaba,"1230pm to 1030pm(Mon-Fri),1230pm to 1155pm...",Good,3.8,65
+Laxmi Bakers,100,"Bakery,Fast Food",Dehradun,Morowala,Quick Bites,"8am to 9pm(Mon-Sat),Closed(Sun)",Average,3.4,16
+Sammaan Restaurant,400,North Indian,Dehradun,Race Course,Casual Dining,9am to 11pm(Mon-Sun),Good,3.8,70
+Amritsari Express,750,North Indian,Dehradun,Pacific Mall-- Jakhan,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,90
+All Day Breakfast,200,"Fast Food,Bakery,North Indian",Dehradun,Chukkuwala,Bakery,7am to 1030pm(Mon-Sun),Good,3.6,52
+The Connoisseur,700,"Chinese,Indian,North Indian,Mughlai",Dehradun,Malsi,Quick Bites,1130am to 1030pm(Mon-Sun),Good,3.9,47
+Unique Brew Cafe,700,"Sandwich,Fast Food,Burger,Pizza",Dehradun,Subhash Nagar,Quick Bites,10am to 10pm(Mon-Sun),Good,3.6,28
+Pizza Italia,350,"Pizza,Fast Food",Dehradun,Chironwali,Quick Bites,11am to 10pm(Mon-Sun),Good,3.5,39
+The Nest Kitchen & Dining,350,"Indian,Chinese,Fast Food",Dehradun,Chironwali,Casual Dining,12noon to 1030pm(Mon-Sun),Good,3.7,27
+Karishma Foods,350,"North Indian,Chinese",Dehradun,Dharampur,Quick Bites,10am to 10pm(Mon-Sun),Good,3.7,42
+Reggae Chilli,800,"North Indian,Chinese,Italian,Fast Food",Dehradun,Chironwali,Casual Dining,"1130am to 1030pm(Mon,Wed,Thu,Fri,Sat,Sun)...",Good,3.5,54
+Punjabi Foods,200,"Indian,Mughlai,Chinese",Dehradun,Hathibarkala Salwala,Quick Bites,12noon to 1130pm(Mon-Sun),Average,3.4,89
+Ohh My Food,250,Fast Food,Dehradun,Balliwala,Quick Bites,1pm to 11pm(Mon-Sun),Average,3.4,58
+Cafe Doonga Central,300,Cafe,Dehradun,Karanpur,Café,12noon to 10pm(Mon-Sun),Good,3.6,24
+Lala Jee's Angeethi,300,"North Indian,Chinese",Dehradun,Paltan Bazaar,none,5pm to 10pm(Mon-Sun),Good,3.9,60
+Hot Plate Restro,250,"North Indian,Chinese",Dehradun,Ballupur,Quick Bites,1030am to 1030pm(Mon-Sun),Good,3.5,35
+Guts & Glory Cafe & Restro,600,"Cafe,Fast Food,North Indian,Chinese",Dehradun,Malsi,Café,11am to 1045pm(Mon-Sun),Very Good,4.1,23
+Doon Bakers and Confectioners,200,"Bakery,Desserts,Fast Food",Dehradun,Paltan Bazaar,Bakery,7am to 10pm(Mon-Sun),Good,3.5,22
+Van Dough Pizzeria,900,Pizza,Dehradun,Dharampur,none,NA,Good,3.6,35
+Burger & Fast Food Corner,100,"Fast Food,North Indian",Dehradun,Dharampur,Quick Bites,12noon to 10pm(Mon-Sun),Average,2.9,16
+Gazebo Restaurant & Party Lawn,800,"North Indian,Chinese,Continental,Mughlai",Dehradun,Rajpur,Casual Dining,730am to 1030pm(Mon-Sun),Good,3.6,33
+Yummies Fast Food,250,Fast Food,Dehradun,Dharampur,Quick Bites,930am to 1015pm(Mon-Sun),Good,3.5,59
+Melt - Hotel Saffron Leaf,1000,"North Indian,Chinese,Finger Food",Dehradun,Kaonli,Casual Dining,7am to 1030pm(Mon-Sun),Good,3.6,39
+Chanchal Restaurant,550,"Street Food,Mithai,Chinese,North Indian",Dehradun,Dharampur,Sweet Shop,9am to 1030pm(Mon-Sun),Good,3.5,63
+Ginger and Grape,800,"North Indian,Chinese",Dehradun,Chukkuwala,Casual Dining,1030am to 1030pm(Mon-Sun),Good,3.6,39
+Lazezz Kathi Roll From Kolkata's,120,Rolls,Dehradun,Ballupur,Quick Bites,11am to 1030pm(Mon-Sun),Good,3.7,24
+Ambrosia,1200,"North Indian,Continental,Chinese",Dehradun,Chukkuwala,Casual Dining,11am to 1030pm(Mon-Sun),Average,3.4,56
+Al Baik Chicken,200,Fast Food,Dehradun,Balliwala,Quick Bites,12noon to 12midnight(Mon-Sun),Very Good,4.1,58
+New Dana Pani Restaurant,500,"North Indian,Chinese",Dehradun,Majra,Casual Dining,11am to 1030pm(Mon-Sun),Good,3.6,34
+Doon Tripple Nine,600,"North Indian,Chinese",Dehradun,Krishna Nagar,Casual Dining,11am to 11pm(Mon-Sun),Good,3.8,88
+H.U.H Hold Ur Hunger,500,Cafe,Dehradun,Subhash Nagar,Café,"11am to 10pm(Mon-Sat),4pm to 10pm(Sun)",Good,3.5,35
+Kalra Sweet Shop,150,"Street Food,Mithai,Fast Food",Dehradun,Prem Nagar,Sweet Shop,9am to 930pm(Mon-Sun),Average,3.4,33
+Kumar Foods Restaurant,800,"North Indian,Chinese,Continental",Dehradun,Chukkuwala,Casual Dining,11am to 11pm(Mon-Sun),Good,3.8,88
+The Urban Pendu Cafe,1200,Cafe,Dehradun,Subhash Nagar,Café,9am to 10pm(Mon-Sun),Good,3.6,37
+Paridhi Restaurant And Fast Food,400,"North Indian,Biryani,Fast Food,Chinese,Rolls,Momos",Dehradun,Majra,Casual Dining,9am to 10pm(Mon-Sun),Average,3.4,25
+Laziz Pizza,400,Fast Food,Dehradun,Morowala,Quick Bites,11am to 10pm(Mon-Sun),Average,3.3,33
+Doonites Cafe,500,"Chinese,Continental",Dehradun,Subhash Nagar,Quick Bites,8am to 10pm(Mon-Sun),Good,3.5,18
+New Anchal Sweets & Dairy,200,"Mithai,Fast Food,Street Food,Momos",Dehradun,Dharampur,Quick Bites,6am to 9pm(Mon-Sun),Good,3.7,44
+FairMenu,400,"North Indian,Chinese",Dehradun,Krishna Nagar,Quick Bites,"11am to 10pm(Mon-Thu),1130am to 1030pm...",Good,3.7,35
+Uncle Johns Pizza,600,"Fast Food,Beverages,Pizza",Dehradun,Raipur,Quick Bites,1030am to 1130pm(Mon-Sun),Good,3.6,68
+Greens Dine Leisure Point,550,"North Indian,Chinese",Dehradun,Prem Nagar,Casual Dining,930am to 10pm(Mon-Sun),Good,3.8,39
+Hungry Cafe,250,Cafe,Dehradun,Karanpur,Café,11am to 10pm(Mon-Sun),Average,3.4,15
+The Oven Bakery,250,"Bakery,Continental",Dehradun,Dharampur,Bakery,1030am to 7pm(Mon-Sun),Average,3.4,11
+Matta's Food Corner,400,"Fast Food,Street Food",Dehradun,Laxman Chowk,Quick Bites,12noon to 10pm(Mon-Sun),Good,3.7,44
+Bikanervala,600,"North Indian,Mithai,Chinese,South Indian,Street Food,Beverages",Dehradun,Chironwali,Quick Bites,(Mon-Sun),Average,2.8,39
+Hideout Cafe,300,Cafe,Dehradun,Dharampur,Café,10am to 10pm(Mon-Sun),Good,3.6,40
+Chutney Merry,400,"North Indian,Chinese",Dehradun,Krishna Nagar,Casual Dining,8am to 1030pm(Mon-Sun),Average,3.2,25
+Talab Cafe,300,"Chinese,North Indian,Beverages,Continental",Dehradun,Balliwala,Quick Bites,10am to 10pm(Mon-Sun),Good,3.7,17
+Kukreja Food Complex,1000,"Chinese,North Indian,Mughlai",Dehradun,Krishna Nagar,Fine Dining,1030am to 1030pm(Mon-Sun),Average,3.2,45
+Kuks N Bakes,400,Bakery,Dehradun,Subhash Nagar,Bakery,10am to 7pm(Mon-Sun),Average,3.3,13
+Mr & Mrs Cafe,300,Fast Food,Dehradun,Morowala,Quick Bites,"10am to 1030pm(Mon),11am to 10pm(Tue-Sun)",Average,3.2,20
+First Crush Cafe,300,"Coffee,Beverages,Burger,Pizza",Dehradun,Ballupur,Café,9am to 11pm(Mon-Sun),Average,3.3,39
+The Northeast Hut,400,North Eastern,Dehradun,Krishna Nagar,Quick Bites,7am to 1030pm(Mon-Sun),Average,3.3,34
+Doon Chowpati,500,"South Indian,Chinese",Dehradun,Kaonli,Food Court,9am to 10pm(Mon-Sun),Good,3.5,27
+Jeeja Saaley Di Angeethi,150,"Fast Food,Momos,Chinese",Dehradun,Ballupur,Quick Bites,1pm to 10pm(Mon-Sun),Good,3.6,20
+Friends Sandwich Corner,150,Fast Food,Dehradun,Prem Nagar,Quick Bites,4pm to 10pm(Mon-Sun),Good,3.6,26
+Tandon's Fast Food,150,"Chinese,Momos",Dehradun,Rajpur,Dhaba,1pm to 10pm(Mon-Sun),Very Good,4.0,38
+Yuri Restaurant,700,"North Indian,Chinese",Dehradun,Morowala,Casual Dining,10am to 1030pm(Mon-Sun),Good,3.5,40
+Nagpal Foods,200,North Indian,Dehradun,Dharampur,Quick Bites,10am to 10pm(Mon-Sun),Average,3.4,36
+Bhardwaj Bakers,150,"Fast Food,Desserts,Bakery",Dehradun,Dharampur,Quick Bites,8am to 10pm(Mon-Sun),Average,3.3,20
+Karma Lounge,1000,"North Indian,Fast Food",Dehradun,Hathibarkala Salwala,Casual Dining,11am to 11pm(Mon-Sun),Good,3.8,23
+Delhi 6 Shawarma Buzz,200,Mughlai,Dehradun,Morowala,Quick Bites,3pm to 1030pm(Mon-Sun),Good,3.5,28
+Abnormal Point,200,"North Indian,Chinese,Mughlai",Dehradun,Subhash Nagar,Quick Bites,10am to 10pm(Mon-Sun),Good,3.7,53
+Eating Point,200,"Chinese,North Indian,Pizza",Dehradun,Race Course,Quick Bites,5pm to 10pm(Mon-Sun),Good,3.5,33
+Grand Bakers & Confectioners,200,"Bakery,Chinese,Fast Food,Momos",Dehradun,Race Course,Bakery,630am to 9pm(Mon-Sun),Good,3.7,32
+Bengali Sweet Shop,250,Mithai,Dehradun,Chukkuwala,Dessert Parlor,11am to 10pm(Mon-Sun),Good,3.5,44
+Vaibhav Sweets,250,"Street Food,Mithai",Dehradun,Balliwala,Quick Bites,8am to 9pm(Mon-Sun),Average,3.2,6
+Dana Pani Swad Restaurant,200,"North Indian,Chinese",Dehradun,Majra,Quick Bites,11am to 1030pm(Mon-Sun),Average,3.4,13
+Silli Chilli,100,Fast Food,Dehradun,Ballupur,Quick Bites,12noon to 10pm(Mon-Sun),Good,3.5,22
+Kebab King Chicken Point,750,"Fast Food,North Indian",Dehradun,Hathibarkala Salwala,Quick Bites,11am to 10pm(Mon-Sun),Average,3.4,30
+Rolls Master,200,Rolls,Dehradun,Subhash Nagar,Quick Bites,10am to 10pm(Mon-Sun),Good,3.5,9
+Veggie Heggie,200,Fast Food,Dehradun,Paltan Bazaar,Quick Bites,6pm to 1030pm(Mon-Sun),Average,3.4,21
+Uttarakhand Food Junction,500,North Indian,Dehradun,Chukkuwala,Quick Bites,9am to 1030pm(Mon-Sun),Average,3.4,38
+Yambi's Coffee Bar,800,Fast Food,Dehradun,Malsi,Quick Bites,930am to 1030pm(Mon-Sun),Average,2.7,23
+Upper Crust,250,Fast Food,Dehradun,Morowala,Quick Bites,11am to 10pm(Mon-Sun),Average,3.0,13
+Burger House And Cafe,300,Fast Food,Dehradun,Subhash Nagar,Quick Bites,11am to 1030pm(Mon-Sun),Good,3.6,28
+Nirvana,500,"North Indian,Biryani,Chinese",Dehradun,Chironwali,Quick Bites,(Mon-Sun),Poor,2.3,7
+KJ,350,"Rolls,Fast Food",Dehradun,Garhi Cantt,Quick Bites,12noon to 1030pm(Mon-Sun),Good,3.5,31
+Chicago Pizza,600,"Pizza,Italian,Continental,Fast Food",Dehradun,Hathibarkala Salwala,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,50
+Lemon Chilli Pure Veg,200,"North Indian,Chinese",Dehradun,Race Course,Bhojanalya,(Mon-Sun),Average,3.4,8
+TKC Restaurant,350,"South Indian,Chinese",Dehradun,Prem Nagar,Quick Bites,10am to 10pm(Mon-Sun),Good,3.5,38
+Cravity,200,Bakery,Dehradun,Majra,Bakery,1pm to 9pm(Mon-Sun),Good,3.6,14
+Street Buster,150,"Fast Food,Pizza,Beverages",Dehradun,Khurbura,Quick Bites,11am to 9pm(Mon-Sun),Average,3.3,6
+The Grill Daddy,400,Fast Food,Dehradun,Kaonli,Quick Bites,10am to 10pm(Mon-Sun),Average,3.4,28
+New Madras Cafe,200,"South Indian,Beverages",Dehradun,Dharampur,Quick Bites,4pm to 930pm(Mon-Sun),Average,2.9,16
+NCR Kitchen,300,"Chinese,Fast Food",Dehradun,Hathibarkala Salwala,Quick Bites,930am to 9pm(Mon-Sun),Poor,2.3,28
+Ahuja's,300,"Mithai,South Indian",Dehradun,Dharampur,Sweet Shop,730am to 10pm(Mon-Sun),Average,3.4,21
+Vikas Bakers & Confectioners,400,Bakery,Dehradun,Race Course,Bakery,7am to 1030pm(Mon-Sun),Average,3.1,4
+Kumar Sweet Shop,250,"South Indian,North Indian,Chinese,Mithai,Street Food",Dehradun,Dharampur,Quick Bites,9am to 10pm(Mon-Sun),Average,3.4,18
+Opee's Bakers,200,"Bakery,Fast Food",Dehradun,Hathibarkala Salwala,Quick Bites,"830am to 9pm(Mon-Sat),914am to 530pm(Sun)",Good,3.7,27
+Sangam Food Point,150,North Indian,Dehradun,Subhash Nagar,Quick Bites,7am to 930pm(Mon-Sun),Average,3.4,10
+Elloras,300,"Desserts,Bakery",Dehradun,Prem Nagar,Bakery,10am to 10pm(Mon-Sun),Average,3.4,18
+Hashtag 1Way Adda,400,North Indian,Dehradun,Malsi,Quick Bites,930am to 915pm(Mon-Sun),Average,3.3,9
+Vivek Restaurant,500,"North Indian,Chinese",Dehradun,Balliwala,Casual Dining,1030am to 1030pm(Mon-Sun),Average,3.3,39
+Doon Memories Bakers & Cafe,300,"Bakery,Chinese,Fast Food",Dehradun,Subhash Nagar,Quick Bites,10am to 9pm(Mon-Sun),Average,3.2,15
+Kaafal,1000,"North Indian,Chinese,South Indian",Dehradun,Chironwali,Casual Dining,11am to 10pm(Mon-Sun),Good,3.5,20
+Sapphire,700,"North Indian,Chinese,Continental",Dehradun,Majra,Bar,8am to 1030pm(Mon-Sun),Average,3.4,14
+Muddy Bull Cafe,350,Fast Food,Dehradun,Ballupur,Quick Bites,"12noon to 10pm(Mon,Wed,Thu,Fri,Sat,Sun)...",Good,3.7,33
+Gulati Juice Corner,200,Juices,Dehradun,Karanpur,Beverage Shop,9am to 9pm(Mon-Sun),Good,3.5,19
+Chappan Bhog,150,Mithai,Dehradun,Race Course,Sweet Shop,9am to 9pm(Mon-Sun),Average,3.3,14
+Lazeez Family Restaurant,650,"North Indian,Chinese,Mughlai,Biryani",Dehradun,Dharampur,Casual Dining,11am to 10pm(Mon-Sun),Average,3.4,24
+Thee Heart,800,Chinese,Dehradun,Karanpur,Casual Dining,11am to 1030pm(Mon-Sun),Average,3.4,34
+Chaupal Restaurant,500,"North Indian,Fast Food",Dehradun,Chironwali,Casual Dining,10am to 1030pm(Mon-Sun),Average,3.4,26
+Chill Out Cafe,200,"North Indian,Chinese",Dehradun,Karanpur,Quick Bites,10am to 10pm(Mon-Sun),Average,3.3,10
+Chillies N Chimneys Restaurant - Hotel Doon Regency,700,"North Indian,Chinese",Dehradun,Race Course,Casual Dining,1030am to 1030pm(Mon-Sun),Average,3.3,32
+Bustan Bakers and Confectionners,200,"Bakery,Chinese,Fast Food",Dehradun,Subhash Nagar,Confectionery,"830am to 10pm(Mon,Tue,Wed,Thu,Sat,Sun),4pm...",Average,3.2,9
+Tandoori Night,500,"North Indian,Chinese",Dehradun,Dharampur,Casual Dining,8am to 1030pm(Mon-Sun),Average,2.8,27
+Bookyourmeal,250,"North Indian,Chinese,Fast Food",Dehradun,Balliwala,none,9am to 12midnight(Mon-Sun),Good,3.8,36
+Delight Bakers,200,Bakery,Dehradun,Race Course,Bakery,8am to 9pm(Mon-Sun),Average,3.4,25
+Barbq Bytes,250,"North Indian,Mughlai,Kebab",Dehradun,Chironwali,none,5pm to 10pm(Mon-Sun),Good,3.5,26
+Lock Heart Restaurant & Cafe,300,"North Indian,Fast Food,Cafe,Chinese,Continental,Beverages",Dehradun,Ballupur,Casual Dining,10am to 1030pm(Mon-Sun),Average,3.1,5
+The Free Bird Cafe,400,"Continental,Indian",Dehradun,Malsi,Quick Bites,9am to 10pm(Mon-Sun),Average,3.3,11
+Outpost,800,Chinese,Dehradun,Jakhan,Casual Dining,"1230pm to 3pm,7pm to 1030pm(Mon-Sun)",Good,3.8,30
+Big Bro's Cafe,400,Cafe,Dehradun,Subhash Nagar,Café,12noon to 10pm(Mon-Sun),Average,3.3,18
+Señorita's The Food Truck,250,Mexican,Dehradun,Rajpur,Quick Bites,"5pm to 930pm(Mon,Tue,Wed,Thu,Fri,Sun),5pm...",Average,3.4,8
+The Munaal's Restaurant,400,"North Indian,South Indian,Chinese,Italian",Dehradun,Majra,Casual Dining,7am to 1030pm(Mon-Sun),Average,3.3,10
+Captain's cook,200,Fast Food,Dehradun,Chironwali,Quick Bites,11am to 1030pm(Mon-Sun),Good,3.5,9
+Flavors of India,250,"Street Food,Fast Food",Dehradun,Balliwala,Quick Bites,4pm to 10pm(Mon-Sun),Average,3.3,17
+Qb Lounge Bar,1500,"Mughlai,North Indian,Chinese",Dehradun,Jakhan,Lounge,1030am to 11pm(Mon-Sun),Good,3.6,89
+Indiyum,300,"Continental,Fast Food",Dehradun,Jakhan,Quick Bites,12noon to 930pm(Mon-Sun),Average,3.4,6
+Shri Ambey Bikaner Mishthan Bhandar,400,"Street Food,Mithai",Dehradun,Garhi Cantt,Sweet Shop,7am to 10pm(Mon-Sun),Average,2.9,6
+Cafe Village Highway,500,"Cafe,Indian,Italian",Dehradun,Balliwala,Café,"10am to 11pm(Mon-Sat),10pm to 11pm(Sun)",Very Good,4.0,256
+Uncle m Hungry,550,"North Indian,Biryani,Fast Food,Chinese,Momos,Continental",Dehradun,Hathibarkala Salwala,Casual Dining,24,Very Good,4.1,163
+Jalapenos,500,"Cafe,Mexican",Dehradun,Malsi,Café,11am to 11pm(Mon-Sun),Excellent,4.5,368
+Waffles & Crepes,300,"Cafe,French,Desserts",Dehradun,Karanpur,Café,12noon to 11pm(Mon-Sun),Very Good,4.1,159
+Big Feast,500,"BBQ,North Indian,Chinese,Grill",Dehradun,Jakhan,Casual Dining,12noon to 11pm(Mon-Sun),Very Good,4.2,416
+South Indian Vibes Restaurant,600,South Indian,Dehradun,Karanpur,Casual Dining,9am to 11pm(Mon-Sun),Very Good,4.2,178
+Dunkin Donuts,600,"Burger,Desserts,Fast Food,Beverages,Cafe",Dehradun,Pacific Mall-- Jakhan,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.2,244
+Punjab Di Rasoi,150,North Indian,Dehradun,Majra,Quick Bites,"9am to 1230AM(Mon),9am to 12midnight(Tue-Sun)",Average,2.6,102
+Mirabilia,1200,"North Indian,South Indian,Continental",Dehradun,Karanpur,Casual Dining,11am to 1045pm(Mon-Sun),Very Good,4.4,284
+Pizza Italia,350,"Pizza,Fast Food",Dehradun,Karanpur,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,205
+THC- Truckers Halt Cafe,400,"American,Burger",Dehradun,Rajpur,Food Truck,12noon to 11pm(Mon-Sun),Very Good,4.0,88
+Mussoorie Lights,1500,"North Indian,Continental,Italian,Mexican,Afghan",Dehradun,Chukkuwala,Casual Dining,"1130am to 11pm(Mon),11am to 11pm(Tue-Wed),1pm...",Very Good,4.2,305
+Patio Terrace,900,"North Indian,Italian,Continental,Chinese",Dehradun,Karanpur,Café,7am to 11pm(Mon-Sun),Very Good,4.1,146
+Bikanervala,550,"Street Food,Fast Food,South Indian,Mithai,Beverages",Dehradun,Hathibarkala Salwala,Quick Bites,8am to 11pm(Mon-Sun),Good,3.7,110
+Bigway Cafe,550,"Continental,North Indian,Chinese",Dehradun,Garhi Cantt,Quick Bites,10am to 11pm(Mon-Sun),Very Good,4.2,47
+Innovation,250,Fast Food,Dehradun,Morowala,Quick Bites,11am to 10pm(Mon-Sun),Average,2.9,15
+Lords Of Barbecue,1200,"North Indian,BBQ",Dehradun,Jakhan,Casual Dining,1230pm to 11pm(Mon-Sun),Good,3.8,26
+Aaoji Khaoji Restaurant,350,North Indian,Dehradun,Jakhan,Quick Bites,8am to 10pm(Mon-Sun),Average,3.4,26
+0135 Pub & Kitchen,1200,"Continental,North Indian,Chinese,Pizza,Grill",Dehradun,Rajpur,Pub,1130am to 11pm(Mon-Sun),Good,3.9,26
+Wow Chinese,150,Chinese,Dehradun,Race Course,Quick Bites,6pm to 10pm(Mon-Sun),Average,3.4,18
+Rukkbay,400,"Bakery,Beverages,Cafe,Coffee,Fast Food,Finger Food,Modern Indian",Dehradun,Kaonli,Quick Bites,"11am to 830pm(Mon-Sat),Closed(Sun)",Average,3.3,12
+Eat Cake,250,Bakery,Dehradun,Ballupur,Bakery,930am to 630pm(Mon-Sun),Average,3.3,7
+New Gupta Sweets Shop,200,North Indian,Dehradun,Morowala,Dhaba,6pm to 10pm(Mon-Sun),Average,3.1,4
+Grill Inn,300,Fast Food,Dehradun,Raipur,Food Court,11am to 10pm(Mon-Sun),Average,3.1,4
+The Global Bakers,250,"Fast Food,Bakery",Dehradun,Ballupur,Bakery,11am to 9pm(Mon-Sun),Average,3.1,5
+Bikaner Sweets,100,"Street Food,Mithai,Fast Food",Dehradun,Balliwala,Sweet Shop,7am to 1030pm(Mon-Sun),Average,3.0,9
+Kumar Sweets and Restaurant,450,"North Indian,South Indian,Chinese,Mithai",Dehradun,Chironwali,Quick Bites,11am to 10pm(Mon-Sun),Average,3.0,6
+Chandras Restaurant & Cafe,300,"North Indian,Chinese,South Indian",Dehradun,Balliwala,Casual Dining,10am to 1030pm(Mon-Sun),Good,3.5,5
+CAFE DELIGHT CORNER,400,"Fast Food,Chinese",Dehradun,Subhash Nagar,Quick Bites,10am to 9pm(Mon-Sun),Average,3.2,5
+The Great Grand PA Cafe,450,"North Indian,Cafe",Dehradun,Paltan Bazaar,Quick Bites,7am to 10pm(Mon-Sun),Average,2.6,8
+Chaat Adda,200,Street Food,Dehradun,Kaonli,Quick Bites,11am to 10pm(Mon-Sun),Average,3.0,13
+Gulab Sweets & Restaurant,600,"North Indian,Street Food,Chinese,South Indian",Dehradun,Ballupur,Quick Bites,(Mon-Sun),Average,3.1,8
+B & B Food,500,"North Indian,Fast Food",Dehradun,Subhash Nagar,Casual Dining,11am to 10pm(Mon-Sun),Average,3.1,6
+China Town,450,Chinese,Dehradun,Crossroads Mall-- Karanpur,Food Court,11am to 10pm(Mon-Sun),Average,2.7,9
+New Venus Bakers & Sweet Corner,350,"Bakery,Fast Food",Dehradun,Krishna Nagar,Bakery,11am to 10pm(Mon-Sun),Average,2.9,4
+Down Street Momos,150,Momos,Dehradun,Hathibarkala Salwala,Quick Bites,11am to 10pm(Mon-Sun),Average,2.8,6
+Toss Cafe Lounge,800,Cafe,Dehradun,Chukkuwala,Café,3pm to 1030pm(Mon-Sun),Average,3.2,12
+The Kebab's & Biryani,450,"North Indian,Biryani",Dehradun,Jakhan,Quick Bites,12noon to 1130pm(Mon-Sun),Good,3.7,79
+Bakery Wala,500,"South Indian,Chinese,Bakery,North Indian",Dehradun,Ballupur,Quick Bites,8am to 10pm(Mon-Sun),Average,2.7,12
+Garden Cress - Ramada Dehradun,1500,"North Indian,South Indian,Chinese,Continental",Dehradun,Ramada Dehradun,Fine Dining,7am to 11pm(Mon-Sun),Very Good,4.0,51
+Mago Food Corner,150,Fast Food,Dehradun,Ballupur,Quick Bites,11am to 10pm(Mon-Sun),Average,3.4,18
+Bake My Way,400,"Bakery,Desserts",Dehradun,Race Course,Dessert Parlor,11am to 9pm(Mon-Sun),Good,3.6,11
+The Chocolate Room,550,"Continental,Pizza,Cafe",Dehradun,Jakhan,Quick Bites,11am to 930pm(Mon-Sun),Average,3.4,7
+Dragon Bowl,0,"Chinese,Tibetan",Dehradun,Garhi Cantt,Quick Bites,11am to 9pm(Mon-Sun),Average,3.4,16
+Katiyar Bake Shop,250,"Bakery,Sandwich",Dehradun,Dharampur,Bakery,11am to 10pm(Mon-Sun),Average,3.2,6
+Tit Bit's Bakers,250,"Fast Food,Desserts,Bakery",Dehradun,Balliwala,Quick Bites,10am to 9pm(Mon-Sun),Average,3.3,13
+Spice Indian Corner,500,"North Indian,Chinese",Dehradun,Race Course,Casual Dining,9am to 1030pm(Mon-Sun),Average,3.0,7
+Goli,150,Fast Food,Dehradun,Malsi,Quick Bites,8am to 9pm(Mon-Sun),Average,3.2,8
+Hotel Shree Ram - JB Foods,500,"Chinese,North Indian,South Indian",Dehradun,Race Course,Dhaba,10am to 10pm(Mon-Sun),Average,2.7,17
+Sunil Sweet Shop,150,"Street Food,Mithai",Dehradun,Dharampur,Quick Bites,9am to 9pm(Mon-Sun),Average,3.2,10
+Gurukripa fooda,200,North Indian,Dehradun,Karanpur,Quick Bites,9am to 10pm(Mon-Sun),Average,3.1,6
+Kailash Bhojnalya,100,North Indian,Dehradun,Race Course,Dhaba,11am to 10pm(Mon-Sun),Average,3.1,6
+The Global Bakers,300,Bakery,Dehradun,Paltan Bazaar,Bakery,10am to 10pm(Mon-Sun),Average,3.2,7
+Chennai Express,300,South Indian,Dehradun,Crossroads Mall-- Karanpur,Food Court,11am to 10pm(Mon-Sun),Average,2.7,4
+Mukhiya's,500,North Indian,Dehradun,Malsi,Quick Bites,8am to 10pm(Mon-Sun),Average,3.1,14
+Jaiswal's Restaurant and Confectionery,400,North Indian,Dehradun,Dharampur,Quick Bites,8am to 10pm(Mon-Sun),Average,2.9,4
+Chatar Patar,400,"Fast Food,Street Food,Momos",Dehradun,Hathibarkala Salwala,Quick Bites,8am to 11pm(Mon-Sun),Good,3.8,79
+Mr Burger Hut,300,Fast Food,Dehradun,Subhash Nagar,Quick Bites,(Mon-Sun),Average,3.4,19
+Pearl Lounge - Hotel The Pearl Grand,800,"North Indian,Chinese,South Indian",Dehradun,Majra,Casual Dining,730am to 1030pm(Mon-Sun),Average,3.2,9
+#Chaap Republic,180,Fast Food,Dehradun,Jakhan,Quick Bites,5pm to 10pm(Mon-Sun),Average,3.3,10
+Tandoori Dhaba,150,North Indian,Dehradun,Paltan Bazaar,Dhaba,12noon to 1030pm(Mon-Sun),Average,2.8,7
+Las Vegas Multi Cuisine Restaurant,250,"Chinese,South Indian,Fast Food",Dehradun,Paltan Bazaar,Quick Bites,10am to 10pm(Mon-Sun),Average,2.9,10
+Jaideep Restaurant,350,North Indian,Dehradun,Hathibarkala Salwala,none,8am to 10pm(Mon-Sun),Average,3.4,18
+The Wall Cafe,500,Cafe,Dehradun,Jakhan,Café,11am to 10pm(Mon-Sun),Average,3.2,10
+New Jain Vegetarian,300,North Indian,Dehradun,Paltan Bazaar,Casual Dining,"10am to 3pm,6pm to 11pm(Mon-Sun)",Good,3.6,78
+Royale Punjab,250,"Chinese,Fast Food,North Indian",Dehradun,Khurbura,Quick Bites,10am to 10pm(Mon-Sun),Average,3.3,18
+Blue Whale,1000,"North Indian,Chinese",Dehradun,Morowala,Lounge,1030am to 1030pm(Mon-Sun),Average,3.2,8
+Spice Restaurant - Hotel Galaxy,1000,"North Indian,Chinese,Continental,Italian,Thai",Dehradun,Race Course,Casual Dining,830am to 1030pm(Mon-Sun),Average,3.1,4
+Food Funda,250,"Chinese,Beverages",Dehradun,Chukkuwala,Casual Dining,10am to 1030pm(Mon-Sun),Average,3.0,9
+Ellora Homeaids,300,"Fast Food,Desserts,Bakery",Dehradun,Chukkuwala,Bakery,11am to 830pm(Mon-Sun),Average,3.0,4
+Rajmithas,300,"Ice Cream,Mithai",Dehradun,Malsi,Dessert Parlor,11am to 10pm(Mon-Sun),Average,3.2,9
+Rangoli Restaurant and Cafe,350,"Cafe,Fast Food",Dehradun,Jakhan,Café,8am to 10pm(Mon-Sun),Average,3.1,7
+Chilly's Pizza and Maggi Point,550,Fast Food,Dehradun,Malsi,Quick Bites,11am to 9pm(Mon-Sun),Average,3.3,11
+Friends Restaurant,250,North Indian,Dehradun,Garhi Cantt,Quick Bites,"1230pm to 3pm,730pm to 10pm(Mon-Sun)",Average,3.2,9
+Standard's Bakery,300,Bakery,Dehradun,Kaonli,Bakery,11am to 9pm(Mon-Sun),Average,3.2,5
+Lemon Chilly,300,Fast Food,Dehradun,Raipur,Quick Bites,11am to 10pm(Mon-Sun),Average,3.2,7
+OMG Foods,300,"Burger,Pizza,Sandwich",Dehradun,Rajpur,Quick Bites,11am to 10pm(Mon-Sun),Average,3.2,6
+Adarsh Ratna,500,"South Indian,Fast Food",Dehradun,Garhi Cantt,Quick Bites,10am to 10pm(Mon-Sun),Average,2.8,9
+Cafe Coffee Day,500,Cafe,Dehradun,Race Course,Café,10am to 9pm(Mon-Sun),Average,3.1,5
+Ana's & Andyz,150,"Burger,Sandwich,Wraps",Dehradun,Balliwala,Quick Bites,10am to 11pm(Mon-Sun),Good,3.8,56
+Navi's,600,"North Indian,Chinese",Dehradun,Balliwala,Quick Bites,9am to 1030pm(Mon-Sun),Average,3.2,12
+Standard Bakers & Fast Food,500,Bakery,Dehradun,Hathibarkala Salwala,Bakery,10am to 10pm(Mon-Sun),Average,3.2,5
+Spice House,770,"Chinese,Indian",Dehradun,Dharampur,Quick Bites,8am to 10pm(Mon-Sun),Average,3.0,4
+Garhwali Family Dhaba,300,North Indian,Dehradun,Subhash Nagar,Quick Bites,830am to 930pm(Mon-Sun),Average,2.8,11
+Capital Sweets,250,"Street Food,Mithai,Fast Food",Dehradun,Balliwala,Quick Bites,7am to 10pm(Mon-Sun),Average,3.2,13
+T3,500,"Fast Food,North Indian",Dehradun,Jakhan,Quick Bites,11am to 10pm(Mon-Sun),Average,3.2,11
+Doon Memories Bakers & Cafe,250,Bakery,Dehradun,Paltan Bazaar,Bakery,830am to 930pm(Mon-Sun),Average,3.1,6
+ChaiWay,100,"Beverages,Fast Food",Dehradun,Jakhan,Quick Bites,9am to 930pm(Mon-Sun),Average,3.1,7
+Hotel Sukoon,350,"Indian,Chinese",Dehradun,Karanpur,Casual Dining,"8am to 1030am,130pm to 1030pm(Mon-Sun)",Average,3.3,8
+Bake'in,500,"Bakery,Fast Food",Dehradun,Balliwala,Bakery,10am to 10pm(Mon-Sun),Average,2.8,6
+Eat Cake,200,Bakery,Dehradun,Race Course,none,10am to 6pm(Mon-Sun),Average,3.2,7
+Brij Sweets,200,"Street Food,Mithai",Dehradun,Garhi Cantt,Sweet Shop,830am to 1030pm(Mon-Sun),Average,3.2,7
+Hwaz Khas,400,Cafe,Dehradun,Balliwala,Quick Bites,10am to 10pm(Mon-Sun),Average,2.9,7
+Cafe A Square,500,Cafe,Dehradun,Prem Nagar,Café,10am to 930pm(Mon-Sun),Average,2.9,5
+The Bliss House Cafe,400,"North Indian,Chinese",Dehradun,Malsi,Quick Bites,10am to 10pm(Mon-Sun),Average,3.1,5
+Globe Bakers,200,Bakery,Dehradun,Race Course,Bakery,6am to 10pm(Mon-Sun),Average,3.2,5
+Ten 2 Three,150,"Fast Food,Chinese",Dehradun,Jakhan,Quick Bites,NA,Average,3.3,10
+Farm to Fork Cafe,550,"Cafe,Indian,Chinese,Continental,Mexican",Dehradun,Malsi,Café,"6am to 3am(Mon,Wed,Thu,Fri,Sat,Sun),Closed...",Good,3.7,54
+Doon Vegetarian,200,"North Indian,Chinese",Dehradun,Jakhan,Quick Bites,8am to 10pm(Mon-Sun),Average,3.0,7
+Saini’s Fast Food Restaurant,150,"Fast Food,South Indian",Dehradun,Kaonli,Quick Bites,7am to 930pm(Mon-Sun),Average,3.0,9
+Hangout,200,"Ice Cream,Desserts,Beverages",Dehradun,Subhash Nagar,Dessert Parlor,11am to 9pm(Mon-Sun),Average,2.8,5
+Potala Foods,300,"Fast Food,Chinese",Dehradun,Balliwala,Quick Bites,11am to 10pm(Mon-Sun),Average,3.1,7
+Lazeez Restaurant,1200,"Mughlai,Chinese,Continental",Dehradun,Hathibarkala Salwala,Casual Dining,7am to 1030pm(Mon-Sun),Average,3.0,5
+Janta Bakers,250,"Fast Food,Desserts,Bakery",Dehradun,Chukkuwala,Dessert Parlor,8am to 10pm(Mon-Sun),Average,3.0,4
+Bakery Wala,250,Bakery,Dehradun,Chironwali,Quick Bites,8am to 10pm(Mon-Sun),Average,2.8,4
+Basant Restaurant,100,Fast Food,Dehradun,Paltan Bazaar,Quick Bites,7am to 9pm(Mon-Sun),Average,2.9,4
+Binny's Quiznos,300,Fast Food,Dehradun,Rajpur,Quick Bites,11am to 840pm(Mon-Sun),Average,2.9,4
+Chauhan Restaurant,250,North Indian,Dehradun,Race Course,Casual Dining,"8am to 330pm,430pm to 1030pm(Mon-Sun)",Average,3.0,4
+New Abhinandan Restaurant & Sweets,400,"Fast Food,Mithai",Dehradun,Balliwala,Quick Bites,10am to 10pm(Mon-Sun),Average,2.9,4
+Deepu Mukhwas,200,Desserts,Dehradun,Jakhan,Confectionery,10am to 10pm(Mon-Sun),Average,3.0,4
+Duck Chick Restaurant,500,"North Indian,Chinese",Dehradun,Garhi Cantt,Quick Bites,10am to 10pm(Mon-Sun),Average,3.1,4
+Sip with Bite,300,"North Indian,Chinese",Dehradun,Subhash Nagar,Quick Bites,8am to 10pm(Mon-Sun),Average,3.1,5
+Standard Bakers & Fast Food,300,"Desserts,Bakery",Dehradun,Balliwala,Quick Bites,9am to 10pm(Mon-Sun),Average,3.0,5
+Darjeeling Restaurant,300,"North Indian,Chinese",Dehradun,Garhi Cantt,Quick Bites,10am to 10pm(Mon-Sun),Average,2.9,5
+Keventers,400,"Beverages,Ice Cream,Desserts",Dehradun,Karanpur,Beverage Shop,11am to 11pm(Mon-Sun),Good,3.9,34
+Pooja Chaat And Fast Food Corner,300,Fast Food,Dehradun,Paltan Bazaar,Quick Bites,10am to 10pm(Mon-Sun),Average,3.1,6
+Hungry Jax,250,"Fast Food,Italian",Dehradun,Crossroads Mall-- Karanpur,Food Court,1130am to 930pm(Mon-Sun),Average,2.9,5
+Street Surfer,250,Fast Food,Dehradun,Malsi,Quick Bites,2pm to 10pm(Mon-Sun),Average,3.1,5
+Bakes & Cooke's,800,Bakery,Dehradun,Subhash Nagar,Bakery,10am to 10pm(Mon-Sun),Average,3.1,5
+Mahawar Bakers And Sweets,300,"North Indian,South Indian,Chinese",Dehradun,Dharampur,Quick Bites,9am to 9pm(Mon-Sun),Average,2.9,4
+Ammy’s Kitchen,300,"North Indian,Mughlai,Chinese",Dehradun,Prem Nagar,Casual Dining,9am to 9pm(Mon-Sun),Average,3.0,4
+Pizza Italia,200,"Pizza,Italian",Dehradun,Subhash Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,21
+Bake My Day,500,"Bakery,Fast Food",Dehradun,Karanpur,Quick Bites,8am to 10pm(Mon-Sun),Average,2.9,4
+Chadha's Corner,150,"North Indian,Chinese",Dehradun,Chukkuwala,Quick Bites,10am to 10pm(Mon-Sun),Average,3.2,5
+KFC,400,"Burger,Fast Food",Dehradun,Pacific Mall-- Jakhan,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,207
+Just Cafe,500,"Cafe,Fast Food",Dehradun,Race Course,Café,10am to 11pm(Mon-Sun),Very Good,4.0,192
+Singh Darbar,150,North Indian,Dehradun,Karanpur,Quick Bites,9am to 1130pm(Mon-Sun),Average,2.8,227
+Subway,500,"Healthy Food,Sandwich,Salad",Dehradun,Race Course,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.1,205
+Tirupati Restaurant,600,"South Indian,North Indian,Chinese",Dehradun,Chukkuwala,Casual Dining,8am to 11pm(Mon-Sun),Very Good,4.0,286
+Nazim's Kathi Roll,300,"Fast Food,Rolls",Dehradun,Jakhan,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.1,233
+Tonic,1000,"North Indian,Chinese",Dehradun,Ballupur,Casual Dining,11am to 11pm(Mon-Sun),Good,3.9,147
+Pizza Hut,600,Pizza,Dehradun,Hathibarkala Salwala,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,138
+Burger Singh,300,"Fast Food,Burger",Dehradun,Balliwala,Quick Bites,11am to 2am(Mon-Sun),Good,3.8,160
+Crave More,400,"Cafe,Continental,North Indian,Chinese",Dehradun,Vikas Cinemall-- Indira Nagar,Café,11am to 11pm(Mon-Sun),Very Good,4.0,158
+Best Buddy's Restro Cafe,1200,"Asian,North Indian,Street Food,Indian,Continental,Italian,Chinese",Dehradun,Karanpur,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.3,204
+Kwik Bite Centre,300,"Chinese,South Indian,Fast Food",Dehradun,Paltan Bazaar,Quick Bites,10am to 11pm(Mon-Sun),Very Good,4.0,264
+CnD Bakers & Restaurant,250,Fast Food,Dehradun,Paltan Bazaar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,146
+Mago Veg & Non Veg Restaurant,600,"North Indian,Biryani,Chinese,Beverages",Dehradun,Krishna Nagar,Casual Dining,930am to 11pm(Mon-Sun),Very Good,4.0,126
+Meet Me There,350,Fast Food,Dehradun,Krishna Nagar,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.1,94
+Adrash Confectioners,200,"Fast Food,Desserts,Bakery",Dehradun,Garhi Cantt,Confectionery,7am to 10pm(Mon-Sun),Average,3.0,4
+The Dim Sum House,550,"Chinese,Continental,Thai,Momos",Dehradun,Malsi,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,53
+Hill Queen Restro Bar Cafe,800,"Cafe,North Indian",Dehradun,Karanpur,Café,11am to 11pm(Mon-Sun),Good,3.7,61
+The Old Monkeys Cafe,600,"American,Cafe,Italian",Dehradun,Subhash Nagar,Casual Dining,"1030am to 10am(Mon-Fri),24",Average,3.4,56
+The Cake Room,250,"Desserts,Bakery",Dehradun,Prem Nagar,Bakery,10am to 12midnight(Mon-Sun),Good,3.6,44
+The Taco Bahl Restaurant,250,"North Indian,Chinese",Dehradun,Kaonli,Quick Bites,9am to 11pm(Mon-Sun),Good,3.7,55
+Aman Vegetarian,300,North Indian,Dehradun,Race Course,Casual Dining,9am to 11pm(Mon-Sun),Average,3.1,55
+Baskin Robbins,300,Ice Cream,Dehradun,Karanpur,Dessert Parlor,1030am to 1130pm(Mon-Sun),Good,3.8,34
+Hangout Restaurant,250,"North Indian,Chinese",Dehradun,Majra,Quick Bites,"12midnight to 1am,9am to 12midnight...",Average,3.4,45
+Table 99,500,"North Indian,Chinese,Continental",Dehradun,Chironwali,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,52
+Mirchillies,600,"North Indian,Chinese,Mughlai",Dehradun,Subhash Nagar,Casual Dining,"11am to 11pm(Mon,Wed,Thu,Fri,Sat,Sun),Closed...",Good,3.7,48
+Dehra Darbar Restaurant,500,"North Indian,Biryani",Dehradun,Dharampur,Casual Dining,12noon to 1045pm(Mon-Sun),Good,3.5,39
+The Cosmopolitan,900,"North Indian,Chinese",Dehradun,Karanpur,Casual Dining,9am to 11pm(Mon-Sun),Good,3.8,71
+Patiala Lassi Bar,200,"Fast Food,Beverages",Dehradun,Jakhan,Beverage Shop,9am to 11pm(Mon-Sun),Good,3.9,50
+Yo Tibet,300,"Tibetan,Continental,Beverages",Dehradun,Garhi Cantt,Quick Bites,1pm to 11pm(Mon-Sun),Good,3.7,32
+Sagar Ratna,500,South Indian,Dehradun,Jakhan,Casual Dining,10am to 11pm(Mon-Sun),Good,3.7,55
+Uncle Chicken,350,"North Indian,Chinese",Dehradun,Chukkuwala,none,"11am to 11pm(Mon,Wed,Thu,Fri,Sat,Sun),Closed...",Good,3.6,44
+Barbeque Planet,1000,"North Indian,Chinese,Coffee and Tea,Fast Food,Indian,Italian,Sandwich,Street Food",Dehradun,Balliwala,none,12noon to 11pm(Mon-Sun),Average,2.7,63
+Bistro David,500,Fast Food,Dehradun,Prem Nagar,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.1,44
+Gagar Restaurant,200,"North Indian,Chinese",Dehradun,Morowala,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,22
+Café Monroe,800,Cafe,Dehradun,Chironwali,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,48
+Opal Lounge,1600,"North Indian,Continental,Chinese",Dehradun,Chukkuwala,Casual Dining,11am to 11pm(Mon-Sun),Good,3.8,75
+Giani's Ice Cream,150,"Ice Cream,Desserts",Dehradun,Race Course,Dessert Parlor,11am to 1130pm(Mon-Sun),Good,3.7,40
+7 Eleven,500,"Indian,Chinese",Dehradun,Kaonli,Quick Bites,9am to 12midnight(Mon-Sun),Good,3.9,23
+The Black Pearl Lounge and Restro,800,"Chinese,North Indian",Dehradun,Rajpur,Casual Dining,11am to 11pm(Mon-Sun),Average,2.5,56
+K.K Kabab Corner,350,"North Indian,Fast Food",Dehradun,Jakhan,Quick Bites,9am to 1130pm(Mon-Sun),Good,3.5,31
+Edison's Experiments With Milk,300,Beverages,Dehradun,Garhi Cantt,Beverage Shop,11am to 11pm(Mon-Sun),Good,3.7,16
+Dana Pani Restaurant,800,"North Indian,Chinese",Dehradun,Majra,Casual Dining,1030am to 11pm(Mon-Sun),Average,2.7,53
+Khana Khazana,650,"North Indian,Chinese",Dehradun,Subhash Nagar,none,11am to 11pm(Mon-Sun),Good,3.6,42
+Stranger Cafe,300,Cafe,Dehradun,Ashok Spa & Resorts-- Morowala,Café,24,Good,3.5,21
+Epicurean,1800,"Mughlai,Asian,British",Dehradun,Ashok Spa & Resorts-- Morowala,Fine Dining,1230pm to 11pm(Mon-Sun),Good,3.6,18
+The Cob House Restaurant,600,"North Indian,Italian,Chinese,Continental",Dehradun,Karanpur,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,25
+Taka Tak,400,"North Indian,Chinese,South Indian",Dehradun,Ballupur,Quick Bites,"9am to 12noon,1230pm to 11pm(Mon-Sun)",Average,3.4,9
+Naveen Vegetarian,500,North Indian,Dehradun,Ballupur,Casual Dining,10am to 11pm(Mon-Sun),Good,3.6,52
+Doon Paapipet,350,"North Indian,Chinese",Dehradun,Malsi,none,24,Good,3.5,68
+Rajdhani Restaurant,600,"North Indian,Chinese",Dehradun,Balliwala,Quick Bites,10am to 11pm(Mon-Sun),Good,3.6,42
+Shagun Restaurant,300,"Chinese,Fast Food",Dehradun,Dharampur,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.6,51
+Sagar Restaurant - Hotel Ashrey,600,"North Indian,Chinese,Fast Food",Dehradun,Race Course,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,32
+The Pavilion,1100,"North Indian,Continental,Chinese",Dehradun,Hotel President-- Karanpur,Casual Dining,7am to 11pm(Mon-Sun),Good,3.8,36
+Terrazzo,400,"North Indian,Chinese,Continental,Burger,Indian,Pizza",Dehradun,Ballupur,Fine Dining,11am to 11pm(Mon-Sun),Average,3.4,12
+Kebabs & Biryani,500,North Indian,Dehradun,Vikas Cinemall-- Indira Nagar,Quick Bites,2pm to 1045pm(Mon-Sun),Average,3.3,40
+G7 Fine Dine and Pub,1200,"Chinese,Continental,North Indian,Mughlai",Dehradun,Kaonli,Fine Dining,12noon to 11pm(Mon-Sun),Average,3.4,46
+The Park-Sports Bistro,800,"Chinese,North Indian,Continental,Italian",Dehradun,Balliwala,Casual Dining,1130am to 1130pm(Mon-Sun),Good,3.5,26
+Chicken Point,500,North Indian,Dehradun,Hathibarkala Salwala,none,"615pm to 1055pm(Mon,Wed,Thu,Fri,Sat,Sun)...",Average,3.2,49
+Punjabi Dhaba,300,"North Indian,Chinese",Dehradun,Paltan Bazaar,Quick Bites,7am to 12midnight(Mon-Sun),Good,3.6,27
+Rollacosta,350,Fast Food,Dehradun,Pacific Mall-- Jakhan,Food Court,11am to 11pm(Mon-Sun),Good,3.8,24
+The Foodie's Soul,600,North Indian,Dehradun,Chironwali,Quick Bites,"12midnight to 4am,5pm to 12midnight(Mon-Sun)",Average,3.4,30
+Biryani Pind Di,200,"North Indian,Biryani",Dehradun,Chukkuwala,Quick Bites,12noon to 12midnight(Mon-Sun),Average,3.1,14
+Wat A Roll,250,,Dehradun,Malsi,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,20
+The Barons Restaurant,700,"North Indian,Chinese",Dehradun,Garhi Cantt,Quick Bites,10am to 11pm(Mon-Sun),Good,3.7,42
+Chawlas 2 Since 1960,800,"Mughlai,North Indian",Dehradun,Hathibarkala Salwala,Casual Dining,11am to 11pm(Mon-Sun),Average,2.6,40
+Al-Baik's Broasted,250,Fast Food,Dehradun,Krishna Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,28
+Hotel Sunder Palace,750,"North Indian,Chinese",Dehradun,Majra,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,19
+Mulberry Woods Cafe Restro,300,"Chinese,North Indian,Lebanese",Dehradun,Kaonli,Casual Dining,"11am to 11pm(Mon-Sat),9am to 1125pm(Sun)",Good,3.5,36
+Street Bite,200,Street Food,Dehradun,Dharampur,Quick Bites,11am to 1130pm(Mon-Sun),Average,3.0,7
+Chuski Chai,200,Tea,Dehradun,Balliwala,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,17
+Hong Kong Restaurant,600,"Asian,Thai,Chinese",Dehradun,Hathibarkala Salwala,Casual Dining,11am to 1130pm(Mon-Sun),Good,3.6,31
+Paapipet,500,"North Indian,Chinese",Dehradun,Jakhan,Quick Bites,24,Average,3.4,20
+Crust - Ramada Dehradun,1500,Cafe,Dehradun,Ramada Dehradun,Café,24,Good,3.9,37
+The Clay Pot,500,"Chinese,Indian,Mughlai,Afghan",Dehradun,Balliwala,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,31
+Siddharth Restaurant,600,"North Indian,South Indian",Dehradun,Race Course,none,8am to 11pm(Mon-Sun),Good,3.6,34
+Tandoori,400,"North Indian,Middle Eastern,Mughlai,Mediterranean,Mexican",Dehradun,Jakhan,Quick Bites,1130am to 11pm(Mon-Sun),Good,3.7,32
+MOB- The Revolution Lounge,1000,"Continental,North Indian,Italian",Dehradun,Rajpur,Lounge,12noon to 12midnight(Mon-Sun),Good,3.5,45
+Curry Club Restaurant - Hotel Crown Royale,1000,"North Indian,Mughlai,Chinese",Dehradun,Kaonli,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,16
+Mughal Zaika,450,North Indian,Dehradun,Paltan Bazaar,Casual Dining,8am to 11pm(Mon-Sun),Good,3.5,26
+Grill Inn,200,"Fast Food,Pizza,Wraps,Roast Chicken",Dehradun,Morowala,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,24
+Thali @ Home,200,North Indian,Dehradun,Chukkuwala,Quick Bites,1pm to 11pm(Mon-Sun),Average,3.3,11
+Scoops Ice Cream Cafe,300,"Ice Cream,Beverages,Fast Food",Dehradun,Ballupur,Quick Bites,1030am to 1130pm(Mon-Sun),Average,3.4,20
+Ghai Kulfi,100,"Desserts,Ice Cream",Dehradun,Race Course,Dessert Parlor,9am to 11pm(Mon-Sun),Average,3.4,21
+Dana Pani Family Restaurant,800,"North Indian,Chinese",Dehradun,Majra,Casual Dining,1030am to 11pm(Mon-Sun),Good,3.5,16
+Savor Hut,350,"Chinese,North Indian",Dehradun,Kaonli,Quick Bites,10am to 11pm(Mon-Sun),Good,3.8,39
+Prakash and Brothers Dhaba,150,North Indian,Dehradun,Majra,Quick Bites,"10am to 4pm,630pm to 11pm(Mon-Sun)",Average,3.3,13
+Punjabi Zayka Chicken Point & Restaurant,400,"North Indian,Chinese",Dehradun,Race Course,Quick Bites,"11am to 1130pm(Mon,Wed,Thu,Sun),Closed...",Average,3.3,15
+Best Buddy's Cafe,500,"Cafe,Fast Food",Dehradun,Malsi,Café,11am to 11pm(Mon-Sun),Very Good,4.3,120
+Vatika Restaurant - Hotel Madhuban,1200,"North Indian,Chinese,Continental",Dehradun,Hotel Madhuban-- Hathibarkala Salwala,Fine Dining,7am to 1130pm(Mon-Sun),Excellent,4.7,99
+Five Star Janta,200,"Fast Food,Mithai,Bakery",Dehradun,Ballupur,Quick Bites,9am to 11pm(Mon-Sun),Very Good,4.0,120
+Gulab Sweets & Restaurants,200,"Mithai,Fast Food,North Indian",Dehradun,Jakhan,Sweet Shop,8am to 11pm(Mon-Sun),Good,3.7,89
+Paradise,900,"Chinese,North Indian,Continental",Dehradun,Karanpur,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.4,81
+Rajdhani Express,300,"North Indian,Chinese",Dehradun,Dharampur,none,9am to 12midnight(Mon-Sun),Average,2.9,58
+Nathu's Sweets,500,"Mithai,North Indian,South Indian,Fast Food",Dehradun,Ballupur,Quick Bites,9am to 11pm(Mon-Sun),Good,3.8,162
+L'Opéra Salon de Thé,1000,"Bakery,Desserts,Fast Food,Cafe",Dehradun,Karanpur,Dessert Parlor,730am to 1130pm(Mon-Sun),Very Good,4.2,80
+Downtown Multicusine Restaurant,700,"North Indian,Chinese,Desserts,Beverages,Ice Cream,Tea",Dehradun,Chironwali,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.1,157
+The Punjabi Essence Restaurant,800,"South Indian,Chinese,North Indian",Dehradun,Chukkuwala,Fine Dining,11am to 11pm(Mon-Sun),Good,3.9,208
+Brew Factory,1000,"Italian,Continental",Dehradun,Malsi,Microbrewery,12noon to 12midnight(Mon-Sun),Very Good,4.0,154
+Eden's Grove,1000,"Thai,Chinese,North Indian",Dehradun,Rajpur,Casual Dining,1230pm to 11pm(Mon-Sun),Excellent,4.5,72
+Uss Da Dhaba,350,North Indian,Dehradun,Race Course,Dhaba,"1144am to 1025pm(Mon-Wed),1145am to 1025pm...",Very Good,4.2,579
+Aura Restaurant,750,"North Indian,Chinese,Italian",Dehradun,Ballupur,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,101
+70 Percent Restro Cafe,600,"Cafe,Italian,Continental,Healthy Food,Momos",Dehradun,Ballupur,Café,11am to 10pm(Mon-Sun),Excellent,4.5,318
+Bottoms Up Bistro,1000,"North Indian,Continental",Dehradun,Rajpur,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,25
+Aaqa Dhaba,350,North Indian,Dehradun,Paltan Bazaar,Dhaba,10am to 11pm(Mon-Sun),Good,3.6,21
+Grand Chatlok Cafe & Multicuisine Restaurant,500,"North Indian,Chinese,Continental",Dehradun,Chukkuwala,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,17
+Sams Restaurant and Cafe,250,"North Indian,Fast Food",Dehradun,Rajpur,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,22
+Nawabi Kolkata,700,"North Indian,Awadhi",Dehradun,Malsi,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,24
+New Al-Baik's,300,Fast Food,Dehradun,Jakhan,Quick Bites,11am to 11pm(Mon-Sun),Average,2.7,20
+Rajdhani Restaurant,400,"North Indian,Chinese",Dehradun,Ballupur,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,29
+Walnut Restaurant,500,"North Indian,Chinese",Dehradun,Kaonli,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,10
+Pappa Sai Naivedyam,300,"North Indian,South Indian",Dehradun,Jakhan,Casual Dining,8am to 11pm(Mon-Sun),Average,2.8,11
+Ludhiana Fast Food,250,Fast Food,Dehradun,Laxman Chowk,Quick Bites,4pm to 11pm(Mon-Sun),Average,2.8,11
+Punjabi Rasoi,500,"North Indian,Chinese",Dehradun,Chukkuwala,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,11
+Yang's Chinese Junction,300,Chinese,Dehradun,Raipur,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,24
+Ajay Foods,300,Fast Food,Dehradun,Malsi,Quick Bites,9am to 11pm(Mon-Sun),Good,3.5,20
+MJ Restaurant - MJ Residency,1500,"North Indian,Chinese,Continental",Dehradun,Race Course,Fine Dining,11am to 11pm(Mon-Sun),Good,3.8,29
+The Pizza Bite,500,Fast Food,Dehradun,Dharampur,Quick Bites,11am to 11pm(Mon-Sun),Poor,2.4,28
+Lucky Da Dhaba,150,North Indian,Dehradun,Race Course,Dhaba,8am to 11pm(Mon-Sun),Average,3.4,22
+Chakna Point,150,"Fast Food,Chinese",Dehradun,Chukkuwala,Quick Bites,12noon to 12midnight(Mon-Sun),Average,3.1,6
+Noor Family Restaurant,500,North Indian,Dehradun,Ballupur,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.6,34
+Punjabi kulture,200,North Indian,Dehradun,Malsi,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,14
+Desi Kitchen,250,"Indian,Chinese",Dehradun,Malsi,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,12
+Indo Chillies Multi Cuisine Family Restaurant,200,"North Indian,Chinese,Continental",Dehradun,Kaonli,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,13
+Bonnie's Punjabi Tadkaa,500,"North Indian,Chinese",Dehradun,Race Course,Dhaba,"1230pm to 4pm,6pm to 11pm(Mon,Wed,Thu,Fri...",Good,3.6,27
+ARK Restaurant,500,"Chinese,North Indian",Dehradun,Race Course,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,14
+Nukkad,600,North Indian,Dehradun,Race Course,Casual Dining,"930am to 1130pm(Mon,Wed,Thu,Fri,Sat,Sun)...",Average,3.3,20
+Food Runner,800,"Cafe,Japanese",Dehradun,Malsi,Café,11am to 11pm(Mon-Sun),Good,3.7,14
+Lemon Chilli Family Restaurant,400,"North Indian,Chinese",Dehradun,Jogiwala,Quick Bites,9am to 11pm(Mon-Sun),Average,3.3,20
+New Uska Punjabi Dhaba,300,"North Indian,Fast Food,Desserts,Chinese,Bakery",Dehradun,Paltan Bazaar,Confectionery,10am to 1am(Mon-Sun),Average,3.3,14
+The Mom's Restaurant,300,North Indian,Dehradun,Kaonli,Quick Bites,10am to 11pm(Mon-Sun),Average,3.2,14
+Food Mafia,400,"North Indian,Chinese,Italian",Dehradun,Krishna Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,13
+Aura Fast Food,450,"Chinese,Fast Food,South Indian",Dehradun,Ballupur,Quick Bites,9am to 11pm(Mon-Sun),Average,3.4,19
+Night Owls,149,"Fast Food,North Indian,Chinese",Dehradun,Morowala,Quick Bites,1pm to 11pm(Mon-Sun),Average,3.4,20
+Star Cruize Lounge & Bar,1000,"North Indian,Mughlai,Chinese,Continental",Dehradun,Hathibarkala Salwala,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,19
+Kebab King,300,"North Indian,Chinese,Mughlai",Dehradun,Garhi Cantt,Quick Bites,1pm to 11pm(Mon-Sun),Average,3.4,24
+PUBG Lounge & Cafe,200,"North Indian,Chinese",Dehradun,Ballupur,Café,11am to 11pm(Mon-Sun),Average,3.1,5
+Barista,500,Cafe,Dehradun,Balliwala,Café,9am to 1230AM(Mon-Sun),Good,3.5,17
+Bollywood Cafe & Restaurant,1000,North Indian,Dehradun,Garhi Cantt,Casual Dining,10am to 11pm(Mon-Sun),Average,3.3,12
+Desi Adda,500,"North Indian,Fast Food",Dehradun,Hathibarkala Salwala,Quick Bites,2pm to 1130pm(Mon-Sun),Average,3.2,21
+Amritsari Chaap Wale,400,"Chinese,Mughlai,Street Food,Grill,Momos",Dehradun,Race Course,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,25
+New Doon Spices Multicuisine Restaurant & Cafe,350,"Chinese,Fast Food,North Indian",Dehradun,Karanpur,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,5
+New 7 Days Restaurant,500,"North Indian,Chinese",Dehradun,Paltan Bazaar,Casual Dining,9am to 11pm(Mon-Sun),Average,2.7,18
+Giani,350,Ice Cream,Dehradun,Hathibarkala Salwala,Dessert Parlor,11am to 11pm(Mon-Sun),Average,3.3,12
+Biryani House,200,Biryani,Dehradun,Garhi Cantt,Quick Bites,"12noon to 11pm(Mon,Wed,Thu,Fri,Sat,Sun)...",Average,3.3,14
+Doon Kathi Food Hub,250,"Fast Food,Street Food",Dehradun,Kaonli,Quick Bites,10am to 11pm(Mon-Sun),Average,3.1,6
+The Doors Food Outlet,300,Fast Food,Dehradun,Jakhan,none,12noon to 11pm(Mon-Sun),Good,3.5,19
+Regale Restaurant - Hotel Kamla Palace,800,"North Indian,Chinese",Dehradun,Kaonli,Casual Dining,7am to 11pm(Mon-Sun),Average,3.4,15
+The Food Festival,850,"North Indian,Chinese,Biryani,South Indian",Dehradun,Dharampur,Casual Dining,11am to 11pm(Mon-Sun),Average,3.0,13
+Sadguru Vegetarian,300,North Indian,Dehradun,Chukkuwala,Dhaba,7am to 11pm(Mon-Sun),Average,3.4,18
+Taste of haryana,250,"North Indian,Chinese",Dehradun,Malsi,Quick Bites,"9am to 1130pm(Mon),9am to 11pm(Tue-Sun)",Average,3.3,9
+Allen n Marlee's - Ramada Dehradun,1200,"Beverages,North Indian,Continental",Dehradun,Ramada Dehradun,Microbrewery,5pm to 11pm(Mon-Sun),Average,3.3,6
+Banjaara Restaurant,800,"North Indian,Chinese",Dehradun,Karanpur,none,10am to 11pm(Mon-Sun),Average,2.9,11
+Suri's Vegetarian,600,"North Indian,Chinese",Dehradun,Rajpur,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,15
+Ali's Non Veg & Veg,550,"North Indian,Mughlai",Dehradun,Paltan Bazaar,Quick Bites,1pm to 2am(Mon-Sun),Good,3.5,19
+Oliver's Cafe,250,"Continental,Chinese,Mexican,Fast Food",Dehradun,Malsi,Quick Bites,9am to 11pm(Mon-Sun),Average,3.2,14
+Giani,350,"Ice Cream,Beverages",Dehradun,Ballupur,Dessert Parlor,11am to 11pm(Mon-Sun),Average,3.1,5
+Mast Banarasi Paan Dehradun,250,Desserts,Dehradun,Jakhan,Dessert Parlor,11am to 12midnight(Mon-Sun),Average,3.3,13
+Chicken Adda,400,"North Indian,Fast Food",Dehradun,Kaonli,Quick Bites,11am to 11pm(Mon-Sun),Average,2.8,7
+Head Over Heels - Hotel Madhuban,1000,Finger Food,Dehradun,Hotel Madhuban-- Hathibarkala Salwala,Bar,12noon to 11pm(Mon-Sun),Average,3.4,10
+The Four S,500,"Chinese,North Indian",Dehradun,Garhi Cantt,Casual Dining,10am to 11pm(Mon-Sun),Average,2.6,12
+Chawla's,0,North Indian,Dehradun,Kaonli,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,17
+Rendezvous Dine Bistro,550,"North Indian,Italian,Sandwich,Seafood,Indian,Ice Cream,Fast Food,Desserts",Dehradun,Hathibarkala Salwala,Casual Dining,10am to 11pm(Mon-Sun),Average,3.2,12
+Sweetcorn Cafe And Restaurant,350,North Indian,Dehradun,Garhi Cantt,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,5
+Payal Restaurant,600,"North Indian,Chinese",Dehradun,Chukkuwala,Quick Bites,11am to 11pm(Mon-Sun),Average,2.7,15
+Flavours Restaurant - Hotel Doon Castle,800,"North Indian,Chinese,Continental",Dehradun,Hotel Doon Castle-- Kaonli,Casual Dining,8am to 11pm(Mon-Sun),Average,3.4,14
+Coco Rico - Hotel JSR Continental,1000,"South Indian,North Indian,Italian,Continental,Chinese",Dehradun,Dharampur,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,4
+The Spot,450,"Italian,Chinese,Cafe",Dehradun,Jakhan,Café,11am to 11pm(Mon-Sun),Average,3.3,12
+Best Of India Multicusine Family Restaurant,400,"Chinese,North Indian,Continental",Dehradun,Chukkuwala,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,7
+Hyderabadi Biryani & Chicken Point,350,"Biryani,Fast Food,Rolls",Dehradun,Jakhan,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,18
+Punjabi By Culture,350,"Indian,Chinese",Dehradun,Jakhan,Quick Bites,24,Average,3.4,9
+Flavour,250,"North Indian,Chinese",Dehradun,Prem Nagar,Quick Bites,11am to 12midnight(Mon-Sun),Average,3.2,6
+Hotel Siddharth Paradise Restaurant,800,"North Indian,Mughlai,Chinese,Continental",Dehradun,Race Course,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,13
+Tandoori Hub,350,"North Indian,Chinese",Dehradun,Dharampur,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,4
+Moti Mahal,700,North Indian,Dehradun,Pacific Mall-- Jakhan,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,12
+The Meera Restaurant & Lounge,800,"North Indian,Chinese,Mughlai",Dehradun,Khurbura,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,16
+Flavour Cafe & Huts,400,"Chinese,Mughlai",Dehradun,Prem Nagar,Quick Bites,10am to 11pm(Mon-Sun),Average,3.1,5
+Negi Family Restaurant,250,"North Indian,Chinese",Dehradun,Race Course,Quick Bites,11am to 11pm(Mon-Sun),Average,2.8,9
+Uncle M Hungry Gold,300,"Biryani,North Indian,Chinese,Burger,Sandwich",Dehradun,Jakhan,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,12
+Alcove,1200,"North Indian,Chinese,Continental,Mughlai",Dehradun,Hathibarkala Salwala,Casual Dining,7am to 11pm(Mon-Sun),Average,3.2,8
+Punjabi Tadka,300,North Indian,Dehradun,Chironwali,Quick Bites,11am to 11pm(Mon-Sun),Average,2.9,5
+The Mint Leaf Restaurant - Hotel Shiva Residency,1000,"North Indian,Chinese,Continental,Finger Food",Dehradun,Hathibarkala Salwala,Casual Dining,730am to 11pm(Mon-Sun),Average,3.2,9
+Hotel Amar Heights,750,"North Indian,Chinese",Dehradun,Race Course,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,15
+In-Peace Cafe & Restaurant.,350,"Cafe,North Indian,Fast Food,Chinese",Dehradun,Chironwali,Café,11am to 11pm(Mon-Sun),Average,3.0,4
+Amola's,600,North Indian,Dehradun,Morowala,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,10
+R Foods,300,Fast Food,Dehradun,Balliwala,Food Truck,11am to 11pm(Mon-Sun),Average,3.1,4
+Little Indian,500,"Chinese,North Indian",Dehradun,Dharampur,Quick Bites,10am to 11pm(Mon-Sun),Average,3.0,8
+UK07 Restro,1000,"North Indian,Awadhi",Dehradun,Ballupur,Casual Dining,11am to 11pm(Mon-Sun),Average,3.0,4
+Dieto Fix Family Restaurant,300,"Fast Food,Chinese,Healthy Food",Dehradun,Ballupur,Quick Bites,10am to 11pm(Mon-Sun),Average,3.1,5
+New Al Baik's Chicken,350,"North Indian,Fast Food",Dehradun,Garhi Cantt,Quick Bites,10am to 12midnight(Mon-Sun),Average,2.8,6
+Vadilal Scoop Shop,200,"Fast Food,Desserts,Ice Cream",Dehradun,Garhi Cantt,Dessert Parlor,"11am to 11pm(Mon-Sat),3pm to 11pm(Sun)",Average,3.1,5
+My Kitchen,350,North Indian,Dehradun,Karanpur,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,9
+Chawla's 2 Online.com,600,"Chinese,North Indian,Mughlai",Dehradun,Paltan Bazaar,none,8am to 11pm(Mon-Sun),Good,3.5,6
+The Old Republic,800,"Finger Food,North Indian",Dehradun,Hathibarkala Salwala,Casual Dining,10am to 12midnight(Mon-Sun),Average,3.1,5
+Chilliz Premium & Guru Kripa Sweets,250,North Indian,Dehradun,Dharampur,Casual Dining,11am to 11pm(Mon-Sun),Average,2.8,4
+Doon Kitchen,500,"North Indian,Chinese",Dehradun,Jakhan,Casual Dining,11am to 11pm(Mon-Sun),Average,3.0,4
+Punjabi Rasoi,400,North Indian,Dehradun,Malsi,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,5
+Navratna Restaurant,400,North Indian,Dehradun,Balliwala,Quick Bites,"12noon to 5pm,7pm to 1130pm(Mon-Sun)",Average,2.7,9
+Open Heart Family Restaurant,300,North Indian,Dehradun,Karanpur,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,4
+Thanvi Restaurant and Fast Food,400,Fast Food,Dehradun,Subhash Nagar,Quick Bites,8am to 11pm(Mon-Sun),Average,3.0,4
+The Pizza Bite,400,Pizza,Dehradun,Dharampur,Quick Bites,1030am to 1130pm(Mon-Sun),Average,3.1,8
+The Spice Restro and Bar,1000,"North Indian,Chinese,Continental",Dehradun,Karanpur,Casual Dining,11am to 11pm(Mon-Sun),Average,3.0,7
+The Bottle Yard,600,"North Indian,Cafe",Dehradun,Jakhan,Café,1130am to 11pm(Mon-Sun),Average,2.9,5
+King-Al-Baik,200,Fast Food,Dehradun,Malsi,Quick Bites,9am to 11pm(Mon-Sun),Average,3.1,7
+Cafe De Loboz,250,Fast Food,Dehradun,Rajpur,Quick Bites,12noon to 12midnight(Mon-Sun),Average,3.0,6
+The Kitchen By MJ Grand Inn,700,"North Indian,Chinese,Continental",Dehradun,Chukkuwala,Casual Dining,11am to 11pm(Mon-Sun),Average,3.1,4
+Jagraata,300,North Indian,Dehradun,Paltan Bazaar,none,12noon to 3am(Mon-Sun),Average,3.0,5
+Bay Leaf - Hotel Ambassador,1000,"North Indian,Continental,Chinese",Dehradun,Chukkuwala,Casual Dining,830am to 11pm(Mon-Sun),Average,3.0,4
+The Yellow Chilli,1000,North Indian,Dehradun,Hathibarkala Salwala,Casual Dining,11am to 1130pm(Mon-Sun),Very Good,4.0,139
+Bowwow,800,"Mexican,International,Street Food,Indian,Fusion,American,Chinese",Dehradun,Jakhan,Casual Dining,12noon to 11pm(Mon-Sun),Very Good,4.3,96
+The V Cafe,450,"Cafe,Fast Food",Dehradun,Hathibarkala Salwala,Café,11am to 11pm(Mon-Sun),Very Good,4.1,131
+Anandam,650,"Desserts,North Indian,Chinese,South Indian,Fast Food,Street Food",Dehradun,Hathibarkala Salwala,Casual Dining,8am to 10pm(Mon-Sun),Very Good,4.2,378
+KC Soup Bar,250,"Fast Food,Chinese,Tibetan,Momos",Dehradun,Jakhan,Dhaba,1030am to 1030pm(Mon-Sun),Good,3.9,253
+Ellora's Melting Moments,250,"Desserts,Bakery,Fast Food",Dehradun,Chukkuwala,Bakery,8am to 10pm(Mon-Sun),Very Good,4.3,310
+FroRolls,200,"Desserts,Ice Cream",Dehradun,Hathibarkala Salwala,Dessert Parlor,1230pm to 1130pm(Mon-Sun),Very Good,4.1,87
+9 Downtown,350,"Cafe,Momos",Dehradun,Malsi,Café,10am to 11pm(Mon-Sun),Good,3.9,97
+Amritsari Junction,200,North Indian,Dehradun,Jakhan,Quick Bites,"1245pm to 11pm(Mon),12noon to 11pm(Tue,Wed...",Good,3.7,105
+Tuhada Dhaba,200,North Indian,Dehradun,Majra,Dhaba,"11am to 1030pm(Mon,Tue,Thu,Fri,Sat,Sun)...",Very Good,4.1,230
+Kalsang Friends Corner,800,"Chinese,Thai,Tibetan,Momos",Dehradun,Hathibarkala Salwala,Casual Dining,12noon to 1030pm(Mon-Sun),Very Good,4.4,814
+Pahalwan Paratha Dhabba,400,North Indian,Dehradun,Prem Nagar,Dhaba,8am to 12midnight(Mon-Sun),Good,3.9,63
+Punjab Restaurant,700,"North Indian,Chinese",Dehradun,Race Course,Casual Dining,11am to 11pm(Mon-Sun),Good,3.8,169
+Prez Restaurant,2000,"North Indian,Chinese,Continental",Dehradun,Hotel President-- Karanpur,Casual Dining,"11am to 3pm,7pm to 11pm(Mon-Sun)",Very Good,4.0,159
+Salt & Cravings,500,"Cafe,Desserts",Dehradun,Hotel President-- Karanpur,Café,11am to 11pm(Mon-Sun),Very Good,4.1,104
+Angeethi Restaurant,200,"Fast Food,North Indian",Dehradun,Dharampur,Quick Bites,5pm to 10pm(Mon-Sun),Very Good,4.0,152
+The Swings Cafe,600,"Continental,Chinese,Thai,Mexican",Dehradun,Jakhan,Casual Dining,11am to 1030pm(Mon-Sun),Very Good,4.3,82
+Bottle Kitchen & Co,1000,"North Indian,Chinese,Continental,Mediterranean,Mexican",Dehradun,Jakhan,Casual Dining,"11am to 11pm(Mon,Wed,Thu,Fri),Closed...",Very Good,4.2,71
+Udupi Cafe Bangalore Idli,300,South Indian,Dehradun,Karanpur,Quick Bites,7am to 10pm(Mon-Sun),Very Good,4.0,208
+Domnik Pizza,350,Pizza,Dehradun,Prem Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,67
+Lemon Grass Garden,450,Cafe,Dehradun,Hathibarkala Salwala,Café,930am to 11pm(Mon-Sun),Good,3.9,73
+Thee Heart,1100,"North Indian,Chinese",Dehradun,Vikas Cinemall-- Indira Nagar,Fine Dining,1130am to 11pm(Mon-Sun),Good,3.8,151
+Berco's,1100,"Chinese,Momos",Dehradun,Hathibarkala Salwala,Casual Dining,11am to 11pm(Mon-Sun),Good,3.8,94
+Anandpuri Restaurant,400,"North Indian,South Indian,Mishti,Desserts",Dehradun,Hathibarkala Salwala,Sweet Shop,830am to 930pm(Mon-Sun),Very Good,4.0,143
+Cafe Cibo,800,"Cafe,Italian,Desserts",Dehradun,Race Course,Café,10am to 10pm(Mon-Sun),Good,3.6,149
+Old Ellora's Bakers and Confectioners,250,"Desserts,Bakery",Dehradun,Chukkuwala,Bakery,10am to 945pm(Mon-Sun),Very Good,4.0,155
+VUE,650,"Italian,Continental,Cafe",Dehradun,Jakhan,Café,11am to 11pm(Mon-Sun),Good,3.8,72
+The Jail,500,"Cafe,Continental,Chinese",Dehradun,Malsi,Café,930am to 11pm(Mon-Sun),Poor,2.4,111
+The Tavern Restaurant,1500,"North Indian,Chinese,Continental,Italian,Thai",Dehradun,Crossroads Mall-- Karanpur,Casual Dining,11am to 11pm(Mon-Sun),Good,3.9,121
+BakeMasters,200,"Fast Food,Desserts,Bakery",Dehradun,Chukkuwala,Bakery,"8am to 930pm(Mon-Sat),11am to 2pm(Sun)",Very Good,4.3,148
+Central Perk Cafe,300,"Fast Food,Chinese,Continental",Dehradun,Race Course,Café,11am to 11pm(Mon-Sun),Good,3.5,70
+Sunset Home Kitchen,500,"North Indian,Chinese",Dehradun,Karanpur,Casual Dining,12noon to 1030pm(Mon-Sun),Very Good,4.1,209
+Eltham Bakery & Coffee House,500,"Bakery,Cafe",Dehradun,Malsi,Bakery,9am to 11pm(Mon-Sun),Very Good,4.1,101
+Bawarchi,800,"North Indian,Chinese,Pizza",Dehradun,Majra,Casual Dining,"11am to 4pm,6pm to 1030pm(Mon-Sun)",Very Good,4.0,152
+3C's Cafe,550,Chinese,Dehradun,Chukkuwala,Casual Dining,1030am to 1030pm(Mon-Sun),Very Good,4.0,163
+Aunty's Kitchen,250,"North Indian,Healthy Food",Dehradun,Jakhan,Quick Bites,10am to 11pm(Mon-Sun),Good,3.6,87
+Y Cafe & Restaurant,500,Cafe,Dehradun,Karanpur,Café,12noon to 10pm(Mon-Sun),Good,3.9,194
+aAL-Baik Family Restaurant,250,"Fast Food,North Indian",Dehradun,Garhi Cantt,Casual Dining,11am to 1130pm(Mon-Sun),Good,3.5,102
+BMG - All Day Dining,400,"Chinese,North Indian,Fast Food",Dehradun,Jakhan,Casual Dining,11am to 1030pm(Mon-Sun),Very Good,4.0,175
+Nany's Bakery,300,"Bakery,Fast Food,Italian,Chinese,Momos",Dehradun,Karanpur,Bakery,830am to 930pm(Mon-Sun),Very Good,4.1,120
+Cafe BMG,600,"Rolls,Chinese,Cafe,Momos",Dehradun,Balliwala,Café,11am to 1030pm(Mon-Sun),Good,3.8,242
+Sheesha Lounge & Restaurant,900,"Italian,Continental,Chinese,North Indian",Dehradun,Krishna Nagar,Casual Dining,"11am to 11pm(Mon,Tue,Wed,Thu,Fri,Sun),11am...",Good,3.7,121
+The Shawarma King,200,Fast Food,Dehradun,Dharampur,Quick Bites,10am to 10pm(Mon-Sun),Good,3.7,76
+Ashnan Restaurant,500,"Chinese,North Indian,Fast Food",Dehradun,Jakhan,Casual Dining,11am to 10pm(Mon-Sun),Good,3.7,159
+Krazy for Coffee,350,Cafe,Dehradun,Balliwala,Café,10am to 10pm(Mon-Sun),Good,3.8,92
+Chicken Inn,700,North Indian,Dehradun,Hathibarkala Salwala,Dhaba,11am to 11pm(Mon-Sun),Good,3.8,106
+Roll Baby Roll,150,"Rolls,Fast Food",Dehradun,Majra,none,11am to 11pm(Mon-Sun),Good,3.9,52
+Nath's Chinese,200,"Chinese,Momos",Dehradun,Hathibarkala Salwala,Quick Bites,2pm to 1030pm(Mon-Sun),Good,3.9,131
+Rising Dough,500,Cafe,Dehradun,Hathibarkala Salwala,Café,10am to 1030pm(Mon-Sun),Very Good,4.0,118
+Rajdhani Chicken Point,200,North Indian,Dehradun,Race Course,Dhaba,5pm to 11pm(Mon-Sun),Good,3.7,150
+Katman's Kitchen & Bar,1200,Finger Food,Dehradun,Jakhan,Lounge,12noon to 11pm(Mon-Sun),Good,3.5,64
+Gulab Sweets,300,"Mithai,Fast Food,North Indian",Dehradun,Subhash Nagar,Sweet Shop,11am to 1030pm(Mon-Sun),Good,3.9,67
+Kathi Express,350,"Rolls,Fast Food",Dehradun,Jakhan,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,70
+31 Flavours,350,"Chinese,Italian,North Indian,South Indian,Momos",Dehradun,Paltan Bazaar,Quick Bites,10am to 10pm(Mon-Sun),Good,3.6,86
+Naveen Vegetarian,550,North Indian,Dehradun,Paltan Bazaar,Casual Dining,11am to 10pm(Mon-Sun),Good,3.8,143
+The Garage Dine-In,850,North Indian,Dehradun,Ballupur,Casual Dining,"130pm to 1030pm(Mon,Wed,Thu,Fri,Sat,Sun)...",Good,3.9,92
+Base 'N' Burger,250,"Fast Food,Sandwich",Dehradun,Karanpur,Quick Bites,10am to 9pm(Mon-Sun),Good,3.8,95
+Zen Panda,700,"Chinese,Momos",Dehradun,Malsi,Quick Bites,"1130am to 10pm(Mon-Thu),9am to 10pm(Fri),9am...",Good,3.9,35
+Desi Chulha,800,North Indian,Dehradun,Malsi,Casual Dining,9am to 10pm(Mon-Sun),Very Good,4.2,98
+Big Bee's Pizza,550,Italian,Dehradun,Malsi,Quick Bites,12noon to 930pm(Mon-Sun),Good,3.9,70
+Savour Flavour,700,"North Indian,Chinese,Fast Food",Dehradun,Majra,Casual Dining,11am to 1030pm(Mon-Sun),Average,3.2,82
+Monkey Fist Cafe,400,"Cafe,Fast Food",Dehradun,Chironwali,Café,"Closed(Mon),2pm to 10pm(Tue-Sat),11am to 10pm(Sun)",Good,3.9,93
+Hungry Hobbit Coffee House,500,"Cafe,Continental",Dehradun,Subhash Nagar,Café,11am to 10pm(Mon-Sun),Good,3.6,81
+Kumar Sweet Shop,450,"North Indian,South Indian,Chinese,Mithai",Dehradun,Jakhan,Quick Bites,830am to 10pm(Mon-Sun),Good,3.7,69
+Anghithi Hot Drive,200,"Fast Food,North Indian",Dehradun,Dharampur,Quick Bites,10am to 10pm(Mon-Sun),Good,3.8,86
+Noodle House,600,"Chinese,Thai,Tibetan",Dehradun,Hathibarkala Salwala,Casual Dining,11am to 11pm(Mon-Sun),Good,3.7,74
+Standard Bakers & Fast Food,200,"Bakery,Fast Food",Dehradun,Garhi Cantt,Bakery,9am to 10pm(Mon-Sun),Good,3.9,59
+Lip and Sip,300,Fast Food,Dehradun,Karanpur,Casual Dining,10am to 10pm(Mon-Sun),Average,3.2,97
+The Bong Twist,500,Bengali,Dehradun,Chironwali,Casual Dining,"Closed(Mon),1145am to 10pm(Tue-Sun)",Very Good,4.0,84
+Beans & Cream Cafe & Lounge,500,"Cafe,Italian,Continental",Dehradun,Garhi Cantt,Café,10am to 11pm(Mon-Sun),Very Good,4.0,115
+Level One,900,"North Indian,Chinese,Continental",Dehradun,Hathibarkala Salwala,Fine Dining,12noon to 11pm(Mon-Sun),Good,3.7,127
+Nostalgia,500,"North Indian,Chinese,Desserts,Indian,Italian,Continental,European",Dehradun,Krishna Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,52
+My Wife's Place,800,"North Indian,Chinese",Dehradun,Hathibarkala Salwala,Fine Dining,11am to 11pm(Mon-Sun),Good,3.9,130
+Hunger Bell,300,"Chinese,North Indian,Ice Cream",Dehradun,Paltan Bazaar,Quick Bites,830am to 9pm(Mon-Sun),Good,3.8,68
+Delhi Chicken Point,450,"North Indian,Mughlai",Dehradun,Ballupur,Quick Bites,6pm to 10pm(Mon-Sun),Good,3.8,86

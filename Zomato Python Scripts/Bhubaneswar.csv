@@ -1,0 +1,800 @@
+Name,Price,Cuisine_Category,City,Region,Cuisine_Type,Timing,Rating_Types,Rating,Votes
+Biryani Bhubaneswar,300,Biryani,Bhubaneswar,Kharabela Nagar,Quick Bites,11am to 1am(Mon-Sun),Very Good,4.0,1403
+Chili's Grill & Bar,700,"Tex-Mex,Fast Food",Bhubaneswar,Sahid Nagar,Casual Dining,12noon to 11pm(Mon-Sun),Excellent,4.9,303
+Narula's Restaurant,600,"North Indian,Mughlai",Bhubaneswar,Ashok Nagar,Casual Dining,8am to 11pm(Mon-Sun),Very Good,4.4,934
+Biryani247,300,"Biryani,North Indian,Mughlai,Momos",Bhubaneswar,Satya Nagar,none,10am to 12midnight(Mon-Sun),Good,3.9,1112
+Biggies Burger 'n' More,300,Fast Food,Bhubaneswar,Patia,Quick Bites,1030am to 1130pm(Mon-Sun),Very Good,4.4,679
+Sher-e-Punjab,500,"North Indian,Chinese,Mughlai",Bhubaneswar,Khandagiri,Casual Dining,12noon to 11pm(Mon-Sun),Good,3.7,660
+KFC,500,"Burger,Fast Food",Bhubaneswar,Kharabela Nagar,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.2,672
+9th Bistro,700,"North Indian,Continental,Chinese",Bhubaneswar,Sahid Nagar,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.3,292
+Domino's Pizza,700,"Pizza,Fast Food",Bhubaneswar,Patia,Quick Bites,11am to 12midnight(Mon-Sun),Very Good,4.0,835
+Three Kings,600,"Arabian,Mughlai,Lebanese",Bhubaneswar,Patia,Casual Dining,11am to 11pm(Mon-Sun),Excellent,4.5,334
+The Hungrill,200,Fast Food,Bhubaneswar,Sahid Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,441
+Brothers Kitchen & Fast Food,350,"North Indian,Chinese,Fast Food",Bhubaneswar,Chandrasekharpur,Quick Bites,12noon to 12midnight(Mon-Sun),Good,3.6,496
+Bawarchi ten11 Restaurant,350,"North Indian,South Indian,Chinese,Fast Food",Bhubaneswar,Kharabela Nagar,Quick Bites,102am to 11pm(Mon-Sun),Good,3.7,598
+Aangan Horizon,1200,"North Indian,Chinese,Continental",Bhubaneswar,Patia,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.2,922
+Foodzo,300,"Chinese,North Indian",Bhubaneswar,Khandagiri,none,1130am to 11pm(Mon-Sun),Very Good,4.0,401
+Stark Bistro,600,Cafe,Bhubaneswar,Patia,Café,11am to 10pm(Mon-Sun),Very Good,4.0,216
+Qdoba,250,"Mexican,Fast Food",Bhubaneswar,Satya Nagar,Food Truck,530pm to 1030pm(Mon-Sun),Very Good,4.3,367
+Keyar's Food Multi Cuisine,600,"North Indian,Chinese",Bhubaneswar,Sahid Nagar,Casual Dining,11am to 1030pm(Mon-Sun),Good,3.8,419
+Charcoal,800,"Chinese,Continental,North Indian,Italian",Bhubaneswar,Patia,Casual Dining,"1145am to 345pm,630pm to 1030pm(Mon-Sun)",Very Good,4.2,533
+Dalma,500,Oriya,Bhubaneswar,Unit 4,Casual Dining,"1130am to 330pm,7pm to 1030pm(Mon-Sun)",Good,3.7,367
+Hunger Station,400,"Chinese,Continental,North Indian,Mexican",Bhubaneswar,Patia,Casual Dining,1230pm to 1030pm(Mon-Sun),Good,3.9,304
+Sardar Ji Restaurant,300,North Indian,Bhubaneswar,Patia,Quick Bites,10am to 10pm(Mon-Sun),Good,3.6,417
+Khopcha,450,"Mexican,Chinese,Continental",Bhubaneswar,Patia,Casual Dining,12noon to 10pm(Mon-Sun),Good,3.9,297
+Malva Restaurant,1000,"North Indian,Chinese,Continental,Thai",Bhubaneswar,Patia,Casual Dining,"11am to 330pm,7pm to 1030pm(Mon-Sun)",Very Good,4.2,498
+The Kanopy - Exotic Rooftop Restaurant,900,"Chinese,Cafe,Continental,Modern Indian",Bhubaneswar,Patia,Casual Dining,1130am to 1030pm(Mon-Sun),Good,3.7,498
+Gupshup,250,Cafe,Bhubaneswar,Kharabela Nagar,Quick Bites,9am to 930pm(Mon-Sun),Good,3.6,331
+WOW Biryani,250,Biryani,Bhubaneswar,BJB Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,91
+Genuine Broaster Chicken,500,"Continental,American",Bhubaneswar,Patia,Quick Bites,11am to 1030pm(Mon-Sun),Very Good,4.3,455
+Grand Kalinga,500,"North Indian,Chinese",Bhubaneswar,Chandrasekharpur,Casual Dining,"11am to 3pm,6pm to 1030pm(Mon-Sun)",Good,3.8,436
+BrewBakes 7 Sky,300,"Desserts,Cafe,Bakery",Bhubaneswar,Jagmohan Nagar,Bakery,10am to 1030pm(Mon-Sun),Good,3.9,360
+Cream Stone,400,"Desserts,Ice Cream",Bhubaneswar,Jayadev Vihar,Dessert Parlor,10am to 10pm(Mon-Sun),Excellent,4.6,273
+Baba's Exotic Biryani Lounge,400,Biryani,Bhubaneswar,Nayapalli,Casual Dining,12noon to 1030pm(Mon-Sun),Good,3.8,267
+Spice Club,600,"Biryani,Kebab,North Indian",Bhubaneswar,Jagmohan Nagar,Casual Dining,11am to 1030pm(Mon-Sun),Good,3.9,189
+Echoes,1900,"Finger Food,Chinese,Fast Food,North Indian",Bhubaneswar,Patia,Bar,12noon to 1030pm(Mon-Sun),Very Good,4.0,212
+Capital Biryani Centre,500,"North Indian,Biryani",Bhubaneswar,Chandrasekharpur,Quick Bites,"1130am to 330pm,630pm to 1030pm...",Good,3.8,365
+Priya,300,"South Indian,North Indian",Bhubaneswar,Jayadev Vihar,Casual Dining,"7am to 11am,12noon to 3pm,4pm to 1030pm(Mon-Sun)",Very Good,4.0,337
+All Swag,600,Cafe,Bhubaneswar,Jagmohan Nagar,Casual Dining,11am to 1030pm(Mon-Sun),Good,3.8,344
+Mughlai Roast,300,"Mughlai,Biryani",Bhubaneswar,Chandrasekharpur,Quick Bites,"1230pm to 4pm,630pm to 10pm(Mon-Sun)",Good,3.8,507
+Dakhin 9,500,"North Indian,Chinese",Bhubaneswar,Chandrasekharpur,Casual Dining,"12noon to 330pm,7pm to 1030pm(Mon-Sun)",Good,3.8,426
+Dolphin Restaurant,400,Fast Food,Bhubaneswar,Patia,Quick Bites,"10am to 330pm,7pm to 1030pm(Mon-Sun)",Good,3.9,268
+Lal Qila,600,"Mughlai,Chinese,North Indian",Bhubaneswar,Patia,Casual Dining,"12noon to 330pm,730pm to 1030pm(Mon-Sun)",Very Good,4.0,547
+House of Biryani,300,"Biryani,Chinese,Mughlai",Bhubaneswar,Patia,Quick Bites,11am to 1030pm(Mon-Sun),Average,2.7,422
+Cafe Italiano,400,"Fast Food,Italian",Bhubaneswar,Chandrasekharpur,Quick Bites,12noon to 1030pm(Mon-Sun),Very Good,4.2,330
+Momo Cafe,200,"Tibetan,Momos",Bhubaneswar,Kharabela Nagar,Quick Bites,3pm to 9pm(Mon-Sun),Very Good,4.3,333
+Truptee Restaurant,400,"North Indian,South Indian,Chinese",Bhubaneswar,Lakshmi Sagar,Casual Dining,7am to 1030pm(Mon-Sun),Very Good,4.0,351
+9th Street,800,"North Indian,Chinese,Continental,Beverages",Bhubaneswar,Unit 4,Casual Dining,1030am to 1030pm(Mon-Sun),Good,3.9,392
+Carbon,400,"North Indian,Mughlai,Chinese",Bhubaneswar,Patia,Casual Dining,12noon to 1030pm(Mon-Sun),Good,3.8,573
+Barbecue Odisha,1100,North Indian,Bhubaneswar,Chandrasekharpur,Casual Dining,"11am to 11pm(Mon,Tue,Wed,Fri,Sat),830am to ...",Average,3.1,136
+Shohala Ana Odia,600,"Chinese,Bengali,Oriya",Bhubaneswar,Patia,Casual Dining,"1230pm to 330pm,730pm to 1030pm(Mon-Sun)",Good,3.9,275
+Little Chef,500,"North Indian,Chinese",Bhubaneswar,Patia,Quick Bites,11am to 1030pm(Mon-Sun),Average,3.2,246
+Spice & Chilly's,300,"Chinese,North Indian",Bhubaneswar,Jagmohan Nagar,Quick Bites,1130am to 1030pm(Mon-Sun),Good,3.9,216
+Chhapan Bhog,150,"Mithai,North Indian,Chinese",Bhubaneswar,Jayadev Vihar,Sweet Shop,"7am to 11am,12noon to 10pm(Mon-Sun)",Good,3.8,287
+Waffle House,350,"Desserts,Beverages,Cafe",Bhubaneswar,Jagmohan Nagar,Dessert Parlor,10am to 1030pm(Mon-Sun),Very Good,4.2,166
+Aarth Cafe & Restro,500,"Continental,North Indian,Chinese",Bhubaneswar,Patia,Casual Dining,11am to 1030pm(Mon-Sun),Good,3.9,267
+Honey Bliss,600,"Continental,Chinese,Bakery,Cafe,Momos",Bhubaneswar,Patia,Bakery,830am to 10pm(Mon-Sun),Average,3.4,151
+Cafe Frespresso,500,Cafe,Bhubaneswar,Patia,Café,9am to 1030pm(Mon-Sun),Good,3.9,283
+The Hunger's Point,200,North Indian,Bhubaneswar,Chandrasekharpur,Quick Bites,"1130am to 4pm,630pm to 11pm(Mon-Sun)",Good,3.5,98
+Milky Den Veg Restaurant,300,North Indian,Bhubaneswar,Kharabela Nagar,Casual Dining,"1130am to 4pm,630pm to 10pm(Mon-Sat),1130am...",Very Good,4.0,304
+XO CAFE - Prangan by Mango Hotels,700,"North Indian,Chinese,Continental,South Indian",Bhubaneswar,Prangan by Mango Hotel-- Lakshmi Sagar,Casual Dining,7am to 11pm(Mon-Sun),Good,3.9,127
+Garam Masala,500,"North Indian,Chinese",Bhubaneswar,Chandrasekharpur,Casual Dining,"1115am to 4pm,645pm to 1030pm(Mon-Sun)",Good,3.6,387
+Cha cTea,500,"Cafe,Tea",Bhubaneswar,Sahid Nagar,Café,8am to 10pm(Mon-Sun),Good,3.8,214
+Crazzy Eggs,600,Fast Food,Bhubaneswar,Gajapati Nagar,Quick Bites,830am to 1030pm(Mon-Sun),Good,3.8,117
+Aangan Highway,900,"North Indian,Continental,Chinese",Bhubaneswar,Patia,Casual Dining,12noon to 11pm(Mon-Sun),Good,3.9,58
+Foresta AC Family Restaurant,300,"Chinese,North Indian,Fast Food",Bhubaneswar,Sahid Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,95
+Hotel Shirose,700,"North Indian,South Indian,Chinese",Bhubaneswar,BJB Nagar,Casual Dining,7am to 1030pm(Mon-Sun),Good,3.7,261
+Hotel Charlie,250,"North Indian,Chinese",Bhubaneswar,Kharabela Nagar,Quick Bites,"11am to 4pm,7pm to 11pm(Mon-Sun)",Good,3.7,121
+Manomay,200,"Mithai,Chinese,Street Food,North Indian",Bhubaneswar,Lakshmi Sagar,Sweet Shop,730am to 930pm(Mon-Sun),Good,3.8,105
+Tangerine 99,1100,"North Indian,Chinese",Bhubaneswar,Satya Nagar,Casual Dining,12noon to 1030pm(Mon-Sun),Good,3.8,348
+The Veg World,300,Fast Food,Bhubaneswar,Khandagiri,Quick Bites,1130am to 10pm(Mon-Sun),Good,3.6,138
+Monginis,300,"Fast Food,Desserts",Bhubaneswar,Sahid Nagar,Quick Bites,8am to 10pm(Mon-Sun),Good,3.8,231
+Burrp Out,400,"North Indian,South Indian,Chinese",Bhubaneswar,Chandrasekharpur,Quick Bites,8am to 11pm(Mon-Sun),Good,3.6,149
+Brewbakes,200,"Mexican,Fast Food,Beverages,Bakery",Bhubaneswar,Jatni,Quick Bites,10am to 10pm(Mon-Sun),Good,3.5,49
+Mughal Mings,500,"North Indian,Chinese,Mughlai",Bhubaneswar,Surya Nagar,Casual Dining,11am to 1030pm(Mon-Sun),Good,3.7,159
+Sai Baba Pawbajhi,100,Street Food,Bhubaneswar,Sahid Nagar,Quick Bites,11am to 10pm(Mon-Sun),Very Good,4.0,152
+Serrano,400,"Chinese,North Indian",Bhubaneswar,Jayadev Vihar,Casual Dining,"12noon to 330pm,630pm to 10pm(Mon-Sun)",Good,3.8,178
+99 North Restaurant,500,"North Indian,Chinese",Bhubaneswar,Patia,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,107
+Dawat,400,"North Indian,Chinese",Bhubaneswar,Sahid Nagar,Casual Dining,"11am to 3pm,7pm to 10pm(Mon-Sun)",Average,3.4,325
+Maharaja Vadapav & Dabeli,200,Fast Food,Bhubaneswar,Sahid Nagar,Quick Bites,9am to 10pm(Mon-Sun),Good,3.9,196
+The Chef Restaurant,600,"North Indian,Chinese",Bhubaneswar,Nayapalli,Casual Dining,1130am to 1030pm(Mon-Sun),Good,3.9,201
+Go Cool,500,"Bakery,Fast Food",Bhubaneswar,Sahid Nagar,Bakery,9am to 10pm(Mon-Sun),Very Good,4.0,210
+Paradise Kitchen Hyderabadi Biriyani,500,Biryani,Bhubaneswar,Patia,Quick Bites,10am to 10pm(Mon-Sun),Good,3.6,221
+Chopstix,550,"Seafood,North Indian,Chinese,Momos",Bhubaneswar,Kalinga Nagar,Casual Dining,10am to 1030pm(Mon-Sun),Good,3.7,176
+The Veg World,250,"North Indian,Chinese,Continental",Bhubaneswar,Patia,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,53
+Suvy's Cafe,200,Fast Food,Bhubaneswar,Kharabela Nagar,Quick Bites,11am to 930pm(Mon-Sun),Good,3.8,286
+Jaalazza- The Urban Dhaba,600,"Indian,North Indian,Chinese",Bhubaneswar,Patia,Casual Dining,"12noon to 330pm,730pm to 1030pm(Mon-Sun)",Good,3.7,204
+Scholars,300,"North Indian,Chinese",Bhubaneswar,Jagmohan Nagar,Quick Bites,1120am to 1030pm(Mon-Sun),Good,3.7,134
+Chilly & Chilly,300,North Indian,Bhubaneswar,Sahid Nagar,Quick Bites,10am to 10pm(Mon-Sun),Poor,2.4,229
+Rainbow Cafe,500,"North Indian,Chinese,Mughlai",Bhubaneswar,Nayapalli,Casual Dining,11am to 1030pm(Mon-Sun),Good,3.8,204
+All Dough Bakers,200,"Fast Food,Bakery",Bhubaneswar,Jatni,Quick Bites,10am to 10pm(Mon-Sun),Good,3.6,35
+Food Express,400,"Fast Food,Biryani",Bhubaneswar,Kharabela Nagar,Quick Bites,1230pm to 9pm(Mon-Sun),Good,3.9,289
+Bombay Kulfi,200,"Ice Cream,Desserts",Bhubaneswar,Patia,Dessert Parlor,10am to 10pm(Mon-Sun),Very Good,4.0,109
+Tandoor Matka,120,"Fast Food,Beverages,Biryani,Chinese",Bhubaneswar,Kharabela Nagar,Beverage Shop,"8am to 3pm,5pm to 1030pm(Mon-Sun)",Good,3.8,62
+South Express,500,"South Indian,North Indian",Bhubaneswar,Lakshmi Sagar,Casual Dining,"8am to 1030pm(Mon-Sat),8am to 10pm(Sun)",Good,3.9,144
+The Hub,700,"North Indian,Chinese,Continental",Bhubaneswar,Patia,Casual Dining,1030am to 1030pm(Mon-Sun),Average,3.4,227
+Tikkas 'N' Tacos,500,"North Indian,Continental,Italian,Mexican",Bhubaneswar,Patia,Quick Bites,"11am to 1029pm(Mon),11am to 1145pm(Tue),11am...",Good,3.6,151
+The Second Wife Kitchen,400,"North Indian,Chinese",Bhubaneswar,Jatni,Quick Bites,"11am to 11pm(Mon),7am to 10pm(Tue-Sun)",Good,3.5,42
+O' Kareem Restaurant,600,"North Indian,Biryani",Bhubaneswar,Kharabela Nagar,Casual Dining,"12noon to 330pm,7pm to 1030pm(Mon-Sun)",Good,3.8,198
+Cuisinic Salad Bar,750,"Healthy Food,Salad,Chinese,North Indian",Bhubaneswar,Sahid Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,139
+Tawaa Tandoor,650,"Indian,Mughlai,Chinese",Bhubaneswar,Sahid Nagar,Casual Dining,11am to 11pm(Mon-Sun),Good,3.9,100
+Shree Vineeth's,200,"South Indian,Mithai",Bhubaneswar,Kharabela Nagar,Quick Bites,7am to 10pm(Mon-Sun),Good,3.9,181
+Country Kitchen,450,"South Indian,North Indian,Mughlai",Bhubaneswar,Chandrasekharpur,Quick Bites,"12noon to 330pm,630pm to 1030pm(Mon-Sun)",Good,3.7,167
+MDC Restaurant,400,"North Indian,Chinese",Bhubaneswar,Patia,Casual Dining,"1130am to 330pm,630pm to 1030pm(Mon-Sun)",Good,3.9,242
+Mio Amore,200,"Fast Food,Bakery,Desserts",Bhubaneswar,Sahid Nagar,Bakery,830am to 930pm(Mon-Sun),Good,3.9,185
+Wheelies,200,Fast Food,Bhubaneswar,Kharabela Nagar,Quick Bites,12noon to 10pm(Mon-Sun),Very Good,4.2,173
+Shann's Shack,850,"North Indian,Chinese,Continental",Bhubaneswar,Unit 4,Casual Dining,8am to 1030pm(Mon-Sun),Good,3.7,74
+Dalchini,500,"North Indian,South Indian,Biryani",Bhubaneswar,Patia,Casual Dining,930am to 1030pm(Mon-Sun),Good,3.6,125
+Urban Flavours,300,"North Indian,Chinese",Bhubaneswar,Kharabela Nagar,Quick Bites,5pm to 10pm(Mon-Sun),Good,3.9,153
+Wild Berry,800,"North Indian,Chinese,Fast Food",Bhubaneswar,Patia,Casual Dining,"10am to 3pm,530pm to 10pm(Mon-Sun)",Good,3.7,144
+Now Biriyani,300,Biryani,Bhubaneswar,Lakshmi Sagar,Quick Bites,11am to 10pm(Mon-Sun),Average,3.0,37
+Venus Restaurant,500,"North Indian,South Indian,Chinese",Bhubaneswar,Patrapada,Casual Dining,7am to 10pm(Mon-Sun),Good,3.7,128
+Hotel Venus,600,"North Indian,Chinese,South Indian",Bhubaneswar,Surya Nagar,Casual Dining,1130am to 1030pm(Mon-Sun),Good,3.8,136
+Ten Minutes - Pal Heights,400,"Bakery,Fast Food",Bhubaneswar,Pal Heights-- Jayadev Vihar,Bakery,11am to 930pm(Mon-Sun),Very Good,4.0,120
+Shanghai Express - Hotel Marrion,1200,Chinese,Bhubaneswar,New Marrion Hotel-- Kharabela Nagar,Fine Dining,12noon to 11pm(Mon-Sun),Good,3.7,122
+Swad Restaurant,500,"North Indian,Chinese",Bhubaneswar,Lakshmi Sagar,Quick Bites,11am to 1030pm(Mon-Sun),Average,2.9,100
+Venus Inn Restaurant,700,"North Indian,South Indian,Chinese",Bhubaneswar,Bapuji Nagar,Casual Dining,"10am to 3pm,7pm to 1030pm(Mon-Sun)",Good,3.7,112
+Bismillah Biryani Zone,200,"North Indian,Chinese",Bhubaneswar,Jatni,Quick Bites,12noon to 9pm(Mon-Sun),Average,2.9,41
+Gupta's Sweets & Chat's,300,"North Indian,South Indian,Street Food,Mithai",Bhubaneswar,Lakshmi Sagar,Quick Bites,730am to 930pm(Mon-Sun),Good,3.8,109
+The Tandoori Night,400,"Fast Food,Mughlai",Bhubaneswar,Chandrasekharpur,Quick Bites,4pm to 10pm(Mon-Sun),Good,3.5,177
+Desi Dhaba,400,"Chinese,North Indian,Oriya",Bhubaneswar,Patia,Quick Bites,"11am to 330pm,7pm to 1030pm(Mon-Sun)",Average,3.3,203
+The Spice Valley,400,"Chinese,North Indian,Mughlai",Bhubaneswar,Jayadev Vihar,Casual Dining,12noon to 1030pm(Mon-Sun),Good,3.7,137
+Ssaanchee's,600,"Oriya,Chinese,North Indian",Bhubaneswar,Chandrasekharpur,Casual Dining,"1130am to 330pm,630pm to 1030pm(Mon-Sun)",Good,3.7,188
+BabuMoshai,500,North Indian,Bhubaneswar,Sahid Nagar,Casual Dining,"1145am to 330pm,645pm to 1030pm(Mon-Sun)",Good,3.8,116
+Silver Paradise,300,North Indian,Bhubaneswar,Unit 4,Quick Bites,"1130am to 330pm,7pm to 1030pm(Mon-Sun)",Average,3.2,74
+New Taj Fast Food,300,"North Indian,Chinese",Bhubaneswar,Sahid Nagar,Quick Bites,1230pm to 1030pm(Mon-Sun),Good,3.9,132
+Abhiruchi,500,South Indian,Bhubaneswar,Chandrasekharpur,Casual Dining,"7am to 330pm,530pm to 1030pm(Mon-Sun)",Good,3.7,174
+Curry Nation,450,"Bengali,Oriya,North Indian",Bhubaneswar,Chandrasekharpur,none,1145am to 1030pm(Mon-Sun),Good,3.9,110
+Venus Premium,600,"North Indian,Chinese,Oriya",Bhubaneswar,Chandrasekharpur,Casual Dining,"11am to 3pm,7pm to 10pm(Mon-Sun)",Average,3.4,125
+Bapu Restaurant,300,"Chinese,North Indian",Bhubaneswar,Sahid Nagar,Casual Dining,11am to 1030pm(Mon-Sun),Good,3.6,150
+Cream & Spicy,200,"Bakery,Desserts",Bhubaneswar,Jagmohan Nagar,Bakery,1030am to 10pm(Mon-Sun),Good,3.7,66
+Sania snacks,200,Fast Food,Bhubaneswar,Patia,Quick Bites,"11am to 10pm(Mon-Sat),5pm to 10pm(Sun)",Good,3.9,144
+Mom's Place,300,North Indian,Bhubaneswar,Patia,Quick Bites,10am to 10pm(Mon-Sun),Good,3.9,91
+Maharaja Hotel and Restaurant,800,North Indian,Bhubaneswar,Sahid Nagar,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,133
+Sizzling Hub,500,"Chinese,North Indian",Bhubaneswar,Surya Nagar,Casual Dining,11am to 1030pm(Mon-Sun),Good,3.7,82
+Hide Away Restro and Cafe,300,"North Indian,Tea",Bhubaneswar,Unit 4,Casual Dining,9am to 10pm(Mon-Sun),Very Good,4.0,102
+Food Junction,300,"Fast Food,Chinese,North Indian",Bhubaneswar,Khandagiri,Quick Bites,12noon to 1030pm(Mon-Sun),Good,3.7,95
+The Great Babylon,600,"North Indian,Fast Food",Bhubaneswar,Khandagiri,Casual Dining,1030am to 1030pm(Mon-Sun),Good,3.7,149
+DFC,400,Fast Food,Bhubaneswar,Sahid Nagar,Quick Bites,10am to 11pm(Mon-Sun),Poor,2.3,145
+Shree Lal Food Plaza,200,"North Indian,South Indian,Chinese",Bhubaneswar,Khandagiri,Casual Dining,8am to 10pm(Mon-Sun),Good,3.7,51
+Pushpak Restaurant,200,Oriya,Bhubaneswar,Khandagiri,Quick Bites,8am to 11pm(Mon-Sun),Average,3.4,89
+Maa Matihandi Mutton,250,North Indian,Bhubaneswar,Chandrasekharpur,Quick Bites,"11am to 3pm,7pm to 10pm(Mon-Sun)",Very Good,4.0,180
+Indian Fried Chicken,500,Fast Food,Bhubaneswar,Patia,Quick Bites,11am to 1030pm(Mon-Sun),Average,3.3,166
+Hashtag,350,"North Indian,Fast Food",Bhubaneswar,Patia,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,80
+Food Junction,500,"North Indian,Chinese,Fast Food,South Indian",Bhubaneswar,Bapuji Nagar,Food Court,8am to 11pm(Mon-Sun),Average,2.7,135
+The Klove,800,"North Indian,Chinese",Bhubaneswar,Jagmohan Nagar,Casual Dining,11am to 1030pm(Mon-Sun),Good,3.6,121
+Just Momos,200,"Fast Food,Chinese,Momos",Bhubaneswar,Patia,Quick Bites,10am to 10pm(Mon-Sun),Good,3.6,143
+Chennai Raja's Dosa House,100,South Indian,Bhubaneswar,Unit 4,Quick Bites,7am to 1030pm(Mon-Sun),Good,3.7,78
+Refresh Live,250,"Beverages,Bakery,Burger,Cafe Food,Sandwich",Bhubaneswar,Nayapalli,Quick Bites,9am to 1030pm(Mon-Sun),Good,3.5,75
+Flaming Wok,500,Chinese,Bhubaneswar,Jagmohan Nagar,Casual Dining,1130am to 1030pm(Mon-Sun),Good,3.8,147
+QDOBA,200,"North Indian,Chinese,Fast Food",Bhubaneswar,Patia,Quick Bites,5pm to 10pm(Mon-Sun),Good,3.9,98
+Cinnabon,300,"Cafe,Coffee,Beverages,Desserts",Bhubaneswar,Sahid Nagar,Café,11am to 1030pm(Mon-Sun),Very Good,4.1,72
+Roll Junction,300,Fast Food,Bhubaneswar,Sahid Nagar,Quick Bites,5pm to 10pm(Mon-Sun),Good,3.5,140
+Cafe Coffee Day,650,"Cafe,Fast Food",Bhubaneswar,Jayadev Vihar,Café,24,Good,3.6,96
+Sri Radhe Radhe Pure Veg Restaurant,400,North Indian,Bhubaneswar,Nayapalli,Casual Dining,1130am to 1030pm(Mon-Sun),Average,3.4,121
+Global Belly - Hotel Seetal,950,"North Indian,Continental,Oriya",Bhubaneswar,Hotel Seetal-- Sahid Nagar,Casual Dining,"12noon to 3pm,7pm to 1030pm(Mon-Sun)",Good,3.9,122
+KFCC,400,"Fast Food,North Indian,Chinese",Bhubaneswar,Kalinga Nagar,Quick Bites,1130am to 1030pm(Mon-Sun),Good,3.5,103
+Confetti - Hotel Marrion,250,Desserts,Bhubaneswar,New Marrion Hotel-- Kharabela Nagar,Dessert Parlor,830am to 11pm(Mon-Sun),Very Good,4.0,63
+Viswam Multi Cuisine Restaurant,700,North Indian,Bhubaneswar,Bapuji Nagar,Casual Dining,10am to 10pm(Mon-Sun),Average,3.4,73
+Tangy Tomato,300,"Fast Food,Chinese,North Indian",Bhubaneswar,Chandrasekharpur,Quick Bites,"1130am to 4pm,6pm to 1030pm(Mon-Sun)",Good,3.5,38
+Omm Sai Ram Fast Food,200,"Fast Food,Chinese",Bhubaneswar,Chandrasekharpur,Quick Bites,2pm to 11pm(Mon-Sun),Average,3.4,138
+Celebrations Marwari Rasoi,200,"South Indian,Fast Food",Bhubaneswar,Patia,Quick Bites,"8am to 2pm,4pm to 10pm(Mon-Sun)",Good,3.8,104
+Hayat Biryani,300,"Biryani,North Indian",Bhubaneswar,Patia,Quick Bites,12noon to 10pm(Mon-Sun),Good,3.6,93
+Misky's Sweet N Sour,500,"Fast Food,Mithai",Bhubaneswar,Chandrasekharpur,Dessert Parlor,730am to 1030pm(Mon-Sun),Good,3.8,110
+Hydrabadi Biryani House,200,"North Indian,Chinese",Bhubaneswar,Jatni,Quick Bites,1230pm to 930pm(Mon-Sun),Average,3.2,24
+Mellony,1000,"North Indian,Thai,Chinese,Continental",Bhubaneswar,Patia,Bar,"12noon to 330pm,7pm to 1030pm(Mon-Sun)",Good,3.9,122
+Bhookaa,600,"Arabian,Chinese,Indian",Bhubaneswar,Patia,Casual Dining,1230pm to 11pm(Mon-Sun),Very Good,4.0,857
+Mad Moose Artisan Gelato,200,"Ice Cream,Desserts",Bhubaneswar,Patia,Dessert Parlor,10am to 12midnight(Mon-Sun),Excellent,4.6,292
+Kathi Junction,300,Fast Food,Bhubaneswar,Sahid Nagar,Quick Bites,"1130am to 1030pm(Mon,Tue,Thu),1130am to ...",Good,3.9,740
+Pizza Hut,600,"Pizza,Italian",Bhubaneswar,Kharabela Nagar,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.1,584
+WTF - We The Foodies,800,"North Indian,Italian,Continental,Chinese",Bhubaneswar,Sahid Nagar,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.1,623
+Phoodiez Junket,400,"Italian,Continental,Cafe,North Indian",Bhubaneswar,Patia,Casual Dining,11am to 11pm(Mon-Sun),Good,3.9,392
+3Q Restaurant,600,"North Indian,Chinese",Bhubaneswar,Nayapalli,Casual Dining,11am to 11pm(Mon-Sun),Average,2.9,722
+Keyar's Food,200,South Indian,Bhubaneswar,Sahid Nagar,Casual Dining,7am to 11pm(Mon-Sun),Good,3.9,453
+SMOG Resto Cafe,800,"North Indian,Chinese,Continental",Bhubaneswar,Gajapati Nagar,Casual Dining,"1130am to 1045pm(Mon,Wed,Thu,Fri,Sat,Sun)...",Very Good,4.1,530
+Odisha Fried Chicken,150,"Fast Food,Sandwich,Burger",Bhubaneswar,Patia,Quick Bites,24,Very Good,4.0,284
+Shiraz Golden Restaurant,600,"North Indian,Biryani,Mughlai",Bhubaneswar,Unit 4,Casual Dining,12noon to 11pm(Mon-Sun),Good,3.8,746
+Brewberrys The Coffee Bar,400,Cafe,Bhubaneswar,Patia,Café,1030am to 11pm(Mon-Sun),Excellent,4.7,802
+Richard's Kitchen & Coffee Bar,500,"Cafe,Chinese,Fast Food,Seafood",Bhubaneswar,Patia,Café,11am to 11pm(Mon-Sun),Very Good,4.0,685
+Zaika - Pal Heights,1500,"Continental,Chinese,North Indian",Bhubaneswar,Pal Heights-- Jayadev Vihar,Fine Dining,"1130am to 330pm,630pm to 11pm(Mon-Sun)",Very Good,4.1,516
+Gabbar Da Adda,500,North Indian,Bhubaneswar,Kalinga Nagar,Quick Bites,NA,Good,3.7,103
+The London Shakes,300,"Pizza,Cafe,Desserts",Bhubaneswar,Patia,Quick Bites,1030am to 1030pm(Mon-Sun),Good,3.9,67
+Hunger Club,400,"American,Italian,Continental",Bhubaneswar,Lakshmi Sagar,Quick Bites,12noon to 10pm(Mon-Sun),Good,3.8,52
+Culinary Project,500,"Chinese,Continental",Bhubaneswar,Patia,Casual Dining,12noon to 11pm(Mon-Sun),Good,3.7,86
+Namaste Jee,300,"North Indian,Chinese",Bhubaneswar,Ashok Nagar,Quick Bites,"12noon to 430pm,730pm to 1030pm(Mon-Sun)",Good,3.5,76
+Hyderi Couizine,400,Hyderabadi,Bhubaneswar,Patia,Casual Dining,11am to 1030pm(Mon-Sun),Average,3.4,107
+Just a Minute,500,Fast Food,Bhubaneswar,Chandrasekharpur,Quick Bites,"11am to 4pm,7pm to 11pm(Mon-Sun)",Average,3.3,132
+Kohinoor Restaurant,500,"Biryani,Chinese",Bhubaneswar,Patia,Quick Bites,1130am to 1030pm(Mon-Sun),Average,3.0,97
+Han Dynasty,500,Chinese,Bhubaneswar,Jayadev Vihar,Quick Bites,1030am to 1030pm(Mon-Sun),Good,3.7,75
+Cookies Premium,200,"Bakery,Fast Food",Bhubaneswar,Sahid Nagar,Bakery,10am to 10pm(Mon-Sun),Average,2.8,73
+Biriyanisthan,300,"Mughlai,North Indian",Bhubaneswar,Chandrasekharpur,Quick Bites,"1130am to 330pm,7pm to 11pm(Mon,Sat,Sun)...",Good,3.6,80
+Food City,500,"North Indian,Chinese",Bhubaneswar,Ashok Nagar,Quick Bites,1030am to 930pm(Mon-Sun),Average,3.3,68
+Firangi Mithai,250,Bakery,Bhubaneswar,Sahid Nagar,Bakery,830am to 1030pm(Mon-Sun),Good,3.6,68
+Chicken Adda,400,"Fast Food,Sandwich,North Indian,Juices,Indian,Desserts,Burger",Bhubaneswar,Surya Nagar,Quick Bites,11am to 10pm(Mon-Sun),Average,3.4,45
+Dominique Restaurants,300,"Continental,Chinese",Bhubaneswar,Patia,Quick Bites,1230pm to 1030pm(Mon-Sun),Good,3.9,29
+Squish Chinese Food Court,400,Bakery,Bhubaneswar,Bapuji Nagar,Bakery,1115am to 1015pm(Mon-Sun),Average,3.3,11
+Feel Light,300,North Indian,Bhubaneswar,Baramunda,none,9am to 1030pm(Mon-Sun),Average,2.8,71
+The Cake Room,200,Bakery,Bhubaneswar,Nayapalli,Bakery,11am to 9pm(Mon-Sun),Good,3.7,78
+Bonfire,500,"Italian,Fast Food",Bhubaneswar,Kharabela Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,124
+Fainting Bulls,500,"Thai,Chinese",Bhubaneswar,Patia,Casual Dining,"12noon to 3pm,6pm to 10pm(Mon-Sun)",Good,3.8,36
+New South Indian Restaurant,350,South Indian,Bhubaneswar,Bapuji Nagar,Casual Dining,630am to 1030pm(Mon-Sun),Good,3.7,93
+Laziz,400,"North Indian,Biryani,Chinese,Rolls",Bhubaneswar,Chandrasekharpur,Casual Dining,11am to 1030pm(Mon-Sun),Average,3.3,61
+Stone House,400,Fast Food,Bhubaneswar,Sahid Nagar,Quick Bites,1030am to 1030pm(Mon-Sun),Good,3.5,63
+Born South,300,South Indian,Bhubaneswar,Patia,Quick Bites,830am to 10pm(Mon-Sun),Good,3.8,64
+NH99,500,North Indian,Bhubaneswar,Khandagiri,Café,10am to 10pm(Mon-Sun),Good,3.6,82
+The Chakhana.com,500,"North Indian,Chinese",Bhubaneswar,Khandagiri,Casual Dining,"1130am to 330pm,530pm to 1030pm(Mon-Sun)",Good,3.5,44
+The Anchor's Kafe,350,"Cafe,Momos",Bhubaneswar,Kharabela Nagar,Café,11am to 10pm(Mon-Sun),Average,3.3,108
+Namaste Reloaded,300,"Chinese,North Indian",Bhubaneswar,Jagmohan Nagar,Quick Bites,11am to 1030pm(Mon-Sun),Good,3.6,93
+Paris Bakery,300,"Bakery,Fast Food",Bhubaneswar,Jayadev Vihar,Bakery,8am to 10pm(Mon-Sun),Good,3.7,54
+1360 The Green Ville,700,"North Indian,Chinese,Fast Food",Bhubaneswar,Patia,Casual Dining,"11am to 330pm,7pm to 1030pm(Mon-Sun)",Good,3.8,34
+Eclipse -The Hangout Zone,600,"South Indian,North Indian,Fast Food,Chinese",Bhubaneswar,Chandrasekharpur,Quick Bites,6am to 11pm(Mon-Sun),Average,3.3,85
+Home Made,250,North Indian,Bhubaneswar,Patia,none,"8am to 2pm,5pm to 1030pm(Mon,Tue,Wed,Thu...",Good,3.8,91
+Biriyani On Call,200,"Biryani,Chinese",Bhubaneswar,Jatni,Quick Bites,12noon to 930pm(Mon-Sun),Average,3.4,26
+Hotel Blue Berry,300,"North Indian,Chinese",Bhubaneswar,Bapuji Nagar,Quick Bites,1130am to 1130pm(Mon-Sun),Average,3.4,32
+Indian Food Bowl,300,"Oriya,North Indian",Bhubaneswar,Patia,Quick Bites,7am to 10pm(Mon-Sun),Average,3.4,83
+Z Spicy Roll,200,Rolls,Bhubaneswar,Jayadev Vihar,none,3pm to 10pm(Mon-Sun),Good,3.8,66
+Hotel Kaberi,400,North Indian,Bhubaneswar,Lakshmi Sagar,Quick Bites,11am to 1030pm(Mon-Sun),Good,3.6,51
+Pattropoda.com,700,"North Indian,Chinese,Mughlai",Bhubaneswar,Baramunda,Casual Dining,730am to 1030pm(Mon-Sun),Good,3.5,69
+Hotel Blue Heaven,500,"North Indian,Chinese",Bhubaneswar,Chandrasekharpur,Casual Dining,"12noon to 330pm,7pm to 1030pm(Mon-Sun)",Good,3.7,91
+Kebaabs - Hotel Hindustan International,1400,"Mughlai,Kebab",Bhubaneswar,Hotel Hindustan International-- Kharabela Nagar,Fine Dining,"1230pm to 330pm,7pm to 11pm(Mon-Sun)",Good,3.8,90
+City Grills,400,"Continental,Healthy Food",Bhubaneswar,Chandrasekharpur,none,"12noon to 4pm,6pm to 10pm(Mon-Sun)",Good,3.9,56
+Maa Dakshinakali Hotel,150,"North Indian,Fast Food",Bhubaneswar,Nayapalli,Quick Bites,"8am to 11am,1230pm to 330pm,5pm to 1030pm...",Average,3.4,42
+Taste of China,500,Chinese,Bhubaneswar,Sahid Nagar,Quick Bites,12noon to 10pm(Mon-Sun),Good,3.8,36
+BJ's Tandoor Delights,450,"North Indian,Biryani",Bhubaneswar,Chandrasekharpur,Quick Bites,"Closed(Mon),630pm to 1030pm(Tue-Sun)",Good,3.8,84
+Smart Dhaba,500,North Indian,Bhubaneswar,Patia,Casual Dining,10am to 11pm(Mon-Sun),Average,3.0,85
+Kuk-Doo-Koo,250,Fast Food,Bhubaneswar,Kharabela Nagar,Quick Bites,1230pm to 11pm(Mon-Sun),Good,3.6,85
+Monginis Cake Shop,200,Bakery,Bhubaneswar,Kharabela Nagar,Bakery,8am to 10pm(Mon-Sun),Good,3.5,39
+Kolkata Rolls,400,Rolls,Bhubaneswar,Gajapati Nagar,Quick Bites,10am to 1030pm(Mon-Sun),Average,3.0,72
+Hotel Tarini Cottage,300,Fast Food,Bhubaneswar,Chandrasekharpur,Quick Bites,"12noon to 330pm,6pm to 1030pm(Mon-Sun)",Good,3.6,54
+Chick Blast,450,Fast Food,Bhubaneswar,Jagmohan Nagar,Quick Bites,11am to 1030pm(Mon-Sun),Good,3.6,76
+Sizzler Multicuisine Restaurant,400,"North Indian,Chinese",Bhubaneswar,Sahid Nagar,Quick Bites,(Mon-Sun),Good,3.6,66
+Alina Hub,450,"Seafood,North Indian",Bhubaneswar,Sahid Nagar,Quick Bites,"12noon to 4pm,7pm to 1030pm(Mon-Sun)",Good,3.6,37
+Momore,300,"Chinese,Thai,Momos",Bhubaneswar,Khandagiri,Quick Bites,11am to 1030pm(Mon-Sun),Average,2.7,79
+Devdas Fast Food,300,"Fast Food,North Indian,Chinese",Bhubaneswar,Baramunda,Quick Bites,11am to 10pm(Mon-Sun),Average,3.1,34
+Shree Kunj Restaurant,400,"South Indian,North Indian,Fast Food",Bhubaneswar,Jayadev Vihar,Quick Bites,8am to 10pm(Mon-Sun),Average,2.5,64
+Bon Appetite,400,"Oriya,Bengali",Bhubaneswar,Sahid Nagar,Casual Dining,1pm to 1030pm(Mon-Sun),Average,3.4,71
+The Bento Box,300,"North Indian,Chinese",Bhubaneswar,Kharabela Nagar,none,11am to 1030pm(Mon-Sun),Average,3.3,36
+Food On Fire,200,Fast Food,Bhubaneswar,Forest Park,Quick Bites,"11am to 330pm,630pm to 1030pm(Mon-Sun)",Average,3.4,41
+Thali Junction,200,"North Indian,Biryani",Bhubaneswar,Jayadev Vihar,Casual Dining,"12noon to 3pm,6pm to 1030pm(Mon-Sun)",Average,3.3,23
+Cafelicious,350,Cafe,Bhubaneswar,Patrapada,Café,10am to 10pm(Mon-Sun),Average,3.4,41
+Khalo Ji,400,"North Indian,Chinese",Bhubaneswar,BMC Bhawani Mall-- Sahid Nagar,Quick Bites,11am to 10pm(Mon-Sun),Good,3.6,44
+Hot N Spices,250,"North Indian,Chinese",Bhubaneswar,Patrapada,Quick Bites,"12noon to 4pm,530pm to 1030pm(Mon-Sun)",Average,2.6,23
+Momo's,200,Chinese,Bhubaneswar,Kharabela Nagar,Quick Bites,11am to 10pm(Mon-Sun),Good,3.5,31
+Rock D Roll,200,"North Indian,Chinese",Bhubaneswar,Patia,Quick Bites,1230pm to 10pm(Mon-Sun),Average,3.3,30
+Urban Tadka,800,"Continental,Chinese,Mughlai,North Indian",Bhubaneswar,Patia,Casual Dining,1030am to 1030pm(Mon-Sun),Good,3.6,50
+WTF- What The Food,250,"Mexican,Italian,North Indian,Chinese",Bhubaneswar,Patia,Quick Bites,1pm to 730pm(Mon-Sun),Average,2.7,63
+Foodocoaster,250,"North Indian,Chinese",Bhubaneswar,BJB Nagar,Casual Dining,1230pm to 1030pm(Mon-Sun),Good,3.5,29
+Madhuban Restaurant,350,"North Indian,Chinese",Bhubaneswar,Patia,Quick Bites,11am to 1030pm(Mon-Sun),Average,2.7,59
+Roja Fast Food,200,"Mughlai,North Indian",Bhubaneswar,Unit 4,Quick Bites,12noon to 10pm(Mon-Sun),Good,3.6,55
+Bengali Food Cuisine,200,Street Food,Bhubaneswar,Patia,Kiosk,10am to 9pm(Mon-Sun),Average,3.3,45
+Ghass Fhuss,0,"Chinese,Pizza,North Indian,Biryani,Cafe",Bhubaneswar,Bapuji Nagar,Quick Bites,11am to 1030pm(Mon-Sun),Good,3.7,61
+Kasturi Restaurant,300,"North Indian,Chinese",Bhubaneswar,Kharabela Nagar,Quick Bites,"11am to 330pm,7pm to 10pm(Mon-Sun)",Good,3.5,56
+New Aroma,600,"South Indian,Continental,Chinese,North Indian",Bhubaneswar,BJB Nagar,Casual Dining,630am to 11pm(Mon-Sun),Average,2.9,117
+Regal-Ghar Aangan,400,"North Indian,Chinese,Mughlai",Bhubaneswar,Patia,Casual Dining,12noon to 1030pm(Mon-Sun),Good,3.6,45
+Sriyaram Sweets,200,Mithai,Bhubaneswar,Chandrasekharpur,Quick Bites,730am to 1030pm(Mon-Sun),Good,3.6,58
+Mukharuchi,250,Mithai,Bhubaneswar,Sahid Nagar,Quick Bites,"11am to 3pm,430pm to 10pm(Mon-Sun)",Good,3.8,61
+Swad Sagar,600,"North Indian,Chinese",Bhubaneswar,Nayapalli,Casual Dining,1030am to 1030pm(Mon-Sun),Average,2.6,75
+Capital Taste,300,"North Indian,Chinese",Bhubaneswar,Sahid Nagar,Quick Bites,1130am to 1030pm(Mon-Sun),Good,3.5,25
+THE KONNECT CAFE,400,Cafe,Bhubaneswar,Sahid Nagar,Café,1130am to 9pm(Mon-Sun),Average,2.9,56
+Black Spiny,200,"Biryani,Chinese",Bhubaneswar,Khandagiri,Food Truck,"1130am to 330pm,5pm to 10pm(Mon-Sat),5pm to ...",Average,2.9,71
+Mr.Biriyani,300,"North Indian,Biryani",Bhubaneswar,Chandrasekharpur,Quick Bites,"1130am to 330pm,530pm to 10pm(Mon-Sun)",Good,3.5,41
+Rolls On Wheels,200,Rolls,Bhubaneswar,Patia,none,5pm to 10pm(Mon-Sun),Good,3.6,50
+Paradise Nandhha,400,South Indian,Bhubaneswar,Lakshmi Sagar,Quick Bites,"8am to 3pm,6pm to 1030pm(Mon-Sun)",Average,3.4,54
+Nirmalaya,250,South Indian,Bhubaneswar,Kalinga Nagar,Quick Bites,"7am to 1pm,4pm to 9pm(Mon-Sun)",Average,3.2,54
+Chopsticks Restro Cafe,500,"Cafe,Chinese,Fast Food",Bhubaneswar,Rasulgarh,Café,11am to 10pm(Mon-Sun),Good,3.5,20
+The Classy Biryani Kingdom,250,"North Indian,Chinese",Bhubaneswar,Jayadev Vihar,Quick Bites,"12noon to 330pm,6pm to 10pm(Mon-Sun)",Average,3.0,24
+Hangout Eat & Drinks,250,"North Indian,Fast Food",Bhubaneswar,Patia,Quick Bites,"1030am to 2pm,4pm to 1030pm(Mon-Sun)",Average,2.8,51
+Mio Amore,200,"Fast Food,Bakery,Desserts",Bhubaneswar,Patia,Bakery,8am to 10pm(Mon-Sun),Average,3.3,53
+The Royal Kitchen,250,"North Indian,Chinese",Bhubaneswar,Patia,Quick Bites,830am to 930pm(Mon-Sun),Good,3.6,15
+Bikram Betal,500,"North Indian,Chinese",Bhubaneswar,Chandrasekharpur,Quick Bites,1130am to 10pm(Mon-Sun),Average,3.1,9
+Zaika,400,"North Indian,Chinese",Bhubaneswar,Kharabela Nagar,Quick Bites,"11am to 3pm,7pm to 1030pm(Mon-Sun)",Average,3.3,21
+Biryani & More,400,Biryani,Bhubaneswar,Chandrasekharpur,Quick Bites,"1230pm to 3pm,7pm to 1030pm(Mon-Sun)",Good,3.6,62
+Cookies- The Cake Cafe,500,"Cafe,Bakery",Bhubaneswar,Khandagiri,Café,830am to 930pm(Mon-Sun),Average,3.2,18
+Hungrill Last Exit,250,"Chinese,Mexican,Sandwich,Burger",Bhubaneswar,Kharabela Nagar,Quick Bites,430pm to 10pm(Mon-Sun),Average,3.2,30
+Hotel Stellar,500,North Indian,Bhubaneswar,Patia,Casual Dining,"1130am to 1030pm(Mon,Tue,Wed,Sat),1045am...",Average,3.4,42
+Taste of Orissa,300,Oriya,Bhubaneswar,Sahid Nagar,Quick Bites,8am to 4pm(Mon-Sun),Average,3.2,41
+ASIA SEVEN,300,Chinese,Bhubaneswar,Patrapada,Quick Bites,11am to 1030pm(Mon-Sun),Good,3.6,21
+Burnt,300,Fast Food,Bhubaneswar,Patia,Food Court,12noon to 10pm(Mon-Sun),Good,3.8,40
+Rice Bowl,550,"Chinese,North Indian",Bhubaneswar,Ashok Nagar,Casual Dining,1130am to 10pm(Mon-Sun),Good,3.7,34
+Giani,250,Desserts,Bhubaneswar,Sahid Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,81
+Amaravathi Bistro,300,South Indian,Bhubaneswar,Sahid Nagar,Quick Bites,10am to 1030pm(Mon-Sun),Average,2.9,36
+Palash Pakhuda,200,"Indian,Chinese",Bhubaneswar,Kalinga Nagar,Quick Bites,"12noon to 3pm,4pm to 10pm(Mon-Sun)",Good,3.6,16
+Debaballhava,400,"North Indian,Chinese",Bhubaneswar,Patia,Quick Bites,1130am to 1030pm(Mon-Sun),Average,3.3,43
+Spice N Ice,500,"Fast Food,North Indian,South Indian",Bhubaneswar,Sahid Nagar,Quick Bites,11am to 10pm(Mon-Sun),Average,2.8,22
+Il Tavolino,700,Pizza,Bhubaneswar,Kharabela Nagar,none,11am to 10pm(Mon-Sun),Average,2.8,32
+Poonams Kitchen,100,North Indian,Bhubaneswar,Kharabela Nagar,Quick Bites,8am to 10pm(Mon-Sun),Average,3.3,9
+Biriyani Darbar & Chinese Fast Food,350,"Biryani,North Indian,Rolls,Chinese",Bhubaneswar,Patia,Quick Bites,1130am to 10pm(Mon-Sun),Average,3.4,28
+Arun Ice Cream,100,"Ice Cream,Desserts",Bhubaneswar,Chandrasekharpur,Dessert Parlor,930am to 1030pm(Mon-Sun),Good,3.9,17
+Mitha & Pitha,250,"Oriya,Mithai",Bhubaneswar,Chandrasekharpur,Sweet Shop,9am to 10pm(Mon-Sun),Good,3.5,10
+Satkaar,500,"North Indian,Chinese",Bhubaneswar,Jayadev Vihar,Quick Bites,"12noon to 330pm,7pm to 1030pm(Mon-Sun)",Good,3.5,67
+Juice Mania,150,"Juices,Sandwich",Bhubaneswar,Baramunda,Beverage Shop,"830am to 130pm,330pm to 10pm(Mon-Sun)",Average,3.4,16
+Kasturi Premium,300,"North Indian,Chinese",Bhubaneswar,Patia,Quick Bites,"11am to 430pm,7pm to 1030pm(Mon-Sun)",Good,3.6,36
+So Yummy,200,"Chinese,Mexican,North Indian",Bhubaneswar,Kharabela Nagar,none,4pm to 11pm(Mon-Sun),Good,3.8,71
+Kafil's,700,"North Indian,Chinese,Mughlai,Biryani,Fast Food",Bhubaneswar,Chandrasekharpur,Casual Dining,"12noon to 330pm,6pm to 10pm(Mon-Sun)",Average,3.2,53
+Vanakkam,400,South Indian,Bhubaneswar,Patia,Quick Bites,7am to 10pm(Mon-Sun),Average,3.3,38
+Richie's Fastfood & Restaurant,250,"North Indian,Chinese",Bhubaneswar,Surya Nagar,Quick Bites,12noon to 1030pm(Mon-Sun),Average,3.4,17
+Times of Biryani,300,Biryani,Bhubaneswar,Chandrasekharpur,none,11am to 1030pm(Mon-Sun),Average,3.2,10
+Desi Tadka,200,"North Indian,Chinese",Bhubaneswar,Jagmohan Nagar,Quick Bites,12noon to 10pm(Mon-Sun),Average,3.1,14
+Not Only Paranthas,400,"North Indian,Lebanese",Bhubaneswar,Patia,Quick Bites,1130am to 1030pm(Mon-Sun),Average,3.4,40
+Barabati Restaurant,500,Cuisine Varies,Bhubaneswar,Jayadev Vihar,Quick Bites,"12noon to 330pm,7pm to 10pm(Mon-Sun)",Average,3.4,31
+Cake Studio,300,Bakery,Bhubaneswar,Lakshmi Sagar,Bakery,10am to 8pm(Mon-Sun),Average,3.3,23
+Hotel Royal,200,Fast Food,Bhubaneswar,Chandrasekharpur,Quick Bites,1130am to 1030pm(Mon-Sun),Average,3.0,42
+T2H Foods,500,Healthy Food,Bhubaneswar,Kalinga Nagar,Quick Bites,"12noon to 3pm,7pm to 1030pm(Mon-Sun)",Good,3.5,25
+Baskin Robbins,200,Ice Cream,Bhubaneswar,Sahid Nagar,Dessert Parlor,10am to 10pm(Mon-Sun),Average,3.3,8
+Marwari Rasoi's Chaat Center,200,Street Food,Bhubaneswar,Patia,Quick Bites,"10am to 930pm(Mon,Tue,Wed,Fri,Sat,Sun),11am...",Good,3.6,21
+Desi Biryani,250,Biryani,Bhubaneswar,Khandagiri,Quick Bites,12noon to 10pm(Mon-Sun),Average,2.8,56
+Darjeeling Maggi House,100,Fast Food,Bhubaneswar,Patia,Quick Bites,830am to 10pm(Mon-Sun),Good,3.5,25
+Freshkicho,100,Chinese,Bhubaneswar,Patia,Quick Bites,9am to 10pm(Mon-Sun),Average,3.2,12
+Red Crab Restaurant,300,"North Indian,Chinese",Bhubaneswar,Nayapalli,Quick Bites,12noon to 10pm(Mon-Sun),Average,3.2,13
+Hotel Grand Central,800,"North Indian,Chinese,Continental",Bhubaneswar,Lakshmi Sagar,Casual Dining,"1130am to 3pm,330pm to 7pm,730pm to 1030pm...",Average,3.2,19
+The Junglee Restaurant,500,"North Indian,Chinese,Mughlai",Bhubaneswar,Surya Nagar,Quick Bites,"1130am to 330pm,530pm to 1030pm(Mon-Sun)",Average,3.1,6
+Kwality Wall's,150,Ice Cream,Bhubaneswar,Hotel Pushpak-- Lakshmi Sagar,Dessert Parlor,11am to 10pm(Mon-Sun),Good,3.6,18
+Big Bites,150,"North Indian,Chinese",Bhubaneswar,Patrapada,Quick Bites,330pm to 1030pm(Mon-Sun),Average,3.3,42
+Maa Durga Ropali Chaat,100,Street Food,Bhubaneswar,Sahid Nagar,Quick Bites,4pm to 10pm(Mon-Sun),Average,3.4,14
+Hot Meals,100,Bihari,Bhubaneswar,Patia,Quick Bites,4pm to 10pm(Mon-Sun),Average,3.4,30
+Royal Fast Food,200,"Fast Food,Mughlai",Bhubaneswar,Patia,Quick Bites,12noon to 10pm(Mon-Sun),Average,3.1,13
+Khaaema,300,"North Indian,Chinese",Bhubaneswar,Patia,Quick Bites,1130am to 10pm(Mon-Sun),Average,2.8,16
+Jam Pot,150,"North Indian,Fast Food,Beverages",Bhubaneswar,Jagmohan Nagar,Quick Bites,"9am to 1130am,12noon to 330pm,5pm to 10pm...",Average,3.4,21
+Kasbaa - Pal Heights,800,Finger Food,Bhubaneswar,Pal Heights-- Jayadev Vihar,Bar,1230pm to 1030pm(Mon-Sun),Good,3.5,35
+Petoo,400,North Indian,Bhubaneswar,Patia,Quick Bites,11am to 1030pm(Mon-Sun),Good,3.5,13
+Kruti Coffee,450,"Cafe,Italian,Biryani,Pizza,Desserts,Beverages,Continental,Chinese",Bhubaneswar,Patia,Café,830am to 11pm(Mon-Sun),Very Good,4.1,407
+Amigo Restaurant,800,"Mexican,Continental,Bakery,Chinese,Italian,Momos",Bhubaneswar,Patia,Casual Dining,12noon to 1145pm(Mon-Sun),Very Good,4.1,489
+IKKA,400,Chinese,Bhubaneswar,Patia,Quick Bites,1130am to 1045pm(Mon-Sun),Very Good,4.1,126
+Chai Break,500,"Italian,Cafe,Chinese,Continental",Bhubaneswar,Patia,Casual Dining,1030am to 11pm(Mon-Sun),Very Good,4.3,377
+Mainland China,1500,Chinese,Bhubaneswar,The Crown-- Nayapalli,Fine Dining,"12noon to 330pm,7pm to 11pm(Mon-Sun)",Very Good,4.4,577
+Waffle Bites,300,Desserts,Bhubaneswar,Patia,Dessert Parlor,1030am to 11pm(Mon-Sun),Very Good,4.4,317
+Wrapsto,300,Fast Food,Bhubaneswar,Patia,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.1,789
+Hi Bhubaneswar,600,"Chinese,North Indian",Bhubaneswar,Patia,Casual Dining,"11am to 330pm,7pm to 11pm(Mon-Sun)",Good,3.8,469
+Burger King,500,"Burger,Fast Food",Bhubaneswar,Patia,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.4,141
+Breeze - Pal Heights,1500,"North Indian,Chinese,Continental,Thai",Bhubaneswar,Pal Heights-- Jayadev Vihar,Fine Dining,"730am to 1030am,730pm to 11pm(Mon-Sun)",Very Good,4.0,208
+Keeva Restaurants & Banquets,800,"North Indian,Mughlai,Chinese,Continental",Bhubaneswar,Khandagiri,Casual Dining,11am to 11pm(Mon-Sun),Good,3.7,319
+Subway,500,"Healthy Food,Salad,Fast Food",Bhubaneswar,Chandrasekharpur,Quick Bites,9am to 11pm(Mon-Sun),Very Good,4.0,335
+NTR.9,250,Fast Food,Bhubaneswar,Sahid Nagar,Quick Bites,3pm to 11pm(Mon-Sun),Average,3.3,512
+Eram Rooftop,700,"Asian,Continental",Bhubaneswar,Unit 4,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,404
+The Living Room - The Presidency,1000,"Seafood,Mexican,American,Fast Food,North Indian,Chinese",Bhubaneswar,Nayapalli,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.4,292
+Venus Multicuisine Restaurant,600,North Indian,Bhubaneswar,Surya Nagar,Casual Dining,1130am to 1030pm(Mon-Sun),Good,3.6,22
+MS Gog,300,"North Indian,Chinese",Bhubaneswar,Nayapalli,Quick Bites,11am to 10pm(Mon-Sun),Good,3.6,47
+Hotel Sony,250,"North Indian,Chinese,South Indian",Bhubaneswar,Baramunda,Quick Bites,"12noon to 330pm,7pm to 10pm(Mon-Sun)",Average,3.4,30
+Bhumi Food Corner,250,"North Indian,Chinese",Bhubaneswar,Jagmohan Nagar,Quick Bites,"9am to 3pm,5pm to 1030pm(Mon-Sun)",Average,3.4,19
+Prem Bhai Biriyani,300,"North Indian,Mughlai",Bhubaneswar,Chandrasekharpur,Quick Bites,5pm to 10pm(Mon-Sun),Good,3.5,34
+Badshah Barbeque and Biryani,100,"Mughlai,Indian,Chinese",Bhubaneswar,Chandrasekharpur,Quick Bites,430pm to 1030pm(Mon-Sun),Average,3.4,13
+Balaji Sweets,200,Mithai,Bhubaneswar,Jagmohan Nagar,Sweet Shop,10am to 9pm(Mon-Sun),Average,3.2,22
+Royal Biryani Garden,200,"North Indian,Fast Food,Biryani",Bhubaneswar,Patrapada,Quick Bites,"1230pm to 3pm,7pm to 11pm(Mon-Sun)",Average,3.4,44
+Jhanvi's Delight,400,"North Indian,Chinese,Oriya",Bhubaneswar,Patia,Casual Dining,"1130am to 330pm,7pm to 1030pm(Mon-Sun)",Average,3.1,36
+Foodi..z Veg,200,Fast Food,Bhubaneswar,BJB Nagar,Quick Bites,530pm to 1030pm(Mon-Sun),Good,3.5,19
+Biryani Republic,200,"Biryani,Indian",Bhubaneswar,Jayadev Vihar,none,"12noon to 3pm,7pm to 10pm(Mon-Sun)",Average,3.4,25
+Etori,800,"North Indian,Chinese",Bhubaneswar,BJB Nagar,Casual Dining,1230pm to 1030pm(Mon-Sun),Average,2.9,17
+Food Street,400,Fast Food,Bhubaneswar,Patia,Quick Bites,12noon to 1030pm(Mon-Sun),Good,3.5,20
+Wai Wai City,400,"Fast Food,Chinese",Bhubaneswar,BMC Bhawani Mall-- Sahid Nagar,Quick Bites,11am to 10pm(Mon-Sun),Average,2.6,23
+Vishwa’s Kitchen,200,"Fast Food,North Indian",Bhubaneswar,Jayadev Vihar,Quick Bites,9am to 1030pm(Mon-Sun),Average,3.4,18
+Lucky Dum Biriyani,200,"Biryani,Mughlai",Bhubaneswar,Sahid Nagar,Quick Bites,11am to 10pm(Mon-Sun),Average,3.4,23
+Moriesh Cafe,200,"Chinese,Momos",Bhubaneswar,Patia,Quick Bites,10am to 10pm(Mon-Sun),Average,3.3,26
+Hunger's Hut,300,"Indian,Fast Food",Bhubaneswar,Surya Nagar,Quick Bites,"1030am to 330pm,630pm to 1030pm(Mon-Sun)",Average,3.2,8
+Devs Fastfood,200,"Chinese,Fast Food,Biryani,Sandwich,North Indian,Rolls",Bhubaneswar,Patia,Quick Bites,"12noon to 3pm,530pm to 1030pm(Mon-Sun)",Good,3.6,25
+Tasty Tasty Green Chilly,200,"Biryani,Chinese",Bhubaneswar,Jatni,Quick Bites,12noon to 10pm(Mon-Sun),Average,3.3,19
+Bengal Kitchen,300,Fast Food,Bhubaneswar,Unit 4,Quick Bites,6pm to 10pm(Mon-Sun),Average,3.4,25
+Smack Momos,200,"Tibetan,Momos",Bhubaneswar,Rasulgarh,Quick Bites,4pm to 10pm(Mon-Sun),Average,2.8,15
+Nimapada Sweets,100,Desserts,Bhubaneswar,Baramunda,Dessert Parlor,8am to 10pm(Mon-Sun),Good,3.5,32
+Payal Fast Food,200,Fast Food,Bhubaneswar,Jagmohan Nagar,Quick Bites,10am to 1030pm(Mon-Sun),Good,3.5,22
+Kailash Pav Bhaji,200,Fast Food,Bhubaneswar,Patia,Quick Bites,430pm to 10pm(Mon-Sun),Good,3.6,21
+Hunger's Hut,250,Oriya,Bhubaneswar,Patia,Quick Bites,7am to 9pm(Mon-Sun),Average,2.6,17
+The Taste,300,"Chinese,North Indian",Bhubaneswar,Lakshmi Sagar,Quick Bites,"12noon to 330pm,7pm to 1030pm(Mon-Sun)",Good,3.5,18
+Master Canteen,350,Fast Food,Bhubaneswar,Kharabela Nagar,none,530pm to 10pm(Mon-Sun),Good,3.7,19
+N5 Resturant and Coffee Bar,600,"Cafe,Biryani",Bhubaneswar,Nayapalli,Café,8am to 10pm(Mon-Sun),Average,2.9,17
+Grill Guys,250,Kebab,Bhubaneswar,Jagmohan Nagar,Quick Bites,5pm to 10pm(Mon-Sun),Good,3.5,21
+Nua Khai Restaurant,450,"North Indian,Chinese",Bhubaneswar,Bapuji Nagar,Casual Dining,11am to 1030pm(Mon-Sun),Average,2.8,30
+The Biriyani Walla,200,"Biryani,Fast Food",Bhubaneswar,Lakshmi Sagar,none,11am to 1030pm(Mon-Sun),Average,3.3,12
+Mmm...,200,"North Indian,Chinese,Seafood",Bhubaneswar,Chandrasekharpur,Casual Dining,12noon to 1030pm(Mon-Sun),Average,3.3,23
+Munch,200,"Bakery,Desserts,Fast Food",Bhubaneswar,Jayadev Vihar,Quick Bites,11am to 10pm(Mon-Sun),Average,3.3,15
+Takeaway,300,"North Indian,Chinese",Bhubaneswar,Bapuji Nagar,Quick Bites,12noon to 10pm(Mon-Sun),Average,2.8,28
+Village Inn,400,"North Indian,Chinese,Mughlai",Bhubaneswar,Nayapalli,Quick Bites,8am to 10pm(Mon-Sun),Average,2.5,23
+Hyderabadi Special Dum Biriyani,400,Biryani,Bhubaneswar,Nayapalli,Quick Bites,12noon to 3pm(Mon-Sun),Average,3.3,32
+Purani Dilli Restaurant,500,"North Indian,Mughlai",Bhubaneswar,Khandagiri,Casual Dining,1130am to 1030pm(Mon-Sun),Average,3.3,8
+Indian Xtacy,400,North Indian,Bhubaneswar,Patia,Casual Dining,1130am to 1030pm(Mon-Sun),Good,3.5,22
+Michael The Local Chef,200,Fast Food,Bhubaneswar,Gajapati Nagar,Food Truck,"12noon to 1030pm(Mon),5pm to 1030pm(Tue-Sun)",Average,2.8,14
+The Aromatico,300,"Chinese,Cafe",Bhubaneswar,Patia,Quick Bites,1030am to 1030pm(Mon-Sun),Average,3.3,7
+9th Street Hideaway,750,"Continental,Chinese",Bhubaneswar,Jagmohan Nagar,Casual Dining,11am to 1030pm(Mon-Sun),Average,3.3,13
+Mullick Mahasaya,150,Mithai,Bhubaneswar,Nayapalli,Sweet Shop,8am to 930pm(Mon-Sun),Average,3.4,15
+King's Landing,500,"Indian,Chinese",Bhubaneswar,Gajapati Nagar,Casual Dining,"11am to 4pm,7pm to 11pm(Mon-Sun)",Good,3.7,83
+Hotel Matrushakti,250,"North Indian,Chinese",Bhubaneswar,Khandagiri,Quick Bites,"1130am to 330pm,530pm to 1030pm(Mon-Sun)",Average,2.9,31
+Tea Junction,200,"Tea,Fast Food",Bhubaneswar,Khandagiri,Quick Bites,11am to 10pm(Mon-Sun),Average,2.9,21
+Out of Town,400,"North Indian,Chinese",Bhubaneswar,Lakshmi Sagar,Casual Dining,"12noon to 4pm,7pm to 11pm(Mon-Sun)",Good,3.8,98
+Khabar Kolkata,200,Street Food,Bhubaneswar,Patia,Kiosk,10am to 9pm(Mon-Sun),Average,3.4,14
+Mutton Restaurant,300,Chinese,Bhubaneswar,Forest Park,Quick Bites,"12noon to 330pm,7pm to 1030pm(Mon-Sun)",Average,3.0,8
+Pakwan,300,"North Indian,Chinese",Bhubaneswar,Bapuji Nagar,Casual Dining,12noon to 10pm(Mon-Sun),Average,3.3,21
+Santusti,300,North Indian,Bhubaneswar,Kharabela Nagar,Quick Bites,6pm to 10pm(Mon-Sun),Average,3.3,24
+Foodi..z,200,Fast Food,Bhubaneswar,BJB Nagar,Quick Bites,5pm to 1030pm(Mon-Sun),Average,3.3,9
+Nawabi Dum,200,Biryani,Bhubaneswar,Nayapalli,Food Truck,"1230pm to 8pm(Mon-Sat),1230pm to 430pm(Sun)",Average,3.4,16
+Sai Supriya Restaurant,250,"Indian,Chinese",Bhubaneswar,Baramunda,Casual Dining,"1130am to 4pm,730pm to 1030pm(Mon-Sun)",Average,3.4,16
+9IN9OUT,500,"Fast Food,North Indian",Bhubaneswar,Kalinga Nagar,Quick Bites,11am to 10pm(Mon-Sun),Average,3.2,19
+Daily Belly,300,"North Indian,Chinese",Bhubaneswar,Baramunda,Casual Dining,"12noon to 4pm,7pm to 1030pm(Mon-Sun)",Average,2.9,20
+BBQ Junction,350,BBQ,Bhubaneswar,Patia,Food Truck,4pm to 10pm(Mon-Sun),Average,3.3,18
+Ghassfhuss Restaurant,600,North Indian,Bhubaneswar,Bapuji Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,75
+Annapurna,200,"Chinese,North Indian,Seafood",Bhubaneswar,Baramunda,Casual Dining,11am to 4pm(Mon-Sun),Average,3.3,17
+Jyotsna Veg Fast Food,200,"Fast Food,South Indian",Bhubaneswar,Unit 4,Quick Bites,"121pm to 11pm(Mon),1pm to 1119pm(Tue),120pm...",Average,3.2,6
+The Regent,600,"North Indian,Chinese,Mughlai",Bhubaneswar,Unit 4,Casual Dining,10am to 10pm(Mon-Sun),Average,3.1,18
+Ashok Fast Food,150,Street Food,Bhubaneswar,Sahid Nagar,Quick Bites,1230pm to 1030pm(Mon-Sun),Good,3.5,22
+The Jungle,500,"Indian,Chinese,Mughlai,Thai",Bhubaneswar,Surya Nagar,Quick Bites,"1130am to 330pm,530pm to 1030pm(Mon-Sun)",Average,3.2,12
+Sai Food Hotel & Restaurant,300,"North Indian,Mughlai",Bhubaneswar,Patrapada,Quick Bites,"1130am to 3pm,6pm to 1030pm(Mon-Sun)",Average,2.9,4
+Deshi Ranna,300,"Oriya,Bengali,Mughlai",Bhubaneswar,Patia,Quick Bites,1230pm to 10pm(Mon-Sun),Average,3.3,13
+The Biryani House,250,"Biryani,North Indian",Bhubaneswar,Patia,none,1215pm to 1015pm(Mon-Sun),Average,2.7,21
+Kunhita Fast Food,200,Fast Food,Bhubaneswar,Bapuji Nagar,Quick Bites,"12noon to 3pm,5pm to 1030pm(Mon-Sun)",Average,3.4,13
+Baba Sai Fast Food,300,"Biryani,North Indian,Fast Food",Bhubaneswar,Satya Nagar,Quick Bites,"11am to 3pm,4pm to 10pm(Mon-Sun)",Average,3.4,18
+Sai Krushna,300,"Oriya,South Indian",Bhubaneswar,Rasulgarh,Quick Bites,8am to 1030pm(Mon-Sun),Average,3.2,11
+Jagamara Stick Kabab,200,Mughlai,Bhubaneswar,Jagmohan Nagar,Quick Bites,430pm to 930pm(Mon-Sun),Average,3.3,9
+Food Xchange,500,"Chinese,Italian,Mughlai,Tibetan",Bhubaneswar,Chandrasekharpur,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,70
+Cake Shop,250,Bakery,Bhubaneswar,Sahid Nagar,Bakery,"9am to 2pm,4pm to 1030pm(Mon-Sun)",Good,3.5,19
+Ssaanchee's,600,"North Indian,Chinese",Bhubaneswar,Chandrasekharpur,Quick Bites,"11am to 330pm,7pm to 1030pm(Mon-Sun)",Average,3.3,22
+Himalaya Fresh,200,North Indian,Bhubaneswar,Satya Nagar,Quick Bites,10am to 10pm(Mon-Sun),Average,3.4,14
+Shahi Darbar,400,"North Indian,Chinese,Mughlai",Bhubaneswar,Lakshmi Sagar,Casual Dining,10am to 10pm(Mon-Sun),Average,3.4,18
+Hyderabadi Biryani Centre,400,"Biryani,Mughlai",Bhubaneswar,Patia,Quick Bites,12noon to 9pm(Mon-Sun),Average,2.9,17
+Hotel KBC,200,Fast Food,Bhubaneswar,Patia,Casual Dining,10am to 1030pm(Mon-Sun),Average,3.2,15
+PUBG,150,"North Indian,Chinese",Bhubaneswar,Jayadev Vihar,none,5pm to 1030pm(Mon-Sun),Average,3.1,5
+Tasty Treat,400,"North Indian,Mughlai,Chinese",Bhubaneswar,Patia,none,"12noon to 3pm,630pm to 1030pm(Mon-Sun)",Average,3.1,15
+Soupilicious,250,"North Indian,Chinese",Bhubaneswar,Kharabela Nagar,Quick Bites,6pm to 10pm(Mon-Sun),Good,3.6,15
+Brewberrys,300,"Pizza,Fast Food",Bhubaneswar,Kalinga Nagar,Quick Bites,1030am to 930pm(Mon-Sun),Average,3.2,14
+Arya Sweets,100,"Mithai,Fast Food",Bhubaneswar,Patrapada,Sweet Shop,9am to 9pm(Mon-Sun),Average,3.3,13
+Maa Hotel,250,"North Indian,Oriya",Bhubaneswar,Sahid Nagar,Quick Bites,12noon to 4pm(Mon-Sun),Average,3.2,14
+Tandoor Hot,300,North Indian,Bhubaneswar,Lakshmi Sagar,none,1pm to 11pm(Mon-Sun),Good,3.8,91
+Ambika Sweets & Snacks,150,Mithai,Bhubaneswar,Jagmohan Nagar,Sweet Shop,7am to 10pm(Mon-Sun),Average,3.3,18
+Namaste India,200,"North Indian,Chinese",Bhubaneswar,Patrapada,Casual Dining,"12noon to 4pm,6pm to 10pm(Mon-Sun)",Average,3.0,6
+Kalinga Bukhara,300,"South Indian,Chinese,Fast Food",Bhubaneswar,Rasulgarh,Quick Bites,8am to 1030pm(Mon-Sun),Average,3.3,15
+Hashtag Chinese,400,"Chinese,Fast Food",Bhubaneswar,Patia,Quick Bites,1pm to 10pm(Mon-Sun),Average,2.9,11
+Foodies,500,"North Indian,Mughlai,Chinese",Bhubaneswar,Khandagiri,Quick Bites,11am to 1030pm(Mon-Sun),Average,2.9,14
+Aragon,300,"Chinese,Mexican,Italian",Bhubaneswar,Chandrasekharpur,none,4pm to 1030pm(Mon-Sun),Average,3.2,9
+Hungry Birds,150,"Street Food,Fast Food",Bhubaneswar,Chandrasekharpur,Quick Bites,1pm to 11pm(Mon-Sun),Good,3.6,73
+3 Chef Fast Food,150,Fast Food,Bhubaneswar,Chandrasekharpur,Quick Bites,5pm to 10pm(Mon-Sun),Average,3.3,13
+Khana Khazana,400,"North Indian,Chinese",Bhubaneswar,Jagmohan Nagar,Casual Dining,1150am to 1020pm(Mon-Sun),Average,3.2,5
+The 3,700,"North Indian,Oriya",Bhubaneswar,Sahid Nagar,Quick Bites,1130am to 10pm(Mon-Sun),Average,3.1,11
+Radhe Radhe Snacks and Juice,150,"Fast Food,Juices,Beverages",Bhubaneswar,Nayapalli,Quick Bites,1130am to 1030pm(Mon-Sun),Average,3.2,13
+Cookies- The Cake Cafe,300,"Cafe,Bakery,Desserts",Bhubaneswar,Gajapati Nagar,none,930am to 930pm(Mon-Sun),Good,3.5,7
+Magic Masala,250,"Biryani,Fast Food",Bhubaneswar,Chandrasekharpur,Quick Bites,12noon to 1030pm(Mon-Sun),Average,3.4,16
+Swadist Premium,300,"South Indian,North Indian",Bhubaneswar,Lakshmi Sagar,Quick Bites,7am to 11pm(Mon-Sun),Average,3.2,56
+Eatarie,250,"North Indian,Chinese",Bhubaneswar,Nayapalli,Casual Dining,1pm to 1030pm(Mon-Sun),Average,3.2,9
+Yellow Chillee,250,"North Indian,Fast Food,Biryani",Bhubaneswar,Patia,none,11am to 1030pm(Mon-Sun),Average,3.0,15
+Bombay Biryani & Fast Food,200,Biryani,Bhubaneswar,Kalinga Nagar,Dhaba,10am to 10pm(Mon-Sun),Average,2.8,21
+Food and Fun,200,"North Indian,Chinese",Bhubaneswar,Kharabela Nagar,Quick Bites,5pm to 10pm(Mon-Sun),Average,3.1,13
+The MS Residency,650,"Chinese,North Indian,Mughlai",Bhubaneswar,Patia,Casual Dining,9am to 9pm(Mon-Sun),Average,3.0,6
+Sita Ram Sweets,200,Mithai,Bhubaneswar,Chandrasekharpur,Quick Bites,9am to 10pm(Mon-Sun),Average,3.1,13
+Paris Bakery,200,Bakery,Bhubaneswar,Satya Nagar,Bakery,8am to 10pm(Mon-Sun),Average,3.3,11
+Spice & Chillys,150,"North Indian,Chinese",Bhubaneswar,Jagmohan Nagar,Quick Bites,6pm to 10pm(Mon-Sun),Average,3.0,8
+Baba Sai Fast Food,300,Fast Food,Bhubaneswar,Unit 4,Quick Bites,1pm to 10pm(Mon-Sun),Average,3.3,18
+Hungerout,300,"Mughlai,Chinese,Fast Food",Bhubaneswar,Patia,Quick Bites,12noon to 10pm(Mon-Sun),Average,3.1,6
+Must Eat,450,Fast Food,Bhubaneswar,Chandrasekharpur,Quick Bites,"12noon to 3pm,6pm to 1030pm(Mon-Sun)",Average,2.7,17
+3Q Heritage,500,"North Indian,Chinese,Continental",Bhubaneswar,Chandrasekharpur,Casual Dining,11am to 11pm(Mon-Sun),Average,3.0,93
+Flames Food Truck,250,Fast Food,Bhubaneswar,Patia,Food Truck,330pm to 1030pm(Mon-Sun),Average,3.3,10
+Food Express,200,"North Indian,Chinese",Bhubaneswar,Kharabela Nagar,Quick Bites,5pm to 10pm(Mon-Sun),Average,2.8,8
+Hotel Tazz Odisha,650,"Chinese,Continental,South Indian,North Indian",Bhubaneswar,Ashok Nagar,Casual Dining,9am to 1030pm(Mon-Sun),Average,3.1,12
+Galaxxy Restaurant,300,North Indian,Bhubaneswar,Nayapalli,Casual Dining,"12noon to 3pm,7pm to 1030pm(Mon-Sun)",Average,3.3,11
+Dipu's Glandsmisss Biryani Hub,200,Biryani,Bhubaneswar,Kharabela Nagar,Quick Bites,1130am to 5pm(Mon-Sun),Average,3.0,10
+Go For Eat,300,"Mughlai,North Indian,Chinese",Bhubaneswar,Kalinga Nagar,Quick Bites,11am to 10pm(Mon-Sun),Average,3.3,12
+Facevook,300,"North Indian,Chinese",Bhubaneswar,Kharabela Nagar,Casual Dining,1230pm to 10pm(Mon-Sun),Average,3.2,6
+Kapoor's Kitchen,400,Continental,Bhubaneswar,Forest Park,none,"Closed(Mon-Wed),11am to 8pm(Thu-Sun)",Average,3.3,10
+Maha Laxmi Chaat,100,Street Food,Bhubaneswar,Sahid Nagar,Quick Bites,11am to 1030pm(Mon-Sun),Average,3.1,4
+Eat Streak,250,"North Indian,Chinese,Fast Food",Bhubaneswar,Patia,none,11am to 1030pm(Mon-Sun),Average,3.1,7
+Sri Krishna South Indian,100,South Indian,Bhubaneswar,Sahid Nagar,Quick Bites,8am to 4pm(Mon-Sun),Average,3.0,8
+Little Italy,400,"North Indian,Pizza",Bhubaneswar,Patia,Quick Bites,10am to 10pm(Mon-Sun),Average,2.8,13
+Food Inn,200,Fast Food,Bhubaneswar,Khandagiri,Quick Bites,5pm to 1030pm(Mon-Sun),Average,3.2,10
+Royal Restaurant,400,"North Indian,Chinese",Bhubaneswar,VSS Nagar,Quick Bites,"12noon to 330pm,7pm to 1030pm(Mon-Sun)",Average,3.1,5
+Sunrise Momos And Sandwiches,150,Fast Food,Bhubaneswar,Patia,none,1030am to 9pm(Mon-Sun),Average,3.3,5
+Mohan's Handi Biriyani,300,"Chinese,Mughlai,North Indian",Bhubaneswar,Sahid Nagar,Quick Bites,(Mon-Sun),Average,3.3,10
+Sweet Obsession,500,Bakery,Bhubaneswar,Patia,Bakery,11am to 10pm(Mon-Sun),Average,3.2,10
+SQ's Receipe,300,"North Indian,Mughlai,Hyderabadi",Bhubaneswar,Chandrasekharpur,Quick Bites,1130am to 10pm(Mon-Sun),Average,3.3,10
+Ananda Food Plaza,200,Chinese,Bhubaneswar,Bapuji Nagar,Quick Bites,11am to 10pm(Mon-Sun),Average,3.2,6
+Maa Bhubaneswari Hotel,500,"Oriya,North Indian",Bhubaneswar,Chandrasekharpur,Quick Bites,"12noon to 3pm,7pm to 10pm(Mon-Sun)",Average,3.0,7
+Hotel Cinamon,600,"North Indian,Chinese",Bhubaneswar,Patia,Casual Dining,"12noon to 3pm,7pm to 10pm(Mon-Sun)",Average,3.2,8
+Chicken Addiction,500,"Roast Chicken,Seafood",Bhubaneswar,Patia,Quick Bites,4am to 10pm(Mon-Sun),Average,2.9,12
+Hangout,450,"North Indian,South Indian,Fast Food",Bhubaneswar,Hotel Sutrupti-- Unit 4,Casual Dining,"730am to 10am,1130am to 245pm,7pm to 1030pm...",Average,3.2,10
+The Hygienic,600,"North Indian,Chinese,Mughlai",Bhubaneswar,Sahid Nagar,Casual Dining,11am to 1030pm(Mon-Sun),Average,3.1,8
+Om Sai South Indian Tiffin,300,North Indian,Bhubaneswar,Sahid Nagar,none,6pm to 10pm(Mon-Sun),Average,3.2,9
+U Me & Momos,300,"Fast Food,Momos",Bhubaneswar,Patia,Quick Bites,11am to 10pm(Mon-Sun),Average,3.2,9
+Wow! Momo,400,"Tibetan,Momos",Bhubaneswar,Sahid Nagar,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.0,269
+Chancellor Restaurant,200,"North Indian,South Indian,Continental,Chinese",Bhubaneswar,Unit 4,Casual Dining,"1130am to 3pm,630pm to 11pm(Mon-Sun)",Good,3.8,338
+Kafil's,600,"North Indian,Chinese,Continental,Seafood",Bhubaneswar,Jayadev Vihar,Casual Dining,11am to 11pm(Mon-Sun),Good,3.7,247
+Food Darbar,400,"Oriya,North Indian",Bhubaneswar,Sahid Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,2.9,292
+Mad Mule,800,"Continental,North Indian",Bhubaneswar,Kharabela Nagar,Microbrewery,11am to 11pm(Mon-Sun),Good,3.6,298
+Litinuts,250,"Desserts,Ice Cream,Fast Food,Chinese",Bhubaneswar,Patia,Dessert Parlor,11am to 11pm(Mon-Sun),Very Good,4.3,291
+Club 39,600,"North Indian,Fast Food",Bhubaneswar,Jagmohan Nagar,Casual Dining,11am to 11pm(Mon-Sun),Good,3.8,286
+Moti Mahal Delux Tandoori Trail,800,"Mughlai,North Indian,Seafood,Chinese",Bhubaneswar,Patia,Casual Dining,11am to 11pm(Mon-Sun),Good,3.9,395
+Victoria Oriental & Thai Restaurant,500,"North Indian,Chinese,Thai",Bhubaneswar,Nayapalli,Casual Dining,11am to 11pm(Mon-Sun),Good,3.7,244
+Delhi Darbar,700,"North Indian,Chinese,Seafood",Bhubaneswar,Sahid Nagar,Casual Dining,12noon to 1045pm(Mon-Sun),Good,3.8,320
+Bling It On - Hotel Marrion,1400,"Continental,Italian,Mexican",Bhubaneswar,New Marrion Hotel-- Kharabela Nagar,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.3,304
+Aladdin Grills & Barbeque,500,"North Indian,Chinese",Bhubaneswar,Patia,Quick Bites,10am to 11pm(Mon-Sun),Very Good,4.1,153
+Zaika Palace,800,"North Indian,Chinese",Bhubaneswar,Gajapati Nagar,Casual Dining,"12noon to 4pm,7pm to 11pm(Mon-Sun)",Very Good,4.0,85
+The Burger Zone,150,Fast Food,Bhubaneswar,Patia,none,24,Good,3.9,173
+Chicken Handi,250,"Indian,Chinese,Oriya",Bhubaneswar,Chandrasekharpur,Quick Bites,430pm to 1030pm(Mon-Sun),Average,3.1,6
+Akhila Chat,200,Street Food,Bhubaneswar,Sahid Nagar,Quick Bites,5pm to 9pm(Mon-Sun),Average,3.4,11
+Alfa Biryani & More,200,"North Indian,Chinese,Fast Food",Bhubaneswar,Jagmohan Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,31
+British Bakery,200,Bakery,Bhubaneswar,BJB Nagar,Bakery,8am to 10pm(Mon-Sun),Average,2.8,10
+Chatkass,200,Fast Food,Bhubaneswar,Ashok Nagar,Quick Bites,2pm to 9pm(Mon-Sun),Average,2.8,7
+Srikhetra Vegetarian Restaurant,200,"Fast Food,Mithai",Bhubaneswar,Chandrasekharpur,Quick Bites,630am to 1030pm(Mon-Sun),Average,3.1,6
+Swain Food Court,200,"North Indian,Chinese,Mughlai",Bhubaneswar,Unit 4,Quick Bites,12noon to 10pm(Mon-Sun),Average,3.2,9
+Ruchipurna Dalma,350,"North Indian,Chinese",Bhubaneswar,Nayapalli,Casual Dining,"7am to 430pm,7pm to 10pm(Mon-Sun)",Average,2.7,11
+Curry Pot,250,"North Indian,South Indian",Bhubaneswar,Patia,none,1230pm to 1030pm(Mon-Sun),Average,3.3,12
+Chandan Restaurant,550,"Chinese,North Indian",Bhubaneswar,Jagmohan Nagar,Casual Dining,"1130am to 4pm,7pm to 1030pm(Mon-Sun)",Average,3.2,10
+Chai Paani,300,Beverages,Bhubaneswar,Chandrasekharpur,none,10am to 8pm(Mon-Sun),Average,3.1,5
+Daawat Biryani,350,"Biryani,North Indian,Mughlai,Fast Food",Bhubaneswar,Dumduma,Quick Bites,11am to 9pm(Mon-Sun),Average,3.0,12
+Momo House,150,"Momos,Fast Food",Bhubaneswar,Patia,Quick Bites,5pm to 10pm(Mon-Sun),Average,3.3,8
+Hotel Sapphire Plaza,700,"North Indian,Chinese",Bhubaneswar,Lakshmi Sagar,Casual Dining,12noon to 10pm(Mon-Sun),Average,3.2,9
+Chef Choice,250,"Chinese,North Indian",Bhubaneswar,Jagmohan Nagar,Quick Bites,1pm to 10pm(Mon-Sun),Average,3.2,8
+Rock N Roll,200,Rolls,Bhubaneswar,Patia,Quick Bites,430pm to 1015pm(Mon-Sun),Average,3.2,7
+Live-4-Biryani,400,"North Indian,Pakistani",Bhubaneswar,Sahid Nagar,Quick Bites,12noon to 5pm(Mon-Sun),Average,3.1,4
+Viswam Fast Food,200,"Chinese,Fast Food",Bhubaneswar,Bapuji Nagar,Quick Bites,5pm to 1030pm(Mon-Sun),Average,3.1,8
+Chicken Lick'en,250,Fast Food,Bhubaneswar,Khandagiri,none,630pm to 10pm(Mon-Sun),Average,3.1,5
+Royal Madrasi Cafe,400,South Indian,Bhubaneswar,Chandrasekharpur,Quick Bites,7am to 10pm(Mon-Sun),Average,3.0,7
+Eatery Park,200,"Chinese,Street Food",Bhubaneswar,Lakshmi Sagar,Quick Bites,11am to 10pm(Mon-Sun),Average,3.0,4
+Rollick Cafe,300,Fast Food,Bhubaneswar,Patia,Quick Bites,10am to 10pm(Mon-Sun),Average,3.0,6
+The M.S Villa,400,North Indian,Bhubaneswar,Patia,Quick Bites,9am to 9pm(Mon-Sun),Average,2.9,7
+Shawarmawala,200,"Rolls,Lebanese,Fast Food",Bhubaneswar,Jagmohan Nagar,none,4pm to 930pm(Mon-Sun),Average,3.2,6
+Kaka Ghara Thali,300,North Indian,Bhubaneswar,Kharabela Nagar,Quick Bites,12noon to 4pm(Mon-Sun),Average,3.2,6
+Shake House,150,Beverages,Bhubaneswar,Patia,Beverage Shop,11am to 10pm(Mon-Sun),Average,3.1,6
+Maa Santoshi Fast Food,150,Fast Food,Bhubaneswar,Patia,Quick Bites,4pm to 1030pm(Mon-Sun),Average,3.2,10
+Royal Bengal Kitchenn,500,"Fast Food,Street Food",Bhubaneswar,Patia,Quick Bites,"1130am to 1030pm(Mon-Fri),10am to 1030pm...",Average,3.2,6
+Shree Brijdham,200,"North Indian,Mexican,Chinese",Bhubaneswar,Khandagiri,Casual Dining,"11am to 330pm,6pm to 11pm(Mon-Sun)",Average,2.7,24
+Lunchbox,300,"Bengali,Oriya,North Indian",Bhubaneswar,Kharabela Nagar,none,8am to 1130am(Mon-Sun),Average,3.1,9
+Tribeni Bakery,300,Bakery,Bhubaneswar,Patia,Quick Bites,9am to 10pm(Mon-Sun),Average,3.1,4
+Chillyz Pepper,400,"North Indian,Fast Food,Chinese",Bhubaneswar,Kharabela Nagar,Quick Bites,10am to 10pm(Mon-Sun),Average,3.1,4
+Hotel Trupti,250,Modern Indian,Bhubaneswar,Kalinga Nagar,Quick Bites,(Mon-Sun),Average,3.1,4
+Hot Green Chilly,200,"Chinese,North Indian",Bhubaneswar,Jagmohan Nagar,Quick Bites,1230pm to 10pm(Mon-Sun),Average,3.2,5
+Hotel Maa Tarini,250,"Indian,Chinese",Bhubaneswar,Patia,Quick Bites,"1130am to 130pm,7pm to 9pm(Mon-Sun)",Average,3.1,5
+One Stop Shawarma,200,Rolls,Bhubaneswar,Kharabela Nagar,none,5pm to 10pm(Mon-Sun),Average,3.1,6
+"Look n"" Me""",150,"Indian,Chinese,Biryani",Bhubaneswar,Jagmohan Nagar,Quick Bites,1130am to 1030pm(Mon-Sun),Average,3.2,6
+Hotel Nice,200,Fast Food,Bhubaneswar,Lakshmi Sagar,Quick Bites,8am to 10pm(Mon-Sun),Average,3.2,8
+My Kitchen,500,"Fast Food,North Indian",Bhubaneswar,Patia,Quick Bites,1pm to 1030pm(Mon-Sun),Average,3.0,4
+The Delish,100,"Indian,Chinese,Mughlai",Bhubaneswar,Patia,Quick Bites,2pm to 10pm(Mon-Sun),Average,3.1,4
+Maharaja,650,"North Indian,Chinese",Bhubaneswar,Satya Nagar,Casual Dining,830am to 10pm(Mon-Sun),Average,3.0,4
+Diner's Restaurant,600,"North Indian,Chinese",Bhubaneswar,Baramunda,Casual Dining,"11am to 3pm,7pm to 1030pm(Mon-Sun)",Average,3.1,5
+The Regal Food Park,400,"Continental,Modern Indian,North Indian,Oriya,Seafood",Bhubaneswar,Patia,Quick Bites,7am to 11pm(Mon-Sun),Good,3.5,100
+R N R Fast food,200,"Chinese,Street Food",Bhubaneswar,Khandagiri,Kiosk,10am to 10pm(Mon-Sun),Average,3.1,6
+TMN Restaurant,300,Fast Food,Bhubaneswar,Baramunda,Quick Bites,10am to 10pm(Mon-Sun),Average,3.0,6
+Fusionleaf Resto & Cafe,250,"Chinese,Continental,North Indian",Bhubaneswar,Baramunda,Quick Bites,10am to 1045pm(Mon-Sun),Good,3.5,23
+Snark Bite,200,"North Indian,Fast Food",Bhubaneswar,Jayadev Vihar,Café,8am to 11pm(Mon-Sun),Good,3.5,37
+Kababs N Curries,600,Mughlai,Bhubaneswar,Patia,Quick Bites,8am to 11pm(Mon-Sun),Good,3.5,655
+Afiya Delight,400,Fast Food,Bhubaneswar,Kharabela Nagar,Quick Bites,1130am to 11pm(Mon-Sun),Good,3.7,138
+Amlan Hotel & Restaurant,350,"South Indian,Chinese,North Indian",Bhubaneswar,Kalinga Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,262
+Cove Restaurant,350,North Indian,Bhubaneswar,Jagmohan Nagar,Casual Dining,11am to 11pm(Mon-Sun),Good,3.7,290
+Chancellor Restaurant,250,"North Indian,Chinese",Bhubaneswar,Ashok Nagar,Casual Dining,"11am to 4pm,7pm to 11pm(Mon-Sun)",Good,3.8,229
+Keventers,400,"Beverages,Desserts,Ice Cream",Bhubaneswar,Patia,Beverage Shop,11am to 11pm(Mon-Sun),Very Good,4.2,202
+Upre Kitchen & Cafe,600,"North Indian,Chinese,Continental,Italian",Bhubaneswar,Chandrasekharpur,Casual Dining,11am to 10pm(Mon-Sun),Very Good,4.2,486
+Subharambh,250,"North Indian,Chinese",Bhubaneswar,Khandagiri,Quick Bites,"11am to 4pm,7pm to 11pm(Mon-Sun)",Good,3.6,259
+Wrap Up,600,Fast Food,Bhubaneswar,BMC Bhawani Mall-- Sahid Nagar,Casual Dining,10am to 11pm(Mon-Sun),Good,3.8,327
+Mama's Town Pizza,400,"Pizza,Italian",Bhubaneswar,Chandrasekharpur,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.0,201
+Creme Berry,300,"Desserts,Ice Cream,Beverages",Bhubaneswar,Patia,Dessert Parlor,11am to 11pm(Mon-Sun),Excellent,4.5,175
+Muttoncarte,500,"North Indian,Biryani",Bhubaneswar,Chandrasekharpur,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,299
+Golden Bird - Hotel Pushpak,750,"North Indian,South Indian,Chinese,Oriya",Bhubaneswar,Hotel Pushpak-- Lakshmi Sagar,Casual Dining,"7am to 11am,1130am to 330pm,7pm to 1130pm...",Very Good,4.1,170
+The China Hut,600,"Thai,Chinese",Bhubaneswar,Sahid Nagar,Casual Dining,1230pm to 11pm(Mon-Sun),Very Good,4.0,165
+Taj Kebab Center,200,"North Indian,Mughlai,Biryani",Bhubaneswar,Sahid Nagar,Quick Bites,"Closed(Mon),6pm to 11pm(Tue-Sun)",Good,3.6,36
+Chicken Lounge,1200,"North Indian,Chinese,Italian,European,Continental,Mexican",Bhubaneswar,Khandagiri,Casual Dining,"11am to 330pm,630pm to 11pm(Mon-Sun)",Average,3.3,49
+Pink Burger,250,"Fast Food,Street Food,Indian,Burger,Sandwich,Fried Chicken,Cafe Food",Bhubaneswar,Patia,none,"12midnight to 2am,8am to 12midnight(Mon-Sun)",Good,3.6,54
+Crazzy Burger,200,"Fast Food,Burger,Sandwich",Bhubaneswar,Patia,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.1,42
+Hangout Restaurant,500,"North Indian,Chinese",Bhubaneswar,Patia,Casual Dining,"11am to 3pm,7pm to 11pm(Mon-Sun)",Average,3.0,81
+RCN Potbelly,300,"North Indian,Fast Food",Bhubaneswar,Patia,Quick Bites,8am to 12midnight(Mon-Sun),Average,3.2,31
+Xcuse Bar - Prangan by Mango Hotel,600,"Continental,North Indian,Chinese",Bhubaneswar,Prangan by Mango Hotel-- Lakshmi Sagar,Bar,12noon to 12midnight(Mon-Sun),Good,3.7,87
+Golden Orchid,550,"North Indian,Chinese",Bhubaneswar,Jayadev Vihar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,56
+Ghar Ka Khana,250,North Indian,Bhubaneswar,Patia,Quick Bites,11am to 1130pm(Mon-Sun),Average,2.7,37
+The Sizzle - VITS Hotel,1000,"North Indian,Chinese,Thai,Italian",Bhubaneswar,VITS Hotel-- Lakshmi Sagar,Casual Dining,"7am to 1030am,1230pm to 330pm,7pm to 11pm...",Good,3.7,43
+Spices Dum Biryani,120,Biryani,Bhubaneswar,Nayapalli,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.5,81
+Hotel Tridev,150,"Fast Food,North Indian",Bhubaneswar,Jatni,Quick Bites,"1230pm to 330pm,6pm to 11pm(Mon-Sun)",Average,3.4,20
+Red Chilly Fast Food,250,Fast Food,Bhubaneswar,BJB Nagar,Quick Bites,5pm to 11pm(Mon-Sun),Good,3.7,60
+Steamin' Cups,400,"Coffee,Fast Food",Bhubaneswar,Patia,Café,10am to 11pm(Mon-Sun),Good,3.5,51
+Street Foods by Punjab Grill,500,North Indian,Bhubaneswar,Kharabela Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,38
+Sandhyarani Hotel,200,North Indian,Bhubaneswar,Gajapati Nagar,Dhaba,7am to 1155pm(Mon-Sun),Good,3.9,42
+Blue Haven,500,Chinese,Bhubaneswar,Ashok Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,65
+Banana Leaf,400,North Indian,Bhubaneswar,Jagmohan Nagar,Quick Bites,1030am to 11pm(Mon-Sun),Average,3.1,55
+Red Chilly,200,"North Indian,Chinese,Fast Food",Bhubaneswar,Patia,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,86
+Goodly Restaurant,400,"Indian,Chinese",Bhubaneswar,Baramunda,Casual Dining,1030am to 11pm(Mon-Sun),Average,3.4,74
+Sriyaram Restaurant,500,"Oriya,North Indian",Bhubaneswar,Chandrasekharpur,Quick Bites,"11am to 3pm,7pm to 11pm(Mon-Sun)",Good,3.5,68
+Yummy Max,200,"Burger,Sandwich",Bhubaneswar,Patia,Quick Bites,24,Average,3.0,59
+Confucius - Swosti Premium,1200,Chinese,Bhubaneswar,Swosti Premium-- Jayadev Vihar,Fine Dining,"12noon to 330pm,7pm to 11pm(Mon-Sun)",Good,3.7,58
+The Mirchi Masala,400,"Chinese,North Indian",Bhubaneswar,Lakshmi Sagar,Casual Dining,"11am to 3pm,7pm to 11pm(Mon-Sun)",Good,3.6,58
+Sizzling Appetizers,600,Chinese,Bhubaneswar,Chandrasekharpur,Quick Bites,"121AM to 5am,12noon to 12midnight(Mon-Sun)",Good,3.5,44
+Italian Bakery Cafe,500,"Bakery,Cafe",Bhubaneswar,Nayapalli,Bakery,9am to 11pm(Mon-Sun),Average,3.0,74
+Secret Kitchen,400,"North Indian,Chinese,Continental",Bhubaneswar,Patia,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,41
+Asia Seven,300,"Chinese,Momos",Bhubaneswar,Kharabela Nagar,Food Court,11am to 11pm(Mon-Sun),Average,2.9,48
+Muna Restaurant,500,"South Indian,North Indian,Chinese,Biryani",Bhubaneswar,Sahid Nagar,Casual Dining,"12noon to 4pm,6pm to 11pm(Mon-Sun)",Good,3.6,79
+Swastik Veg Restaurant,300,"North Indian,Chinese",Bhubaneswar,Ashok Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,56
+Freaky Foodies,400,Fast Food,Bhubaneswar,Patia,Quick Bites,5pm to 11pm(Mon-Sun),Good,3.5,33
+Paradise Biryani Point,250,"Biryani,North Indian,Chinese",Bhubaneswar,Patia,Quick Bites,11am to 11pm(Mon-Sun),Average,2.9,50
+Melting Pot,550,"North Indian,Chinese",Bhubaneswar,Kharabela Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,57
+Yum Yum - Hotel Pushpak,700,"North Indian,Chinese",Bhubaneswar,Hotel Pushpak-- Lakshmi Sagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,60
+Royal Biriyani House,200,"Biryani,North Indian",Bhubaneswar,Lakshmi Sagar,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.5,77
+Sudoku,100,Rolls,Bhubaneswar,Nayapalli,Quick Bites,5pm to 11pm(Mon-Sun),Good,3.5,46
+Sahoo Fast Food,100,Fast Food,Bhubaneswar,Nayapalli,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,55
+Hotel Chandan,300,"South Indian,Chinese",Bhubaneswar,Baramunda,Casual Dining,7am to 11pm(Mon-Sun),Average,3.2,43
+Bhojan Express,600,"Fast Food,North Indian",Bhubaneswar,BMC Bhawani Mall-- Sahid Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,2.7,51
+Bengal Tiffin House,100,Bengali,Bhubaneswar,Patia,none,830am to 11pm(Mon-Sun),Average,3.1,38
+Giani,300,"Ice Cream,Desserts",Bhubaneswar,Chandrasekharpur,Dessert Parlor,12noon to 11pm(Mon-Sun),Good,3.8,39
+UG Cafe & Bar - Hotel Hindustan International,1200,"Continental,Mexican,Desserts,Italian,Cuisine Varies",Bhubaneswar,Hotel Hindustan International-- Kharabela Nagar,Lounge,5pm to 11pm(Mon-Sun),Good,3.6,59
+The Belgian Waffle Co.,400,"Desserts,Beverages",Bhubaneswar,Patrapada,Dessert Parlor,11am to 11pm(Mon-Sun),Good,3.9,29
+Bhukkad,350,"Lebanese,Italian,Mexican",Bhubaneswar,Patia,none,24,Average,2.9,60
+Nice Restaurant,250,South Indian,Bhubaneswar,Lakshmi Sagar,Quick Bites,730am to 11pm(Mon-Sun),Average,3.3,49
+Food Gallery,200,North Indian,Bhubaneswar,Satya Nagar,Casual Dining,"12noon to 3pm,5pm to 11pm(Mon-Sun)",Good,3.6,25
+JSB Restaurant,300,"North Indian,Chinese,Continental",Bhubaneswar,Baramunda,Quick Bites,"9am to 1145pm(Mon,Fri),930am to 1145pm(Tue...",Average,2.7,24
+Pathik Restaurant,500,"North Indian,Chinese",Bhubaneswar,Sahid Nagar,Quick Bites,"11am to 4pm,6pm to 1130pm(Mon-Sun)",Average,3.3,58
+Kebab King,200,"North Indian,Rolls,Chinese,Kebab,Biryani",Bhubaneswar,Patia,Quick Bites,5pm to 11pm(Mon-Sun),Good,3.5,29
+Rajashree Cafe,200,"Fast Food,Beverages",Bhubaneswar,Patia,none,11am to 11pm(Mon-Sun),Good,3.6,18
+Last Hunger,400,Fast Food,Bhubaneswar,Nayapalli,none,"Closed(Mon,Wed,Thu),24",Good,3.8,61
+Hotel Pattanaik,200,Oriya,Bhubaneswar,Kalinga Nagar,Quick Bites,"11am to 4pm,6pm to 11pm(Mon-Sun)",Average,3.1,27
+Chancellor Royal,1200,"Finger Food,Indian",Bhubaneswar,Kharabela Nagar,Casual Dining,11am to 12midnight(Mon-Sun),Average,3.1,43
+Oriya Kitchen,450,"North Indian,Chinese,South Indian",Bhubaneswar,Kalinga Nagar,Casual Dining,10am to 11pm(Mon-Sun),Average,2.5,61
+Priyajan Restaurant,500,"North Indian,Chinese",Bhubaneswar,Kalinga Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,44
+Roasted Beans Resto Cafe,300,"Cafe,Fast Food",Bhubaneswar,Lakshmi Sagar,Quick Bites,10am to 11pm(Mon-Sun),Good,3.5,27
+Amahandishala.com,250,Oriya,Bhubaneswar,Patia,none,11am to 11pm(Mon-Sun),Good,3.5,26
+Ama Odisha Hotel,300,"Oriya,Chinese,North Indian",Bhubaneswar,Rasulgarh,Casual Dining,"12noon to 4pm,6pm to 11pm(Mon-Sun)",Good,3.5,28
+9th Street Multicuisine Family Restaurant,600,"North Indian,Chinese",Bhubaneswar,Jagmohan Nagar,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,32
+Food Plaza,300,"South Indian,North Indian,Chinese,Fast Food",Bhubaneswar,Kharabela Nagar,Quick Bites,5am to 1130pm(Mon-Sun),Average,3.4,56
+ROCKET TUCK,250,"Burger,Chinese,North Indian,Rolls,Sandwich",Bhubaneswar,Patia,none,"12midnight to 2am,7pm to 12midnight(Mon,Tue...",Average,3.4,36
+Munch Box,100,Chinese,Bhubaneswar,Sahid Nagar,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.3,16
+7 Star Kitchen,200,"North Indian,Chinese",Bhubaneswar,Patrapada,Quick Bites,1130am to 11pm(Mon-Sun),Average,2.9,40
+Smokeat,800,North Indian,Bhubaneswar,Khandagiri,Casual Dining,11am to 11pm(Mon-Sun),Average,3.0,40
+Flavours of Chicken,300,Fast Food,Bhubaneswar,Nayapalli,Quick Bites,5pm to 1130pm(Mon-Sun),Average,3.4,30
+Cook n Cook,300,North Indian,Bhubaneswar,Nayapalli,Quick Bites,11am to 11pm(Mon-Sun),Average,2.8,42
+Tasteproz,250,Fast Food,Bhubaneswar,Patia,Quick Bites,10am to 11pm(Mon-Sun),Good,3.5,26
+Hunger Dose,500,"North Indian,Biryani",Bhubaneswar,Patia,Quick Bites,830am to 12midnight(Mon-Sun),Good,3.5,43
+Bawarchi 9-In 9-Out,400,"North Indian,Chinese,Fast Food",Bhubaneswar,Rasulgarh,none,5pm to 11pm(Mon-Sun),Good,3.6,48
+Golden Gate Bar & Restaurant,800,"North Indian,Chinese,Finger Food",Bhubaneswar,Lakshmi Sagar,Bar,12noon to 11pm(Mon-Sun),Average,2.9,19
+Lotus Restaurant,350,"North Indian,Fast Food",Bhubaneswar,Lakshmi Sagar,Quick Bites,1130am to 11pm(Mon-Sun),Good,3.5,56
+Burn Out,200,Fast Food,Bhubaneswar,Patia,Food Truck,"330pm to 11pm(Mon,Sun),4pm to 11pm(Tue-Sat)",Average,2.9,42
+The Central Kitchen,300,North Indian,Bhubaneswar,Kharabela Nagar,Quick Bites,7am to 11pm(Mon-Sun),Good,3.5,28
+Kulfiano,170,Ice Cream,Bhubaneswar,Lakshmi Sagar,Dessert Parlor,11am to 11pm(Mon-Sun),Good,3.7,19
+A-One Sathi Food Plaza,250,Fast Food,Bhubaneswar,Patia,Quick Bites,"11am to 11pm(Mon,Tue,Wed,Thu,Sat,Sun),12noon...",Average,3.4,50
+Puri Pet Pooja,100,North Indian,Bhubaneswar,Patia,Quick Bites,3pm to 11pm(Mon-Sun),Average,3.4,55
+9th Street Hideaway,750,"Continental,Chinese,North Indian,South Indian",Bhubaneswar,Jagmohan Nagar,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,40
+Myna's Live Kitchen,250,"North Indian,Chinese",Bhubaneswar,Bapuji Nagar,Quick Bites,"11am to 4pm,7pm to 11pm(Mon-Sun)",Average,3.3,20
+Mughlai Affair,200,"North Indian,Chinese",Bhubaneswar,Lakshmi Sagar,Quick Bites,6pm to 12midnight(Mon-Sun),Good,3.5,41
+Namaste Reloaded Restaurant,600,"North Indian,Chinese",Bhubaneswar,Jagmohan Nagar,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,28
+Thunder Cafe,400,"Cafe,Fast Food",Bhubaneswar,Chandrasekharpur,Café,9am to 11pm(Mon-Sun),Average,3.4,42
+Burger Day,200,"Burger,Fast Food",Bhubaneswar,Jagmohan Nagar,Quick Bites,8am to 11pm(Mon-Sun),Average,3.4,14
+Live It Up,350,"North Indian,Chinese",Bhubaneswar,Lakshmi Sagar,Quick Bites,12noon to 12midnight(Mon-Sun),Average,3.3,46
+Lajawab,200,"Biryani,Fast Food",Bhubaneswar,Khandagiri,none,11am to 11pm(Mon-Sun),Average,3.4,34
+Hotel Odishi,350,North Indian,Bhubaneswar,Chandrasekharpur,Quick Bites,"12noon to 3pm,7pm to 11pm(Mon-Sun)",Average,3.3,20
+B-Desi Restaurant,800,North Indian,Bhubaneswar,Hotel Deepali International-- Lakshmi Sagar,Casual Dining,7am to 11pm(Mon-Sun),Average,2.9,7
+Hollywood,1000,Finger Food,Bhubaneswar,Hotel By The Way-- Patia,Bar,12noon to 1130pm(Mon-Sun),Average,2.9,23
+Bjs Tandoor Delight,200,"North Indian,Mughlai,Chinese",Bhubaneswar,Bapuji Nagar,none,12noon to 11pm(Mon-Sun),Average,3.4,36
+Kadhai Take Away,200,North Indian,Bhubaneswar,Jayadev Vihar,Quick Bites,"12noon to 230pm,6pm to 11pm(Mon-Sun)",Good,3.5,24
+Cafe Odisha,350,"Cafe,Fast Food",Bhubaneswar,Chandrasekharpur,Café,"8am to 130pm,230pm to 11pm(Mon-Sun)",Average,3.3,15
+Barbie Restaurant,600,"North Indian,Chinese",Bhubaneswar,Lakshmi Sagar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,16
+Hotel Swadist,300,"North Indian,Oriya",Bhubaneswar,Lakshmi Sagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,24
+Snowball Ice Cream,150,Ice Cream,Bhubaneswar,Nayapalli,none,11am to 11pm(Mon-Sun),Good,3.5,22
+Biriyani Taj & Chinese Fast Food,200,"Indian,Chinese",Bhubaneswar,Chandrasekharpur,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,12
+Leo Bite,350,"North Indian,Fast Food",Bhubaneswar,Khandagiri,Quick Bites,"11am to 1030pm(Mon),11am to 1130pm(Tue-Sun)",Average,3.4,20
+Hotel Maa Santoshi,300,"North Indian,Oriya",Bhubaneswar,Sahid Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,45
+South Indian Tiffin & Fast food,200,"South Indian,Fast Food",Bhubaneswar,Patia,Quick Bites,"8am to 12noon,5pm to 11pm(Mon-Sun)",Average,3.2,11
+Roll House,100,Rolls,Bhubaneswar,Patia,Quick Bites,5pm to 11pm(Mon-Sun),Good,3.5,31
+Biriyani Box,500,"Hyderabadi,Biryani,Rolls",Bhubaneswar,Patia,Quick Bites,1130am to 11pm(Mon-Sun),Good,3.5,21
+Hotel Sourav,500,"Chinese,North Indian,Oriya,Mughlai",Bhubaneswar,Jagmohan Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,32
+Hotel Odiani,400,"Oriya,North Indian,Mughlai",Bhubaneswar,Chandrasekharpur,Casual Dining,"12noon to 4pm,8pm to 11pm(Mon-Sun)",Average,2.9,33
+DFC Fast Food,400,Fast Food,Bhubaneswar,Sahid Nagar,Quick Bites,10am to 11pm(Mon-Sun),Average,3.2,21
+Shree Wraps & More,150,Fast Food,Bhubaneswar,Patia,Quick Bites,830am to 11pm(Mon-Sun),Average,3.3,13
+Baba Da Dhaba,400,"North Indian,Chinese,Fast Food,Rolls",Bhubaneswar,Sahid Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,25
+Bhubaneswar Taste Factory,400,"Fast Food,Oriya",Bhubaneswar,Sahid Nagar,Quick Bites,1130am to 11pm(Mon-Sun),Average,3.1,17
+Auntie Anne's,300,"Cafe,Desserts,Bakery",Bhubaneswar,Sahid Nagar,Café,11am to 1130pm(Mon-Sun),Average,2.9,21
+Shubh Sagar,500,"North Indian,South Indian",Bhubaneswar,Sahid Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,2.5,24
+Z Restaurant,600,"North Indian,Chinese,South Indian,Beverages",Bhubaneswar,Jayadev Vihar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,24
+Bawarchi,500,"North Indian,Chinese",Bhubaneswar,Kalinga Nagar,none,"1130am to 3pm,630pm to 11pm(Mon-Sun)",Average,3.2,15
+Metro Kitchen,400,Fast Food,Bhubaneswar,BJB Nagar,Quick Bites,12noon to 11pm(Mon-Sun),Average,2.7,34
+Keyars Food Restaurant,500,"North Indian,South Indian,Chinese",Bhubaneswar,Bapuji Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,311
+The Mughlai,450,"Biryani,Mughlai,North Indian",Bhubaneswar,Patia,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,205
+Mirch Masala - Hotel Marrion,1200,North Indian,Bhubaneswar,New Marrion Hotel-- Kharabela Nagar,Casual Dining,12noon to 11pm(Mon-Sun),Very Good,4.0,164
+Hola Cafe,300,"North Indian,Biryani,Chinese,Salad",Bhubaneswar,Patia,Quick Bites,7am to 11pm(Mon-Sun),Good,3.9,188
+Mezbaan,400,"North Indian,Mughlai",Bhubaneswar,Patia,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.0,81
+Chandini Food Magic,250,Fast Food,Bhubaneswar,Patia,Quick Bites,11am to 1030pm(Mon-Sun),Average,3.1,587
+Club Dine Restaurant,600,"North Indian,Chinese",Bhubaneswar,Chandrasekharpur,Casual Dining,1030am to 11pm(Mon-Sun),Good,3.9,166
+TCD Restaurant & Banquet,500,"Fast Food,North Indian,Chinese",Bhubaneswar,Chandrasekharpur,Casual Dining,11am to 1030pm(Mon-Sun),Very Good,4.1,877
+RCN Pot Belly,300,"North Indian,Fast Food",Bhubaneswar,Kharabela Nagar,Quick Bites,1030am to 10am(Mon-Sun),Average,3.3,64
+Coffeekery,400,"Bakery,Cafe",Bhubaneswar,Sahid Nagar,Bakery,9am to 11pm(Mon-Sun),Very Good,4.0,102
+BOCCA Cafe,450,Cafe,Bhubaneswar,Kharabela Nagar,Café,11am to 930pm(Mon-Sun),Excellent,4.5,734
+Chill Out,800,North Indian,Bhubaneswar,Chandrasekharpur,Casual Dining,1130am to 11pm(Mon-Sun),Good,3.7,159
+JUGAAD JN.,300,"North Indian,Rajasthani",Bhubaneswar,Patia,Casual Dining,10am to 10pm(Mon-Sun),Very Good,4.3,1112
+KM North Restaurant,700,North Indian,Bhubaneswar,Patia,Casual Dining,10am to 11pm(Mon-Sun),Average,3.4,174
+Tasty Bite,200,"Fast Food,Chinese,North Indian",Bhubaneswar,Sahid Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,15
+Hotel 7 Miles,1000,"North Indian,Chinese,Beverages,Finger Food",Bhubaneswar,Khandagiri,Bar,11am to 11pm(Mon-Sun),Average,3.3,21
+Excellency Gold Bar,1000,"North Indian,Finger Food",Bhubaneswar,Patia,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,23
+Khanti Berhampuriya Khana,300,North Indian,Bhubaneswar,Patia,Quick Bites,"12noon to 1130pm(Mon,Wed,Sat),125pm to ...",Average,3.4,26
+Sai Jagannath,250,"North Indian,Fast Food",Bhubaneswar,Patrapada,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,8
+Shine Dine,400,"Fast Food,North Indian",Bhubaneswar,Chandrasekharpur,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,23
+Hungry Birds,100,"Mughlai,Fast Food",Bhubaneswar,Patia,none,"1030am to 330pm,5pm to 11pm(Mon-Sun)",Average,2.7,16
+We D Foodies,300,"North Indian,Chinese,Oriya,Hyderabadi",Bhubaneswar,Kalinga Nagar,Quick Bites,1030am to 1130pm(Mon-Sun),Average,3.4,13
+Angel Bakery,150,Bakery,Bhubaneswar,Chandrasekharpur,Bakery,11am to 11pm(Mon-Sun),Average,3.0,24
+Shiraz Takeaway,400,"North Indian,Biryani",Bhubaneswar,Khandagiri,none,12noon to 11pm(Mon-Sun),Average,2.9,5
+The Green Tree,300,"North Indian,Chinese,Mughlai",Bhubaneswar,Patia,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.3,7
+Biraj Hotels,400,"Chinese,South Indian",Bhubaneswar,Khandagiri,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,13
+True Foodie,200,"North Indian,Chinese",Bhubaneswar,Patia,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.6,30
+Modern Chit Chat,400,Chinese,Bhubaneswar,Bapuji Nagar,Quick Bites,10am to 11pm(Mon-Sun),Average,3.4,31
+Spice Garden,750,"North Indian,Chinese",Bhubaneswar,Bapuji Nagar,Casual Dining,"11am to 330pm,7pm to 11pm(Mon-Sun)",Average,2.7,25
+Poochkawala,400,Fast Food,Bhubaneswar,Chandrasekharpur,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,11
+Coffee Day Beverages,250,Cafe,Bhubaneswar,Baramunda,Café,10am to 11pm(Mon-Sun),Average,3.1,5
+Foodpep,200,"North Indian,Chinese,Continental",Bhubaneswar,Jagmohan Nagar,Quick Bites,12noon to 3am(Mon-Sun),Average,3.1,8
+Ria N Dia Restaurant,300,"North Indian,Chinese",Bhubaneswar,Sahid Nagar,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.5,24
+FoodZone,500,"North Indian,Chinese",Bhubaneswar,Jagmohan Nagar,none,11am to 11pm(Mon-Sun),Average,3.2,13
+Arya Mahal Restaurant,400,"North Indian,Chinese,South Indian",Bhubaneswar,Kharabela Nagar,Quick Bites,"7am to 1030am,3pm to 11pm(Mon-Sun)",Average,2.8,18
+Hotel Clay Pot,350,"North Indian,Chinese",Bhubaneswar,Satya Nagar,Quick Bites,"11am to 4pm,7pm to 12midnight(Mon-Sun)",Average,3.4,19
+Hotel Tara Tarini,300,Fast Food,Bhubaneswar,Khandagiri,Quick Bites,7am to 11pm(Mon-Sun),Average,3.1,19
+Pan Chinese,500,"South Indian,Chinese,Thai",Bhubaneswar,Nayapalli,Casual Dining,7am to 11pm(Mon-Sun),Average,3.1,4
+Creme Shakes,300,"Desserts,Ice Cream,Beverages",Bhubaneswar,Patia,Dessert Parlor,11am to 11pm(Mon-Sun),Average,3.2,6
+Ama Handisala Hotel,300,"North Indian,South Indian,Oriya",Bhubaneswar,Patia,Quick Bites,"1030am to 330pm,7pm to 11pm(Mon-Sun)",Average,2.6,17
+Village  Inn,400,"North Indian,Chinese",Bhubaneswar,Patia,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,14
+Hotel Arya Palace,600,"North Indian,Chinese",Bhubaneswar,Ashok Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.0,9
+Latika Restaurant,500,"North Indian,Chinese",Bhubaneswar,Lakshmi Sagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,20
+Oasis Lounge Bar,600,Finger Food,Bhubaneswar,Bapuji Nagar,Bar,11am to 11pm(Mon-Sun),Average,2.8,17
+Amigos Bakery,200,Bakery,Bhubaneswar,Patia,Bakery,11am to 11pm(Mon-Sun),Average,3.1,9
+Hotel Sriyaram,200,"North Indian,Oriya",Bhubaneswar,Rasulgarh,Quick Bites,"12noon to 4pm,7pm to 11pm(Mon-Sun)",Average,3.3,12
+At 90 Degree,600,"Asian,Biryani,Chinese,Fast Food,Indian,Kebab,North Indian,Rolls",Bhubaneswar,Unit 4,Quick Bites,"12noon to 3pm,6pm to 1130pm(Mon,Tue,Wed,Fri...",Average,3.1,10
+1360 Restaurant,600,"Chinese,Continental,North Indian",Bhubaneswar,Patia,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,13
+The Yellow Chilly Premium,300,"North Indian,Chinese",Bhubaneswar,Chandrasekharpur,Quick Bites,4pm to 11pm(Mon-Sun),Average,3.1,12
+Wat-a-Biryani,600,"Biryani,North Indian",Bhubaneswar,Lakshmi Sagar,none,"12noon to 4pm,7pm to 11pm(Mon-Sun)",Average,2.7,17
+Burger Bro,200,"Burger,Fast Food",Bhubaneswar,Patia,Quick Bites,10am to 12midnight(Mon-Sun),Average,3.3,9
+Paris Bakery,0,"Bakery,Fast Food",Bhubaneswar,Jagmohan Nagar,Bakery,11am to 11pm(Mon-Sun),Average,3.4,12
+Wow! Momo,400,"Tibetan,Chinese,Momos",Bhubaneswar,Surya Nagar,Quick Bites,24,Average,3.3,6
+Ma Restaurant,500,"Chinese,North Indian,Fast Food",Bhubaneswar,Unit 4,Quick Bites,1130am to 11pm(Mon-Sun),Average,3.0,7
+Darbaar,500,"North Indian,Chinese",Bhubaneswar,Chandrasekharpur,Quick Bites,11am to 11pm(Mon-Sun),Average,2.9,9
+Jay Durga Fast food,200,North Indian,Bhubaneswar,Sahid Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,17
+Sip N Bite - Hotel Miland Palace,1000,"North Indian,Chinese",Bhubaneswar,Lakshmi Sagar,Casual Dining,"730am to 10am,7pm to 1130pm,12noon to 3pm...",Average,3.3,15
+Khandagiri Restaurant,550,"North Indian,Chinese",Bhubaneswar,Khandagiri,Quick Bites,"10am to 4pm,7pm to 11pm(Mon-Sun)",Average,2.7,14
+Hotel Eden Roc,500,North Indian,Bhubaneswar,Kharabela Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.1,6
+OZY FOODS,300,"South Indian,North Indian,Chinese",Bhubaneswar,Patia,Quick Bites,"8am to 5pm,7pm to 11pm(Mon-Sun)",Average,2.8,14
+Food Point,200,"Chinese,North Indian",Bhubaneswar,BJB Nagar,Quick Bites,1130am to 11pm(Mon-Sun),Average,3.3,17
+S's Foodiez,600,"North Indian,Chinese",Bhubaneswar,Patia,Casual Dining,"11am to 3pm,6pm to 11pm(Mon-Sun)",Average,3.2,14
+Food Express,350,"North Indian,South Indian,Chinese",Bhubaneswar,Kharabela Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,5
+Hotel Durene,550,"Continental,Chinese,Indian",Bhubaneswar,Lakshmi Sagar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.1,6
+Maa Tarini Juice,100,Juices,Bhubaneswar,Sahid Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,7
+Prince Foods,300,"North Indian,Chinese,Biryani",Bhubaneswar,Kalinga Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,13
+MMM Family Restaurant,600,North Indian,Bhubaneswar,Kharabela Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,12
+Hotel Friends,300,North Indian,Bhubaneswar,Sahid Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,15
+Adi's Delight,200,Fast Food,Bhubaneswar,Baramunda,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,14
+Garden Restaurant,250,North Indian,Bhubaneswar,Lakshmi Sagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,8
+Z Bakery,300,"Bakery,Desserts",Bhubaneswar,Jayadev Vihar,Bakery,11am to 11pm(Mon-Sun),Average,2.9,4
+DiiFish,700,"Oriya,Bengali",Bhubaneswar,Patia,Quick Bites,11am to 11pm(Mon-Sun),Average,2.9,7
+Ruhi Food Junction,300,"North Indian,South Indian,Chinese",Bhubaneswar,Sahid Nagar,Quick Bites,6am to 11pm(Mon-Sun),Average,3.3,11
+Sriya's,300,"North Indian,Chinese",Bhubaneswar,Lakshmi Sagar,Quick Bites,8am to 11pm(Mon-Sun),Average,3.1,5
+Pirates Foods Smugglers,400,Fast Food,Bhubaneswar,Patia,Food Truck,5pm to 11pm(Mon-Sun),Average,2.9,6
+Food Paradise,250,"North Indian,Chinese",Bhubaneswar,Chandrasekharpur,Quick Bites,8am to 12midnight(Mon-Sun),Average,3.3,10
+Pushpak Restaurant,300,"North Indian,Chinese,Fast Food",Bhubaneswar,Nayapalli,Quick Bites,"11am to 4pm,6pm to 11pm(Mon-Sun)",Average,3.1,6
+FoodZone,250,Fast Food,Bhubaneswar,Chandrasekharpur,none,11am to 11pm(Mon-Sun),Average,3.1,4
+Harmony Restaurant,500,"North Indian,Chinese",Bhubaneswar,Lakshmi Sagar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.0,5
+Red Chillee,250,"North Indian,Fast Food",Bhubaneswar,Patia,none,10am to 11pm(Mon-Sun),Average,3.1,8
+Blue Flames,600,,Bhubaneswar,Surya Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.1,7
+LazyChef,350,North Indian,Bhubaneswar,Sahid Nagar,Quick Bites,11am to 1045pm(Mon-Sun),Average,2.9,8
+Behera Dhaba,500,"North Indian,South Indian",Bhubaneswar,Kalinga Nagar,Quick Bites,24,Average,3.1,11
+Cele Bread,300,"Bakery,Fast Food",Bhubaneswar,Sahid Nagar,Quick Bites,10am to 11pm(Mon-Sun),Average,3.2,4
+Hotel Sambit Palace,800,Finger Food,Bhubaneswar,Hotel Sambit Palace-- Ashok Nagar,Bar,12noon to 11pm(Mon-Sun),Average,3.1,4
+Bhojanghar.com,400,"Indian,North Indian",Bhubaneswar,Patia,none,24,Average,3.2,8
+The Olives,200,Fast Food,Bhubaneswar,Nayapalli,Quick Bites,"11am to 3pm,6pm to 11pm(Mon-Sun)",Average,3.2,5
+Chakulipanda,700,Oriya,Bhubaneswar,Chandrasekharpur,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,8
+Bluez Flame,300,North Indian,Bhubaneswar,Surya Nagar,Quick Bites,1130am to 11pm(Mon-Sun),Average,2.9,8
+Hot Neela Madhaba,0,"Fast Food,North Indian",Bhubaneswar,Kharabela Nagar,Dhaba,11am to 11pm(Mon-Sun),Average,3.3,5
+Chinese Plaza,200,"Chinese,Fast Food,Indian",Bhubaneswar,Baramunda,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,6
+Tandoori Hut,200,Chinese,Bhubaneswar,Baramunda,Quick Bites,"12noon to 3pm,6pm to 11pm(Mon-Sun)",Average,3.1,6
+Food and  Fun,200,"North Indian,Chinese",Bhubaneswar,Kharabela Nagar,Quick Bites,5pm to 11pm(Mon-Sun),Average,3.1,5
+Ksar Pesto,400,"North Indian,Chinese",Bhubaneswar,Patia,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,4
+Omm Sai Dum Biriyani,150,Biryani,Bhubaneswar,Nayapalli,Quick Bites,11am to 3am(Mon-Sun),Average,3.1,4
+Foodies-Box,550,"Chinese,Continental,Indian,Italian,Mediterranean",Bhubaneswar,Bapuji Nagar,none,24,Average,3.0,5
+Season 6 Restaurant,500,"North Indian,Chinese,South Indian",Bhubaneswar,Hotel Sutrupti-- Unit 4,Quick Bites,7am to 11pm(Mon-Sun),Average,3.1,5
+Nigam Bhog,250,North Indian,Bhubaneswar,Jagmohan Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,4
+Roll Express,300,Biryani,Bhubaneswar,Patia,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.0,4
+Maharaja Royal Restaurant,1000,"Chinese,Indian,Oriya",Bhubaneswar,Kharabela Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.0,4
+Biriyani King,200,Biryani,Bhubaneswar,Patia,Quick Bites,1230pm to 1030pm(Mon-Sun),Good,3.9,563
+Let's Go Bananas,400,"Cafe,Continental",Bhubaneswar,BJB Nagar,Café,11am to 11pm(Mon-Sun),Good,3.5,194
+Curry Leaf The Kitchen,800,"Andhra,North Indian,Biryani,Chinese",Bhubaneswar,Patia,Casual Dining,"12noon to 330pm,630pm to 10pm(Mon-Sun)",Very Good,4.2,703
+Biriyani Box,350,"Biryani,Hyderabadi,Rolls,Kebab",Bhubaneswar,Patia,Quick Bites,12noon to 1030pm(Mon-Sun),Good,3.9,838
+The Sea Blings,300,"Chinese,Fast Food",Bhubaneswar,Khandagiri,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,137
+Aangan Restaurant,500,"Chinese,North Indian,Mughlai",Bhubaneswar,Sahid Nagar,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,257
+Karims,500,"North Indian,Mughlai",Bhubaneswar,Chandrasekharpur,Casual Dining,"11am to 330pm,630pm to 11pm(Mon-Sun)",Average,2.9,216
+Keshari Garnish,500,"North Indian,Mughlai,Chinese",Bhubaneswar,Jagmohan Nagar,Casual Dining,11am to 1030pm(Mon-Sun),Good,3.7,445
+Food2U,450,"North Indian,Chinese,Rolls",Bhubaneswar,Jagmohan Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,110
+Marwari Rasoi,300,"North Indian,Rajasthani",Bhubaneswar,Patia,Quick Bites,12noon to 10pm(Mon-Sun),Very Good,4.2,1033
+Country Kitchen,350,"North Indian,Rolls",Bhubaneswar,Jagmohan Nagar,Casual Dining,12noon to 10pm(Mon-Sun),Very Good,4.0,516
+Taste Of China,500,Chinese,Bhubaneswar,Chandrasekharpur,Casual Dining,12noon to 10pm(Mon-Sun),Very Good,4.2,674
+Rajdhani Fast Food,300,"North Indian,Biryani,Rolls,Chinese,Seafood",Bhubaneswar,Kharabela Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,86
+Froot-E-Lite,200,"Healthy Food,Tea,Juices,Sandwich,Salad",Bhubaneswar,Kharabela Nagar,none,830am to 11pm(Mon-Sun),Average,3.4,118
+Asian Delicacy,600,Thai,Bhubaneswar,Sahid Nagar,Casual Dining,10am to 11pm(Mon-Sun),Very Good,4.1,96
+Dosa Plaza,500,South Indian,Bhubaneswar,Patia,Quick Bites,"85am to 1045pm(Mon),85am to 1030pm(Tue),8am...",Very Good,4.3,531
+Silver Streak,500,"Chinese,Momos,Japanese,Malaysian,Thai",Bhubaneswar,BMC Bhawani Mall-- Sahid Nagar,Casual Dining,11am to 1030pm(Mon-Sun),Very Good,4.3,1012
+Food Fever,600,"Chinese,North Indian",Bhubaneswar,Sahid Nagar,Casual Dining,"1130am to 330pm,630pm to 1030pm(Mon-Sun)",Very Good,4.1,430
+Adda Unplugged,500,"Continental,Mexican,Beverages,Italian,Chinese,Indian",Bhubaneswar,Patia,Café,1130am to 10pm(Mon-Sun),Very Good,4.3,1176
+Yummyies,500,"North Indian,Chinese,Continental,Mexican",Bhubaneswar,Kharabela Nagar,Casual Dining,11am to 1030pm(Mon-Sun),Good,3.8,622
+Michael's Kitchen,800,"North Indian,European,Asian",Bhubaneswar,Gajapati Nagar,Casual Dining,11am to 1030pm(Mon-Sun),Very Good,4.2,488
+Silver Spoon,500,"North Indian,Chinese",Bhubaneswar,Patia,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,156
+Green Chillyz,300,"Fast Food,Biryani,Rolls",Bhubaneswar,Sahid Nagar,Quick Bites,"12noon to 10pm(Mon,Tue,Thu,Fri,Sat,Sun)...",Good,3.7,741
+Shri Sai Restaurant,300,"South Indian,North Indian",Bhubaneswar,Kharabela Nagar,Quick Bites,"8am to 12noon,1230pm to 330pm,4pm to 10pm...",Good,3.8,454
+Paradise Food Box,300,"North Indian,Chinese,Rolls,Fast Food",Bhubaneswar,Khandagiri,Quick Bites,530pm to 10pm(Mon-Sun),Very Good,4.1,274
+Idli Bhavan,300,South Indian,Bhubaneswar,Patia,Casual Dining,730am to 1030pm(Mon-Sun),Very Good,4.0,504
+The Fork,600,"Chinese,Thai,Continental",Bhubaneswar,Jagmohan Nagar,Casual Dining,12noon to 10pm(Mon-Sun),Good,3.8,164
+Recess,500,"North Indian,Chinese,Italian,Continental,Cafe,Fast Food",Bhubaneswar,Patia,Café,12noon to 1030pm(Mon-Sun),Very Good,4.0,552
+99 North Restaurant,500,"North Indian,Chinese",Bhubaneswar,Patia,Casual Dining,12noon to 1030pm(Mon-Sun),Very Good,4.0,585
+The Chocolate House,500,Cafe,Bhubaneswar,Sahid Nagar,Café,8am to 10pm(Mon-Sun),Very Good,4.2,445
+Odisha Hotel,600,Oriya,Bhubaneswar,Chandrasekharpur,Casual Dining,"1215pm to 415pm,730pm to 1030pm(Mon-Sun)",Very Good,4.2,322
+Hot Chilli Fast Food,350,"Rolls,North Indian,Biryani,Chinese",Bhubaneswar,Patia,Quick Bites,11am to 1030pm(Mon-Sun),Good,3.5,172
+Go South,300,South Indian,Bhubaneswar,Patia,Casual Dining,8am to 1030pm(Mon-Sun),Very Good,4.1,481
+Bake Shake,300,"American,Bakery,Burger,Pizza",Bhubaneswar,Patia,Bakery,10am to 1030pm(Mon-Sun),Very Good,4.2,404
+Food Factory,500,"North Indian,Chinese",Bhubaneswar,Kharabela Nagar,Quick Bites,1pm to 10pm(Mon-Sun),Good,3.9,191
+KBR Roll & Rolls,150,"Fast Food,Mughlai",Bhubaneswar,Kharabela Nagar,Quick Bites,4pm to 11pm(Mon-Sun),Very Good,4.2,161
+Wok On,300,"Asian,Chinese",Bhubaneswar,Patia,Quick Bites,12noon to 1015pm(Mon-Sun),Very Good,4.3,556
+Eat Street,400,"North Indian,Chinese",Bhubaneswar,Patia,Quick Bites,1230pm to 1030pm(Mon-Sun),Good,3.7,693
+Hookie Dookie,800,"North Indian,Cafe,Chinese,Continental",Bhubaneswar,Patia,Casual Dining,"1130am to 1030pm(Mon-Sat),1130am to 11pm(Sun)",Very Good,4.1,1051
+Fusion Cafe,400,Fast Food,Bhubaneswar,Chandrasekharpur,Quick Bites,"9am to 3pm,6pm to 1030pm(Mon-Sun)",Very Good,4.0,251
+Fiery Pizza,300,Pizza,Bhubaneswar,Kharabela Nagar,Quick Bites,4pm to 10pm(Mon-Sun),Very Good,4.2,178
+Tandooriwala,700,Mughlai,Bhubaneswar,Patia,Quick Bites,"1230pm to 330pm,7pm to 1030pm(Mon-Sun)",Very Good,4.1,429
+Sai Food Villa,200,"Fast Food,North Indian",Bhubaneswar,Kharabela Nagar,Quick Bites,12noon to 10pm(Mon-Sun),Average,3.2,403
+Go Cool,500,Fast Food,Bhubaneswar,Patia,Quick Bites,9am to 10pm(Mon-Sun),Very Good,4.4,320
+Brother's Dhaba,700,"Chinese,North Indian,Seafood,South Indian",Bhubaneswar,Lakshmi Sagar,Casual Dining,8am to 1130pm(Mon-Sun),Average,2.5,150

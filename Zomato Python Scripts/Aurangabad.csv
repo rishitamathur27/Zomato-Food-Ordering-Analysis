@@ -1,0 +1,525 @@
+Name,Price,Cuisine_Category,City,Region,Cuisine_Type,Timing,Rating_Types,Rating,Votes
+The Graduate Restaurant,800,"North Indian,Chinese,South Indian",Aurangabad,Nirala Bazar,Casual Dining,9am to 11pm(Mon-Sun),Good,3.9,155
+Amigos Kitchen,500,"North Indian,Chinese,Continental",Aurangabad,CIDCO,Casual Dining,12noon to 11pm(Mon-Sun),Very Good,4.4,622
+SNT Tahari House,400,Maharashtrian,Aurangabad,Shahgunj,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.4,382
+Kef Lounge,500,"North Indian,Chinese,Thai",Aurangabad,Usmanpura,Casual Dining,11am to 11pm(Mon-Sun),Excellent,4.6,256
+KFC,400,"Burger,Fast Food",Aurangabad,Prozone Mall-- Chicalthana,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.3,439
+Great Sagar Restaurant,600,"North Indian,Mughlai,Kebab,Biryani",Aurangabad,Shahgunj,Casual Dining,12noon to 11pm(Mon-Sun),Very Good,4.2,458
+Yalla Yalla,500,"North Indian,Hyderabadi,Biryani",Aurangabad,Usmanpura,Quick Bites,12noon to 11pm(Mon-Sun),Very Good,4.2,577
+Saurabh Restaurant,350,"North Indian,Mughlai,Biryani,South Indian,Chinese",Aurangabad,MIDC,Casual Dining,11am to 11pm(Mon-Sun),Excellent,4.6,357
+Bhoj Restaurant,450,North Indian,Aurangabad,Nirala Bazar,Casual Dining,"11am to 330pm,7pm to 11pm(Mon-Sun)",Excellent,4.6,528
+Sagar Restaurant,600,North Indian,Aurangabad,Shahgunj,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.0,281
+Domino's Pizza,700,"Pizza,Fast Food",Aurangabad,Nirala Bazar,Quick Bites,11am to 11pm(Mon-Sun),Average,2.6,511
+Smile Veg Restaurant,400,"North Indian,South Indian,Fast Food,Chinese",Aurangabad,Nirala Bazar,Quick Bites,7am to 11pm(Mon-Sun),Very Good,4.3,389
+Koyla Dum Biryanis & Kebabs,500,Biryani,Aurangabad,CIDCO,none,11am to 11pm(Mon-Sun),Average,2.7,488
+Pizza Hut,750,"Pizza,Fast Food",Aurangabad,Prozone Mall-- Chicalthana,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.0,434
+Gayatri Mewad,400,Maharashtrian,Aurangabad,Nirala Bazar,Casual Dining,12noon to 11pm(Mon-Sun),Excellent,4.5,330
+KC Foods & Parcels,150,"North Indian,Maharashtrian",Aurangabad,Ulkanagari,none,9am to 9pm(Mon-Sun),Good,3.7,52
+UR'S Pizza,400,"Pizza,Fast Food",Aurangabad,Waluj,Quick Bites,9am to 10pm(Mon-Sun),Average,3.1,35
+VIP Maratha,200,"Fast Food,North Indian",Aurangabad,MIDC,Quick Bites,10am to 10pm(Mon-Sun),Good,3.6,20
+Prem Pani Puri,100,Street Food,Aurangabad,CIDCO,Quick Bites,3pm to 10pm(Mon-Sun),Good,3.5,22
+Charminar,450,North Indian,Aurangabad,CIDCO,Quick Bites,1030am to 1030pm(Mon-Sun),Good,3.7,35
+Hotel Nitin Maratha,300,"North Indian,Maharashtrian",Aurangabad,Gadia Vihar,Quick Bites,9am to 10pm(Mon-Sun),Average,3.1,6
+Veggiegrill,250,Fast Food,Aurangabad,CIDCO,Quick Bites,1pm to 10pm(Mon-Sun),Very Good,4.0,47
+AR Diet Cafe,200,"Cafe,Healthy Food",Aurangabad,Akashwani,Café,8am to 10pm(Mon-Sun),Good,3.7,20
+Jai Bhawani Family Restaurant,500,"North Indian,Maharashtrian",Aurangabad,Waluj,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.2,51
+Shree Krishna Foodie Pure Veg,300,Fast Food,Aurangabad,Akashwani,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,45
+Khalsa Punjabi Hotel,250,North Indian,Aurangabad,Nirala Bazar,Casual Dining,11am to 12midnight(Mon-Sun),Average,3.0,52
+Anshu's Food Corner,250,"Fast Food,Street Food",Aurangabad,Ulkanagari,Quick Bites,10am to 11pm(Mon-Sun),Good,3.6,33
+New Punjab Hindu Hotel,400,North Indian,Aurangabad,MIDC,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,53
+Tom & Jerry Cafe,350,Cafe,Aurangabad,CIDCO,Café,10am to 9pm(Mon-Sun),Good,3.6,34
+Blackstone Cafe & Lounge,500,Cafe,Aurangabad,Usmanpura,Café,10am to 10pm(Mon-Sun),Good,3.8,39
+Revelry -The Cake House,300,"Bakery,Desserts",Aurangabad,Ulkanagari,Bakery,10am to 10pm(Mon-Sun),Average,3.4,13
+Hotel Delhi Darbar,500,North Indian,Aurangabad,Gadia Vihar,Quick Bites,7am to 10pm(Mon-Sun),Good,3.5,42
+Cake 'n' Bake,200,Bakery,Aurangabad,CIDCO,Bakery,9am to 11pm(Mon-Sun),Good,3.5,42
+Chilli- The Skycourt Hotel,500,"North Indian,South Indian,Continental",Aurangabad,The Skycourt Hotel,Casual Dining,11am to 1045pm(Mon-Sun),Average,3.4,13
+Lucky Sagar,200,Biryani,Aurangabad,Gadia Vihar,Quick Bites,10am to 10pm(Mon-Sun),Good,3.8,32
+Green Tahari House,400,"Biryani,Chinese",Aurangabad,Shahgunj,Quick Bites,11am to 10pm(Mon-Sun),Good,3.6,31
+Blue Nile,400,North Indian,Aurangabad,Nirala Bazar,Quick Bites,"11am to 1145pm(Mon),11am to 12midnight...",Good,3.7,47
+Queen's Ice Cream,300,Ice Cream,Aurangabad,Vedant Nagar,Dessert Parlor,10am to 10pm(Mon-Sun),Good,3.7,19
+Cafe Creme,350,"Fast Food,Desserts,Beverages",Aurangabad,Usmanpura,Quick Bites,10am to 9pm(Mon-Sun),Average,3.4,26
+Cafe Durga,250,Cafe,Aurangabad,Nirala Bazar,Café,9am to 10pm(Mon-Sun),Average,2.7,22
+Backstreet Cafe,400,Continental,Aurangabad,Nirala Bazar,Quick Bites,11am to 10pm(Mon-Sun),Good,3.7,17
+Manbhavan Premium Thali Restaurant,500,North Indian,Aurangabad,Ulkanagari,Casual Dining,"12noon to 330pm,7pm to 10pm(Mon-Sun)",Average,3.4,15
+Burger Basket -Fast Food,300,Fast Food,Aurangabad,CIDCO,Quick Bites,1030am to 1030pm(Mon-Sun),Average,3.4,16
+S Square,600,"North Indian,Chinese",Aurangabad,CIDCO,Casual Dining,NA,Good,3.6,32
+The Salt,650,"North Indian,Chinese",Aurangabad,CIDCO,Casual Dining,"7am to 1030am,1230pm to 230pm,7pm to 1030pm...",Average,3.4,29
+Lakhotiya's Cakes,500,Bakery,Aurangabad,Usmanpura,Bakery,10am to 10pm(Mon-Sun),Average,3.2,5
+Teaclub,100,"Fast Food,Tea",Aurangabad,Usmanpura,Quick Bites,730am to 10pm(Mon-Sun),Good,3.5,23
+Cafe Creme,250,Fast Food,Aurangabad,Waluj,Quick Bites,11am to 10pm(Mon-Sun),Good,3.5,16
+Silli Chilli,350,Chinese,Aurangabad,CIDCO,Quick Bites,"12noon to 330pm,6pm to 1030pm(Mon-Sun)",Average,3.3,23
+Hot Plate Restaurant,650,"North Indian,Mughlai,Chinese",Aurangabad,Usmanpura,Casual Dining,11am to 11pm(Mon-Sun),Good,3.8,89
+Cake 'n' Bake,300,Bakery,Aurangabad,Vedant Nagar,Bakery,10am to 10pm(Mon-Sun),Average,3.4,9
+Alankar Restaurant,500,"Mughlai,Indian,Chinese,Biryani,Hyderabadi,Kebab,Maharashtrian,Seafood",Aurangabad,Nirala Bazar,Casual Dining,7am to 11pm(Mon-Sun),Good,3.8,72
+Farmish Sandwich,150,"Beverages,Healthy Food",Aurangabad,Ulkanagari,Quick Bites,11am to 10pm(Mon-Sun),Good,3.6,20
+Patil Mama Vadapav Wale,150,Street Food,Aurangabad,Nyay Nagar,Quick Bites,8am to 11pm(Mon-Sun),Good,3.8,41
+Sai Chinese Fast Food,300,"Chinese,Fast Food",Aurangabad,Gadia Vihar,Quick Bites,10am to 10pm(Mon-Sun),Average,3.3,19
+4K's Fast Food,300,"Fast Food,Desserts,Chinese",Aurangabad,CIDCO,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.8,54
+Loksewa Pure Veg Restaurant,200,North Indian,Aurangabad,Gulmandi,Quick Bites,11am to 10pm(Mon-Sun),Average,3.0,14
+Bikaneer Mithaiwala,300,"Mithai,Bakery",Aurangabad,Waluj,Sweet Shop,730am to 10pm(Mon-Sun),Average,2.8,16
+Madni Restaurant,200,"North Indian,Chinese,Fast Food",Aurangabad,Shahgunj,Quick Bites,10am to 10pm(Mon-Sun),Average,3.4,10
+Hotel New Bawarchi,300,"North Indian,Chinese",Aurangabad,MIDC,Quick Bites,10am to 10pm(Mon-Sun),Average,3.4,12
+Monginis,350,"Bakery,Desserts",Aurangabad,MIDC,Bakery,(Mon-Sun),Average,3.1,11
+Annapurna Mewad Bhoj,200,"North Indian,Maharashtrian",Aurangabad,CIDCO,Bhojanalya,NA,Average,3.4,15
+Hotel Rassa,200,"North Indian,Maharashtrian",Aurangabad,Ulkanagari,Quick Bites,10am to 10pm(Mon-Sun),Average,2.9,8
+Om Veg Restaurant,250,North Indian,Aurangabad,CIDCO,Casual Dining,10am to 10pm(Mon-Sun),Average,3.3,17
+Hotel Rana,500,"North Indian,Chinese",Aurangabad,Usmanpura,Casual Dining,11am to 11pm(Mon-Sun),Good,3.8,75
+Fun Food Etc,350,"South Indian,Chinese,Street Food",Aurangabad,Ulkanagari,Quick Bites,930am to 1030pm(Mon-Sun),Good,3.5,12
+Raseshwar,300,Fast Food,Aurangabad,Ulkanagari,Quick Bites,930am to 1030pm(Mon-Sun),Average,3.2,13
+Sarda's Food Mantra,700,"Chinese,Fast Food",Aurangabad,Ulkanagari,Casual Dining,1130am to 1030pm(Mon-Sun),Good,3.5,17
+Hotel Great Punjab,400,North Indian,Aurangabad,MIDC,Quick Bites,10am to 10pm(Mon-Sun),Average,3.2,12
+Food Junction,800,"Chinese,Fast Food,Gujarati,Maharashtrian,North Indian,Rajasthani",Aurangabad,CIDCO,Casual Dining,10am to 10pm(Mon-Sun),Average,3.4,15
+Indiana Cake Boutique,350,"Chinese,Fast Food",Aurangabad,CIDCO,Quick Bites,10am to 11pm(Mon-Sun),Good,3.9,59
+Feelme Rest O Cafe,400,"Cafe,Chinese",Aurangabad,Gadia Vihar,Café,11am to 10pm(Mon-Sun),Average,3.4,14
+Tejas Dum Biryani,200,"North Indian,Chinese,Fast Food",Aurangabad,Usmanpura,Quick Bites,10am to 10pm(Mon-Sun),Average,3.1,11
+Renu's Poli Bhaji Kendra,200,Maharashtrian,Aurangabad,Gadia Vihar,none,"8am to 330pm,530pm to 10pm(Mon-Sun)",Average,3.2,5
+Sip N' Brew,300,"Cafe,Continental",Aurangabad,CIDCO,Café,10am to 10pm(Mon-Sun),Average,3.3,12
+Delite Oven Fresh,300,"Bakery,Desserts",Aurangabad,Nirala Bazar,Bakery,10am to 1030pm(Mon-Sun),Average,3.0,6
+Shri Ganesh Sabudana Vada,100,"Mithai,Maharashtrian",Aurangabad,Mondha,Quick Bites,10am to 9pm(Mon-Sun),Average,3.1,5
+Roti And Rice,200,North Indian,Aurangabad,Gadia Vihar,Quick Bites,"11am to 3pm,7pm to 945pm(Mon-Sun)",Average,3.1,5
+Cafe D3 Beyond Temptation,200,Fast Food,Aurangabad,Ulkanagari,Quick Bites,11am to 10pm(Mon-Sun),Average,3.0,5
+Food Junction Missal Katta,300,Street Food,Aurangabad,Nirala Bazar,Quick Bites,930am to 930pm(Mon-Sun),Good,3.5,12
+Priti Momos & Chinese Food Corner,350,"Momos,Chinese",Aurangabad,CIDCO,Quick Bites,3pm to 12midnight(Mon-Sun),Very Good,4.0,54
+Salt & Spices,200,Rolls,Aurangabad,CIDCO,Quick Bites,1030am to 1030pm(Mon-Sun),Average,2.9,14
+Shravani's Paratha House,400,North Indian,Aurangabad,Nirala Bazar,Quick Bites,10am to 10pm(Mon-Sun),Average,2.7,10
+Parbhani Tahari Darbar,200,"Indian,Biryani",Aurangabad,Chikalthana,Quick Bites,9am to 10pm(Mon-Sun),Average,3.3,10
+Khushi Fast Food,150,Fast Food,Aurangabad,Usmanpura,Quick Bites,10am to 10pm(Mon-Sun),Average,3.4,12
+Shree Gajanan Canteen,150,North Indian,Aurangabad,CIDCO,Quick Bites,10am to 10pm(Mon-Sun),Average,3.2,6
+Palkhi Roof Top  Veg Restaurant,450,"North Indian,Chinese",Aurangabad,Ulkanagari,Casual Dining,11am to 1030pm(Mon-Sun),Average,3.2,10
+Krishna Mewad Pure Veg,200,North Indian,Aurangabad,Mondha,Quick Bites,"1030am to 4pm,7pm to 10pm(Mon-Sun)",Average,3.4,12
+Wow,250,Fast Food,Aurangabad,CIDCO,Quick Bites,11am to 10pm(Mon-Sun),Average,3.1,9
+Pokket Cafe,450,Cafe,Aurangabad,Gadia Vihar,Café,10am to 1030pm(Mon-Sun),Average,3.3,9
+Uttam Mithai,250,"Mithai,Fast Food",Aurangabad,Gulmandi,Sweet Shop,11am to 11pm(Mon-Sun),Good,3.6,54
+Govinda Mewad Restaurant,350,"South Indian,North Indian",Aurangabad,Gulmandi,Casual Dining,9am to 10pm(Mon-Sun),Average,2.8,7
+Punjab National Hotel,700,"North Indian,Chinese",Aurangabad,Gulmandi,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.1,88
+Morya Veg Resturant,600,"Malwani,Mediterranean",Aurangabad,Gadia Vihar,Casual Dining,1030am to 1030pm(Mon-Sun),Average,2.8,13
+Riwaayat,300,"North Indian,Mughlai,Chinese",Aurangabad,Prozone Mall-- Chicalthana,Food Court,11am to 11pm(Mon-Sun),Good,3.7,69
+Dadaji's Cafe,350,Fast Food,Aurangabad,CIDCO,Quick Bites,9am to 1030pm(Mon-Sun),Average,3.4,13
+Green Hut,300,North Indian,Aurangabad,Chikalthana,Food Court,1030am to 1030pm(Mon-Sun),Average,3.3,7
+Food Stand Pure Veg Family Restaurant,300,North Indian,Aurangabad,Gadia Vihar,Quick Bites,11am to 1030pm(Mon-Sun),Average,3.3,10
+Veg Petals,400,"North Indian,Chinese",Aurangabad,Usmanpura,Quick Bites,"10am to 330pm,630pm to 11pm(Mon,Tue,Wed...",Average,3.4,57
+7 Mugs Fastfood & Cafe,100,Fast Food,Aurangabad,CIDCO,Quick Bites,10am to 10pm(Mon-Sun),Average,3.3,8
+Sakhis Kitchen,200,Fast Food,Aurangabad,CIDCO,Quick Bites,"11am to 4pm,7pm to 11pm(Mon-Sun)",Good,3.7,54
+Sadguru Nashta Center,200,Maharashtrian,Aurangabad,CIDCO,Quick Bites,10am to 9pm(Mon-Sun),Average,3.3,12
+Creamy Nuts,200,"Desserts,Beverages",Aurangabad,Gadia Vihar,Dessert Parlor,830am to 10pm(Mon-Sun),Average,3.1,4
+Parivar Mithai & Namkin,350,"Mithai,Fast Food",Aurangabad,Usmanpura,Sweet Shop,10am to 9pm(Mon-Sun),Average,3.1,6
+New Chinese Corner,200,Chinese,Aurangabad,CIDCO,Kiosk,3pm to 1030pm(Mon-Sun),Average,3.1,6
+Hotel Dawat Inn,800,North Indian,Aurangabad,Waluj,Casual Dining,7am to 10pm(Mon-Sun),Average,3.0,8
+New Adarsh Hotel,200,Fast Food,Aurangabad,Harsul,Quick Bites,10am to 10pm(Mon-Sun),Average,3.2,5
+New Happy Foods,300,"Chinese,South Indian",Aurangabad,Gadia Vihar,Quick Bites,11am to 10pm(Mon-Sun),Average,3.1,7
+Celebration Cakes & Baker's,300,"Bakery,Desserts",Aurangabad,MIDC,Quick Bites,6am to 1030pm(Mon-Sun),Average,3.1,4
+Zaika Chinese Fast Food,300,Chinese,Aurangabad,CIDCO,Quick Bites,10am to 10pm(Mon-Sun),Average,3.0,6
+Baker's Spot,100,Desserts,Aurangabad,Gadia Vihar,Dessert Parlor,10am to 10pm(Mon-Sun),Average,2.9,8
+Hotel Balaji,450,"Fast Food,Maharashtrian",Aurangabad,Usmanpura,Quick Bites,8am to 10pm(Mon-Sun),Average,2.8,4
+Hotel Bagga International,800,"Mughlai,North Indian,Chinese,Continental,Biryani",Aurangabad,Hotel Bagga International-- Akashwani,Casual Dining,11am to 1130pm(Mon-Sun),Good,3.7,76
+Dalchini Deli And Delivery,150,"North Indian,Italian,Fast Food",Aurangabad,CIDCO,Quick Bites,730am to 930pm(Mon-Sun),Average,3.1,4
+Nischit Kolhapur,550,North Indian,Aurangabad,Mondha,Quick Bites,8am to 6pm(Mon-Sun),Average,3.1,4
+Fresh Juice Centre,150,"Beverages,Juices",Aurangabad,Mondha,Beverage Shop,9am to 11pm(Mon-Sun),Good,3.8,43
+Shahi Mughal Darbar,750,"North Indian,Mughlai,Chinese",Aurangabad,Shahgunj,Casual Dining,11am to 1130pm(Mon-Sun),Very Good,4.4,228
+Ashoka's Veg Restaurant,400,"South Indian,Chinese,North Indian",Aurangabad,Nirala Bazar,Quick Bites,730am to 11pm(Mon-Sun),Very Good,4.0,280
+Icy Spicy,200,"Desserts,Fast Food",Aurangabad,CIDCO,Quick Bites,12noon to 11pm(Mon-Sun),Very Good,4.3,278
+Indiana Veg Restaurant,450,"South Indian,North Indian,Chinese,Fast Food",Aurangabad,CIDCO,Casual Dining,8am to 11pm(Mon-Sun),Very Good,4.1,284
+Kareem's Fine Dining,700,"Biryani,Rolls,North Indian,Kebab",Aurangabad,Nirala Bazar,Casual Dining,12noon to 11pm(Mon-Sun),Very Good,4.1,294
+Bombay Bandra Famous Faluda & Chat,200,Desserts,Aurangabad,Shahgunj,none,11am to 11pm(Mon-Sun),Very Good,4.3,131
+The Chocolate Room,500,"Cafe,Desserts",Aurangabad,CIDCO,Café,10am to 12midnight(Mon-Sun),Very Good,4.0,208
+Uttam Mithai Bhandar,200,"Mithai,Street Food",Aurangabad,Gulmandi,Sweet Shop,11am to 11pm(Mon-Sun),Very Good,4.2,244
+Kream N Krunch,1000,"North Indian,Chinese,Continental,Italian",Aurangabad,Akashwani,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.2,407
+Safa Restaurant,200,"Fast Food,North Indian",Aurangabad,Nirala Bazar,Quick Bites,10am to 11pm(Mon-Sun),Very Good,4.1,113
+Mauj Restaurant,500,"Italian,Fast Food,North Indian,Chinese",Aurangabad,CIDCO,Casual Dining,1030am to 11pm(Mon-Sun),Very Good,4.2,241
+New Sagar Restaurant,200,"North Indian,Chinese,Mughlai",Aurangabad,Nirala Bazar,Quick Bites,8am to 11pm(Mon-Sun),Good,3.9,126
+Kailash Veg Restaurant,300,North Indian,Aurangabad,MIDC,Casual Dining,8am to 11pm(Mon-Sun),Very Good,4.2,179
+Unusual Cafe,550,Cafe,Aurangabad,CIDCO,Café,11am to 11pm(Mon-Sun),Good,3.7,97
+CFC Shalimar Family Restaurant,300,"North Indian,Chinese",Aurangabad,Jaswantpura,Casual Dining,10am to 11pm(Mon-Sun),Very Good,4.2,113
+Take Away,350,"North Indian,Chinese",Aurangabad,Ulkanagari,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,58
+RajMandir Icecream,150,"Ice Cream,Desserts",Aurangabad,Sindhi Colony,Dessert Parlor,11am to 11pm(Mon-Sun),Very Good,4.0,49
+Mughal Darbar Family Hotel,300,Mughlai,Aurangabad,Shahgunj,Quick Bites,10am to 12midnight(Mon-Sun),Good,3.6,25
+Rajdarbar Maratha Hotel,300,North Indian,Aurangabad,Gadia Vihar,Quick Bites,10am to 11pm(Mon-Sun),Good,3.9,59
+Nishant Park,650,"North Indian,Chinese",Aurangabad,Gadia Vihar,Casual Dining,11am to 1130pm(Mon-Sun),Average,2.7,64
+Lucky Natural Juice Centre,100,Juices,Aurangabad,Jaswantpura,Beverage Shop,10am to 11pm(Mon-Sun),Good,3.9,13
+Arihant Cake & Cookies,350,"Bakery,Desserts",Aurangabad,Nirala Bazar,Bakery,8am to 11pm(Mon-Sun),Average,2.6,46
+The Mughals,500,"North Indian,Mughlai",Aurangabad,Usmanpura,Quick Bites,4pm to 11pm(Mon-Sun),Good,3.7,67
+Egg Magic,400,"Street Food,Kebab",Aurangabad,CIDCO,Quick Bites,9am to 11pm(Mon-Sun),Average,3.4,37
+Aditya Garden Restaurant,1000,"North Indian,Chinese",Aurangabad,Waluj,Casual Dining,11am to 12midnight(Mon-Sun),Very Good,4.0,42
+Rodo Cafe,300,Cafe,Aurangabad,MIDC,Quick Bites,8am to 11pm(Mon-Sun),Average,3.0,22
+Healthy Bites,400,"Healthy Food,Chinese,Mughlai,Beverages",Aurangabad,Harsul,Casual Dining,8am to 11pm(Mon-Sun),Good,3.6,46
+Swissbell Creamery,250,Desserts,Aurangabad,Usmanpura,Quick Bites,1030am to 1130pm(Mon-Sun),Good,3.9,54
+Hotel New Shama,150,North Indian,Aurangabad,MIDC,Quick Bites,7am to 11pm(Mon-Sun),Very Good,4.0,40
+Zalak,400,Maharashtrian,Aurangabad,Gulmandi,Quick Bites,"1030am to 330pm,630pm to 11pm(Mon-Sun)",Good,3.8,45
+Maroosh,500,"Lebanese,North Indian,Middle Eastern",Aurangabad,Prozone Mall-- Chicalthana,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,53
+Chaat Baat,200,"Fast Food,Street Food",Aurangabad,CIDCO,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,19
+Cafe Durga,500,Fast Food,Aurangabad,MIDC,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,57
+20-20 Chinese & North Indian,200,Chinese,Aurangabad,CIDCO,none,11am to 1am(Mon-Sun),Good,3.6,16
+This & That Patisserie & Restaurant,400,"Fast Food,Bakery",Aurangabad,Nyay Nagar,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.0,21
+Hotel Pawan Putra,500,"Chinese,North Indian",Aurangabad,Harsul,Quick Bites,8am to 11pm(Mon-Sun),Good,3.7,44
+MH20,500,North Indian,Aurangabad,Gadia Vihar,Casual Dining,11am to 12midnight(Mon-Sun),Poor,2.3,59
+Little Italy,1000,"Italian,Mexican",Aurangabad,Gadia Vihar,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,56
+Sky Touch,600,"North Indian,Chinese,Continental",Aurangabad,CIDCO,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,48
+Lalaji's,450,"Fast Food,Chinese,North Indian,South Indian",Aurangabad,MIDC,Quick Bites,7am to 11pm(Mon-Sun),Average,2.7,43
+Madhuban Garden Restaurant,800,"North Indian,Italian",Aurangabad,Gadia Vihar,Casual Dining,"12noon to 3pm,7pm to 12midnight(Mon-Sun)",Good,3.8,53
+Mrignayani Restaurant And Bar,550,"Continental,Chinese",Aurangabad,Ulkanagari,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,51
+Safa Juice Center,100,Juices,Aurangabad,CIDCO,Beverage Shop,10am to 11pm(Mon-Sun),Good,3.7,19
+Nanded Chicken Biryani House,200,Biryani,Aurangabad,Shahgunj,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.0,25
+Hotel New Vrundavan,400,"North Indian,Chinese",Aurangabad,Waluj,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,43
+Kattakirr Misal Restaurant,200,"Maharashtrian,Street Food",Aurangabad,CIDCO,Quick Bites,7am to 1130pm(Mon-Sun),Average,3.0,32
+Hotel Atithi's Roof Top Restaurant,1200,"North Indian,Chinese",Aurangabad,CIDCO,Casual Dining,"11am to 11pm,7pm to 1030pm(Mon-Sun)",Average,3.4,62
+Sai Prasad Bhojanalay,350,North Indian,Aurangabad,Usmanpura,Casual Dining,11am to 11pm(Mon-Sun),Good,3.7,39
+Shiva's Veg Restaurant & Cafe,350,"North Indian,Chinese,South Indian",Aurangabad,CIDCO,Quick Bites,830am to 11pm(Mon-Sun),Average,2.7,27
+Bento The Snackchat,350,"Cafe,Fast Food",Aurangabad,CIDCO,Café,12noon to 11pm(Mon-Sun),Good,3.8,56
+Jai Bhavani Restaurant,500,"Maharashtrian,North Indian",Aurangabad,Waluj,Quick Bites,11am to 1120pm(Mon-Sun),Good,3.7,21
+Kabab Junction,500,"North Indian,Kebab",Aurangabad,MIDC,Quick Bites,1130am to 12midnight(Mon-Sun),Good,3.6,28
+Hotel Biryani House,450,"Biryani,Mughlai",Aurangabad,CIDCO,Casual Dining,11am to 11pm(Mon-Sun),Average,2.7,61
+All New Donatos Pizza,300,Pizza,Aurangabad,Delhi Gate Area,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,36
+Chopstick Chinese,800,Chinese,Aurangabad,Ulkanagari,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,43
+Lucky Juice Center,150,"Juices,Pizza,Burger",Aurangabad,Jaswantpura,Quick Bites,11am to 1145pm(Mon-Sun),Good,3.6,18
+Adarsh Bakery,300,Bakery,Aurangabad,Usmanpura,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,50
+Shri Deepali South Indian,100,South Indian,Aurangabad,CIDCO,Quick Bites,7am to 11pm(Mon-Sun),Good,3.8,29
+Manmandir Pure Veg,300,"Chinese,Indian,South Indian",Aurangabad,Usmanpura,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,42
+Hotel Jain Bhoj,400,North Indian,Aurangabad,CIDCO,Casual Dining,11am to 11pm(Mon-Sun),Good,3.7,39
+Om Tulsi Restaurant,600,"Chinese,North Indian,South Indian",Aurangabad,CIDCO,Casual Dining,11am to 11pm(Mon-Sun),Good,3.9,50
+Hotel Amrut Pure Veg Restaurant,300,"North Indian,Chinese",Aurangabad,Gadia Vihar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,13
+Hotel Paradise,500,"North Indian,South Indian",Aurangabad,Nirala Bazar,Casual Dining,7am to 11pm(Mon-Sun),Good,3.6,29
+Mad Over Chicken,400,Fast Food,Aurangabad,Prozone Mall-- Chicalthana,Food Court,11am to 11pm(Mon-Sun),Good,3.7,42
+Smiley Restaurant,350,"Chinese,North Indian,South Indian",Aurangabad,CIDCO,Quick Bites,10am to 11pm(Mon-Sun),Average,3.4,33
+Ess-Press-Oh,600,"Cafe,Healthy Food",Aurangabad,Chikalthana,Café,11am to 11pm(Mon-Sun),Good,3.6,43
+Hotel Novelty,350,North Indian,Aurangabad,MIDC,Casual Dining,12noon to 11pm(Mon-Sun),Good,3.9,45
+Green Apple Family Restaurant,300,"North Indian,Continental,Chinese",Aurangabad,Delhi Gate Area,Quick Bites,10am to 11pm(Mon-Sun),Average,3.3,8
+Invito Fine Dine,800,"North Indian,Italian,Chinese",Aurangabad,CIDCO,Casual Dining,1130am to 11pm(Mon-Sun),Good,3.6,29
+KV's Fusion Dining,500,North Indian,Aurangabad,CIDCO,Casual Dining,11am to 11pm(Mon-Sun),Good,3.8,54
+Spice Veg Restaurant,400,"North Indian,Chinese,Pizza",Aurangabad,Gulmandi,Casual Dining,8am to 1130pm(Mon-Sun),Good,3.7,41
+Lalaji's Executive,1000,"Chinese,Indian",Aurangabad,MIDC,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,35
+All Season - Hotel Manor,1000,"Chinese,North Indian,Mughlai",Aurangabad,Hotel Manor-- Usmanpura,Casual Dining,"7am to 10am,12noon to 3pm,7pm to 1130pm(Mon-Sun)",Very Good,4.0,32
+New Ludhiyana Dhaba,550,"North Indian,Maharashtrian,Chinese",Aurangabad,Waluj,Casual Dining,11am to 1130pm(Mon-Sun),Average,3.4,28
+Sapna Chinese Corner,400,Chinese,Aurangabad,Nyay Nagar,Quick Bites,9am to 11pm(Mon-Sun),Good,3.5,39
+Bombay Kulfi,150,Desserts,Aurangabad,Akashwani,Dessert Parlor,11am to 11pm(Mon-Sun),Good,3.8,20
+Dosa Plaza,300,South Indian,Aurangabad,Prozone Mall-- Chicalthana,Quick Bites,11am to 11pm(Mon-Sun),Average,2.6,31
+Idli Street,500,"North Indian,Chinese,Continental",Aurangabad,Usmanpura,Casual Dining,11am to 11pm(Mon-Sun),Average,2.6,48
+Hotel Venkatesh,200,"Chinese,South Indian,Street Food",Aurangabad,CIDCO,Quick Bites,7am to 11pm(Mon-Sun),Good,3.8,40
+Cuba 3 Family Restro Bar,1200,"North Indian,Chinese",Aurangabad,CIDCO,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,32
+Moksh Family Restaurant & Bar,600,"North Indian,Maharashtrian,Mughlai",Aurangabad,MIDC,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,33
+Rumours Restaurant And Lounge,450,"Fast Food,Chinese,Continental,Beverages,Kebab",Aurangabad,Nirala Bazar,Lounge,8am to 11pm(Mon-Sun),Good,3.5,32
+Familios Food Stop,500,"North Indian,Chinese",Aurangabad,Gadia Vihar,Quick Bites,8am to 11pm(Mon-Sun),Average,3.0,36
+Manjiri,350,"South Indian,North Indian",Aurangabad,Nirala Bazar,Casual Dining,7am to 11pm(Mon-Sun),Good,3.6,37
+Shanti Poli Bhaji Kendra,150,Maharashtrian,Aurangabad,Ulkanagari,Quick Bites,7am to 11pm(Mon-Sun),Good,3.6,15
+Woodlot Garden Restaurant,800,"North Indian,Chinese",Aurangabad,Gulmandi,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,40
+Fresh Juicebar,100,Juices,Aurangabad,Usmanpura,Beverage Shop,11am to 11pm(Mon-Sun),Average,3.4,9
+Jalsa Pure Veg Restaurant,550,"North Indian,Chinese,Modern Indian",Aurangabad,CIDCO,Casual Dining,1030am to 11pm(Mon-Sun),Average,3.4,34
+China Town,400,"Chinese,North Indian",Aurangabad,CIDCO,Quick Bites,11am to 11pm(Mon-Sun),Average,2.6,41
+Joint Cafe,300,Cafe,Aurangabad,CIDCO,Café,8am to 11pm(Mon-Sun),Good,3.5,33
+Pizza & Pasta Bite,150,"Pizza,Burger,Sandwich,Fast Food",Aurangabad,CIDCO,Quick Bites,1030am to 11pm(Mon-Sun),Average,3.2,8
+Gharghuti Kanduri Muton Hand,300,"North Indian,Indian",Aurangabad,Akashwani,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,22
+Central Perk,250,"Fast Food,Street Food",Aurangabad,CIDCO,none,11am to 11pm(Mon-Sun),Average,3.3,18
+Lazzat Chinese,200,Chinese,Aurangabad,Gadia Vihar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,14
+Mewad Hotel Pure Veg,200,North Indian,Aurangabad,Nirala Bazar,Quick Bites,8am to 11pm(Mon-Sun),Good,3.5,14
+Get Inn Veg Restaurant,500,"North Indian,Chinese",Aurangabad,CIDCO,Quick Bites,10am to 11pm(Mon-Sun),Good,3.6,46
+Hotel Swagat Maratha,550,"North Indian,Maharashtrian",Aurangabad,Gulmandi,Casual Dining,11am to 12midnight(Mon-Sun),Good,3.7,31
+Scoop & Smile By Ice Valley,250,"Desserts,Fast Food",Aurangabad,CIDCO,Quick Bites,10am to 11pm(Mon-Sun),Good,3.7,19
+Kohinoor Plaza,650,"North Indian,Chinese",Aurangabad,Nirala Bazar,Casual Dining,11am to 1130pm(Mon-Sun),Average,3.4,42
+Mini Taj Family Restaurant,500,"North Indian,Mughlai",Aurangabad,Shahgunj,Casual Dining,"Closed(Mon,Sun),10am to 3am(Tue-Sat)",Good,3.5,38
+Rudra Food Court,500,Fast Food,Aurangabad,Gadia Vihar,Quick Bites,9am to 11pm(Mon-Sun),Good,3.5,31
+Asra Mughal Darbar,400,Mughlai,Aurangabad,Shahgunj,Quick Bites,10am to 11pm(Mon-Sun),Average,2.6,38
+Cafe Commentary,200,"Cafe,Fast Food",Aurangabad,Chikalthana,Café,4pm to 11pm(Mon-Sun),Good,3.6,13
+Hotel Uttam Maratha Veg Nonveg Restaurant,200,North Indian,Aurangabad,Sindhi Colony,Quick Bites,10am to 11pm(Mon-Sun),Average,3.1,15
+Baskin Robbins,300,"Ice Cream,Desserts",Aurangabad,Ulkanagari,Dessert Parlor,11am to 11pm(Mon-Sun),Average,3.4,16
+Hotel Morya,800,"North Indian,Chinese",Aurangabad,Waluj,Casual Dining,11am to 11pm(Mon-Sun),Good,3.7,29
+Kailash Pav Bhaji,100,Fast Food,Aurangabad,CIDCO,Kiosk,11am to 11pm(Mon-Sun),Good,3.5,8
+Chhotu Vada Pav,300,Fast Food,Aurangabad,Waluj,none,8am to 11pm(Mon-Sun),Good,3.6,13
+Great Lucky Juice Centre,100,"Beverages,Juices",Aurangabad,Nirala Bazar,Beverage Shop,9am to 11pm(Mon-Sun),Good,3.6,21
+Hotel Shiva Veg & Non Veg,300,"North Indian,Biryani",Aurangabad,CIDCO,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,32
+Foodicted,400,Fast Food,Aurangabad,CIDCO,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,22
+Mauli Poli Bhaji Kendra,200,Fast Food,Aurangabad,CIDCO,Quick Bites,10am to 1230AM(Mon-Sun),Average,3.4,16
+Khalsa Punjabi Dhaba,700,North Indian,Aurangabad,Gadia Vihar,Casual Dining,11am to 11pm(Mon-Sun),Good,3.7,31
+Annapurna's 540 West Rest'O'Bar,1000,"North Indian,Chinese,Hyderabadi",Aurangabad,CIDCO,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,28
+Modak Pure Veg,500,"Chinese,North Indian,South Indian",Aurangabad,CIDCO,Quick Bites,7am to 11pm(Mon-Sun),Average,3.3,34
+Pohe Wala,100,North Indian,Aurangabad,CIDCO,none,"8am to 11am,10pm to 1am(Mon-Sun)",Average,3.2,6
+khalsa Dam Biryani Hotel,400,"Biryani,North Indian",Aurangabad,Usmanpura,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,11
+Hotel Guru - Shrimant,300,North Indian,Aurangabad,CIDCO,Quick Bites,9am to 11pm(Mon-Sun),Good,3.7,33
+Ekta Biryani House,150,Biryani,Aurangabad,Mukundwadi,none,10am to 11pm(Mon-Sun),Good,3.6,25
+Hotel Naivedya,450,North Indian,Aurangabad,Waluj,Casual Dining,"1130am to 330pm,7pm to 11pm(Mon-Sun)",Average,3.2,21
+Kings Fast Food Centre,200,Fast Food,Aurangabad,Usmanpura,Quick Bites,430pm to 11pm(Mon-Sun),Average,3.4,34
+The Cheesy Bond Cafe,200,"Pizza,Fast Food,Beverages",Aurangabad,CIDCO,Café,11am to 11pm(Mon-Sun),Average,3.1,9
+Indian Hotel,500,Chinese,Aurangabad,Usmanpura,Quick Bites,1130am to 12midnight(Mon-Sun),Average,3.0,14
+Bawarchi Dum Biryani,500,"Biryani,Kebab",Aurangabad,Nirala Bazar,Quick Bites,1130am to 1115pm(Mon-Sun),Good,3.7,39
+Hotel Sagar Palace,350,North Indian,Aurangabad,CIDCO,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,13
+Hotel Gaurav Maratha,200,"North Indian,Chinese",Aurangabad,Nyay Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,36
+Adil's Chinese Corner,150,Chinese,Aurangabad,Shahgunj,Quick Bites,1145am to 11pm(Mon-Sun),Average,3.1,7
+Tuljai Swaypak Ghar,400,North Indian,Aurangabad,Usmanpura,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,18
+Supriya Restaurant & Bar,450,"North Indian,Chinese",Aurangabad,Nirala Bazar,Casual Dining,11am to 1130pm(Mon-Sun),Good,3.7,17
+Golden Star Bakery,200,North Indian,Aurangabad,Shahgunj,Casual Dining,10am to 11pm(Mon-Sun),Good,3.6,18
+Hotel Mrignayani,800,"North Indian,Chinese",Aurangabad,Waluj,Casual Dining,7am to 12midnight(Mon-Sun),Good,3.6,20
+UBQ by Barbeque Nation,450,"North Indian,BBQ,Biryani,Kebab",Aurangabad,Chikalthana,none,"12noon to 3pm,7pm to 11pm(Mon-Sun)",Average,3.4,5
+Meraki,1400,"North Indian,Biryani",Aurangabad,Gadia Vihar,Lounge,11am to 11pm(Mon-Sun),Average,2.7,26
+Hotel Prem Popular Punjab,800,North Indian,Aurangabad,MIDC,Quick Bites,11am to 1130pm(Mon-Sun),Good,3.6,14
+Hotel Surya,600,"North Indian,Chinese",Aurangabad,CIDCO,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,17
+Hotel Green Olive,1000,"Continental,Chinese,Biryani,North Indian,Maharashtrian,South Indian,Mexican",Aurangabad,Hotel Green Olive-- Nirala Bazar,Casual Dining,"7am to 10am,12noon to 630pm,7pm to 11pm(Mon...",Very Good,4.3,167
+Nukkad,500,Cafe,Aurangabad,CIDCO,Café,11am to 11pm(Mon-Sun),Good,3.9,173
+Mokoholic Juice Bar,300,"Juices,Desserts",Aurangabad,Mondha,Dessert Parlor,11am to 11pm(Mon-Sun),Very Good,4.2,137
+Hotel VIP Maratha,500,"Maharashtrian,North Indian",Aurangabad,CIDCO,Casual Dining,11am to 11pm(Mon-Sun),Good,3.8,222
+Shahi Bhoj Restaurant,400,North Indian,Aurangabad,CIDCO,Quick Bites,"1130am to 4pm,645pm to 11pm(Mon-Sat),1130am...",Good,3.9,165
+Food-de-bollywood,800,"North Indian,Continental",Aurangabad,CIDCO,Casual Dining,8am to 11pm(Mon-Sun),Very Good,4.2,208
+Pride Kitchen Hydrabadi Biryani,250,"Biryani,North Indian",Aurangabad,Usmanpura,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,106
+Shawarma House,300,"Fast Food,Chinese,Lebanese,Rolls,Momos,Arabian",Aurangabad,Akashwani,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.9,136
+Naaz Restaurant,250,"North Indian,Chinese",Aurangabad,MIDC,Casual Dining,"9am to 1130am(Mon),9am to 1145am(Tue),8am to ...",Good,3.9,121
+Bombay Bistro,500,Cafe,Aurangabad,Nyay Nagar,Café,11am to 11pm(Mon-Sun),Very Good,4.4,164
+New Mughal Darbar,550,"Mughlai,Biryani",Aurangabad,CIDCO,Casual Dining,"12noon to 3pm,7pm to 11pm(Mon-Sun)",Poor,2.4,224
+ZAINIMS,250,"Fast Food,Biryani",Aurangabad,CIDCO,Quick Bites,11am to 12midnight(Mon-Sun),Good,3.6,92
+Suvidha Veg Restaurant,250,"North Indian,Chinese,South Indian",Aurangabad,Waluj,Quick Bites,9am to 11pm(Mon-Sun),Very Good,4.3,162
+Te Amo,900,"North Indian,Chinese,Continental",Aurangabad,Akashwani,Casual Dining,"12noon to 315pm,7pm to 11pm(Mon-Sun)",Very Good,4.1,144
+Kakaji's Veg Restaurant,400,"North Indian,Chinese,Fast Food,Beverages",Aurangabad,CIDCO,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,117
+Jodhpur Chat Bhandar,150,Street Food,Aurangabad,Akashwani,Quick Bites,9am to 11pm(Mon-Sun),Average,3.3,8
+Green Park,600,"North Indian,Chinese",Aurangabad,CIDCO,Casual Dining,12noon to 12midnight(Mon-Sun),Good,3.6,24
+Deshi Foodwala (Bapus Rasoi),150,North Indian,Aurangabad,Ulkanagari,Quick Bites,11am to 11pm(Mon-Sun),Average,2.9,5
+Patiala Peg,1000,"North Indian,Chinese",Aurangabad,Gadia Vihar,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,20
+Cafe Topping House,200,"Fast Food,Cafe,Ice Cream,Burger,Beverages",Aurangabad,Nirala Bazar,Quick Bites,10am to 11pm(Mon-Sun),Good,3.5,12
+Navkar Veg Restaurant,200,"North Indian,Fast Food",Aurangabad,Waluj,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,5
+Mind Blowing Naturals,300,"Ice Cream,Desserts",Aurangabad,Ulkanagari,Dessert Parlor,"1130am to 1130pm(Mon-Thu),1130am to 12midnight...",Average,3.2,11
+The Lotus Multi Cuisine Restaurant,300,"North Indian,Chinese",Aurangabad,CIDCO,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,26
+Yummy Tummy Food Van,250,"Desserts,Ice Cream,Sandwich",Aurangabad,Gadia Vihar,Food Truck,5pm to 12midnight(Mon-Sun),Good,3.8,20
+Devpriya's Floating Spirit Bar & Restaurant,800,"North Indian,South Indian,Chinese",Aurangabad,Nirala Bazar,Quick Bites,1030am to 11pm(Mon-Sun),Good,3.8,29
+Noopur,500,"North Indian,Maharashtrian,Fast Food",Aurangabad,Usmanpura,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,23
+Hotel Jai Maharashtra Non-Veg,400,Maharashtrian,Aurangabad,Harsul,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,18
+Amul Ice - Cream,200,Ice Cream,Aurangabad,Usmanpura,Dessert Parlor,10am to 11pm(Mon-Sun),Average,3.3,23
+Hotel Konkan Kinara,650,"Maharashtrian,North Indian,Chinese,Seafood,Continental",Aurangabad,Gadia Vihar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,22
+Kathi Roll House,150,"Fast Food,Rolls",Aurangabad,CIDCO,none,4pm to 11pm(Mon-Sun),Average,3.3,27
+Tashan Talkies,500,"Cafe,Chinese,North Indian,South Indian,Street Food",Aurangabad,CIDCO,Quick Bites,1130am to 11pm(Mon-Sun),Average,2.7,29
+Monginis,350,"Bakery,Desserts",Aurangabad,Usmanpura,Bakery,930am to 11pm(Mon-Sun),Average,3.4,27
+Desi Videshi Cafe,200,"Pizza,Street Food,Beverages,Sandwich",Aurangabad,Usmanpura,Quick Bites,10am to 11pm(Mon-Sun),Average,3.1,15
+Bombay Cafe,500,Cafe,Aurangabad,CIDCO,Café,11am to 11pm(Mon-Sun),Good,3.5,23
+Lazeez Chinese,200,Biryani,Aurangabad,Shahgunj,none,10am to 1145pm(Mon-Sun),Good,3.5,13
+Daji's Kitchen,400,"Fast Food,Chinese,North Indian",Aurangabad,CIDCO,Quick Bites,6am to 1130pm(Mon-Sun),Average,3.4,12
+Sahara Hotel,400,"Chinese,North Indian,Street Food",Aurangabad,CIDCO,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,28
+Seven Spices Garden Restaurant,300,North Indian,Aurangabad,Nirala Bazar,none,11am to 11pm(Mon-Sun),Average,3.3,20
+Silver Inn,500,"North Indian,South Indian,Chinese",Aurangabad,Akashwani,Casual Dining,24,Average,3.4,23
+Master Cook,500,"North Indian,Chinese",Aurangabad,Gadia Vihar,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,22
+A S Club,800,"North Indian,South Indian,Chinese",Aurangabad,Waluj,Casual Dining,7am to 11pm(Mon-Sun),Good,3.5,17
+Melt 'n' Mellow,200,"Desserts,Ice Cream",Aurangabad,CIDCO,Dessert Parlor,10am to 11pm(Mon-Sun),Good,3.5,18
+Renuka Pav Bhaji and Chinese Centre,150,Street Food,Aurangabad,Waluj,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,7
+Rasraj Juice & Snack Centre,300,"Fast Food,Juices",Aurangabad,Usmanpura,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,25
+Sharveen Executive,650,"North Indian,Mughlai,Chinese",Aurangabad,Gadia Vihar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,19
+Rajyog Rajasthani Restaurant,500,Rajasthani,Aurangabad,MIDC,Quick Bites,"1130am to 4pm,630pm to 11pm(Mon-Sun)",Average,3.3,9
+Dreams Veg Fine Dine,800,"North Indian,South Indian,Chinese",Aurangabad,Usmanpura,Casual Dining,730am to 11pm(Mon-Sun),Average,3.2,10
+Kale Bandhu Restaurant,150,North Indian,Aurangabad,Chikalthana,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,19
+Mannu Fish Restaurant,650,"Chinese,North Indian,Seafood",Aurangabad,CIDCO,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,25
+Cafe Magic,300,Cafe,Aurangabad,Usmanpura,Café,11am to 11pm(Mon-Sun),Average,3.2,12
+Shivam Family Restaurant,700,"Maharashtrian,Chinese",Aurangabad,Waluj,Casual Dining,"Closed(Mon),11am to 11pm(Tue-Sun)",Good,3.5,16
+Daawat Family Garden Restaurant & Bar,600,North Indian,Aurangabad,Waluj,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,12
+Spice Tree Family Restaurant,500,"North Indian,Chinese",Aurangabad,Gadia Vihar,Quick Bites,"32pm to 112pm(Mon),33pm to 113pm(Tue),33pm...",Average,3.4,14
+Swad-E-Sindh,400,North Indian,Aurangabad,Usmanpura,Quick Bites,10am to 11pm(Mon-Sun),Average,3.3,14
+Hotel Amritsar Punjabi,900,"North Indian,Chinese",Aurangabad,CIDCO,Casual Dining,24,Good,3.7,19
+GARNISH,300,North Indian,Aurangabad,CIDCO,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,16
+Nandadeep's Floating Spirit,400,"North Indian,Chinese",Aurangabad,Harsul,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,16
+Swad Maharashtracha,200,North Indian,Aurangabad,Gadia Vihar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,7
+Cafe Crush,150,"Pizza,Burger",Aurangabad,CIDCO,Quick Bites,11am to 11pm(Mon-Sun),Average,2.8,5
+Twisty Potato,150,"Fast Food,Street Food",Aurangabad,CIDCO,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,18
+Vrindavan Pure Veg,450,"North Indian,Chinese,South Indian",Aurangabad,CIDCO,Casual Dining,7am to 11pm(Mon-Sun),Average,3.2,16
+Smiley Bakers,100,Bakery,Aurangabad,Waluj,Bakery,10am to 11pm(Mon-Sun),Average,3.3,5
+Cafe What's Up,300,Cafe,Aurangabad,Ulkanagari,Café,10am to 11pm(Mon-Sun),Average,2.7,16
+Baba Cake Shop,300,Bakery,Aurangabad,CIDCO,Bakery,10am to 11pm(Mon-Sun),Good,3.5,17
+Castle Executive,700,North Indian,Aurangabad,Nyay Nagar,Casual Dining,"11am to 3pm,7pm to 11pm(Mon-Sun)",Good,3.6,22
+Hotel Lalaji Veg & NonVeg,350,"Chinese,Mughlai,Biryani",Aurangabad,Chikalthana,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,18
+Roll Station,200,Rolls,Aurangabad,CIDCO,none,11am to 11pm(Mon-Sun),Average,3.4,16
+Ajanta Mithai and Dry fruits,200,Desserts,Aurangabad,Shahgunj,Dessert Parlor,10am to 11pm(Mon-Sun),Average,3.3,8
+Creamy Nuts,200,"Beverages,Sandwich",Aurangabad,Usmanpura,Café,10am to 11pm(Mon-Sun),Average,3.1,4
+Chul,650,North Indian,Aurangabad,CIDCO,Casual Dining,9am to 11pm(Mon-Sun),Good,3.8,19
+Cafe Jack N Jill,350,Fast Food,Aurangabad,CIDCO,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,15
+Salim Jajeera Restaurant,250,"North Indian,Chinese",Aurangabad,Nirala Bazar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,8
+Cafe Creme,300,"Cafe,Desserts",Aurangabad,Ulkanagari,Café,11am to 11pm(Mon-Sun),Poor,2.3,17
+Sagar Soda & Lassi,150,Beverages,Aurangabad,CIDCO,Beverage Shop,11am to 11pm(Mon-Sun),Average,3.3,11
+Shabri Thalipeeth Center,400,"North Indian,Fast Food",Aurangabad,CIDCO,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,14
+Shagun Executive Restaurant,450,"North Indian,Chinese,South Indian",Aurangabad,Nirala Bazar,Casual Dining,7am to 11pm(Mon-Sun),Average,2.6,10
+Hotel Palkhi,500,"North Indian,South Indian",Aurangabad,CIDCO,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,19
+Maratha Palace Family Restaurant,500,Maharashtrian,Aurangabad,Sindhi Colony,Casual Dining,10am to 11pm(Mon-Sun),Average,3.3,9
+Fiza Hotel,550,"North Indian,Chinese,Maharashtrian",Aurangabad,CIDCO,Casual Dining,9am to 1130pm(Mon-Sun),Average,3.2,13
+Gharonda Restaurant & Bar,700,"North Indian,Chinese",Aurangabad,Nirala Bazar,Casual Dining,11am to 1130pm(Mon-Sun),Average,3.4,13
+Riviera Celebration Restaurant,600,"North Indian,Chinese",Aurangabad,CIDCO,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,15
+Red N Black,800,"Cafe,North Indian",Aurangabad,Akashwani,Café,10am to 11pm(Mon-Sun),Good,3.6,12
+Punjab Shahi Chat,150,Street Food,Aurangabad,CIDCO,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,4
+Punjabi Rasoi,650,"North Indian,Chinese",Aurangabad,CIDCO,Casual Dining,9am to 11pm(Mon-Sun),Average,3.4,10
+Abhinandan,800,North Indian,Aurangabad,CIDCO,Casual Dining,"12noon to 3pm,7pm to 11pm(Mon-Sun)",Average,3.2,9
+Vrindavan Dinning Hall,400,"Gujarati,Maharashtrian,Rajasthani",Aurangabad,MIDC,Casual Dining,"11am to 330pm,7pm to 11pm(Mon-Sun)",Average,3.4,11
+Mast Banarasi Paan,100,Paan,Aurangabad,CIDCO,Paan Shop,10am to 11pm(Mon-Sun),Average,3.4,7
+Kwality Oven Fresh,150,Bakery,Aurangabad,Shahgunj,Bakery,11am to 11pm(Mon-Sun),Average,3.2,5
+Sairaj Bar & Garden Restaurant,500,"North Indian,Chinese",Aurangabad,Waluj,Casual Dining,10am to 11pm(Mon-Sun),Good,3.5,4
+HOTEL NATRAJ,400,"North Indian,Chinese",Aurangabad,CIDCO,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,18
+Zaika Dum Briyani,400,Biryani,Aurangabad,CIDCO,Quick Bites,1130am to 1130pm(Mon-Sun),Average,3.2,17
+New Sawaji Maratha Veg & Nonveg,300,Maharashtrian,Aurangabad,CIDCO,Quick Bites,10am to 11pm(Mon-Sun),Average,3.4,12
+New Aurangabad Pan Center,150,Paan,Aurangabad,CIDCO,Paan Shop,8am to 11pm(Mon-Sun),Average,3.2,5
+Karnival,600,North Indian,Aurangabad,Gadia Vihar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,9
+My Start Up Cafe,400,Cafe,Aurangabad,CIDCO,Café,11am to 11pm(Mon-Sun),Average,2.8,11
+City Bakers,100,"Desserts,Fast Food",Aurangabad,Gulmandi,Dessert Parlor,9am to 11pm(Mon-Sun),Average,3.4,13
+Orange Juice Bar,150,"Juices,Ice Cream,Desserts",Aurangabad,CIDCO,Dessert Parlor,11am to 11pm(Mon-Sun),Good,3.5,13
+Yours Cafe Shradda Restaurant,300,North Indian,Aurangabad,CIDCO,Quick Bites,10am to 11pm(Mon-Sun),Average,2.9,4
+The Tulip Multi Cuisine Restaurant,600,North Indian,Aurangabad,CIDCO,Casual Dining,11am to 11pm(Mon-Sun),Average,2.9,12
+Bamboo Veg Non Veg,500,"North Indian,Chinese",Aurangabad,Ulkanagari,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,17
+Taisty Chinese,150,"Chinese,Fast Food,North Indian",Aurangabad,CIDCO,Quick Bites,10am to 11pm(Mon-Sun),Good,3.6,16
+The Coffee Shop,100,"Fast Food,Beverages",Aurangabad,Gadia Vihar,Quick Bites,9am to 11pm(Mon-Sun),Average,3.1,6
+Mansi Bakers,500,Bakery,Aurangabad,CIDCO,Bakery,10am to 11pm(Mon-Sun),Average,3.3,8
+The Real Spice Kitchen,450,"Chinese,North Indian",Aurangabad,CIDCO,Casual Dining,7am to 11pm(Mon-Sun),Average,2.9,8
+V Pan Mandir,50,"Street Food,Beverages",Aurangabad,Mondha,Quick Bites,8am to 11pm(Mon-Sun),Average,3.3,12
+Khadya Jatra,150,"North Indian,Hyderabadi",Aurangabad,Gulmandi,none,10am to 11pm(Mon-Sun),Average,3.1,4
+D Sutra - Hotel Manor,1500,Finger Food,Aurangabad,Hotel Manor-- Usmanpura,Lounge,24,Average,3.3,8
+Yara Di Gaddi,250,"North Indian,Burger",Aurangabad,CIDCO,Food Truck,6pm to 11pm(Mon-Sun),Average,3.4,10
+Hotel Sher-A-Punjab,500,North Indian,Aurangabad,Gadia Vihar,Casual Dining,1230pm to 1130pm(Mon-Sun),Average,3.0,10
+Cafe Refresho,200,Cafe,Aurangabad,Ulkanagari,none,11am to 11pm(Mon-Sun),Average,3.0,6
+Wat-a-Biryani,500,"Biryani,North Indian",Aurangabad,CIDCO,none,11am to 1130pm(Mon-Sun),Average,2.8,9
+New Shreyas Corner,350,"Fast Food,Desserts",Aurangabad,Nirala Bazar,Quick Bites,8am to 11pm(Mon-Sun),Average,3.0,4
+Gokul  Vrindavan Sweets,200,Mithai,Aurangabad,CIDCO,Sweet Shop,11am to 11pm(Mon-Sun),Average,2.8,14
+Hotel Peshwa Park,500,North Indian,Aurangabad,Ulkanagari,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,9
+Eshita's Corn N Cream,350,"Fast Food,Ice Cream",Aurangabad,CIDCO,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,4
+The Mom's kitchen,350,"Chinese,North Indian",Aurangabad,CIDCO,Quick Bites,10am to 11pm(Mon-Sun),Average,3.3,15
+Hotel Dream Line,800,North Indian,Aurangabad,Waluj,Casual Dining,11am to 11pm(Mon-Sun),Average,3.0,4
+Rajkamal,400,Ice Cream,Aurangabad,CIDCO,Dessert Parlor,11am to 11pm(Mon-Sun),Average,3.3,7
+Sweet Heart Family Restaurant,300,"North Indian,Chinese,Mughlai",Aurangabad,CIDCO,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,6
+Majha Kolhapuri Vadapao,300,"Maharashtrian,Street Food",Aurangabad,Ulkanagari,Quick Bites,11am to 11pm(Mon-Sun),Average,2.9,4
+Shakti Fast Food And Kabab Corner,400,"North Indian,Kebab",Aurangabad,CIDCO,Quick Bites,11am to 11pm(Mon-Sun),Average,2.9,8
+Jai Bhawani Veg Thali,300,South Indian,Aurangabad,CIDCO,Quick Bites,11am to 11pm(Mon-Sun),Average,2.9,5
+The Five Elements - The One Hotel,500,North Indian,Aurangabad,CIDCO,Casual Dining,8am to 11pm(Mon-Sun),Average,3.2,9
+Hotel Shivneri,600,North Indian,Aurangabad,CIDCO,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,8
+Desi Tadka,600,North Indian,Aurangabad,Waluj,Dhaba,9am to 11pm(Mon-Sun),Average,3.0,9
+Pruthvi Bar & Restaurant,400,North Indian,Aurangabad,Nirala Bazar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,7
+Red Chilli Executive,300,Hyderabadi,Aurangabad,Jaswantpura,Quick Bites,10am to 11pm(Mon-Sun),Average,3.3,11
+Sharveen Classic Inn,400,"North Indian,South Indian,Chinese",Aurangabad,Waluj,Quick Bites,7am to 11pm(Mon-Sun),Average,3.2,8
+Hotel New Raigad,300,Maharashtrian,Aurangabad,CIDCO,Quick Bites,10am to 11pm(Mon-Sun),Average,3.3,11
+Khandeshi Tadka,300,Indian,Aurangabad,Gadia Vihar,Quick Bites,9am to 11pm(Mon-Sun),Average,3.4,10
+Hotel Maryam Tahari House,500,"Biryani,North Indian",Aurangabad,Nirala Bazar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,11
+Bageecha Restaurant,600,"North Indian,Seafood",Aurangabad,Usmanpura,Casual Dining,11am to 1130pm(Mon-Sun),Average,2.9,7
+DHANAVI'S Healthy Bites,200,Healthy Food,Aurangabad,Harsul,Quick Bites,10am to 11pm(Mon-Sun),Average,3.1,4
+Food Kraft,600,"North Indian,South Indian",Aurangabad,Akashwani,Casual Dining,730am to 11pm(Mon-Sun),Average,2.8,11
+Kelvin 77,300,"Fast Food,Ice Cream",Aurangabad,CIDCO,Dessert Parlor,11am to 11pm(Mon-Sun),Very Good,4.2,157
+Trupti Fast Food,350,"Fast Food,Street Food",Aurangabad,CIDCO,Quick Bites,7am to 11pm(Mon-Sun),Good,3.9,136
+Mejwani Thali,300,Indian,Aurangabad,CIDCO,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.1,60
+Central Perk,150,"Burger,Cafe,Coffee,Fast Food,Finger Food,Ice Cream,Sandwich",Aurangabad,Usmanpura,Quick Bites,830am to 11pm(Mon-Sun),Very Good,4.1,152
+Creamland Restaurant,600,"Continental,Burger,Fast Food,North Indian,Chinese,BBQ,Kebab",Aurangabad,Gadia Vihar,Casual Dining,12noon to 11pm(Mon-Sun),Very Good,4.1,145
+Indiana Red Velvet,600,"North Indian,Chinese,Italian,Continental",Aurangabad,Gadia Vihar,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.2,121
+Smokin' Joe's,600,"Pizza,Fast Food",Aurangabad,Nirala Bazar,Casual Dining,11am to 11pm(Mon-Sun),Average,2.9,123
+Green Leaf,750,"Chinese,North Indian",Aurangabad,CIDCO,Casual Dining,12noon to 1045pm(Mon-Sun),Excellent,4.8,799
+The Irani Cafe,500,"Sandwich,Burger,North Indian,Mexican",Aurangabad,Nirala Bazar,Casual Dining,6am to 11pm(Mon-Sun),Good,3.5,113
+Hotel Rana Veg Non Veg Restaurant,300,North Indian,Aurangabad,CIDCO,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.1,102
+Dashmesh Restaurant,500,"Chinese,North Indian",Aurangabad,CIDCO,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.0,110
+Sai Prasad,300,"North Indian,Chinese",Aurangabad,Sindhi Colony,Quick Bites,11am to 1030pm(Mon-Sun),Excellent,4.5,352
+Eatalio's,400,"Cafe,Mexican,Italian,North Indian,South Indian",Aurangabad,Usmanpura,Café,11am to 11pm(Mon-Sun),Good,3.9,108
+Cone-N-Cakes,300,"Desserts,Fast Food",Aurangabad,Usmanpura,Dessert Parlor,12noon to 1045pm(Mon-Sun),Very Good,4.4,263
+Assal Gaonkari,500,"Biryani,Maharashtrian,North Indian",Aurangabad,CIDCO,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.0,93
+Sai Restaurant,400,Chinese,Aurangabad,Mondha,Casual Dining,11am to 11pm(Mon-Sun),Average,3.0,10
+Hotel Yashraj,500,North Indian,Aurangabad,Gadia Vihar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,6
+Taj Hotel,400,North Indian,Aurangabad,MIDC,Casual Dining,7am to 11pm(Mon-Sun),Average,2.8,11
+Hotel Sai Palace,1300,"Mughlai,Chinese",Aurangabad,CIDCO,Casual Dining,11am to 12midnight(Mon-Sun),Average,3.2,5
+Hotel New Royal,500,"North Indian,Chinese",Aurangabad,MIDC,Casual Dining,5am to 12midnight(Mon-Sun),Average,3.3,7
+Raviraj Veg & Non-Veg Restaurant,700,North Indian,Aurangabad,CIDCO,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,6
+Abhiruchi,650,"North Indian,Maharashtrian",Aurangabad,Ulkanagari,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,9
+Hotel Atharwa,700,"Chinese,North Indian",Aurangabad,CIDCO,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,6
+Tasty Ride,400,Fast Food,Aurangabad,CIDCO,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,6
+-301°F!,300,Ice Cream,Aurangabad,Nirala Bazar,Dessert Parlor,11am to 12midnight(Mon-Sun),Average,2.7,11
+Delhi Chat,150,Street Food,Aurangabad,CIDCO,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,4
+Tara Bakers And Restaurant,200,"Chinese,Fast Food,North Indian",Aurangabad,CIDCO,Quick Bites,1130am to 1130pm(Mon-Sun),Average,3.1,4
+Angoor Bar & Garden Restaurant,440,"North Indian,Chinese",Aurangabad,CIDCO,Casual Dining,11am to 11pm(Mon-Sun),Average,2.8,5
+Copains Coffee Cafe,300,Cafe,Aurangabad,Gadia Vihar,Café,"10am to 11pm(Mon-Sat),Closed(Sun)",Average,3.2,6
+Chatpataz,400,"Street Food,Fast Food,North Indian",Aurangabad,Gadia Vihar,Quick Bites,9am to 11pm(Mon-Sun),Average,3.1,9
+Sagar Juice Centre,200,Juices,Aurangabad,Sindhi Colony,none,1130am to 11pm(Mon-Sun),Average,2.8,8
+Krishna Leela Veg,300,"Gujarati,Rajasthani",Aurangabad,Gulmandi,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,7
+Hotel Tulja Bhawani Swaraj,500,North Indian,Aurangabad,Chikalthana,Casual Dining,11am to 12midnight(Mon-Sun),Average,3.2,8
+Sasta Pizza,200,"Pizza,Fast Food,Italian",Aurangabad,Usmanpura,none,9am to 11pm(Mon-Sun),Average,3.0,6
+Hotel Maryam,350,"Biryani,North Indian",Aurangabad,Shahgunj,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,4
+The Snack Shack,300,Kebab,Aurangabad,Nirala Bazar,Quick Bites,1230pm to 11pm(Mon-Sun),Average,3.2,5
+Terrace Garden Restaurant,450,"North Indian,Fast Food",Aurangabad,Gulmandi,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,5
+Hotel Punjabi Tadka,350,North Indian,Aurangabad,Akashwani,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,4
+Surbhi Family Restaurant & Bar,700,"Chinese,North Indian",Aurangabad,CIDCO,Casual Dining,1130am to 11pm(Mon-Sun),Average,3.4,6
+Om Sai Bar & Restaurant,1000,"North Indian,Chinese",Aurangabad,Usmanpura,Casual Dining,11am to 12midnight(Mon-Sun),Average,3.2,8
+Royal Tara Pan Center,150,Paan,Aurangabad,Mondha,Paan Shop,11am to 11pm(Mon-Sun),Average,2.9,5
+Turban Tadka,400,North Indian,Aurangabad,Mondha,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,5
+New Bharati,400,"North Indian,South Indian",Aurangabad,Usmanpura,Quick Bites,7am to 11pm(Mon-Sun),Average,2.9,6
+Imperial Family Restaurant,400,North Indian,Aurangabad,CIDCO,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,8
+Kinara Restaurant,250,"North Indian,Fast Food",Aurangabad,CIDCO,Quick Bites,11am to 11pm(Mon-Sun),Average,2.9,4
+Brother's Snack Corner,250,"Fast Food,Beverages",Aurangabad,Ulkanagari,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.1,4
+Monginis,300,"Bakery,Desserts",Aurangabad,CIDCO,Quick Bites,8am to 11pm(Mon-Sun),Average,3.2,7
+Mumbai Kulfi,150,Desserts,Aurangabad,Akashwani,Dessert Parlor,11am to 12midnight(Mon-Sun),Average,2.9,6
+Veg Baker's,400,Bakery,Aurangabad,Harsul,Bakery,11am to 11pm(Mon-Sun),Average,3.1,5
+Green Apple Fast Food,200,Fast Food,Aurangabad,Chikalthana,none,11am to 11pm(Mon-Sun),Average,3.1,5
+Lajawab Dum Biryani,300,Biryani,Aurangabad,Gadia Vihar,Quick Bites,12noon to 11pm(Mon-Sun),Average,2.8,6
+Hotel Spice N Ice,250,"Chinese,South Indian,Street Food",Aurangabad,CIDCO,Quick Bites,8am to 11pm(Mon-Sun),Average,3.2,5
+Hotel Pancham,600,"Chinese,North Indian,Fast Food",Aurangabad,Akashwani,Quick Bites,10am to 11pm(Mon-Sun),Average,3.1,6
+Hotel Shravani Pure Veg Rstaurant,200,North Indian,Aurangabad,Harsul,Quick Bites,10am to 11pm(Mon-Sun),Average,3.2,5
+Snowfield Pav Bhaji,300,Fast Food,Aurangabad,Sindhi Colony,Quick Bites,10am to 11pm(Mon-Sun),Average,2.8,6
+Facebhook,400,Fast Food,Aurangabad,Gadia Vihar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,5
+Cafe Sips & Bites,400,"Burger,Fast Food",Aurangabad,Gadia Vihar,Quick Bites,10am to 11pm(Mon-Sun),Average,3.0,4
+Hotel Sai Veg & Non Veg Restaurant,300,Maharashtrian,Aurangabad,CIDCO,Quick Bites,10am to 11pm(Mon-Sun),Average,2.9,4
+Hotel Galaxy,300,Fast Food,Aurangabad,Sindhi Colony,Quick Bites,10am to 11pm(Mon-Sun),Average,3.0,4
+Hotel Angan,700,"North Indian,Chinese",Aurangabad,Usmanpura,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,5
+New City Chinese Centre,200,"Chinese,Fast Food",Aurangabad,CIDCO,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,4
+Hotel Swagat Maratha,200,Maharashtrian,Aurangabad,Usmanpura,Quick Bites,10am to 11pm(Mon-Sun),Average,2.9,4
+Mini Taj Family Restaurant,800,"Chinese,Mughlai,North Indian",Aurangabad,Shahgunj,Casual Dining,10am to 2am(Mon-Sun),Average,3.1,4
+Rock Sea,500,"North Indian,South Indian",Aurangabad,CIDCO,Quick Bites,9am to 11pm(Mon-Sun),Average,3.0,4
+Koyla,500,"Biryani,Fast Food",Aurangabad,Ulkanagari,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,131
+Falahaar,400,"Fast Food,Sandwich",Aurangabad,CIDCO,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,100
+Flames Restaurant,300,"North Indian,Chinese",Aurangabad,CIDCO,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.1,131
+Sai Prasad Pure Veg Restaurant,250,"Maharashtrian,North Indian",Aurangabad,CIDCO,Quick Bites,10am to 11pm(Mon-Sun),Good,3.7,69
+Marrakesh,700,"Lebanese,Mediterranean,Mughlai",Aurangabad,CIDCO,Casual Dining,11am to 11pm(Mon-Sun),Good,3.7,129
+Siddhi Restaurant,500,"North Indian,Chinese",Aurangabad,CIDCO,Casual Dining,8am to 11pm(Mon-Sun),Very Good,4.0,140
+Shan-e-Punjab,450,North Indian,Aurangabad,Mondha,Casual Dining,1pm to 130am(Mon-Sun),Good,3.9,108
+Malabar Specialized Biryani,250,"Biryani,Kebab,Rolls",Aurangabad,Mondha,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,38
+Naivedya,500,North Indian,Aurangabad,CIDCO,Casual Dining,"1130am to 315pm,7pm to 1030pm(Mon-Sun)",Very Good,4.2,281
+Tastation,350,"Fast Food,Pizza",Aurangabad,CIDCO,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,94
+Shahenaz,500,"North Indian,Mughlai,Kebab,Chinese,Seafood",Aurangabad,CIDCO,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,100
+Bhalla Chat Centre,150,Street Food,Aurangabad,Shahgunj,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,88
+Swad Restaurant,400,North Indian,Aurangabad,Usmanpura,Quick Bites,"11am to 330pm,7pm to 11pm(Mon-Sun)",Good,3.7,131
+Hotel Janta Darbar,500,"North Indian,Chinese",Aurangabad,MIDC,Casual Dining,6am to 1130pm(Mon-Sun),Good,3.8,71
+Café Woodies,400,"Cafe,Bakery",Aurangabad,Usmanpura,Café,10am to 10pm(Mon-Sun),Very Good,4.0,157
+Hotel Jalgaon Bharit Centre,350,North Indian,Aurangabad,CIDCO,Quick Bites,"7pm to 11pm(Mon-Fri),12noon to 330pm,7pm to ...",Very Good,4.1,88
+Coffee & Cookies,400,Cafe,Aurangabad,CIDCO,Café,10am to 10pm(Mon-Sun),Good,3.8,134
+Blue Cilantro - Keys Select Hotel,800,"North Indian,Chinese,Italian,Continental",Aurangabad,Hotel Keys The Aures-- Vedant Nagar,Casual Dining,7am to 11pm(Mon-Sun),Very Good,4.1,76
+Samosa Express,350,Fast Food,Aurangabad,Nirala Bazar,Quick Bites,11am to 10pm(Mon-Sun),Good,3.9,125
+Laziz Pizza,350,"Fast Food,Pizza",Aurangabad,Gadia Vihar,Quick Bites,10am to 10pm(Mon-Sun),Good,3.7,166
+Lalaji's,350,"Chinese,Indian",Aurangabad,Nirala Bazar,Quick Bites,1030am to 11pm(Mon-Sun),Average,3.4,114
+Dera Punjab,450,"Mughlai,Chinese,North Indian",Aurangabad,Usmanpura,Casual Dining,11am to 11pm(Mon-Sun),Good,3.7,143
+Restro7,400,Fast Food,Aurangabad,MIDC,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,64
+Softy Corner,200,"Ice Cream,Desserts",Aurangabad,Nirala Bazar,Dessert Parlor,1115am to 11pm(Mon-Sun),Very Good,4.1,86
+Cafe Coffee Day,400,Cafe,Aurangabad,Usmanpura,Café,24,Good,3.7,92
+Tandoor Restaurant & Bar,900,"North Indian,Chinese",Aurangabad,Usmanpura,Casual Dining,"11am to 330pm,630pm to 11pm(Mon-Sun)",Very Good,4.0,98
+Sindh Punjab Fine Dine,600,North Indian,Aurangabad,MIDC,Casual Dining,(Mon-Sun),Good,3.9,99
+The Hyde-out Cafe,1200,Cafe,Aurangabad,Akashwani,Café,11am to 11pm(Mon-Sun),Good,3.6,101
+Cafe Ninety9,350,"Cafe,Chinese,Italian,Fast Food",Aurangabad,Ulkanagari,Café,"11am to 1020pm(Mon,Tue,Wed,Thu,Fri,Sun)...",Very Good,4.1,113
+Kareem's Kabab & Biryani,650,"Mughlai,Biryani",Aurangabad,Chikalthana,Casual Dining,"12noon to 11pm(Mon-Thu),12noon to 1115pm(Fri-Sun)",Good,3.5,54
+Goli Vada Pav,200,Street Food,Aurangabad,Usmanpura,Quick Bites,930am to 930pm(Mon-Sun),Good,3.5,144
+National Hyderabadi Dum Biryani,250,"Biryani,North Indian",Aurangabad,Shahgunj,Quick Bites,10am to 12midnight(Mon-Sun),Good,3.9,77
+Udupi Shrikrishna Veg Restaurant,200,North Indian,Aurangabad,Nyay Nagar,Quick Bites,9am to 11pm(Mon-Sun),Very Good,4.0,51
+New Maratha Hotel,600,"North Indian,Maharashtrian",Aurangabad,Gulmandi,Casual Dining,8am to 1030pm(Mon-Sun),Very Good,4.1,132
+Sai Panchavati Pav Bhaji and Pulav Center,250,Street Food,Aurangabad,Sindhi Colony,Quick Bites,1030am to 11pm(Mon-Sun),Good,3.9,68
+Chinese Corner,500,Chinese,Aurangabad,Nirala Bazar,Quick Bites,12noon to 11pm(Mon-Sun),Very Good,4.0,103
+Baker's Lounge,500,"Italian,Continental,Fast Food",Aurangabad,CIDCO,Casual Dining,11am to 11pm(Mon-Sun),Average,3.0,87
+KA Lounge,1200,"North Indian,Continental",Aurangabad,Akashwani,Lounge,1130am to 1230AM(Mon-Sun),Very Good,4.0,85
+Devpriya Veg Restaurant,400,"South Indian,North Indian,Chinese",Aurangabad,Nirala Bazar,Casual Dining,8am to 1130pm(Mon-Sun),Good,3.9,71
+Revelry The Cake House,350,Desserts,Aurangabad,Nirala Bazar,Quick Bites,10am to 10pm(Mon-Sun),Very Good,4.0,85
+YumWich,350,"Fast Food,Beverages",Aurangabad,CIDCO,Quick Bites,1030am to 1130pm(Mon-Sun),Very Good,4.3,98
+Yo-China Chinese Fast Food,300,Chinese,Aurangabad,Nirala Bazar,Casual Dining,12noon to 12midnight(Mon-Sun),Good,3.6,46
+Aaswad Pure Veg,350,"North Indian,Fast Food,Maharashtrian",Aurangabad,Nirala Bazar,Casual Dining,11am to 11pm(Mon-Sun),Good,3.9,78
+Kozy Fine Dine,800,"North Indian,Chinese",Aurangabad,Usmanpura,Casual Dining,1230pm to 11pm(Mon-Sun),Very Good,4.0,89
+Angeethi Restaurant,600,"North Indian,Chinese",Aurangabad,CIDCO,Casual Dining,"11am to 4pm,7pm to 11pm(Mon-Sun)",Good,3.9,103
+Cafe Bakers,300,"Bakery,Fast Food,Pizza",Aurangabad,CIDCO,Bakery,11am to 11pm(Mon-Sun),Good,3.8,50
+Cream Stone,400,"Desserts,Beverages",Aurangabad,Chikalthana,Dessert Parlor,1130am to 1130pm(Mon-Sun),Very Good,4.1,65
+Bombay A1 Tawa Spot,500,"North Indian,Chinese",Aurangabad,Chikalthana,Casual Dining,1130am to 11pm(Mon-Sun),Good,3.7,41
+Cake N Bake,200,"Bakery,Cafe",Aurangabad,Usmanpura,Quick Bites,11am to 1030pm(Mon-Sun),Good,3.5,59
+M.R. Khaliya House,200,Biryani,Aurangabad,Jaswantpura,Casual Dining,11am to 11pm(Mon-Sun),Good,3.9,47
+Monginis,200,"Bakery,Desserts",Aurangabad,Nirala Bazar,Bakery,10am to 10pm(Mon-Sun),Good,3.6,106
+Cafe Creme,300,Desserts,Aurangabad,CIDCO,Dessert Parlor,930am to 1030pm(Mon-Sun),Good,3.8,70
+Sai Panchvati,450,North Indian,Aurangabad,Sindhi Colony,Casual Dining,"7am to 715am(Mon),Closed(Tue-Sun)",Good,3.8,83
+Krishna Chat House,100,Fast Food,Aurangabad,Akashwani,none,10am to 9pm(Mon-Sun),Good,3.8,39
+Balle Balle - Hotel Manor,800,North Indian,Aurangabad,Hotel Manor-- Usmanpura,Casual Dining,"11am to 3pm,7pm to 12midnight(Mon-Sun)",Very Good,4.1,92
+Mazaali Biryani,300,"North Indian,Biryani",Aurangabad,Ulkanagari,Quick Bites,(Mon-Sun),Good,3.8,32
+Dairy Don,200,"Desserts,Ice Cream",Aurangabad,Ulkanagari,Dessert Parlor,10am to 1230AM(Mon-Sun),Very Good,4.0,32
+Shail Stock Exchange Bar,400,"Cafe,Fast Food",Aurangabad,Usmanpura,Café,1030am to 1030pm(Mon-Sun),Good,3.9,66
+Mokoholic 2.0 Juice Bar & Café,300,"Desserts,Juices",Aurangabad,CIDCO,Dessert Parlor,10am to 11pm(Mon-Sun),Average,3.1,69
+Hotel Maratha,600,"Maharashtrian,North Indian",Aurangabad,CIDCO,Casual Dining,11am to 11pm(Mon-Sun),Average,2.8,67
+Shake N Bites,150,"Beverages,Cafe",Aurangabad,Prozone Mall-- Chicalthana,Beverage Shop,"10am to 1030pm(Mon-Fri),11am to 11pm(Sat-Sun)",Good,3.6,72
+Lokmanya's South Indian Cafe,200,South Indian,Aurangabad,CIDCO,Quick Bites,9am to 1030pm(Mon-Sun),Good,3.8,59
+Crazy Bite,400,"Chinese,North Indian",Aurangabad,CIDCO,Casual Dining,8am to 1030pm(Mon-Sun),Average,2.6,60
+Shree Aayojan's Idli Stop,200,South Indian,Aurangabad,CIDCO,Quick Bites,10am to 8pm(Mon-Sun),Very Good,4.0,64
+Cafe Royal De,350,"Fast Food,Desserts,Beverages",Aurangabad,MIDC,Quick Bites,(Mon-Sun),Good,3.8,48
+Lake View Restaurant and Cafe,500,"North Indian,Fast Food",Aurangabad,CIDCO,Casual Dining,11am to 11pm(Mon-Sun),Good,3.9,48
+Kareem's Chinese,650,"Chinese,Momos",Aurangabad,Prozone Mall-- Chicalthana,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,54
+Gurukrupa Fast Food Center,200,"Chinese,Street Food",Aurangabad,Gadia Vihar,Quick Bites,7am to 1030pm(Mon-Sun),Good,3.8,30
+Zabis Ismail Restaurant,300,"North Indian,Fast Food,Beverages",Aurangabad,Shahgunj,Quick Bites,10am to 12midnight(Mon-Sun),Good,3.9,35
+The Cake Factory,250,"Bakery,Desserts",Aurangabad,Sindhi Colony,Bakery,9am to 9pm(Mon-Sun),Good,3.5,14
+Right Choice Juice Centre,100,Juices,Aurangabad,Gadia Vihar,Beverage Shop,10am to 10pm(Mon-Sun),Good,3.8,26
+Hotel Shivneri,300,"North Indian,Chinese",Aurangabad,Ulkanagari,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,55
+Pulav,300,"South Indian,North Indian",Aurangabad,Ulkanagari,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.0,59
+Moghlai Biryani House,300,"Biryani,Kebab",Aurangabad,Nirala Bazar,Quick Bites,"11am to 12midnight(Mon,Wed,Thu,Sat,Sun)...",Good,3.8,51
+Indian Aroma,300,North Indian,Aurangabad,Usmanpura,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,46

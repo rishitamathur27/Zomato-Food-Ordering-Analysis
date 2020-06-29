@@ -1,0 +1,725 @@
+Name,Price,Cuisine_Category,City,Region,Cuisine_Type,Timing,Rating_Types,Rating,Votes
+Abitha Biriyani Hotel,700,"Biryani,South Indian",Coimbatore,Ukkadam,Quick Bites,6am to 12midnight(Mon-Sun),Excellent,4.6,446
+Cock Ra Co,550,"North Indian,Chinese,South Indian",Coimbatore,RS Puram,Casual Dining,"12noon to 4pm,6pm to 1130pm(Mon-Sun)",Very Good,4.2,491
+Valarmathi Kongunaatu Samayal,450,"South Indian,Biryani",Coimbatore,Race Course,Casual Dining,"12noon to 4pm,7pm to 11pm(Mon-Sun)",Excellent,4.7,709
+The Chocolate Room,650,"Cafe,Desserts",Coimbatore,RS Puram,Café,11am to 11pm(Mon-Sun),Excellent,4.9,358
+The French Door Cafe & Restaurant,1500,"Cafe,Continental,French,North Indian,European",Coimbatore,RS Puram,Café,"11am to 11pm(Mon-Sat),10am to 11pm(Sun)",Excellent,4.7,429
+Yugo,300,Cafe,Coimbatore,Lakshmi Mills,Café,9am to 1am(Mon-Sun),Very Good,4.3,450
+Zucca Pizzeria,700,"Pizza,Fast Food",Coimbatore,Saravanampatty,Casual Dining,1130am to 11pm(Mon-Sun),Very Good,4.4,379
+Dindigul Venu Biryani,500,Biryani,Coimbatore,Lakshmi Mills,Quick Bites,"1130am to 4pm,630pm to 11pm(Mon-Sun)",Very Good,4.0,349
+Eleven 2 Eleven,600,"Chinese,North Indian,Seafood,South Indian",Coimbatore,Peelamedu,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.1,279
+Hotel Delhi Dharbarr,500,"South Indian,Chinese,Biryani",Coimbatore,Peelamedu,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.0,444
+Denmarrk Drive-Inn Restaurant,400,"North Indian,Chinese",Coimbatore,Nehru Stadium,Casual Dining,1230pm to 11pm(Mon-Sun),Very Good,4.1,320
+Pizza Hut,600,Pizza,Coimbatore,Fun Republic Mall-- Avinashi Road,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.0,331
+Classsic Biriyani Hut,200,"Healthy Food,South Indian,Chinese",Coimbatore,Ukkadam,Quick Bites,7am to 12midnight(Mon-Sun),Very Good,4.3,96
+Ammayi Veedu Pot Cook,400,Chettinad,Coimbatore,Gandhipuram,Casual Dining,7am to 11pm(Mon-Sun),Very Good,4.2,504
+Domino's Pizza,400,"Pizza,Fast Food",Coimbatore,Peelamedu,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,488
+Boom Cafe,650,Cafe,Coimbatore,Saibaba Colony,Café,11am to 1030pm(Mon-Sun),Very Good,4.1,158
+Burger King,500,"Burger,Fast Food",Coimbatore,Brookefields Mall-- RS Puram,Quick Bites,11am to 10pm(Mon-Sun),Good,3.9,143
+Cocoabay,600,"Cafe,Bakery",Coimbatore,Saibaba Colony,Café,10am to 1030pm(Mon-Sun),Good,3.9,127
+Hotel Imperial,500,"North Indian,Chinese",Coimbatore,Saravanampatty,Casual Dining,12noon to 1030pm(Mon-Sun),Good,3.5,197
+Idly Virundhu,200,South Indian,Coimbatore,Gandhipuram,Quick Bites,6pm to 11pm(Mon-Sun),Good,3.9,120
+The Great 80's Kitchen,300,"South Indian,North Indian,Chinese,Arabian,American",Coimbatore,Gandhipuram,Casual Dining,"11am to 11pm(Mon-Sat),11am to 4pm(Sun)",Good,3.7,110
+Veera Biriyani Center,200,Biryani,Coimbatore,RS Puram,Quick Bites,"12noon to 3pm,7pm to 10pm(Mon-Sun)",Good,3.8,103
+Kovai Biryani Hotel,550,"Biryani,South Indian",Coimbatore,RS Puram,Casual Dining,"12noon to 1030pm(Mon-Sat),1130am to 1030pm(Sun)",Good,3.6,197
+Anjanan,300,South Indian,Coimbatore,RS Puram,Quick Bites,"11am to 330pm,7pm to 1030pm(Mon-Sun)",Average,3.3,158
+ID,500,South Indian,Coimbatore,Brookefields Mall-- RS Puram,Casual Dining,"11am to 11pm(Mon-Fri),8am to 11pm(Sat-Sun)",Very Good,4.0,123
+Green Leaf Restaurant,800,"North Indian,Chinese,South Indian,Grill,Arabian",Coimbatore,Kalapatti,Casual Dining,1130am to 1030pm(Mon-Sun),Good,3.9,139
+Subway,500,"Healthy Food,Salad,Sandwich",Coimbatore,Ramanathapuram,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.1,123
+ibaco,300,"Ice Cream,Desserts",Coimbatore,Peelamedu,Dessert Parlor,11am to 1030pm(Mon-Sun),Very Good,4.0,109
+China V'lley Chinese Restaurant,500,"Chinese,Momos",Coimbatore,Ramanathapuram,Casual Dining,"11am to 330pm,630pm to 11pm(Mon-Sun)",Good,3.7,112
+MI - Pizza,200,Italian,Coimbatore,Vadavalli,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,99
+Kongu Masala,400,South Indian,Coimbatore,Race Course,Casual Dining,"12noon to 4pm,7pm to 1030pm(Mon-Sun)",Good,3.8,140
+The Belgian Waffle Co.,400,"Desserts,Beverages",Coimbatore,Peelamedu,Dessert Parlor,11am to 11pm(Mon-Sun),Good,3.7,43
+Tiffinys,800,"North Indian,Chinese,Chettinad",Coimbatore,Hotel Alankara Grand-- Nehru Stadium,Casual Dining,"12noon to 330pm,7pm to 1030pm(Mon-Sun)",Good,3.6,185
+The Budapest Bakehouse,350,"Desserts,Fast Food",Coimbatore,Peelamedu,Café,12noon to 12midnight(Mon-Sun),Good,3.9,30
+Dil Se,500,"North Indian,South Indian",Coimbatore,RS Puram,Casual Dining,10am to 11pm(Mon-Sun),Good,3.6,108
+Kattappas,600,"Chettinad,Kerala,South Indian,Street Food",Coimbatore,Saibaba Colony,Casual Dining,"12noon to 330pm,7pm to 1030pm(Mon-Sun)",Good,3.7,136
+Royal Biriyani House,300,"Biryani,Arabian,Chinese,Indian,BBQ,Charcoal Chicken,Grill,Kebab",Coimbatore,Vadavalli,Quick Bites,11am to 1040pm(Mon-Sun),Average,2.9,191
+Sri Ganapathy Mess,200,"South Indian,Fast Food",Coimbatore,Peelamedu,Mess,"11am to 330pm,630pm to 1030pm(Mon-Sun)",Good,3.9,91
+Salem Ravichandran Tiffin House,150,South Indian,Coimbatore,RS Puram,Quick Bites,7am to 11pm(Mon-Sun),Very Good,4.1,98
+Hotel Brother's,200,Biryani,Coimbatore,Gandhipuram,Quick Bites,11am to 1030pm(Mon-Sun),Good,3.7,123
+Hotel Muthu Rowther - Biryani Hut,350,"Biryani,South Indian,Grill,BBQ,Indian,Middle Eastern,Seafood",Coimbatore,RS Puram,Quick Bites,12noon to 1030pm(Mon-Sun),Good,3.9,159
+Vetrivel Mess,250,South Indian,Coimbatore,Peelamedu,Mess,7am to 11pm(Mon-Sun),Very Good,4.1,68
+Chai n Gupshup,250,"Cafe,Fast Food,Beverages,Coffee,Tea",Coimbatore,RS Puram,Café,"10am to 845pm(Mon,Wed,Thu,Fri,Sat,Sun)...",Very Good,4.0,128
+Trupthi Kaapi & Chapthi Corner,100,"Cafe,South Indian",Coimbatore,Peelamedu,Café,"730am to 1045pm(Mon-Tue),730am to 1030pm...",Good,3.5,84
+Shree Aksshayam,700,South Indian,Coimbatore,Peelamedu,Casual Dining,630am to 1030pm(Mon-Sun),Very Good,4.1,91
+Sree Annapoorna Sree Gowrishankar Hotels,350,South Indian,Coimbatore,Town Hall,Quick Bites,6am to 11pm(Mon-Sun),Very Good,4.1,117
+007 Punjabi Dhaba,500,"Asian,Afghan",Coimbatore,Ukkadam,Quick Bites,7am to 11pm(Mon-Sun),Very Good,4.3,120
+GoParatha,250,North Indian,Coimbatore,Lakshmi Mills,none,"10am to 10pm(Mon),9am to 10pm(Tue,Thu,Fri...",Very Good,4.1,92
+Pizza Paradise,300,Fast Food,Coimbatore,RS Puram,Quick Bites,1030am to 1030pm(Mon-Sun),Very Good,4.0,95
+Blenders Inc.,250,"Beverages,Desserts",Coimbatore,RS Puram,Beverage Shop,"430pm to 11pm(Mon-Fri),12noon to 11pm(Sat-Sun)",Very Good,4.0,115
+Hotel Sri Surya,600,"Chinese,South Indian,North Indian",Coimbatore,Ramanathapuram,Casual Dining,"1130am to 4pm,630pm to 1030pm(Mon-Sun)",Good,3.7,136
+House of Pizzas,500,Pizza,Coimbatore,Thudiyalur,Quick Bites,11am to 10pm(Mon-Sun),Average,3.2,87
+Burmy Food,200,Burmese,Coimbatore,Peelamedu,Quick Bites,"Closed(Mon),6pm to 930pm(Tue-Sun)",Good,3.9,81
+Chocko Choza,600,"Bakery,Desserts,Cafe",Coimbatore,RS Puram,Bakery,11am to 10pm(Mon-Sun),Good,3.8,86
+Valar Chicken,300,"Chinese,South Indian",Coimbatore,RS Puram,Quick Bites,12noon to 1030pm(Mon-Sun),Good,3.7,104
+Annalakshmi,800,South Indian,Coimbatore,Race Course,Casual Dining,"Closed(Mon),12noon to 3pm,7pm to 930pm(Tue-Sun)",Good,3.9,97
+Chettinattu Keda Virunthu,300,Chettinad,Coimbatore,Ramanathapuram,Quick Bites,12noon to 10pm(Mon-Sun),Average,2.7,86
+LFC,350,Fast Food,Coimbatore,Ramanathapuram,Quick Bites,11am to 10pm(Mon-Sun),Very Good,4.0,103
+Bakeroe,150,"Desserts,Bakery",Coimbatore,Race Course,Dessert Parlor,"Closed(Mon),11am to 10pm(Tue-Sun)",Very Good,4.3,86
+My Place Food Station,250,"South Indian,Chinese,North Indian",Coimbatore,Peelamedu,Quick Bites,"12noon to 4pm,6pm to 10pm(Mon-Sun)",Very Good,4.1,103
+Nin Hao,800,"Chinese,Seafood",Coimbatore,Saibaba Colony,Casual Dining,12noon to 11pm(Mon-Sun),Good,3.8,81
+The London Shakes,400,"Beverages,Fast Food",Coimbatore,Saibaba Colony,Beverage Shop,10am to 10pm(Mon-Sun),Very Good,4.0,94
+Hotel Suvaiagam,300,South Indian,Coimbatore,Sitra,Casual Dining,"830am to 430pm,630pm to 1130pm(Mon-Sun)",Good,3.6,85
+Fakhri Fast Food,300,Fast Food,Coimbatore,Peelamedu,Quick Bites,11am to 10pm(Mon-Sun),Good,3.8,44
+SMS Hotel,600,"North Indian,South Indian,Chinese,Beverages",Coimbatore,RS Puram,Casual Dining,12noon to 10pm(Mon-Sun),Good,3.7,82
+Byte A Bit,300,Fast Food,Coimbatore,Singanallur,Food Truck,"6pm to 1030pm(Mon-Sat),Closed(Sun)",Good,3.6,73
+Cafe Coffee Day,650,"Cafe,Fast Food",Coimbatore,Race Course,Café,8am to 1030pm(Mon-Sun),Very Good,4.0,78
+Food Court - Holiday Residency,600,"Kerala,North Indian,Seafood",Coimbatore,Saravanampatty,Casual Dining,10am to 11am(Mon-Sun),Average,3.4,69
+3 Monkey's Cafe,350,"Burger,Beverages,Cafe,Desserts,Sandwich,Pizza,Ice Cream,Coffee",Coimbatore,Saibaba Colony,Café,11am to 11pm(Mon-Sun),Good,3.5,79
+Royal Love Cafe,500,Cafe,Coimbatore,Peelamedu,Café,10am to 10pm(Mon-Sun),Good,3.9,68
+RHR Restaurant,300,"South Indian,North Indian,Chinese,Desserts,Juices",Coimbatore,Peelamedu,Quick Bites,6am to 1030pm(Mon-Sun),Average,3.0,69
+Crazy Kebabz,200,Kebab,Coimbatore,Nehru Stadium,Quick Bites,2pm to 1030pm(Mon-Sun),Good,3.6,67
+Glacier Park,250,"Ice Cream,Fast Food",Coimbatore,Gandhipuram,Dessert Parlor,10am to 1030pm(Mon-Sun),Good,3.8,77
+Grill Inn,500,Fast Food,Coimbatore,Ganapathy,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,121
+Mud Pot,300,South Indian,Coimbatore,Saravanampatty,Casual Dining,"11am to 12midnight(Mon-Tue),11am to 10pm(Wed-Sun)",Average,3.4,96
+Agarwal's The Sweet Shop,250,"Mithai,Street Food,North Indian",Coimbatore,RS Puram,Sweet Shop,9am to 10pm(Mon-Sun),Good,3.9,59
+Sri Amman Mess,200,South Indian,Coimbatore,Peelamedu,Quick Bites,"12noon to 4pm,7pm to 11pm(Mon-Sun)",Very Good,4.0,120
+Thambiyannan Biriyani Hotel,450,"Biryani,South Indian",Coimbatore,Gandhipuram,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,123
+Paarampariyam Unavagam,700,"Seafood,North Indian,South Indian",Coimbatore,Vadavalli,Casual Dining,"1230pm to 330pm,7pm to 1030pm(Mon-Sun)",Average,3.3,54
+Hifive Cafe,300,"Cafe,Bakery",Coimbatore,Saravanampatty,Café,11am to 10pm(Mon-Sun),Good,3.9,34
+Hotel Imperial,500,"Chinese,North Indian",Coimbatore,Saravanampatty,Quick Bites,12noon to 1030pm(Mon-Sun),Average,3.4,92
+Sree Velu Biriyani,500,"Biryani,North Indian,Chinese,Seafood",Coimbatore,Ganapathy,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,60
+Ambur Star Biriyani,250,Biryani,Coimbatore,RS Puram,Quick Bites,11am to 1030pm(Mon-Sun),Good,3.7,60
+7th Heaven Cake Shop,250,"Bakery,Desserts",Coimbatore,Peelamedu,Bakery,1030am to 10pm(Mon-Sun),Good,3.6,55
+Cream Stone,300,"Desserts,Ice Cream",Coimbatore,RS Puram,Dessert Parlor,11am to 11pm(Mon-Sun),Very Good,4.0,74
+La Palette,650,"Cafe,Continental,Italian,Burger,Desserts",Coimbatore,Saibaba Colony,Café,"10am to 10pm(Mon-Thu),10am to 1030pm(Fri-Sun)",Good,3.9,59
+The Punjab Express,500,North Indian,Coimbatore,RS Puram,Quick Bites,"12noon to 10pm(Mon-Sat),9am to 10pm(Sun)",Average,3.0,59
+Bombayy Chaats,350,Fast Food,Coimbatore,RS Puram,none,3pm to 11pm(Mon-Sun),Good,3.9,85
+S.K Spices,500,"South Indian,North Indian,Biryani",Coimbatore,Gandhipuram,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,74
+Velan Kaappi,100,Beverages,Coimbatore,RS Puram,Beverage Shop,6am to 10pm(Mon-Sun),Very Good,4.0,53
+Akshaya Park Restaurant,600,"North Indian,Arabian,Chinese",Coimbatore,Thudiyalur,Casual Dining,12noon to 12midnight(Mon-Sun),Average,2.7,116
+Hopes Cafe,300,"Fast Food,Cafe",Coimbatore,Peelamedu,Quick Bites,9am to 10pm(Mon-Sun),Average,3.3,22
+Richy Rich,250,"Ice Cream,Desserts,Fast Food",Coimbatore,Race Course,Dessert Parlor,9am to 11pm(Mon-Sun),Very Good,4.0,69
+Haji Ravuthar Biriyani,400,"Biryani,North Indian",Coimbatore,Ganapathy,Quick Bites,12noon to 1030pm(Mon-Sun),Average,2.6,63
+Taj Kairali Restaurant,300,"South Indian,Chinese",Coimbatore,Saravanampatty,Quick Bites,"11am to 10pm(Mon-Sat),Closed(Sun)",Good,3.7,38
+Ayyappa's Pearl Veg Restaurant,300,"South Indian,North Indian,Chinese",Coimbatore,Kavundampalayam,Casual Dining,7am to 1030pm(Mon-Sun),Good,3.6,36
+Cane 4U,150,"Juices,Beverages",Coimbatore,Ramanathapuram,Beverage Shop,9am to 10pm(Mon-Sun),Good,3.9,34
+Aasife Biriyani,800,"North Indian,Chinese,Biryani,Mughlai,Seafood",Coimbatore,Saravanampatty,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,50
+Sri Mookambika Mess,300,North Indian,Coimbatore,RS Puram,Mess,9am to 9pm(Mon-Sun),Good,3.6,45
+Srree Krishna Hotel,500,Fast Food,Coimbatore,Vadavalli,Quick Bites,11am to 10pm(Mon-Sun),Good,3.8,62
+Thinaiyamuthu Millet Restaurant,400,South Indian,Coimbatore,Ramanathapuram,Casual Dining,11am to 9pm(Mon-Sun),Poor,2.4,30
+Nanjai Virundhu,1100,South Indian,Coimbatore,Ramanathapuram,Casual Dining,"Closed(Mon),1230pm to 4pm(Tue-Sun)",Good,3.7,63
+CK'S Bakery,150,"Bakery,Sandwich,Beverages,Desserts",Coimbatore,Saibaba Colony,Bakery,830am to 1030pm(Mon-Sun),Good,3.8,32
+Dot.Yum - Hotel Aloft Coimbatore,1500,"North Indian,Continental,Chinese,South Indian",Coimbatore,Hotel Aloft Coimbatore,Casual Dining,24,Good,3.6,63
+Aagaaram,350,"North Indian,South Indian",Coimbatore,Thudiyalur,Quick Bites,7am to 10pm(Mon-Sun),Good,3.7,37
+Home Brew,250,South Indian,Coimbatore,Sitra,Quick Bites,12noon to 1030pm(Mon-Sun),Good,3.7,45
+Nithya Hotel,400,South Indian,Coimbatore,Peelamedu,Quick Bites,8am to 11pm(Mon-Sun),Good,3.8,84
+Taco Bell,550,"Mexican,Fast Food",Coimbatore,Prozone Mall-- Ganapathy,Food Court,11am to 11pm(Mon-Sun),Good,3.9,27
+Sri Krishna Bhavan Restaurant,250,"North Indian,South Indian",Coimbatore,Town Hall,Quick Bites,"8am to 4pm,730pm to 1030pm(Mon-Sun)",Good,3.8,43
+Sree Anandhaas,500,"Chinese,South Indian,North Indian,Chettinad",Coimbatore,Gandhipuram,Casual Dining,7am to 10pm(Mon-Sun),Good,3.8,46
+A1 Biryani Hotel,250,Biryani,Coimbatore,Vadavalli,Quick Bites,"12noon to 330pm,7pm to 1030pm(Mon-Sun)",Good,3.5,32
+Tag With Us,400,"Beverages,Fast Food",Coimbatore,Race Course,Café,10am to 11pm(Mon-Sun),Good,3.8,40
+Coonoor Ramachandra,500,"South Indian,North Indian",Coimbatore,Peelamedu,Casual Dining,730am to 1030pm(Mon-Sun),Good,3.7,49
+Nilas Cake,400,"Bakery,Desserts",Coimbatore,Peelamedu,Bakery,11am to 10pm(Mon-Sun),Good,3.6,32
+Mechoz Tasty Bites,150,"Fast Food,Momos",Coimbatore,Kavundampalayam,Quick Bites,10am to 10pm(Mon-Sun),Good,3.5,53
+Lakshmi Mess,200,South Indian,Coimbatore,Peelamedu,Mess,6am to 10pm(Mon-Sun),Good,3.7,19
+Kovai Coffee,100,"Cafe,Fast Food",Coimbatore,RS Puram,Café,"730am to 930pm(Mon-Sat),330pm to 9pm(Sun)",Good,3.6,37
+Sri Krishna Sweets,300,Mithai,Coimbatore,Peelamedu,Sweet Shop,"12midnight to 830pm,930pm to 12midnight...",Good,3.7,44
+Big Belly Deli,400,"Cafe,Sandwich,Desserts",Coimbatore,Saibaba Colony,Café,1230pm to 1030pm(Mon-Sun),Good,3.9,29
+Arun Ice Cream,200,"Ice Cream,Desserts",Coimbatore,Saibaba Colony,Dessert Parlor,10am to 1030pm(Mon-Sun),Good,3.6,33
+Sharma Punjabi Restaurant,300,"Chinese,North Indian",Coimbatore,Saravanampatty,Quick Bites,"10am to 330pm,630pm to 1030pm(Mon-Sun)",Good,3.7,47
+Suchow Chinese Restaurant,250,"Chinese,Fast Food",Coimbatore,Ganapathy,Quick Bites,"1130am to 3pm,630pm to 1030pm(Mon-Sun)",Good,3.7,23
+Tasty House,250,"Beverages,South Indian,Chinese,Momos",Coimbatore,RS Puram,Quick Bites,10am to 10pm(Mon-Sun),Good,3.6,40
+Dabbawali,150,"Momos,Rolls",Coimbatore,Peelamedu,Quick Bites,"12noon to 10pm(Mon-Sat),4pm to 10pm(Sun)",Good,3.8,29
+Grace N Bakes,400,Desserts,Coimbatore,Kalapatti,Dessert Parlor,10am to 10pm(Mon-Sun),Average,3.4,34
+Yummy Restaurant,400,"North Indian,Chinese,Indian,Kebab,Asian",Coimbatore,Thudiyalur,Casual Dining,1130am to 1030pm(Mon-Sun),Good,3.7,45
+Shree Kandha,200,South Indian,Coimbatore,Thudiyalur,Quick Bites,730am to 1030pm(Mon-Sun),Good,3.7,24
+Kanannan,250,South Indian,Coimbatore,RS Puram,Quick Bites,1230pm to 4pm(Mon-Sun),Good,3.5,46
+Just Bake,300,Bakery,Coimbatore,RS Puram,Bakery,"9am to 10pm(Mon),9am to 1030pm(Tue-Sun)",Good,3.5,41
+Lassi Club,250,"Beverages,Street Food",Coimbatore,Saibaba Colony,Beverage Shop,10am to 10pm(Mon-Sun),Good,3.9,31
+Wake n Bake,500,"Cafe,Desserts,Indian,Coffee,Tea",Coimbatore,RS Puram,Café,930am to 930pm(Mon-Sun),Average,3.3,45
+A.R.C Sasi's Chat & More,100,Fast Food,Coimbatore,Saibaba Colony,Quick Bites,1230pm to 930pm(Mon-Sun),Good,3.7,33
+RV Hotel Lagoon,250,"Chinese,South Indian,North Indian",Coimbatore,Peelamedu,Quick Bites,8am to 10pm(Mon-Sun),Good,3.7,53
+JS Unavagam,100,"Chettinad,South Indian",Coimbatore,Ganapathy,Casual Dining,"12noon to 4pm,7pm to 10pm(Mon-Sat),1230pm to ...",Good,3.6,31
+Sri Krishna Hotel,300,"South Indian,North Indian",Coimbatore,Thudiyalur,Casual Dining,7am to 10pm(Mon-Sun),Good,3.8,38
+The Donuts,300,"Desserts,Fast Food",Coimbatore,Saibaba Colony,Dessert Parlor,930am to 9pm(Mon-Sun),Good,3.5,39
+Hotel Aryaas,250,"North Indian,South Indian",Coimbatore,Vadavalli,Casual Dining,8am to 10pm(Mon-Sun),Average,2.8,17
+Le'andra,600,Fast Food,Coimbatore,Ramanathapuram,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,82
+Pari Mess,150,South Indian,Coimbatore,Peelamedu,Mess,8am to 9pm(Mon-Sun),Average,2.8,22
+A-1 Briyani Hotel,250,Biryani,Coimbatore,Saibaba Colony,Quick Bites,"1pm to 430pm,7pm to 1030am(Mon-Sun)",Good,3.6,23
+Sree Annapoorna Sree  GowriShankar,200,Desserts,Coimbatore,Sivanadha Colony,Dessert Parlor,9am to 10pm(Mon-Sun),Good,3.6,27
+Lindz Cafe,300,"Cafe,Bakery",Coimbatore,Peelamedu,Café,10am to 9pm(Mon-Sun),Good,3.5,34
+Tosai,300,South Indian,Coimbatore,RS Puram,Casual Dining,11am to 1030pm(Mon-Sun),Good,3.5,13
+Mirchi Chaats,300,Street Food,Coimbatore,Town Hall,Quick Bites,430pm to 930pm(Mon-Sun),Good,3.5,25
+Eatalyian Pizza,400,Pizza,Coimbatore,Peelamedu,Quick Bites,11am to 10pm(Mon-Sun),Good,3.5,20
+Hotel Nalan,300,South Indian,Coimbatore,Ramanathapuram,Casual Dining,630am to 1030pm(Mon-Sun),Good,3.9,43
+Vignesh Canteen,200,South Indian,Coimbatore,RS Puram,Quick Bites,"7am to 330pm,6pm to 11pm(Mon-Sun)",Good,3.8,55
+Hotel Chola,100,"South Indian,North Indian",Coimbatore,RS Puram,Quick Bites,11am to 10pm(Mon-Sun),Good,3.5,33
+Nukkad,200,Street Food,Coimbatore,Ramanathapuram,Quick Bites,3pm to 10pm(Mon-Sun),Average,3.4,25
+Miami Juice World,150,"Juices,Beverages,Street Food",Coimbatore,Town Hall,Beverage Shop,1030am to 1030pm(Mon-Sun),Average,3.4,17
+Vikash Mithai Mandir,150,Street Food,Coimbatore,Saibaba Colony,Quick Bites,930am to 930pm(Mon-Sun),Good,3.7,36
+Hotel Cocaraco,200,Fast Food,Coimbatore,Saravanampatty,Quick Bites,11am to 830pm(Mon-Sun),Average,3.2,16
+Varakkappi,200,"Biryani,South Indian",Coimbatore,Saravanampatty,Quick Bites,8am to 10pm(Mon-Sun),Average,3.2,13
+Sindbad,450,Fast Food,Coimbatore,Saravanampatty,Quick Bites,"1pm to 10pm(Mon-Sat),Closed(Sun)",Average,3.3,31
+Kaippunyam Take away,400,"North Indian,Biryani,Chinese,Fast Food",Coimbatore,Ganapathy,Quick Bites,11am to 9pm(Mon-Sun),Average,3.3,10
+Merrie Berrie,700,"Desserts,Continental",Coimbatore,Ramanathapuram,Quick Bites,10am to 10pm(Mon-Sun),Average,3.2,30
+Mechoz Tasty Bites,300,Fast Food,Coimbatore,Vadavalli,none,10am to 10pm(Mon-Sun),Average,3.4,35
+Sreevatsa Lunch Box,300,South Indian,Coimbatore,Brookefields Mall-- RS Puram,Food Court,"11am to 1030pm(Mon,Tue,Thu,Fri,Sat,Sun)...",Good,3.5,34
+Ruchi Malayalee Mess,150,Biryani,Coimbatore,Peelamedu,Mess,8am to 10pm(Mon-Sun),Average,2.9,44
+Shree Renuka Mess,150,"South Indian,Chinese",Coimbatore,Peelamedu,Quick Bites,"7am to 4pm,7pm to 11pm(Mon-Sun)",Average,3.4,51
+Baker Street,700,"Bakery,Cafe,Desserts",Coimbatore,RS Puram,Bakery,9am to 11pm(Mon-Sun),Good,3.6,54
+Star Biryani & Chinese,300,"Biryani,Chinese",Coimbatore,Vadavalli,Quick Bites,11am to 10pm(Mon-Sun),Average,2.7,25
+Svarga Residency,600,"South Indian,North Indian,Chinese",Coimbatore,Vadavalli,Casual Dining,8am to 1030pm(Mon-Sun),Good,3.6,31
+Hyderabad Biryani,300,Biryani,Coimbatore,Town Hall,Quick Bites,11am to 9pm(Mon-Sun),Average,3.3,36
+Vapa Dham Biriyani,200,"Biryani,Chettinad",Coimbatore,Gandhipuram,Mess,"12noon to 330pm,5pm to 11pm(Mon,Fri),12noon...",Average,3.1,35
+Kites Cafe,650,"Cafe,Pizza,Fast Food,Italian,Desserts,Sandwich",Coimbatore,Peelamedu,Café,9am to 11pm(Mon-Sun),Very Good,4.2,419
+Hotel Kannappa,600,Chettinad,Coimbatore,Chinniayam palayam,Casual Dining,1130am to 11pm(Mon-Sun),Very Good,4.1,196
+Night Food Coimbatore,250,"Biryani,South Indian",Coimbatore,Sivanadha Colony,none,"12midnight to 4am,7pm to 12midnight(Mon-Sun)",Good,3.8,517
+Sree Annapoorna Sree Gowrishankar,400,"South Indian,Chinese,North Indian",Coimbatore,Ganapathy,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.4,229
+Leiden,350,Fast Food,Coimbatore,Peelamedu,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.3,346
+Hungry Wheelz,400,"Chettinad,Chinese",Coimbatore,Peelamedu,none,12noon to 6am(Mon-Sun),Very Good,4.0,354
+Tim's Bistro,700,"North Indian,Continental,Momos",Coimbatore,Race Course,Casual Dining,10am to 11pm(Mon-Sun),Very Good,4.3,371
+Alam Grilled Wraps,500,Fast Food,Coimbatore,Ganapathy,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,250
+Cafe Wabi Sabi,500,"Cafe,Continental",Coimbatore,RS Puram,Café,11am to 1130pm(Mon-Sun),Very Good,4.1,121
+Night Out,600,North Indian,Coimbatore,RS Puram,none,24,Very Good,4.0,961
+Arabian Fried Chicken,450,"Fast Food,Biryani",Coimbatore,Race Course,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,368
+Red Door,450,Cafe,Coimbatore,Race Course,Café,11am to 11pm(Mon-Sun),Very Good,4.4,244
+Robot,1300,"North Indian,Chinese,Thai",Coimbatore,Lakshmi Mills,Casual Dining,"12noon to 3pm,7pm to 11pm(Mon-Sun)",Very Good,4.1,228
+Famous Biryani House,400,"Biryani,South Indian",Coimbatore,Gandhipuram,Quick Bites,"7am to 4pm(Mon,Tue,Wed,Thu,Sun),7am to 11pm...",Very Good,4.3,365
+Neydhal The Coast,500,"South Indian,Seafood",Coimbatore,Peelamedu,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.0,163
+JR Cakes & Bakes,250,"Bakery,Desserts",Coimbatore,Peelamedu,Bakery,7am to 1030pm(Mon-Sun),Average,3.3,20
+Nidhi Manpanda Unavagam,400,Fast Food,Coimbatore,RS Puram,Quick Bites,11am to 10pm(Mon-Sun),Average,3.3,12
+Pizza Paradize,250,Pizza,Coimbatore,Vadavalli,Quick Bites,1130am to 1030pm(Mon-Sun),Good,3.7,24
+Kovai Kabab,250,"North Indian,South Indian,Kebab,Chinese",Coimbatore,Saravanampatty,Quick Bites,"11am to 4pm,6pm to 1030pm(Mon-Sun)",Good,3.8,28
+Bakes N Chocs,200,"Bakery,Fast Food",Coimbatore,Ramanathapuram,Bakery,10am to 10pm(Mon-Sun),Good,3.6,21
+Diner's Park,500,Fast Food,Coimbatore,Ramanathapuram,Quick Bites,"12noon to 330pm,630pm to 1030pm(Mon-Sun)",Average,3.3,12
+Oven Fresh,200,"Bakery,Desserts",Coimbatore,RS Puram,Bakery,8am to 930pm(Mon-Sun),Good,3.6,27
+Tharun Restaurant,400,"Fast Food,South Indian",Coimbatore,Saravanampatty,Quick Bites,"12noon to 1030pm(Mon-Sat),Closed(Sun)",Good,3.7,17
+Fish Chain,350,"Seafood,BBQ,Biryani",Coimbatore,Ganapathy,Quick Bites,12noon to 10pm(Mon-Sun),Average,3.2,12
+Agarwal Sweet Palace,500,"North Indian,South Indian,Mithai,Street Food",Coimbatore,Peelamedu,Quick Bites,10am to 9pm(Mon-Sun),Good,3.6,17
+OMG - Oh My Grill,350,"Biryani,BBQ,Kebab",Coimbatore,Kalapatti,Quick Bites,1130am to 1030pm(Mon-Sun),Average,3.4,22
+Hangout Mini,500,"Desserts,Fast Food",Coimbatore,Saibaba Colony,Quick Bites,1030am to 1030pm(Mon-Sun),Average,2.8,35
+The Cake Point,200,"Bakery,Desserts,Sandwich,Ice Cream",Coimbatore,Ramanathapuram,Bakery,10am to 10pm(Mon-Sun),Average,3.3,24
+Dosart,200,South Indian,Coimbatore,Peelamedu,Quick Bites,430pm to 1030pm(Mon-Sun),Good,3.7,28
+Herboo Bites,250,South Indian,Coimbatore,Vadavalli,Quick Bites,12noon to 1015pm(Mon-Sun),Average,3.2,16
+Banana Leaf Restaurant,500,"Biryani,North Indian,South Indian,Seafood,Grill,Arabian,Middle Eastern,Chinese",Coimbatore,Ganapathy,Casual Dining,12noon to 11pm(Mon-Sun),Good,3.6,101
+Hotel Aryaas,600,South Indian,Coimbatore,Ramanathapuram,Casual Dining,6am to 10pm(Mon-Sun),Average,3.3,24
+Bombay Sweet And Chat,250,"Street Food,Chinese,Fast Food",Coimbatore,Saibaba Colony,Quick Bites,4pm to 9pm(Mon-Sun),Average,3.4,6
+Olive n' Basil,600,"Italian,Pizza,Continental",Coimbatore,Ganapathy,Casual Dining,1130am to 1030pm(Mon-Sun),Average,3.3,15
+Bee Bakers,100,Bakery,Coimbatore,Vadavalli,Bakery,6am to 10pm(Mon-Sun),Average,3.2,6
+Anu Mess,150,"South Indian,Biryani",Coimbatore,RS Puram,Mess,"11am to 330pm(Mon-Sat),Closed(Sun)",Good,3.5,17
+Junk Station,100,"Street Food,Fast Food",Coimbatore,Peelamedu,Quick Bites,3pm to 1020pm(Mon-Sun),Average,3.4,5
+Bread One,250,"Bakery,Fast Food",Coimbatore,Thudiyalur,Bakery,530pm to 1010pm(Mon-Sun),Good,3.6,19
+Vinayaga Bakes,300,"Fast Food,Beverages",Coimbatore,Sitra,Quick Bites,(Mon-Sun),Good,3.5,12
+Planet Cuisine,400,"Seafood,Arabian,Indian,Kebab,Grill,Middle Eastern,BBQ,Indonesian",Coimbatore,Ramanathapuram,Quick Bites,"12noon to 330pm,630pm to 1030pm...",Average,3.3,20
+Amul Ice Cream,250,Ice Cream,Coimbatore,Singanallur,Dessert Parlor,10am to 10pm(Mon-Sun),Average,3.3,19
+Pizza Paradize,250,Pizza,Coimbatore,Saravanampatty,Quick Bites,1130am to 1030pm(Mon-Sun),Good,3.6,18
+Sabas Cafe,300,"Fast Food,Desserts",Coimbatore,Ramanathapuram,Quick Bites,9am to 1030pm(Mon-Sun),Average,3.3,23
+Green Banana Restaurant,500,"North Indian,Chinese",Coimbatore,Saravanampatty,Quick Bites,1130am to 1030pm(Mon-Sun),Good,3.8,22
+Call For Cake,400,Bakery,Coimbatore,Thudiyalur,Bakery,9am to 10pm(Mon-Sun),Good,3.6,20
+The Hot Chocolate Patisserie & Cafe,1000,"Italian,Continental,American",Coimbatore,Peelamedu,Quick Bites,930am to 10pm(Mon-Sun),Average,3.4,15
+Tiffin House,150,South Indian,Coimbatore,Town Hall,Quick Bites,9am to 10pm(Mon-Sun),Good,3.6,19
+Shree Balakumar Mess,300,Healthy Food,Coimbatore,Vadavalli,Quick Bites,6am to 10pm(Mon-Sun),Good,3.5,14
+The Peppercorns,200,South Indian,Coimbatore,RS Puram,Quick Bites,"1130am to 430pm(Mon-Sat),Closed(Sun)",Average,3.4,24
+Hotel Shree Annambigaa,300,"Chettinad,South Indian",Coimbatore,Ganapathy,Casual Dining,9am to 1030pm(Mon-Sun),Average,3.0,15
+Fish Cafe,150,"Seafood,South Indian",Coimbatore,Peelamedu,Quick Bites,10am to 10pm(Mon-Sun),Average,2.6,21
+Cafe Potaato,250,"Cafe,Fast Food,Ice Cream,Burger,Sandwich",Coimbatore,RS Puram,Café,11am to 10pm(Mon-Sun),Average,3.2,6
+Sri Annalakshmi Mess,200,"South Indian,Chettinad",Coimbatore,Sitra,Mess,8am to 10pm(Mon-Sun),Average,3.4,15
+Kovai Dakshin,400,South Indian,Coimbatore,Peelamedu,Casual Dining,"1130am to 3pm,630pm to 1030pm(Mon-Sun)",Average,3.4,17
+Hotel Sri Lalitha's,250,"South Indian,North Indian",Coimbatore,Kavundampalayam,Casual Dining,7am to 10pm(Mon-Sun),Average,3.3,14
+Linda,400,Fast Food,Coimbatore,Saibaba Colony,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,81
+Open Doors,500,"Cafe,Beverages,Coffee and Tea,Fast Food,Healthy Food,Sandwich",Coimbatore,Peelamedu,Café,10am to 10pm(Mon-Sun),Average,3.4,22
+Thalassery Restaurant,300,"South Indian,Chinese",Coimbatore,Ukkadam,Quick Bites,8am to 11pm(Mon-Sun),Good,3.8,84
+Shri Kanaha Mess,200,South Indian,Coimbatore,Peelamedu,Mess,"8am to 3pm,7pm to 10pm(Mon-Sun)",Average,3.0,7
+Dessert Forest,500,"Desserts,Fast Food",Coimbatore,Vadavalli,Dessert Parlor,11am to 10pm(Mon-Sun),Average,3.2,8
+Cane 4U,150,"Juices,Beverages",Coimbatore,Singanallur,Beverage Shop,9am to 10pm(Mon-Sun),Average,3.3,6
+CA Food,200,South Indian,Coimbatore,RS Puram,Quick Bites,12noon to 9pm(Mon-Sun),Average,3.4,25
+Indo Maple Leaf,400,"Bakery,Desserts",Coimbatore,Saravanampatty,Bakery,10am to 930pm(Mon-Sun),Average,2.7,7
+Tandoori Hut,400,"North Indian,Biryani",Coimbatore,Fun Republic Mall-- Avinashi Road,Food Court,10am to 1030pm(Mon-Sun),Average,3.2,15
+Hangyo Ice Cream Parlour,200,"Ice Cream,Desserts,Fast Food",Coimbatore,Thudiyalur,Dessert Parlor,11am to 930pm(Mon-Sun),Good,3.6,16
+Cakes N Creams,400,"Bakery,Fast Food",Coimbatore,Vadavalli,Bakery,9am to 1030pm(Mon-Sun),Average,3.4,15
+4D Cafe,500,"Cafe,Bakery",Coimbatore,Saravanampatty,Café,1030am to 10pm(Mon-Sun),Average,3.0,9
+Sri Krishna Vilas,400,"North Indian,South Indian,Chinese",Coimbatore,Race Course,Casual Dining,7am to 930pm(Mon-Sun),Good,3.5,20
+Chai's,350,"Cafe,Fast Food,Chinese",Coimbatore,RS Puram,Café,NA,Average,2.6,20
+Food Hub,400,Cafe,Coimbatore,Peelamedu,Café,11am to 930pm(Mon-Sun),Average,3.2,12
+VKS Restaurant,300,"Bakery,Desserts",Coimbatore,Ondipudur,Bakery,730am to 9pm(Mon-Sun),Average,3.4,13
+CONE,100,"Beverages,Juices",Coimbatore,Peelamedu,Beverage Shop,"9am to 1030pm(Mon-Sat),12noon to 1030pm(Sun)",Average,3.3,7
+Siraj Biryani,250,"South Indian,Biryani",Coimbatore,Ukkadam,Quick Bites,11am to 1030pm(Mon-Sun),Average,3.2,5
+Welcome 2 Jigarthanda,250,"Ice Cream,Desserts",Coimbatore,Fun Republic Mall-- Avinashi Road,Dessert Parlor,11am to 10pm(Mon-Sun),Average,3.3,11
+SM Smoothies,150,"Juices,Ice Cream",Coimbatore,Peelamedu,Beverage Shop,10am to 10pm(Mon-Sun),Average,3.2,5
+Burmese Treats,180,"Burmese,Chinese",Coimbatore,Saravanampatty,Quick Bites,"12noon to 3pm,5pm to 10pm(Mon-Sun)",Average,3.2,7
+MR Moorthy Chettinadu,200,"South Indian,Chettinad,Fast Food",Coimbatore,Ganapathy,Quick Bites,7am to 11pm(Mon-Sun),Good,3.9,39
+Tamz Oye,400,North Indian,Coimbatore,Lakshmi Mills,Quick Bites,10am to 10pm(Mon-Sun),Average,3.4,7
+Caramel Bakes,200,"Bakery,Fast Food",Coimbatore,Peelamedu,Bakery,8am to 930pm(Mon-Sun),Good,3.5,19
+Kanyaa Organic Veg & Non Veg,500,"South Indian,North Indian",Coimbatore,Saravanampatty,Quick Bites,"12noon to 3pm,7pm to 10pm(Mon-Sun)",Average,2.8,4
+Browse N Joy,200,Fast Food,Coimbatore,Saibaba Colony,Quick Bites,12noon to 930pm(Mon-Sun),Average,3.3,19
+Shree Lalithas Kitchen & Sandwich House,250,"South Indian,Chinese",Coimbatore,Vadavalli,Quick Bites,"10am to 10pm(Mon,Wed,Thu,Fri,Sat,Sun),Closed...",Average,3.2,10
+Pabrai's Fresh and Naturelle Ice Creams,150,Ice Cream,Coimbatore,Peelamedu,Dessert Parlor,11am to 11pm(Mon-Sun),Good,3.8,53
+Dine Inn - Holiday Residency,600,"Kerala,North Indian",Coimbatore,Saravanampatty,Quick Bites,10am to 11am(Mon-Sun),Average,3.3,8
+Sidhi Cafe Chat House,150,"North Indian,Street Food",Coimbatore,Saibaba Colony,Quick Bites,"11am to 9pm(Mon-Sat),4pm to 9pm(Sun)",Average,3.2,15
+Murali Restaurant,500,North Indian,Coimbatore,Town Hall,Casual Dining,"1230pm to 330pm,630pm to 1030pm(Mon-Sun)",Good,3.5,16
+Hotel Aryas,500,"South Indian,North Indian",Coimbatore,Saravanampatty,Casual Dining,630am to 1030pm(Mon-Sun),Average,3.4,10
+Pink Pepper,600,"Continental,Italian,South Indian,Chinese",Coimbatore,SMS Hotel-- Peelamedu,Casual Dining,"11am to 4pm,7pm to 1030pm(Mon-Sun)",Average,2.9,11
+KR Bakes,500,"Bakery,North Indian,South Indian,Fast Food",Coimbatore,Saibaba Colony,Quick Bites,6am to 10pm(Mon-Sun),Average,2.5,21
+Kurinji Bakes,400,North Indian,Coimbatore,Kalapatti,Casual Dining,1130am to 1030pm(Mon-Sun),Average,3.0,18
+Shree Renuga Mess,400,South Indian,Coimbatore,Peelamedu,Quick Bites,10am to 10pm(Mon-Sun),Good,3.6,23
+Divya Hotel,100,South Indian,Coimbatore,Town Hall,Quick Bites,8am to 9pm(Mon-Sun),Average,3.2,4
+Ooty Chocolates,650,"Desserts,Ice Cream",Coimbatore,Ramanathapuram,Dessert Parlor,10am to 10pm(Mon-Sun),Average,3.1,4
+Only Biryani,400,Biryani,Coimbatore,Peelamedu,Quick Bites,12noon to 1030pm(Mon-Sun),Average,3.1,4
+BBQ Ride,200,BBQ,Coimbatore,Peelamedu,Food Truck,6pm to 10pm(Mon-Sun),Average,2.7,10
+Azhagar Mess,200,South Indian,Coimbatore,Saibaba Colony,Quick Bites,"7am to 3pm,6pm to 1030pm(Mon-Sun)",Good,3.5,16
+Amul - Fun N Flavors,250,"Ice Cream,Sandwich",Coimbatore,Gandhipuram,Dessert Parlor,10am to 10pm(Mon-Sun),Average,3.4,13
+Virunthombal,500,South Indian,Coimbatore,Gandhipuram,Casual Dining,"12noon to 4pm,6pm to 1030pm(Mon-Sun)",Average,3.4,15
+Arcot Biriyani & Meals Hotel,150,Biryani,Coimbatore,RS Puram,Quick Bites,12noon to 4pm(Mon-Sun),Average,3.1,6
+The Chefs Lassi Shop,250,"Cafe,Desserts",Coimbatore,Kalapatti,Café,10am to 10pm(Mon-Sun),Average,3.3,11
+Marutham's Coffee +,300,Fast Food,Coimbatore,Ramanathapuram,Quick Bites,6am to 12midnight(Mon-Sun),Good,3.7,89
+Theni Maruthi Biriyani & Grill,200,"South Indian,North Indian,Biryani",Coimbatore,Saibaba Colony,Quick Bites,11am to 10pm(Mon-Sun),Average,3.4,19
+Idine Chettinad Virundhu,700,"South Indian,North Indian",Coimbatore,Race Course,Quick Bites,"7am to 10am,12noon to 330pm,7pm to 1130pm...",Average,3.4,64
+Parsley Bakery And Cake Shop,200,"Bakery,Desserts",Coimbatore,Ganapathy,Bakery,9am to 10pm(Mon-Sun),Average,3.3,5
+Arafa JAS Biryani,250,Biryani,Coimbatore,Ondipudur,Quick Bites,1130am to 1030pm(Mon-Sun),Average,3.2,7
+Happy Coffee,400,"Cafe,South Indian",Coimbatore,Kavundampalayam,Café,10am to 1030pm(Mon-Sun),Average,3.3,8
+Brownie Cottage,250,"Desserts,Fast Food",Coimbatore,Brookefields Mall-- RS Puram,Dessert Parlor,10am to 10pm(Mon-Sun),Average,3.0,13
+BBQ Club,300,"Arabian,BBQ,South Indian",Coimbatore,Saibaba Colony,Quick Bites,530pm to 1030pm(Mon-Sun),Average,3.0,8
+Famous Jigarthanda,250,"Desserts,Ice Cream",Coimbatore,Gandhipuram,Dessert Parlor,10am to 1030pm(Mon-Sun),Average,2.9,4
+Hungry Hut,150,Fast Food,Coimbatore,Saravanampatty,Quick Bites,9am to 1030pm(Mon-Sun),Average,3.4,14
+Grace N Bakes,400,"Bakery,Fast Food,Desserts",Coimbatore,Peelamedu,Bakery,9am to 10pm(Mon-Sun),Average,3.2,8
+Hotel Sri Balaji,250,"South Indian,Chettinad",Coimbatore,Saravanampatty,Quick Bites,11am to 1030pm(Mon-Sun),Average,3.2,9
+The Cakewalk,300,"Bakery,Cafe,Desserts,Fast Food",Coimbatore,Saravanampatty,Bakery,7am to 1030pm(Mon-Sun),Average,3.0,4
+Hotel Sri Madurai Meenakshi,300,"Chettinad,Chinese,South Indian",Coimbatore,Peelamedu,Quick Bites,7am to 1030pm(Mon-Sun),Average,3.4,11
+Ruchi Malabar Biriyani,200,Biryani,Coimbatore,RS Puram,Quick Bites,12noon to 10pm(Mon-Sun),Average,2.8,9
+Hotel Sri Anandham,200,Fast Food,Coimbatore,Ramanathapuram,Quick Bites,6am to 1030pm(Mon-Sun),Good,3.5,8
+Totaram Parantha,200,North Indian,Coimbatore,Race Course,none,12noon to 10pm(Mon-Sun),Average,3.2,8
+Buddies Tea Point,200,Fast Food,Coimbatore,Peelamedu,Kiosk,1130am to 1030pm(Mon-Sun),Average,3.1,10
+Cookie Man,200,Desserts,Coimbatore,Brookefields Mall-- RS Puram,Dessert Parlor,10am to 10pm(Mon-Sun),Average,3.3,15
+Sri Sethu Mess,200,"North Indian,South Indian",Coimbatore,Gandhipuram,Quick Bites,10am to 9pm(Mon-Sun),Average,3.4,10
+Ayyar & Co,100,Bakery,Coimbatore,RS Puram,Bakery,8am to 10pm(Mon-Sun),Average,2.8,9
+Namma Dosa Kadai,150,South Indian,Coimbatore,Saravanampatty,Quick Bites,"730am to 1030pm(Mon-Sat),Closed(Sun)",Average,3.4,8
+Cane n Cane,200,"Beverages,Juices",Coimbatore,Saravanampatty,Beverage Shop,9am to 10pm(Mon-Sun),Average,3.4,15
+Sabas Cafe,400,Cafe,Coimbatore,Saibaba Colony,Café,10am to 10pm(Mon-Sun),Average,3.4,12
+Red Cherry's Bakery,200,Bakery,Coimbatore,RS Puram,Bakery,8am to 10pm(Mon-Sun),Good,3.5,16
+Chaatup,200,"Fast Food,North Indian",Coimbatore,RS Puram,Quick Bites,4pm to 10pm(Mon-Sun),Good,3.5,10
+Best Biriyani Corner,200,Biryani,Coimbatore,Saibaba Colony,Casual Dining,1230pm to 1030pm(Mon-Sun),Average,2.9,7
+Meesai SK Poori Stall,100,Street Food,Coimbatore,RS Puram,Quick Bites,430pm to 10pm(Mon-Sun),Average,2.8,11
+Merrie Berrie,450,"Bakery,Fast Food",Coimbatore,Peelamedu,Bakery,9am to 9pm(Mon-Sun),Average,3.3,7
+Famous Jigarthanda,250,South Indian,Coimbatore,Ramanathapuram,Quick Bites,10am to 10pm(Mon-Sun),Average,3.3,4
+Aachi Mess,200,South Indian,Coimbatore,Gandhipuram,Quick Bites,"10am to 9pm(Mon-Sat),Closed(Sun)",Good,3.6,17
+Ridhi Sidhi,150,Beverages,Coimbatore,RS Puram,Beverage Shop,10am to 10pm(Mon-Sun),Average,3.1,12
+Intervals,300,"Fast Food,Burger,Sandwich",Coimbatore,Fun Republic Mall-- Avinashi Road,Food Court,10am to 1030pm(Mon-Sun),Average,3.2,8
+The Urban Salad,300,Salad,Coimbatore,Peelamedu,none,10am to 1030pm(Mon-Sun),Average,3.2,9
+Just Bake,400,Bakery,Coimbatore,Kalapatti,Bakery,1030am to 1030pm(Mon-Sun),Average,3.4,7
+Paasham Cakes,300,Bakery,Coimbatore,Podanur,Bakery,10am to 10pm(Mon-Sun),Average,3.4,14
+Le Rucchi,400,South Indian,Coimbatore,RS Puram,Casual Dining,11am to 10pm(Mon-Sun),Average,3.4,12
+Annapoorna Mithai,300,"Street Food,Mithai",Coimbatore,RS Puram,Quick Bites,10am to 10pm(Mon-Sun),Average,3.4,15
+Lassi Town,300,"Beverages,Desserts",Coimbatore,Thudiyalur,Beverage Shop,11am to 10pm(Mon-Sun),Average,3.3,11
+Call For Cake,250,"Bakery,Desserts",Coimbatore,Sivanadha Colony,Bakery,930am to 9pm(Mon-Sun),Average,3.3,10
+Madurai Vilakkuthoon Hanifa Jigarthanda,100,Beverages,Coimbatore,Gandhipuram,Beverage Shop,10am to 1030pm(Mon-Sun),Average,3.1,5
+Comfort Hotels,500,"North Indian,South Indian",Coimbatore,RS Puram,Casual Dining,"12noon to 3pm,7pm to 1030pm(Mon-Sun)",Average,2.9,10
+Famous Jigarthanda,250,"Desserts,Ice Cream",Coimbatore,RS Puram,Dessert Parlor,10am to 1030pm(Mon-Sun),Average,3.2,10
+Ayappa Sweet,150,"Mithai,Desserts",Coimbatore,RS Puram,Sweet Shop,"930am to 2pm,3pm to 9pm(Mon-Sun)",Good,3.5,5
+Lala Lassi,200,"Beverages,Ice Cream",Coimbatore,RS Puram,Beverage Shop,1130am to 10pm(Mon-Sun),Average,2.8,6
+Kari Kulambu,300,South Indian,Coimbatore,Singanallur,none,"11am to 3pm,6pm to 1030pm(Mon-Sat),10am to ...",Average,2.9,11
+Bite Snacks & Eatery,200,"Kerala,South Indian",Coimbatore,Ramanathapuram,Quick Bites,10am to 10pm(Mon-Sun),Average,3.2,5
+Hotel Deliciouss,200,South Indian,Coimbatore,Saibaba Colony,Quick Bites,7am to 10pm(Mon-Sun),Average,3.1,11
+Eat A Lot,150,"Bakery,Desserts",Coimbatore,RS Puram,Bakery,9am to 8pm(Mon-Sun),Average,3.0,8
+C S Meals Hotel,300,South Indian,Coimbatore,Race Course,Casual Dining,"10am to 4pm,7pm to 9pm(Mon-Sat),Closed(Sun)",Average,3.3,12
+Acshayaa Homely Variety Meals,100,"Fast Food,Biryani",Coimbatore,Town Hall,Quick Bites,"6am to 10pm(Mon-Sat),12noon to 4pm(Sun)",Average,3.1,4
+Green Like,300,"Beverages,Fast Food",Coimbatore,Podanur,Quick Bites,930am to 1030pm(Mon-Sun),Average,3.3,10
+Boomerang,200,"Desserts,Ice Cream",Coimbatore,Peelamedu,Dessert Parlor,11am to 11pm(Mon-Sun),Very Good,4.4,200
+KFC,500,"Burger,Fast Food",Coimbatore,Peelamedu,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,294
+On The Go,1500,"Italian,North Indian,Desserts",Coimbatore,Race Course,Casual Dining,"1230pm to 3pm,7pm to 11pm(Mon-Sun)",Very Good,4.3,389
+That's Y Food,1400,"North Indian,Biryani",Coimbatore,RS Puram,Casual Dining,"12noon to 330pm,7pm to 11pm(Mon-Sun)",Very Good,4.3,489
+The Cascade Restaurant,1200,"Chinese,Momos",Coimbatore,Peelamedu,Casual Dining,"12noon to 3pm,7pm to 11pm(Mon-Sun)",Very Good,4.2,365
+Dindigul Thalappakatti,500,"Biryani,South Indian",Coimbatore,Gandhipuram,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.0,215
+Hotel Junior Kuppanna,500,"Chettinad,South Indian",Coimbatore,Gandhipuram,Casual Dining,"11am to 430pm,630pm to 11pm(Mon-Sun)",Very Good,4.2,289
+Kailash Parbat,400,"North Indian,Chinese",Coimbatore,Brookefields Mall-- RS Puram,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.2,186
+Gravy Caramel,500,"North Indian,South Indian",Coimbatore,Podanur,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,316
+Knight Riderz,500,Fast Food,Coimbatore,Peelamedu,none,11am to 5am(Mon-Sun),Average,3.4,244
+Kowloon,600,Chinese,Coimbatore,Saibaba Colony,Quick Bites,"1130am to 3pm,6pm to 11pm(Mon-Sun)",Very Good,4.4,210
+Mathala Kombu,300,South Indian,Coimbatore,Peelamedu,none,12noon to 12midnight(Mon-Sun),Good,3.9,272
+Seasons,500,"Cafe,Continental",Coimbatore,RS Puram,Café,11am to 11pm(Mon-Sun),Very Good,4.2,185
+Global Barbeque,1200,North Indian,Coimbatore,Vijay Elanza Central-- Peelamedu,Casual Dining,"12noon to 330pm,7pm to 11pm(Mon-Sun)",Good,3.9,195
+Kovai Durbar,250,"Biryani,South Indian,Fast Food",Coimbatore,Peelamedu,Quick Bites,115am to 1050pm(Mon-Sun),Good,3.8,121
+Famous Jigarthanda,400,"Desserts,Beverages,Ice Cream,Street Food",Coimbatore,Kalapatti,Dessert Parlor,10am to 1030pm(Mon-Sun),Average,3.0,7
+My Food Anytime,400,North Indian,Coimbatore,Podanur,none,7am to 11am(Mon-Sun),Average,3.4,13
+Chocolate Channel,400,Bakery,Coimbatore,Gandhipuram,none,10am to 10pm(Mon-Sun),Average,3.3,7
+Sip & Flip,300,"Fast Food,Beverages",Coimbatore,Saibaba Colony,Quick Bites,9am to 10pm(Mon-Sun),Average,3.2,5
+Anand Bhavan,200,"South Indian,Fast Food",Coimbatore,RS Puram,Quick Bites,6am to 10pm(Mon-Sun),Average,3.1,4
+Anbu Selvam Natural Foods,300,"South Indian,Chettinad",Coimbatore,Vadavalli,Quick Bites,"12noon to 4pm,630pm to 1030pm(Mon-Sun)",Average,3.2,8
+Ayyar & Co,100,Bakery,Coimbatore,RS Puram,Bakery,8am to 10pm(Mon-Sun),Average,3.2,6
+Thangu Cake Shop,150,"Bakery,Street Food",Coimbatore,RS Puram,Bakery,7am to 10pm(Mon-Sun),Average,3.2,9
+Jill Jill Jigarthanda & Fries,400,"Fast Food,Ice Cream,Desserts,Beverages",Coimbatore,Lakshmi Mills,Quick Bites,10am to 10pm(Mon-Sun),Average,2.9,4
+Baker Boy,300,"Desserts,Bakery",Coimbatore,Singanallur,Dessert Parlor,9am to 10pm(Mon-Sun),Average,3.1,8
+Big Chill,250,"Beverages,Rolls,Street Food",Coimbatore,Saibaba Colony,Quick Bites,10am to 10pm(Mon-Sun),Average,3.1,4
+Call For Cake,400,Bakery,Coimbatore,Peelamedu,Bakery,9am to 10pm(Mon-Sun),Average,3.1,4
+Hotel Zain,300,South Indian,Coimbatore,Saravanampatty,Casual Dining,11am to 1030pm(Mon-Sun),Average,3.2,7
+Ragam Bakers,300,"Bakery,Desserts",Coimbatore,Ganapathy,Bakery,7am to 10pm(Mon-Sun),Average,3.0,8
+Dosa Factory,200,South Indian,Coimbatore,Kavundampalayam,Quick Bites,5pm to 10pm(Mon-Sun),Average,3.2,5
+Kovai Pazhamudir Nilayam,400,"Beverages,Juices",Coimbatore,RS Puram,Beverage Shop,8am to 8pm(Mon-Sun),Average,3.0,4
+Frishake,100,Beverages,Coimbatore,Singanallur,Beverage Shop,10am to 10pm(Mon-Sun),Average,3.0,4
+Nellai Lala Sweets,300,"Street Food,Mithai,Desserts",Coimbatore,Ramanathapuram,Quick Bites,830am to 10pm(Mon-Sun),Average,3.2,8
+Martin's Kitchen,350,"Biryani,Chinese",Coimbatore,Ramanathapuram,Quick Bites,"12noon to 430pm,7pm to 10pm(Mon-Sun)",Average,3.1,5
+Eat@Home,300,"North Indian,South Indian",Coimbatore,Gandhipuram,Quick Bites,"6pm to 1030pm(Mon-Sat),12noon to 1030pm(Sun)",Average,3.2,4
+Fillups,250,Rolls,Coimbatore,Ramanathapuram,Kiosk,11am to 930pm(Mon-Sun),Average,3.0,4
+The Cake Houz,300,"Desserts,Ice Cream",Coimbatore,RS Puram,Dessert Parlor,1030am to 10pm(Mon-Sun),Average,3.2,4
+Burger Choice,250,"Fast Food,Burger",Coimbatore,Podanur,Quick Bites,"1030am to 1030pm(Mon,Tue,Wed,Thu,Sat,Sun)...",Average,3.0,6
+Kurinji Bakes,300,"Bakery,Fast Food",Coimbatore,Kalapatti,Bakery,1130am to 1030pm(Mon-Sun),Average,3.1,4
+Hotel Royal Biryani,300,"Biryani,South Indian",Coimbatore,Podanur,Quick Bites,8am to 10pm(Mon-Sun),Average,2.9,6
+Fall In Cakes,200,"Bakery,Desserts,Pizza,Burger",Coimbatore,Peelamedu,Bakery,10am to 10pm(Mon-Sun),Average,3.0,4
+Ganga Mess,200,South Indian,Coimbatore,Ramanathapuram,Quick Bites,7am to 10pm(Mon-Sun),Average,3.1,5
+EnjoyFoods.in,300,"North Indian,Chinese,South Indian,Biryani",Coimbatore,Kalapatti,none,12noon to 1030pm(Mon-Sun),Average,2.9,4
+Pick N Mix,350,Bakery,Coimbatore,Peelamedu,Bakery,6am to 1030pm(Mon-Sun),Average,3.1,4
+Sri Balaji Bhavan,250,South Indian,Coimbatore,Thudiyalur,Quick Bites,7am to 1030pm(Mon-Sun),Average,3.1,4
+AKS Military Briyani,350,"Biryani,Chinese,South Indian",Coimbatore,Chinniayam palayam,Quick Bites,11am to 1030pm(Mon-Sun),Average,3.0,4
+Newyork Night Restaurant,500,"North Indian,South Indian,Chinese,Fast Food",Coimbatore,Peelamedu,Casual Dining,6pm to 6am(Mon-Sun),Average,3.1,104
+Annavilaas,400,"South Indian,North Indian",Coimbatore,RS Puram,Casual Dining,630am to 1045pm(Mon-Sun),Good,3.9,272
+Sita Paani,600,"Arabian,North Indian,Chinese,Biryani",Coimbatore,Ganapathy,Casual Dining,11am to 11pm(Mon-Sun),Good,3.8,222
+McDonald's,500,"Burger,Fast Food",Coimbatore,Fun Republic Mall-- Avinashi Road,Food Court,10am to 1am(Mon-Sun),Very Good,4.1,178
+Ponni Restaurant,200,"South Indian,Chinese,North Indian",Coimbatore,Lakshmi Mills,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,232
+Arunachala,600,"Andhra,Chinese,North Indian,South Indian",Coimbatore,Ganapathy,Casual Dining,1130am to 11pm(Mon-Sun),Good,3.6,254
+Long Live Pizza,500,"Pizza,Italian",Coimbatore,Saravanampatty,Casual Dining,11am to 11pm(Mon-Sun),Good,3.8,191
+Food Centre,500,"Chinese,North Indian,South Indian",Coimbatore,Peelamedu,Casual Dining,11am to 11pm(Mon-Sun),Good,3.8,152
+SRKP Chettinad Restaurant,200,"South Indian,Chinese,Kebab,Indian,Seafood",Coimbatore,Peelamedu,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.2,248
+Infusions - Chocolate Redefined,500,"Cafe,Italian,Desserts,Fusion",Coimbatore,Gandhipuram,Café,1230pm to 11pm(Mon-Sun),Very Good,4.4,129
+Zone By The Park,1300,"Cafe,North Indian,Chinese,Italian,Continental,American,Thai,South Indian",Coimbatore,Zone By The Park,Café,24,Very Good,4.0,74
+Spice Bay,600,"North Indian,South Indian,Chinese,Seafood",Coimbatore,SMS Hotel-- Peelamedu,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,271
+Hotel Siruvani,250,"South Indian,Fast Food",Coimbatore,RS Puram,Quick Bites,7am to 11pm(Mon-Sun),Very Good,4.0,207
+Black Bell,300,"North Indian,South Indian,Chinese,Desserts",Coimbatore,Ukkadam,none,"12midnight to 5am,11am to 12midnight(Mon-Sun)",Good,3.5,152
+Bench Cafe,300,"Cafe,Fast Food,Burger,Beverages",Coimbatore,Peelamedu,Café,11am to 11pm(Mon-Sun),Very Good,4.0,153
+Sri Raja Biryani Hotel,500,"South Indian,North Indian",Coimbatore,Gandhipuram,Quick Bites,11am to 12midnight(Mon-Sun),Average,3.1,90
+Hotel Bai Biryani,400,North Indian,Coimbatore,Saravanampatty,none,11am to 11pm(Mon-Sun),Average,3.2,60
+Roll Over,300,"Ice Cream,Fast Food,Beverages,Desserts",Coimbatore,Peelamedu,Quick Bites,"11am to 11pm(Mon-Fri),11am to 1am(Sat-Sun)",Good,3.8,21
+Selvam Chettinad Mess,150,South Indian,Coimbatore,Peelamedu,Quick Bites,8am to 11pm(Mon-Sun),Good,3.7,21
+Namma Covai Kitchen,700,"Arabian,Chettinad,North Indian,Chinese",Coimbatore,Kalapatti,Casual Dining,12noon to 11pm(Mon-Sun),Good,3.6,45
+Vinod Chicken Spot,260,"North Indian,Chinese,Fast Food,Seafood",Coimbatore,Kavundampalayam,Casual Dining,11am to 11pm(Mon-Sun),Average,2.9,63
+Sri Balaji Arul Jothi,350,"South Indian,Chinese,North Indian",Coimbatore,Ramanathapuram,Quick Bites,630am to 1045pm(Mon-Sun),Good,3.9,54
+Appachi Chettinad Restaurant,600,"North Indian,Biryani,Indian,Chinese",Coimbatore,RS Puram,Casual Dining,11am to 11pm(Mon-Sun),Average,3.1,79
+Polar Bear,350,"Desserts,Ice Cream,Fast Food",Coimbatore,Fun Republic Mall-- Avinashi Road,Food Court,10am to 11pm(Mon-Sun),Good,3.9,58
+Krisp N Cheese,400,"Cafe,Continental,Burger,Sandwich,Italian,American,Chinese",Coimbatore,Podanur,Café,11am to 11pm(Mon-Sun),Average,3.3,74
+Seethalakshmi Veg Hotel,400,South Indian,Coimbatore,RS Puram,Quick Bites,"730am to 11am,1230pm to 3pm,6pm to 1130pm...",Average,3.4,27
+Malabar Restaurant,500,"Kerala,South Indian",Coimbatore,Gandhipuram,Casual Dining,6am to 11pm(Mon-Sun),Average,3.1,54
+90's Briyani,200,"Biryani,Chinese",Coimbatore,Saibaba Colony,Quick Bites,"1215pm to 11pm(Mon-Sat),12noon to 11pm(Sun)",Good,3.6,27
+Fully Biryani,250,"North Indian,Biryani",Coimbatore,Race Course,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,61
+Drunken Monkey,400,"Beverages,Fast Food",Coimbatore,Race Course,Beverage Shop,11am to 11pm(Mon-Sun),Very Good,4.0,61
+Priya Hotel,700,"Fast Food,Mithai",Coimbatore,Gandhipuram,Quick Bites,10am to 11pm(Mon-Sun),Good,3.8,21
+Kulfistan,250,"Desserts,Ice Cream",Coimbatore,Saibaba Colony,Dessert Parlor,11am to 1130pm(Mon-Sun),Good,3.8,38
+Sree Subbu Mess,400,South Indian,Coimbatore,Race Course,Mess,11am to 11pm(Mon-Sun),Good,3.8,71
+Hotel Kandha Veg & Non Veg,600,North Indian,Coimbatore,Singanallur,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.5,49
+Sivakannan Restaurant,300,"Biryani,Chinese",Coimbatore,Peelamedu,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,19
+Hotel Sathar Rowther,250,"Fast Food,North Indian",Coimbatore,Thudiyalur,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,48
+Hot & Spicy Dhaba Restaurant,300,"Chinese,North Indian",Coimbatore,Peelamedu,Quick Bites,1130am to 1130pm(Mon-Sun),Good,3.6,46
+Friend In Knead,300,Bakery,Coimbatore,Peelamedu,Bakery,24,Good,3.9,65
+Pandiyanadu,250,"Fast Food,South Indian",Coimbatore,Saravanampatty,Casual Dining,8am to 11pm(Mon-Sun),Good,3.7,29
+Srie Ram Mess,200,"South Indian,Fast Food",Coimbatore,Peelamedu,Mess,8am to 11pm(Mon-Sun),Good,3.7,35
+Sree Annapoorna,400,"Chinese,South Indian",Coimbatore,Prozone Mall-- Ganapathy,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,67
+Eton,575,"Indian,Continental,Italian,Chinese",Coimbatore,Thudiyalur,Casual Dining,12noon to 3am(Mon-Sun),Average,2.8,58
+Ammaiyappa Restaurant,200,North Indian,Coimbatore,Saravanampatty,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,45
+Hotel Chola,300,South Indian,Coimbatore,Ramanathapuram,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,34
+Rolling Dough Cafe,500,"Continental,American",Coimbatore,Peelamedu,Quick Bites,"11am to 11pm(Mon-Fri),7am to 11pm(Sat-Sun)",Good,3.8,25
+Idli Kadai,250,"South Indian,Fast Food",Coimbatore,RS Puram,Quick Bites,"7am to 11am,4pm to 11pm(Mon-Sun)",Average,2.7,47
+Behrouz Biryani,600,Biryani,Coimbatore,RS Puram,none,10am to 1am(Mon-Sun),Good,3.5,17
+The Bar 'B Quest,300,Fast Food,Coimbatore,Ramanathapuram,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,53
+Arihant Multi Cusine Foods,300,"North Indian,South Indian,Chinese",Coimbatore,Peelamedu,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,25
+Covai Grills,200,"South Indian,Chinese,North Indian",Coimbatore,Peelamedu,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,37
+City Fried Chicken,500,Fast Food,Coimbatore,Hotel City Tower-- Gandhipuram,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.0,55
+CR Biryani,500,"Biryani,South Indian",Coimbatore,Town Hall,Quick Bites,1230pm to 1230AM(Mon-Sun),Good,3.9,62
+Malayala Thanima,300,"Seafood,Kerala",Coimbatore,Singanallur,Quick Bites,8am to 11pm(Mon-Sun),Good,3.8,50
+Burma Bhai Hotel,350,"South Indian,North Indian",Coimbatore,Nehru Stadium,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.8,50
+Mrs. Tim's,350,Beverages,Coimbatore,Race Course,Beverage Shop,10am to 11pm(Mon-Sun),Average,2.7,62
+#PizzaLove,400,"Pizza,Fast Food",Coimbatore,Singanallur,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,45
+Kites Pizza,550,Italian,Coimbatore,Peelamedu,Quick Bites,9am to 12midnight(Mon-Sun),Good,3.6,65
+Shree Pappu Restaurant,400,"Biryani,North Indian,Fast Food",Coimbatore,Ganapathy,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,51
+Classic Pizza & Burger,500,"Pizza,Burger",Coimbatore,Kalapatti,Quick Bites,10am to 11pm(Mon-Sun),Good,3.5,47
+Sri Trupthi Mess,150,South Indian,Coimbatore,Ramanathapuram,Quick Bites,"7am to 230pm,7pm to 11pm(Mon-Sun)",Very Good,4.0,29
+Bread Korner,500,Fast Food,Coimbatore,Saibaba Colony,Kiosk,2pm to 12midnight(Mon-Sun),Good,3.8,53
+Guru Amuthas,300,"South Indian,North Indian,Chinese",Coimbatore,Kalapatti,Quick Bites,6am to 11pm(Mon-Sun),Average,3.3,38
+SK Supercook,800,"North Indian,Mughlai,Biryani",Coimbatore,Vadavalli,Casual Dining,11am to 11pm(Mon-Sun),Average,3.0,40
+La Mensa Ethnic Italian,800,Italian,Coimbatore,Peelamedu,Casual Dining,11am to 11pm(Mon-Sun),Average,2.7,40
+Bytes Shakes,200,"Fast Food,Sandwich,Beverages",Coimbatore,Nehru Stadium,Café,11am to 11pm(Mon-Sun),Average,3.4,42
+Hotel Annavaasal,500,"South Indian,North Indian,Indian,Chinese,Fast Food",Coimbatore,Ondipudur,Casual Dining,"1145am to 345pm,645pm to 1050pm(Mon-Sun)",Average,3.0,34
+Zero Degree Celsius Ice Cream,200,"Ice Cream,Desserts",Coimbatore,Saravanampatty,Dessert Parlor,"1130am to 11pm(Mon-Fri),12noon to 11pm(Sat-Sun)",Good,3.9,33
+Gramathu Kadai,300,"South Indian,Chinese,Indian",Coimbatore,Ganapathy,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,20
+Taj Hotel,200,"Biryani,South Indian,Fast Food,Chinese,Kebab",Coimbatore,Ukkadam,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,26
+CHIXY CHICK 'N' CAFE,300,"North Indian,Chinese",Coimbatore,Saravanampatty,Quick Bites,"11am to 1130pm(Mon),1130am to 1130pm(Tue-Sun)",Good,3.7,36
+Thambi Hotel,250,"Chettinad,South Indian,Fast Food",Coimbatore,Podanur,Quick Bites,1030am to 11pm(Mon-Sun),Good,3.7,18
+Hotel Green Land,300,"North Indian,Fast Food",Coimbatore,Peelamedu,Quick Bites,830am to 11pm(Mon-Sun),Good,3.7,56
+Hotel Chola,250,"South Indian,North Indian",Coimbatore,RS Puram,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,46
+Rithu Chinese restaurant,500,Chinese,Coimbatore,Kavundampalayam,Quick Bites,"12noon to 3pm,6pm to 11pm(Mon-Sun)",Good,3.9,27
+Sandy's Kitchen,250,South Indian,Coimbatore,Peelamedu,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,18
+Sandwich Square,250,"Fast Food,Sandwich,Beverages",Coimbatore,Peelamedu,Quick Bites,11am to 11pm(Mon-Sun),Average,2.5,45
+Aachies,600,"Arabian,Seafood,North Indian,South Indian,Chinese,Grill,Indian",Coimbatore,Race Course,Casual Dining,"11am to 4pm,630pm to 11pm(Mon-Sun)",Good,3.5,50
+Denmarrk Drive-Inn Restaurant,300,"Fast Food,North Indian",Coimbatore,RS Puram,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,14
+SMS Hotels,400,Indian,Coimbatore,Prozone Mall-- Ganapathy,Quick Bites,11am to 11pm(Mon-Sun),Average,2.7,17
+Hotel Biriyani Darbar,150,Fast Food,Coimbatore,Ganapathy,Quick Bites,"12noon to 4pm,7pm to 11pm(Mon-Sun)",Good,3.6,37
+Eagle Boys Pizza,400,"Pizza,Italian",Coimbatore,Peelamedu,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,32
+Hotel Irani,400,"North Indian,Mughlai,South Indian",Coimbatore,RS Puram,Casual Dining,1130am to 11pm(Mon-Sun),Poor,2.1,48
+The Dhaba,500,"North Indian,Chinese,South Indian",Coimbatore,RS Puram,Casual Dining,"1130am to 330pm,630pm to 1130pm(Mon-Sun)",Good,3.7,34
+Madurai Idly Kadai,250,South Indian,Coimbatore,Gandhipuram,Quick Bites,630am to 11pm(Mon-Sun),Average,3.4,37
+Ajwa The Family Fast Food,300,"Arabian,Fast Food",Coimbatore,Gandhipuram,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.7,24
+DMF Restaurant,600,North Indian,Coimbatore,Ramanathapuram,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,26
+WooW Biriyani,400,Biryani,Coimbatore,Prozone Mall-- Ganapathy,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,20
+Frozen Bottle,400,Ice Cream,Coimbatore,Race Course,Dessert Parlor,11am to 12midnight(Mon-Sun),Good,3.8,28
+The Food Bar,400,Fast Food,Coimbatore,Race Course,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.8,17
+Bon Bon,300,"Ice Cream,Desserts",Coimbatore,RS Puram,Dessert Parlor,1030am to 11pm(Mon-Sun),Average,3.2,32
+Raaju Sri Rayappas Restaurant,400,"Chettinad,South Indian,North Indian,Chinese",Coimbatore,Gandhipuram,Casual Dining,11am to 11pm(Mon-Sun),Good,3.8,32
+Seakings,250,"Ice Cream,Desserts",Coimbatore,RS Puram,Dessert Parlor,11am to 11pm(Mon-Sun),Average,3.4,29
+Hot Cross Burger,300,"Burger,Beverages",Coimbatore,Ramanathapuram,Quick Bites,"11am to 10pm(Mon-Thu),11am to 12midnight(Fri-Sun)",Average,3.4,19
+Chicking,450,Fast Food,Coimbatore,Brookefields Mall-- RS Puram,Food Court,11am to 11pm(Mon-Sun),Average,3.2,35
+Sree Amma Mess,200,South Indian,Coimbatore,Town Hall,Quick Bites,8am to 11pm(Mon-Sun),Average,3.4,12
+Kovai Virundhu,400,South Indian,Coimbatore,Peelamedu,Quick Bites,730am to 1130pm(Mon-Sun),Average,3.4,10
+Pizza Craft,200,Pizza,Coimbatore,Ukkadam,Quick Bites,8am to 11pm(Mon-Sun),Average,3.1,17
+Kanchan Kitchen's,200,"North Indian,Gujarati",Coimbatore,RS Puram,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,11
+Merrie Berrie,350,"Chinese,South Indian,North Indian",Coimbatore,Podanur,Quick Bites,10am to 11pm(Mon-Sun),Average,2.8,38
+Mukil's Donut World,300,"Cafe,Desserts",Coimbatore,RS Puram,Café,11am to 11pm(Mon-Sun),Good,3.6,27
+Salt and Pepper Restaurant,800,"Chinese,North Indian",Coimbatore,Kavundampalayam,Casual Dining,8am to 11pm(Mon-Sun),Poor,2.2,38
+Waffkinz,300,"Desserts,Bakery",Coimbatore,RS Puram,Dessert Parlor,12noon to 11pm(Mon-Sun),Good,3.6,23
+Covai Food Street,400,"South Indian,Biryani",Coimbatore,Saravanampatty,Casual Dining,12noon to 11pm(Mon-Sun),Average,2.8,33
+The French Loaf,150,"Cafe,Bakery,Desserts",Coimbatore,RS Puram,Café,8am to 11pm(Mon-Sun),Average,3.4,31
+Jasmine Restaurant,300,"South Indian,Chinese",Coimbatore,Ganapathy,Quick Bites,730am to 11pm(Mon-Sun),Average,3.2,15
+Mr. Pavizham Restaurant,300,South Indian,Coimbatore,Peelamedu,Casual Dining,11am to 4am(Mon-Sun),Average,3.3,10
+The Burp,400,"North Indian,Fast Food",Coimbatore,Peelamedu,Quick Bites,24,Average,3.4,33
+A1 Biryani,250,Biryani,Coimbatore,RS Puram,Quick Bites,"1pm to 5pm,7pm to 11pm(Mon-Sun)",Good,3.8,41
+Cheese Cafe,200,Fast Food,Coimbatore,Thudiyalur,Quick Bites,11am to 11pm(Mon-Sun),Average,2.7,17
+Hotel Theja's Best Biryani,500,Biryani,Coimbatore,Singanallur,Quick Bites,1130am to 11pm(Mon-Sun),Average,2.6,47
+Arafa Biriyani Corner,250,Biryani,Coimbatore,Ganapathy,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,12
+Haqsan Biryani Hotel,250,"Biryani,South Indian",Coimbatore,RS Puram,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,36
+POT'S COOK,300,"South Indian,North Indian,Chinese",Coimbatore,Ukkadam,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,18
+Hotel Darling,300,"South Indian,Biryani",Coimbatore,Podanur,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,7
+The Egg Stop,300,Fast Food,Coimbatore,Kalapatti,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,21
+Spicy Garden,400,South Indian,Coimbatore,Kalapatti,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,36
+Roll On,250,"Ice Cream,Desserts",Coimbatore,RS Puram,Dessert Parlor,11am to 11pm(Mon-Sun),Average,3.4,27
+Cross Road 33,300,"Desserts,Ice Cream",Coimbatore,RS Puram,Dessert Parlor,11am to 11pm(Mon-Sun),Good,3.5,29
+Sam Dosai Kadai,150,"South Indian,Fast Food",Coimbatore,Gandhipuram,Quick Bites,11am to 2am(Mon-Sun),Good,3.5,20
+Hotel Chola,300,"South Indian,Chettinad",Coimbatore,Lakshmi Mills,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,19
+Emperor Restaurant,300,"South Indian,North Indian,Chinese,Kebab",Coimbatore,Podanur,Quick Bites,1030am to 1130pm(Mon-Sun),Average,3.0,15
+Kebabq,350,Kebab,Coimbatore,Peelamedu,Quick Bites,1130am to 11pm(Mon-Sun),Average,3.4,11
+Punjabi Food,600,North Indian,Coimbatore,Saravanampatty,Casual Dining,"10am to 11pm(Mon-Sat),Closed(Sun)",Good,3.5,23
+La Mensa,500,Fast Food,Coimbatore,Saibaba Colony,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.6,18
+Mugs and Brews,700,Cafe,Coimbatore,Saravanampatty,Café,"11am to 11pm(Mon,Wed,Thu,Fri,Sat,Sun),Closed...",Excellent,4.5,130
+Fireflies Night Restaurant,600,Indian,Coimbatore,Peelamedu,Casual Dining,7am to 6am(Mon-Sun),Very Good,4.0,240
+Burger Ka Baap,500,"Fast Food,Burger",Coimbatore,Peelamedu,Quick Bites,"11am to 1030pm(Mon,Tue,Wed,Thu,Sat,Sun),3pm...",Excellent,4.9,818
+Shahi Grill,350,"Chettinad,North Indian,Chinese",Coimbatore,Peelamedu,Casual Dining,12noon to 1030pm(Mon-Sun),Very Good,4.2,657
+Hotel 36,600,"North Indian,South Indian",Coimbatore,Ganapathy,Casual Dining,6pm to 4am(Mon-Sun),Good,3.9,193
+Courtallam Border Rahmath Kadai,400,South Indian,Coimbatore,Race Course,Casual Dining,"1230pm to 330pm,530pm to 1130pm(Mon-Sun)",Good,3.7,142
+The Village,300,South Indian,Coimbatore,RS Puram,Quick Bites,"11am to 3pm,7pm to 11pm(Mon-Sat),7pm to 11pm(Sun)",Very Good,4.1,229
+Let's Eat Meat,400,"Biryani,North Indian,Afghan",Coimbatore,Saibaba Colony,Casual Dining,11am to 11pm(Mon-Sun),Good,3.8,210
+Eat Alley,800,Italian,Coimbatore,Ramanathapuram,Casual Dining,"12noon to 330pm,7pm to 11pm(Mon-Fri),12noon to ...",Very Good,4.1,160
+Star Briyani,600,"Biryani,Chinese,North Indian",Coimbatore,RS Puram,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.0,186
+Dr. Grill,600,"Mughlai,Continental,Middle Eastern,Grill",Coimbatore,Lakshmi Mills,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.0,154
+Superstar Pizza,600,"Pizza,Burger,Sandwich,Continental,Fast Food,Beverages,Desserts",Coimbatore,Saibaba Colony,Casual Dining,1130am to 2am(Mon-Sun),Very Good,4.3,172
+SRH'S Dhum Dhum Biriyani,300,South Indian,Coimbatore,Gandhipuram,Quick Bites,12noon to 11pm(Mon-Sun),Very Good,4.0,161
+Namma Veedu Vasantha Bhavan,500,South Indian,Coimbatore,Saibaba Colony,Casual Dining,7am to 11pm(Mon-Sun),Good,3.7,156
+Angannan Biryani Hotel,500,"Chettinad,Biryani",Coimbatore,RS Puram,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.6,261
+Zucca Burgers,500,Burger,Coimbatore,Saravanampatty,Quick Bites,1130am to 11pm(Mon-Sun),Average,3.4,10
+Hotel Amutham,300,South Indian,Coimbatore,Gandhipuram,Quick Bites,6am to 11pm(Mon-Sun),Good,3.6,9
+Tiffany's,1500,"North Indian,South Indian,Continental,Chinese",Coimbatore,Hotel Alankara Grand-- Nehru Stadium,Casual Dining,"7am to 1030am,1230pm to 3pm,730pm to 11pm...",Good,3.7,30
+Paris Biriyani Corner,150,Biryani,Coimbatore,Saibaba Colony,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,4
+RHR Idly Kadai,250,South Indian,Coimbatore,Town Hall,Quick Bites,4pm to 12midnight(Mon-Sun),Good,3.7,27
+Noorani Biryani Hotel,250,"Biryani,South Indian,Fast Food",Coimbatore,Saibaba Colony,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,34
+Hotel Gowri Nivas,350,"Fast Food,North Indian,Street Food",Coimbatore,Gandhipuram,Quick Bites,8am to 11pm(Mon-Sun),Good,3.5,19
+Big Fat Burger,350,"Burger,Fast Food",Coimbatore,RS Puram,Quick Bites,7am to 12midnight(Mon-Sun),Average,3.2,8
+Ananth Bhavan,200,South Indian,Coimbatore,RS Puram,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,14
+Siraj Biriyani,250,"Biryani,South Indian",Coimbatore,Podanur,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,4
+Mumbai Kulfi,200,"Desserts,Ice Cream",Coimbatore,Peelamedu,none,11am to 11pm(Mon-Sun),Good,3.6,27
+Time To Eat,200,Fast Food,Coimbatore,Lakshmi Mills,Quick Bites,10am to 11pm(Mon-Sun),Average,3.2,34
+Taboon Cafe,300,"South Indian,Arabian",Coimbatore,Saibaba Colony,Casual Dining,2pm to 11pm(Mon-Sun),Average,3.4,9
+Aishwarya's Hyderabad Biriyani,250,"Biryani,North Indian,Fast Food",Coimbatore,Thudiyalur,Casual Dining,11am to 11pm(Mon-Sun),Average,3.0,14
+The Scoopy Junction,200,"Desserts,Ice Cream,Beverages",Coimbatore,Peelamedu,Dessert Parlor,11am to 11pm(Mon-Sun),Average,3.4,10
+Vasantha's House Tiffin,200,South Indian,Coimbatore,Town Hall,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,18
+Faasos,500,"Fast Food,Biryani,Desserts",Coimbatore,RS Puram,Quick Bites,9am to 1am(Mon-Sun),Average,3.4,8
+Lassi Factory,150,"Beverages,Desserts",Coimbatore,Peelamedu,Beverage Shop,1130am to 12midnight(Mon-Sun),Average,3.3,23
+Mexican Day Night Restaurant,400,"Italian,Arabian,Chinese,Seafood",Coimbatore,RS Puram,none,6pm to 6am(Mon-Sun),Average,3.4,20
+Pepper Restaurant,400,"Chinese,North Indian,South Indian",Coimbatore,Saravanampatty,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.5,25
+Yaazhl Family Restaurant,550,"North Indian,Chinese,Mughlai",Coimbatore,Peelamedu,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,20
+Shri Shubhans,450,South Indian,Coimbatore,Saibaba Colony,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,21
+Hotel Alaska Food Court,500,"Seafood,North Indian,Chinese",Coimbatore,Peelamedu,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,27
+City Restaurant,300,"South Indian,North Indian,Fast Food",Coimbatore,Sitra,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,24
+Spice and Ice Garden Restaurant,500,"North Indian,Indian,Chinese,Burmese",Coimbatore,Thudiyalur,Quick Bites,1215pm to 11pm(Mon-Sun),Good,3.6,17
+Zoom Chef,300,"Chinese,North Indian,South Indian",Coimbatore,Kalapatti,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,24
+Eden's Kitchen,250,"South Indian,North Indian",Coimbatore,Peelamedu,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,7
+Inbox Cafe,200,Cafe,Coimbatore,Sitra,Quick Bites,10am to 11pm(Mon-Sun),Average,3.3,7
+Subanna Biriyani,400,South Indian,Coimbatore,Thudiyalur,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,21
+Baskin Robbins,300,"Ice Cream,Desserts",Coimbatore,Brookefields Mall-- RS Puram,Food Court,11am to 11pm(Mon-Sun),Good,3.5,22
+Cheng's,500,"Chinese,Momos",Coimbatore,Brookefields Mall-- RS Puram,Food Court,11am to 11pm(Mon-Sun),Average,2.5,20
+Dosa Hub,250,South Indian,Coimbatore,Peelamedu,Quick Bites,6pm to 11pm(Mon-Sun),Good,3.6,14
+Food Center,500,"Chinese,North Indian",Coimbatore,Peelamedu,Casual Dining,11am to 11pm(Mon-Sun),Average,2.7,17
+Shakilicious,200,Beverages,Coimbatore,Ganapathy,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,9
+Hotel Appa Kutty Rawther Biriyani,200,"Biryani,Fast Food",Coimbatore,Ukkadam,Quick Bites,1230pm to 12midnight(Mon-Sun),Average,3.4,13
+DMF Restaurant,400,"South Indian,North Indian",Coimbatore,Singanallur,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,20
+Hotel Chola,250,Fast Food,Coimbatore,Kavundampalayam,Quick Bites,12noon to 12midnight(Mon-Sun),Average,3.3,9
+Bhojan,400,"South Indian,North Indian,Kerala",Coimbatore,Saibaba Colony,Casual Dining,12noon to 11pm(Mon-Sun),Average,3.4,25
+Chettinese Combo Restaurant,300,"South Indian,Chinese,Chettinad",Coimbatore,Peelamedu,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,18
+Kanteen Savira,300,"South Indian,North Indian,Chinese",Coimbatore,Ondipudur,Quick Bites,"12noon to 430pm,6pm to 11pm(Mon-Sun)",Good,3.5,19
+Veni Hotel,300,South Indian,Coimbatore,Peelamedu,Casual Dining,1230pm to 11pm(Mon-Sun),Average,3.4,10
+OYALO,200,Pizza,Coimbatore,Ramanathapuram,Quick Bites,12noon to 1130pm(Mon-Sun),Good,3.6,20
+Park View,500,"Chinese,North Indian",Coimbatore,Nehru Stadium,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,16
+Madurai Konar Mess,250,South Indian,Coimbatore,Thudiyalur,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.0,6
+Fireflies Night Restaurant,600,North Indian,Coimbatore,RS Puram,Casual Dining,6pm to 6am(Mon-Sun),Good,3.6,24
+Pazhamudir's Pure & Natural,200,"Juices,Desserts",Coimbatore,Nehru Stadium,Beverage Shop,1030am to 11pm(Mon-Sun),Average,3.4,16
+Bells,300,"South Indian,North Indian,Chinese",Coimbatore,Thudiyalur,Casual Dining,"12noon to 4pm,630pm to 1045pm(Mon-Sun)",Average,3.2,24
+Mr Grill,250,"Arabian,South Indian",Coimbatore,Vadavalli,Quick Bites,530pm to 11pm(Mon-Sun),Good,3.5,14
+Tempteys,350,"Desserts,Beverages",Coimbatore,Peelamedu,Dessert Parlor,12noon to 12midnight(Mon-Sun),Good,3.5,12
+A-1 Biriyani Hotel,350,Biryani,Coimbatore,Saibaba Colony,Mess,10am to 11pm(Mon-Sun),Good,3.5,22
+Bon Pizza,400,"Fast Food,Pizza",Coimbatore,Ramanathapuram,Quick Bites,6pm to 11pm(Mon-Sun),Good,3.5,18
+Seerangam Restaurant,300,"Biryani,South Indian,North Indian,Chinese",Coimbatore,Singanallur,Quick Bites,7am to 11pm(Mon-Sun),Average,3.3,11
+Cheese Bowl,400,"Italian,Continental",Coimbatore,Thudiyalur,Quick Bites,11am to 11pm(Mon-Sun),Average,2.6,13
+Eagle Cafe,400,"Cafe,Mexican,Italian",Coimbatore,Sitra,Café,11am to 11pm(Mon-Sun),Average,2.7,12
+Fun Grill,400,"South Indian,North Indian",Coimbatore,Vadavalli,Quick Bites,6pm to 11pm(Mon-Sun),Average,3.4,10
+Hotel Annalakshmi,500,"Chettinad,South Indian,Chinese",Coimbatore,Race Course,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,12
+Tiffin Box,250,South Indian,Coimbatore,Ramanathapuram,none,11am to 11pm(Mon-Sun),Average,3.3,10
+K.R. Bakes & Restaurant,350,"Bakery,South Indian",Coimbatore,Ramanathapuram,Quick Bites,6am to 11pm(Mon-Sun),Average,3.4,23
+Naalu Mukku Idly Kadai,150,South Indian,Coimbatore,Peelamedu,Quick Bites,"12noon to 4pm,6pm to 11pm(Mon-Sun)",Average,3.3,10
+Rathina,600,"Continental,South Indian,Chinese,North Indian",Coimbatore,Race Course,Casual Dining,7am to 11pm(Mon-Sun),Average,2.6,16
+Symphony,1200,"Chinese,Continental,South Indian",Coimbatore,The Grand Regent,Casual Dining,"7am to 10am,12noon to 3pm,7pm to 11pm(Mon-Sun)",Good,3.5,19
+Sri Kamalai Cockarackoo,250,"South Indian,Chinese",Coimbatore,Vadavalli,Quick Bites,10am to 11pm(Mon-Sun),Good,3.5,10
+Whatshake,350,"Beverages,Fast Food",Coimbatore,Sitra,Beverage Shop,1130am to 11pm(Mon-Sun),Average,3.4,21
+The Cake Empire,100,"Desserts,Beverages",Coimbatore,Ramanathapuram,Beverage Shop,10am to 11pm(Mon-Sun),Average,3.2,7
+Hotel Sri Nargani's,300,"South Indian,Chinese",Coimbatore,Vadavalli,Quick Bites,8am to 11pm(Mon-Sun),Average,3.3,8
+SS Hotel,250,"South Indian,Chettinad,Chinese",Coimbatore,Nehru Stadium,Quick Bites,8am to 1130pm(Mon-Sun),Good,3.5,6
+Kootansoru,400,North Indian,Coimbatore,Race Course,Quick Bites,"12noon to 3pm,7pm to 11pm(Mon-Sun)",Good,3.6,20
+Shri Saravana Bhawan,400,South Indian,Coimbatore,Race Course,Quick Bites,7am to 11pm(Mon-Sun),Average,3.0,4
+Quality Fried Chicken,250,"American,Fast Food",Coimbatore,Ukkadam,Quick Bites,5pm to 11pm(Mon-Sun),Average,2.7,17
+The Banyan Foods,400,"North Indian,Chinese",Coimbatore,Saravanampatty,Quick Bites,"12noon to 1130pm(Mon-Fri),1230pm to 1130pm...",Average,3.4,15
+The Game Hub,600,Continental,Coimbatore,Saibaba Colony,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,9
+Cimbrone,300,"Desserts,Ice Cream",Coimbatore,Saibaba Colony,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,11
+Sri Aarvee Hotels,400,"North Indian,South Indian,Continental",Coimbatore,Gandhipuram,Casual Dining,630am to 1130pm(Mon-Sun),Average,3.3,15
+Hotel Kaleeswara,250,South Indian,Coimbatore,Peelamedu,Mess,8am to 1130pm(Mon-Sun),Average,3.3,10
+Rollz iScream,200,"Desserts,Ice Cream",Coimbatore,Gandhipuram,Dessert Parlor,11am to 11pm(Mon-Sun),Average,2.7,12
+Mangala Food,300,South Indian,Coimbatore,Ramanathapuram,Quick Bites,1130am to 11pm(Mon-Sun),Average,3.2,11
+Sigdii,400,North Indian,Coimbatore,Gandhipuram,Casual Dining,6pm to 11pm(Mon-Sun),Average,3.4,13
+Selvam Mess,250,"Chinese,South Indian",Coimbatore,Peelamedu,Quick Bites,11am to 12midnight(Mon-Sun),Average,3.4,19
+Dindigul Sekar Biriyani Hotel,600,"North Indian,South Indian,Biryani",Coimbatore,Kalapatti,Quick Bites,12noon to 12midnight(Mon-Sun),Good,3.5,14
+Anbu Chettinad Mess,200,"South Indian,Fast Food,Chettinad",Coimbatore,Gandhipuram,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,6
+Bhavana Restaurant,400,"South Indian,Biryani",Coimbatore,Ondipudur,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.4,12
+Four Seasons Restaurant,500,"South Indian,North Indian",Coimbatore,Kalapatti,Casual Dining,11am to 11pm(Mon-Sun),Average,3.1,16
+Madurai Kurinji Mess,400,"South Indian,Chettinad",Coimbatore,Gandhipuram,Casual Dining,12noon to 11pm(Mon-Sun),Average,3.4,14
+Kovaieats Restaurant,400,"Fast Food,Indian,Chinese,Thai",Coimbatore,Thudiyalur,Quick Bites,715am to 11pm(Mon-Sun),Average,3.1,4
+Thalassery Hotel,700,"North Indian,South Indian,Chinese",Coimbatore,Kalapatti,Casual Dining,1130am to 11pm(Mon-Sun),Average,3.2,11
+BURMY,200,Burmese,Coimbatore,Saibaba Colony,Casual Dining,4pm to 11pm(Mon-Sun),Average,3.2,7
+Night Riders,500,"South Indian,North Indian",Coimbatore,Thudiyalur,Casual Dining,6pm to 4am(Mon-Sun),Good,3.6,18
+Friends Chettinad Mess,150,"South Indian,Fast Food",Coimbatore,Singanallur,Mess,530am to 11pm(Mon-Sun),Average,3.4,5
+Hotel Lakshmi,250,"South Indian,Fast Food",Coimbatore,Saibaba Colony,Quick Bites,730am to 11pm(Mon-Sun),Average,3.1,6
+Rollzbbq,300,Rolls,Coimbatore,Gandhipuram,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,8
+Sri Karpagam Mess,400,"South Indian,Biryani",Coimbatore,Singanallur,Quick Bites,7am to 11pm(Mon-Sun),Average,3.2,7
+Coaster Fries,150,"Burger,Beverages,Fast Food",Coimbatore,RS Puram,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,4
+Hyderabad Biriyani,350,"Biryani,Chinese",Coimbatore,RS Puram,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,4
+Inithey Karumbu,200,Juices,Coimbatore,Gandhipuram,Beverage Shop,11am to 11pm(Mon-Sun),Average,3.1,12
+Seasons,300,Fast Food,Coimbatore,Ganapathy,Casual Dining,11am to 11pm(Mon-Sun),Average,3.0,4
+My Nilaa Soru,400,South Indian,Coimbatore,Kalapatti,Quick Bites,6pm to 2am(Mon-Sun),Average,3.2,9
+Kulukki Corner,100,Beverages,Coimbatore,Town Hall,Beverage Shop,10am to 11pm(Mon-Sun),Average,3.2,6
+Fujan Express,400,"Chinese,Momos",Coimbatore,Prozone Mall-- Ganapathy,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,9
+Marhaba,400,"Arabian,Indian",Coimbatore,Prozone Mall-- Ganapathy,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,12
+Chinnaiah Chettinad Hotel,250,"South Indian,Chettinad,Biryani",Coimbatore,Kalapatti,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,9
+Moon Light,150,North Indian,Coimbatore,Saibaba Colony,none,11am to 11pm(Mon-Sun),Average,3.2,9
+Saravanas Kitchen,500,"Chettinad,North Indian,South Indian",Coimbatore,Saravanampatty,Casual Dining,"1130am to 4pm,630pm to 11pm(Mon-Sun)",Average,3.3,9
+Covai Chilli Chicken,200,"South Indian,Chinese",Coimbatore,Ondipudur,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.3,9
+Hotel Anandha,500,"South Indian,North Indian",Coimbatore,Singanallur,Casual Dining,630am to 11pm(Mon-Sun),Average,2.6,10
+Ocean Drive In Q,450,Indian,Coimbatore,Ondipudur,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,18
+Creameister,400,"Desserts,Beverages",Coimbatore,Chinniayam palayam,Dessert Parlor,11am to 11pm(Mon-Sun),Average,3.1,6
+Madurai Aby's,300,Kerala,Coimbatore,Saravanampatty,Quick Bites,"7am to 4pm,6pm to 11pm(Mon-Sun)",Average,3.3,14
+Chutties Garden Restaurant,600,"North Indian,Chinese,South Indian",Coimbatore,Kalapatti,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,10
+PO's Resto,200,"Beverages,Burger,Sandwich,Fast Food",Coimbatore,Saravanampatty,Quick Bites,10am to 11pm(Mon-Sun),Average,3.2,5
+Meeting Spot,250,"Fast Food,Juices",Coimbatore,Peelamedu,Quick Bites,8am to 11pm(Mon-Sun),Average,3.3,10
+Annalakshmi Foods,350,"South Indian,North Indian,Chinese",Coimbatore,Ramanathapuram,Quick Bites,8am to 11pm(Mon-Sun),Average,2.9,8
+#Pizza,400,Pizza,Coimbatore,Singanallur,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,10
+The Sandwich Point,200,"Sandwich,Fast Food",Coimbatore,Peelamedu,Quick Bites,8am to 11pm(Mon-Sun),Good,3.5,9
+Yummy Restaurant,600,"South Indian,Kebab,Chinese,Beverages",Coimbatore,Kavundampalayam,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,7
+Chennai Kulfi,100,Ice Cream,Coimbatore,Saibaba Colony,Dessert Parlor,11am to 11pm(Mon-Sun),Average,3.3,6
+On Time Biryani,250,"North Indian,Mughlai,Biryani",Coimbatore,Gandhipuram,Quick Bites,"11am to 3pm,7pm to 11pm(Mon-Sun)",Average,2.9,15
+Arafa Restaurant,300,"South Indian,Chinese,Kerala",Coimbatore,Peelamedu,Casual Dining,11am to 11pm(Mon-Sun),Average,3.0,6
+Pannaiyar Biriyani,400,Biryani,Coimbatore,Peelamedu,none,11am to 11pm(Mon-Sun),Good,3.6,142
+Rock Stone Ice Cream Factory,200,"Desserts,Ice Cream",Coimbatore,Saibaba Colony,Dessert Parlor,11am to 1130pm(Mon-Sun),Very Good,4.0,157
+Dood's Burger,200,Fast Food,Coimbatore,Peelamedu,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.0,125
+Meat And Eat,300,Fast Food,Coimbatore,Saravanampatty,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,151
+Ambur Star Briyani,300,"Biryani,Chinese,North Indian",Coimbatore,Peelamedu,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,137
+Haribhavanam,600,"South Indian,Chettinad,North Indian",Coimbatore,Peelamedu,Casual Dining,"12noon to 4pm,7pm to 1030pm(Mon-Sun)",Very Good,4.3,685
+Tandoori Tonight,600,"Chinese,North Indian",Coimbatore,Peelamedu,Casual Dining,"12noon to 4pm,6pm to 11pm(Mon-Sun)",Very Good,4.0,197
+Haneefa Restaurant,500,South Indian,Coimbatore,Peelamedu,Casual Dining,"12noon to 4pm,7pm to 11pm(Mon-Sun)",Good,3.9,95
+Lunch Box Restaurant,500,"North Indian,South Indian,Chinese,Kebab,Biryani",Coimbatore,Gandhipuram,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,102
+Sree Annapoorna Sree Gowrishankar,400,"South Indian,North Indian,Chinese",Coimbatore,RS Puram,Quick Bites,6am to 10pm(Mon-Sun),Excellent,4.6,427
+Anjappar Chettinad Restaurant,600,"Chettinad,South Indian",Coimbatore,Gandhipuram,Casual Dining,"11am to 430pm,6pm to 11pm(Mon-Sun)",Good,3.6,164
+IMI Biryani House,250,Biryani,Coimbatore,Peelamedu,Quick Bites,11am to 1130pm(Mon-Sun),Good,3.5,136
+10 Downing Street,1800,"Continental,North Indian,Chinese",Coimbatore,Kalapatti,Casual Dining,12noon to 12midnight(Mon-Sun),Very Good,4.0,133
+Hotel Penguin,500,South Indian,Coimbatore,Peelamedu,Casual Dining,8am to 11pm(Mon-Sun),Very Good,4.1,118
+Vaskas Biriyani,500,"Biryani,Mughlai",Coimbatore,Peelamedu,Casual Dining,12noon to 1030pm(Mon-Sun),Good,3.8,482
+Curries And Biryani,300,"South Indian,Biryani",Coimbatore,Thudiyalur,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,13
+The Good Bowl,500,"Asian,Biryani,North Indian",Coimbatore,RS Puram,none,10am to 1am(Mon-Sun),Average,3.2,5
+Seven Eleven Restaurant,300,"North Indian,Fast Food",Coimbatore,Ramanathapuram,Quick Bites,11am to 11pm(Mon-Sun),Average,2.9,4
+City Heights - Rooftop Restaurant,600,"South Indian,North Indian,Chinese",Coimbatore,Hotel SBS Grand-- Peelamedu,Casual Dining,6pm to 12midnight(Mon-Sun),Average,2.9,6
+Silver Spoon,800,"North Indian,South Indian,Chinese,Continental",Coimbatore,Gandhipuram,Casual Dining,7am to 11pm(Mon-Sun),Average,3.1,7
+Hotel Sindhurei,200,South Indian,Coimbatore,Ukkadam,Quick Bites,6am to 11pm(Mon-Sun),Average,3.3,9
+The Fruit Creamery,150,Desserts,Coimbatore,Saibaba Colony,Dessert Parlor,"5pm to 10pm(Mon),2pm to 11pm(Tue-Sun)",Average,3.4,8
+Bon Bon,200,Ice Cream,Coimbatore,Ganapathy,Dessert Parlor,10am to 11pm(Mon-Sun),Average,3.1,4
+5 Star Dum Biryani,250,"Biryani,Chinese",Coimbatore,Ramanathapuram,Quick Bites,11am to 11pm(Mon-Sun),Average,2.9,6
+Panchavati Gaurav,200,"Street Food,North Indian",Coimbatore,Brookefields Mall-- RS Puram,Quick Bites,11am to 11pm(Mon-Sun),Average,2.8,8
+Hi-Lite Juice & More,250,"Fast Food,Beverages",Coimbatore,Vadavalli,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,5
+Rich Biryani Centre,300,Fast Food,Coimbatore,Ganapathy,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,7
+Hotel Nimmathi,250,South Indian,Coimbatore,Ramanathapuram,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,12
+K.K. Corner Chettinadu Hotel,300,"South Indian,Chettinad,Chinese",Coimbatore,Peelamedu,Quick Bites,1030am to 11pm(Mon-Sun),Average,3.3,11
+Dine N Wine,450,"Fast Food,North Indian,Chinese",Coimbatore,Race Course,Quick Bites,12noon to 11pm(Mon-Sun),Average,2.9,4
+SM Tiffin Center,400,"South Indian,Chinese,Chettinad",Coimbatore,Sitra,Quick Bites,1030am to 1130pm(Mon-Sun),Average,2.8,4
+Eat360,300,"Burger,Sandwich,Wraps,Ice Cream",Coimbatore,Ramanathapuram,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,7
+Sweet Truth,500,"Bakery,Desserts",Coimbatore,RS Puram,none,9am to 1am(Mon-Sun),Average,3.1,4
+Adupangarai,250,"South Indian,Biryani",Coimbatore,Peelamedu,none,11am to 11pm(Mon-Sun),Average,3.3,10
+Covai Deepan,200,South Indian,Coimbatore,Saibaba Colony,Quick Bites,8am to 11pm(Mon-Sun),Average,3.0,10
+Dosa Feast,300,"North Indian,South Indian",Coimbatore,Saibaba Colony,Casual Dining,6pm to 11pm(Mon-Sun),Average,3.2,8
+THE IT List,200,"Fast Food,South Indian",Coimbatore,RS Puram,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,9
+Madurai Aasai Sweets & Snacks,200,Mithai,Coimbatore,RS Puram,Sweet Shop,11am to 11pm(Mon-Sun),Average,3.1,4
+Singai New Arya Bhavan,250,South Indian,Coimbatore,Singanallur,Quick Bites,630am to 11pm(Mon-Sun),Average,3.0,4
+Burger Bro,150,"Burger,Arabian",Coimbatore,Peelamedu,Quick Bites,2pm to 11pm(Mon-Sun),Average,3.1,5
+Hotel Chola,200,South Indian,Coimbatore,RS Puram,Quick Bites,7am to 11pm(Mon-Sun),Average,2.8,6
+Amma samayal,282,"South Indian,Chinese",Coimbatore,Saibaba Colony,Quick Bites,8am to 12midnight(Mon-Sun),Average,3.0,6
+Kwality Wall's Swirl's,200,"Ice Cream,Desserts",Coimbatore,Prozone Mall-- Ganapathy,Dessert Parlor,10am to 11pm(Mon-Sun),Average,3.1,5
+Ayyappa's Pearl Vegetarian Restaurant,600,South Indian,Coimbatore,Kavundampalayam,Casual Dining,7am to 11pm(Mon-Sun),Average,3.2,8
+Chennai Pazhamudir Nilayam,150,"Beverages,Juices",Coimbatore,Peelamedu,Beverage Shop,11am to 11pm(Mon-Sun),Average,3.2,4
+Pinku Bhai,100,Street Food,Coimbatore,Town Hall,Quick Bites,430pm to 1130pm(Mon-Sun),Average,3.2,5
+Manickam Fish Stall,400,South Indian,Coimbatore,RS Puram,Quick Bites,7pm to 11pm(Mon-Sun),Average,3.1,4
+Mirchi Kitchen,300,North Indian,Coimbatore,Gandhipuram,Quick Bites,"12noon to 10pm(Mon,Tue,Wed,Thu,Sun),12noon...",Average,3.0,5
+Today's Bhavan,300,Fast Food,Coimbatore,Ondipudur,Quick Bites,7am to 11pm(Mon-Sun),Average,3.2,6
+Food Corner,300,"Chinese,North Indian",Coimbatore,Neelambur,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,7
+Grand Akshayam,250,South Indian,Coimbatore,Vadavalli,Quick Bites,"11am to 4pm,6pm to 11pm(Mon-Sun)",Average,3.0,6
+Karaikudi Thalapakattu Biryani,350,Biryani,Coimbatore,Kalapatti,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,8
+Manis Chettinadu Hotel,250,"South Indian,Chettinad",Coimbatore,Town Hall,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,5
+Angel Mess,300,South Indian,Coimbatore,Kalapatti,Mess,11am to 11pm(Mon-Sun),Average,3.1,4
+The Curry Pot,300,"Fast Food,Chinese",Coimbatore,Vadavalli,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.0,6
+Aishwaryam Veg,400,"Chinese,North Indian,South Indian,Street Food",Coimbatore,Ondipudur,Quick Bites,7am to 11pm(Mon-Sun),Average,3.2,6
+Sree MS Hotel,200,Fast Food,Coimbatore,Gandhipuram,Quick Bites,"730am to 330pm,7pm to 11pm(Mon-Sun)",Average,3.0,4
+Hari Haran Mess,200,South Indian,Coimbatore,Ramanathapuram,Mess,7am to 11pm(Mon-Sun),Average,2.9,4
+Santhanas Kalayana Biryani,300,"Biryani,South Indian",Coimbatore,Saibaba Colony,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.1,5
+Aroma Bakery,400,"Bakery,Chinese,North Indian",Coimbatore,Ondipudur,Quick Bites,7am to 11pm(Mon-Sun),Average,3.2,5
+Shree Anandhaas,300,"South Indian,North Indian,Chinese",Coimbatore,Lakshmi Mills,Casual Dining,6am to 1030pm(Mon-Sun),Excellent,4.5,239
+Ajay's Delhi Wala Sweet Home,400,"North Indian,Desserts,Street Food",Coimbatore,Gandhipuram,Dessert Parlor,8am to 10pm(Mon-Sun),Excellent,4.5,533
+Oceana Hotel,500,"North Indian,Chinese,South Indian",Coimbatore,Saibaba Colony,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,158
+Peking,700,"Chinese,Momos",Coimbatore,Nehru Stadium,Casual Dining,"1130am to 3pm,7pm to 11pm(Mon-Sun)",Very Good,4.0,125
+Cream Centre,1000,"North Indian,Chinese,Italian,Mexican",Coimbatore,Race Course,Casual Dining,"1130am to 330pm,630pm to 1030pm...",Very Good,4.3,353
+Hotel Arrunnachala,650,"North Indian,Chinese",Coimbatore,Peelamedu,Casual Dining,1130am to 11pm(Mon-Sun),Average,3.2,134
+RHR Restaurant,300,"South Indian,North Indian,Chinese,Desserts,Juices",Coimbatore,Ramanathapuram,Casual Dining,6am to 1030pm(Mon-Sun),Very Good,4.3,275
+Ravutthar Biriyani Hotel,300,Biryani,Coimbatore,Thudiyalur,Quick Bites,1130am to 11pm(Mon-Sun),Good,3.9,90
+Bird On Tree,1200,"Continental,Chinese,Thai,Malaysian,North Indian",Coimbatore,Race Course,Casual Dining,"12noon to 330pm,7pm to 10pm(Mon-Sun)",Very Good,4.3,438
+Hidden Fork,400,"Italian,Continental",Coimbatore,Peelamedu,Quick Bites,11am to 10pm(Mon-Sun),Very Good,4.3,249
+Sri Velan Chettinadu Mess,300,South Indian,Coimbatore,Peelamedu,Quick Bites,6am to 12midnight(Mon-Sun),Very Good,4.0,71
+Yari,700,"North Indian,Chinese,Street Food",Coimbatore,Saibaba Colony,Casual Dining,"1230pm to 330pm,630pm to 1030pm(Mon-Sun)",Excellent,4.5,468
+Balle Balle,1000,"Chinese,Indian",Coimbatore,Saibaba Colony,Casual Dining,1230pm to 1030pm(Mon-Sun),Very Good,4.2,244
+MSR Biriyani Hotel,300,Biryani,Coimbatore,Podanur,Casual Dining,11am to 10pm(Mon-Sun),Good,3.8,395
+Couuntry Kitchen Restaurant,500,"South Indian,Mediterranean",Coimbatore,Ganapathy,Casual Dining,11am to 11pm(Mon-Sun),Average,2.5,116
+Sita Paani,500,North Indian,Coimbatore,Podanur,Quick Bites,11am to 12midnight(Mon-Sun),Good,3.7,115
+Cafe Totaram,600,"Cafe,Fast Food",Coimbatore,Race Course,Café,1230pm to 930pm(Mon-Sun),Very Good,4.2,278
+Ente Keralam,750,"Kerala,South Indian",Coimbatore,Race Course,Casual Dining,"12noon to 330pm,7pm to 1030pm(Mon-Sun)",Very Good,4.0,146
+Grain of Salt,1200,"North Indian,Chinese,Italian,Continental",Coimbatore,Peelamedu,Fine Dining,"11am to 3pm,7pm to 11pm(Mon-Sun)",Average,2.8,137
+Jalpaan Restaurant,900,"North Indian,Italian",Coimbatore,RS Puram,Casual Dining,"12noon to 330pm,7pm to 1030pm(Mon-Sun)",Very Good,4.3,328
+My Place Restaurant,800,"North Indian,South Indian,Chinese",Coimbatore,Lakshmi Mills,Casual Dining,"12noon to 3pm,7pm to 10pm(Mon-Sun)",Very Good,4.2,350
+CakeBee,600,"Bakery,Desserts",Coimbatore,Saibaba Colony,Bakery,10am to 10pm(Mon-Sun),Excellent,4.6,329
+Hangout,250,Fast Food,Coimbatore,Saibaba Colony,Quick Bites,11am to 1030pm(Mon-Sun),Very Good,4.1,229
+Meat and Eat,300,Fast Food,Coimbatore,Ukkadam,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,127
+Four Cups Fusion Veg Dining,1000,"North Indian,Chinese",Coimbatore,RS Puram,Casual Dining,"12noon to 3pm,7pm to 1030pm(Mon-Sun)",Very Good,4.1,201
+Exxpress Chicken,300,"North Indian,Chinese",Coimbatore,Thudiyalur,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,171
+Keventers,400,"Beverages,Ice Cream,Desserts",Coimbatore,Peelamedu,Beverage Shop,11am to 11pm(Mon-Sun),Very Good,4.1,72
+Chillum Cafe,500,"Cafe,Fast Food",Coimbatore,Kalapatti,Café,11am to 11pm(Mon-Sun),Very Good,4.2,114
+Aroma Bakery,300,"Bakery,Fast Food",Coimbatore,Race Course,Bakery,6am to 10pm(Mon-Sun),Very Good,4.1,98
+Kannamma Thattu Kadai,400,"Chinese,North Indian,South Indian",Coimbatore,Peelamedu,Casual Dining,730am to 10pm(Mon-Sun),Very Good,4.0,81
+Hotel Safaire,300,"Seafood,Biryani,Chinese,Mughlai,Indian,Kebab,Kerala",Coimbatore,Ukkadam,Quick Bites,1130am to 12midnight(Mon-Sun),Good,3.9,68
+Hema's Kitchen,400,North Indian,Coimbatore,Peelamedu,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,206
+24 Plus Cafe & Restaurant,450,"Continental,Fast Food,Desserts,Indian",Coimbatore,Podanur,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,72
+Haribhavanam,550,"Chettinad,Chinese,North Indian,South Indian,Seafood",Coimbatore,Gandhipuram,Casual Dining,12noon to 1030pm(Mon-Sun),Very Good,4.1,176
+Treat,800,"North Indian,South Indian,Chinese,Italian,Beverages,Continental,Healthy Food",Coimbatore,Gandhipuram,Casual Dining,730am to 11pm(Mon-Sun),Good,3.9,105
+Zaki Restaurant,1200,"South Indian,Chinese,Kerala,North Indian",Coimbatore,Gandhipuram,Casual Dining,12noon to 12midnight(Mon-Sun),Good,3.8,46
+La Cafe,800,Cafe,Coimbatore,RS Puram,Café,10am to 10pm(Mon-Sun),Very Good,4.3,146
+Majestic Hotel,550,"North Indian,South Indian,Arabian,Fast Food",Coimbatore,Nehru Stadium,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,162
+Hideout Cafe,600,Cafe,Coimbatore,Peelamedu,Café,11am to 10pm(Mon-Sun),Very Good,4.2,137
+Buddies Cafe,300,Cafe,Coimbatore,Peelamedu,Café,1030am to 930pm(Mon-Sun),Very Good,4.2,139
+Burger Hours,300,Fast Food,Coimbatore,Peelamedu,Quick Bites,"1030am to 1030pm(Mon,Tue,Wed,Thu,Sat,Sun)...",Very Good,4.3,200
+Bombay Kulfi,150,"Desserts,Ice Cream",Coimbatore,RS Puram,Dessert Parlor,12noon to 11pm(Mon-Sun),Very Good,4.1,123
+KCM,600,"Arabian,North Indian,Chinese,Seafood",Coimbatore,Peelamedu,Casual Dining,11am to 11pm(Mon-Sun),Average,2.7,103
+The Dhonnai Biriyani House,400,Biryani,Coimbatore,Peelamedu,Quick Bites,"Closed(Mon),12noon to 330pm,7pm to 1030pm...",Very Good,4.3,172
+Geetha Cafe,100,South Indian,Coimbatore,Race Course,Quick Bites,6am to 1030pm(Mon-Sun),Very Good,4.0,124

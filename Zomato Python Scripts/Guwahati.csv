@@ -1,0 +1,477 @@
+Name,Price,Cuisine_Category,City,Region,Cuisine_Type,Timing,Rating_Types,Rating,Votes
+Matka Biryani,450,"Biryani,Chinese,North Indian",Guwahati,Uzan Bazaar,Quick Bites,1130am to 1230AM(Mon-Sun),Good,3.9,57
+Mocha,800,"Cafe,Italian",Guwahati,Anil Plaza-- Christian Basti,Café,11am to 11pm(Mon-Sun),Excellent,4.8,1070
+KFC,500,"Burger,Fast Food",Guwahati,Christian Basti,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.1,464
+11th Avenue Cafe Bistro,350,"Cafe,American,Italian,Continental",Guwahati,Uzan Bazaar,Café,8am to 11pm(Mon-Sun),Very Good,4.2,1050
+Kalita Cafe,1200,"Rolls,Bakery,European",Guwahati,Six Mile,Casual Dining,11am to 12midnight(Mon-Sun),Very Good,4.4,296
+Terra Mayaa Restaurant and Lounge,1400,"Continental,Italian,Indian,Asian",Guwahati,Anil Plaza-- Christian Basti,Fine Dining,12noon to 1145pm(Mon-Sun),Very Good,4.1,808
+Kalita Spectrum,1200,"Chinese,Biryani,Desserts",Guwahati,Six Mile,Casual Dining,11am to 12midnight(Mon-Sun),Excellent,4.7,399
+Piazza,900,"Italian,Continental,Asian,Modern Indian,Pizza",Guwahati,Ulubari,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.1,341
+Fat Belly,500,"Asian,Chinese,Tibetan,Momos",Guwahati,Uzan Bazaar,Quick Bites,11am to 11pm(Mon-Sun),Excellent,4.6,781
+Grill Republica,250,"Rolls,Momos,Burger",Guwahati,Christian Basti,none,"2pm to 12midnight(Mon,Wed,Thu,Fri,Sat,Sun)...",Very Good,4.3,503
+The Woking Mama,1300,"Chinese,Thai,Japanese,Asian,Momos",Guwahati,Christian Basti,Casual Dining,12noon to 12midnight(Mon-Sun),Very Good,4.4,714
+Recipes Train Restaurant,700,North Indian,Guwahati,Bhangagarh,Casual Dining,12noon to 1130pm(Mon-Sun),Good,3.9,359
+Culina The Kitchen,1200,"Biryani,Chinese,Mongolian",Guwahati,Ulubari,Fine Dining,12noon to 11pm(Mon-Sun),Very Good,4.4,174
+Rigbyz Cosy Kitchen,400,"Momos,Chinese",Guwahati,Bhangagarh,Quick Bites,2pm to 11pm(Mon-Sun),Very Good,4.4,311
+Food Exx,600,"North Indian,Chinese,Fast Food",Guwahati,Christian Basti,Casual Dining,"12noon to 11pm(Mon-Sat),5pm to 11pm(Sun)",Good,3.8,476
+Shillong Restaurant,400,"Assamese,North Indian,Fast Food",Guwahati,Six Mile,Quick Bites,9am to 10pm(Mon-Sun),Average,2.6,81
+South Coast,400,"South Indian,North Indian,Chinese,Beverages",Guwahati,Christian Basti,Quick Bites,8am to 1030pm(Mon-Sun),Average,3.4,107
+Kanha G Sweets,150,"Mithai,Street Food",Guwahati,Beltola,Quick Bites,8am to 10pm(Mon-Sun),Good,3.7,55
+BIGG BITES,300,"Biryani,Chinese",Guwahati,Ulubari,Quick Bites,"11am to 1030pm(Mon-Sat),5pm to 1030pm(Sun)",Good,3.7,47
+Black Board Cafe,300,"Chinese,North Indian",Guwahati,Uzan Bazaar,Quick Bites,11am to 10pm(Mon-Sun),Good,3.8,89
+Hungry Birdz,600,"Chinese,North Indian",Guwahati,Bhangagarh,Quick Bites,10am to 10pm(Mon-Sun),Good,3.5,46
+OZ Kitchen,350,Chinese,Guwahati,Christian Basti,Quick Bites,1230pm to 1030pm(Mon-Sun),Good,3.5,32
+Kathi Junction,500,"Chinese,Biryani,Lebanese,North Indian",Guwahati,Zoo Tiniali,Quick Bites,11am to 10pm(Mon-Sun),Good,3.7,71
+D'VINE,550,"Chinese,North Indian",Guwahati,Zoo Tiniali,Casual Dining,1130am to 1030pm(Mon-Sun),Good,3.5,69
+El-Firangi,600,"North Indian,Chinese",Guwahati,Uzan Bazaar,Quick Bites,1030am to 1030pm(Mon-Sun),Average,2.5,26
+Thanco's Natural Icecream,150,Ice Cream,Guwahati,Fancy Bazaar,Dessert Parlor,1130am to 1030pm(Mon-Sun),Good,3.8,64
+Chetty's Corner,200,Fast Food,Guwahati,Ulubari,Quick Bites,11am to 10pm(Mon-Sun),Good,3.7,17
+Moti Mahal Delux,800,"North Indian,Continental,Chinese",Guwahati,Ulubari,Casual Dining,1130am to 1030pm(Mon-Sun),Average,3.0,72
+Buddy's Kitchen,200,"Chinese,Momos,Rolls",Guwahati,Silpukhuri,Quick Bites,10am to 930pm(Mon-Sun),Good,3.7,39
+Repose Bakery,300,"Bakery,Fast Food",Guwahati,Beltola,Bakery,830am to 10pm(Mon-Sun),Average,3.4,43
+New Gobinda Dhaba,250,"North Indian,Biryani",Guwahati,Amingaon,Dhaba,10am to 1030pm(Mon-Sun),Average,3.3,44
+Ordab-The Bodo Kitchen,300,Assamese,Guwahati,Chandmari,Quick Bites,12noon to 10pm(Mon-Sun),Good,3.7,69
+Edesia's Kitchen,250,"North Indian,Chinese,Momos",Guwahati,Beltola,Quick Bites,10am to 10pm(Mon-Sun),Good,3.5,31
+Biryani Affairs,300,"Biryani,Hyderabadi,North Indian",Guwahati,Christian Basti,none,12noon to 10pm(Mon-Sun),Good,3.8,53
+Tadka Nation,800,"Chinese,Biryani,North Indian",Guwahati,Uzan Bazaar,Casual Dining,12noon to 1030pm(Mon-Sun),Good,3.7,38
+Tibet Kitchen,300,"Chinese,Tibetan",Guwahati,Paltan Bazaar,Quick Bites,10am to 10pm(Mon-Sun),Good,3.7,38
+Whistling Woods,800,"North Indian,Chinese",Guwahati,Maligaon,Casual Dining,10am to 10pm(Mon-Sun),Good,3.8,50
+GeT TaggED,800,Cafe,Guwahati,Zoo Tiniali,Café,10am to 10pm(Mon-Sun),Good,3.6,65
+Punjab Cabin,300,"North Indian,Biryani,Chinese",Guwahati,Chandmari,Quick Bites,10am to 10pm(Mon-Sun),Good,3.6,51
+Pratul's Dawn Dhaba,700,"North Indian,Chinese",Guwahati,Silpukhuri,Quick Bites,11am to 10pm(Mon-Sun),Good,3.6,55
+Biryani Darbar,350,"Biryani,Hyderabadi,Chinese",Guwahati,Chandmari,Quick Bites,10am to 10pm(Mon-Sun),Average,2.9,67
+Biryani Centre,500,"Biryani,Fast Food",Guwahati,Maligaon,Casual Dining,11am to 10pm(Mon-Sun),Good,3.6,36
+Tsang-Po,300,"Assamese,Chinese",Guwahati,Christian Basti,Food Court,11am to 1030pm(Mon-Sun),Good,3.5,30
+South House,250,"South Indian,Street Food,Fast Food",Guwahati,Beltola,Quick Bites,10am to 10pm(Mon-Sun),Good,3.8,44
+Titiksha's Bake Junction,200,Bakery,Guwahati,Bharalumukh,Bakery,9am to 830pm(Mon-Sun),Very Good,4.0,37
+BurgerZilla Gourmet Burger,550,Fast Food,Guwahati,Chandmari,Quick Bites,11am to 930pm(Mon-Sun),Good,3.5,43
+The Namsing,350,"North Eastern,Assamese,Chinese",Guwahati,Beltola,Quick Bites,11am to 10pm(Mon-Sun),Good,3.6,38
+Foodinghum,550,"North Indian,Chinese",Guwahati,Zoo Tiniali,none,11am to 1130pm(Mon-Sun),Good,3.5,21
+Nagameez,600,"Naga,Chinese,Momos",Guwahati,Beltola,Casual Dining,11am to 10pm(Mon-Sun),Good,3.8,68
+Borluit,700,North Eastern,Guwahati,Amingaon,Casual Dining,10am to 9pm(Mon-Sun),Good,3.6,42
+The Sweet House,400,"Fast Food,Mithai",Guwahati,Hatigaon,Quick Bites,11am to 10pm(Mon-Sun),Good,3.6,58
+Eggsotic,0,"Bakery,Cafe",Guwahati,Uzan Bazaar,Bakery,12noon to 830pm(Mon-Sun),Good,3.5,43
+Chicago Pizza,500,"Pizza,Italian,Continental,Fast Food",Guwahati,Bhangagarh,Food Court,11am to 10pm(Mon-Sun),Good,3.6,31
+Jutire Akhaj,400,"Street Food,North Indian,Chinese,Assamese",Guwahati,Beltola,Quick Bites,11am to 1030pm(Mon-Sun),Good,3.8,33
+Naga Bowl,350,Naga,Guwahati,Uzan Bazaar,Quick Bites,1030am to 10pm(Mon-Sun),Good,3.6,26
+The Dhaba,500,"North Indian,Chinese",Guwahati,Jalukbari,Quick Bites,12noon to 10pm(Mon-Sun),Average,3.0,33
+Friendly Restaurant,300,"Biryani,Chinese,Rolls",Guwahati,Hatigaon,Quick Bites,1230pm to 1030pm(Mon-Sun),Average,3.3,26
+Randhan,400,"Chinese,North Indian",Guwahati,Ulubari,Casual Dining,10am to 10pm(Mon-Sun),Average,2.6,60
+Disang,500,"North Indian,Chinese",Guwahati,Chandmari,Casual Dining,11am to 10pm(Mon-Sun),Good,3.6,46
+Buddy's Only Pork And Chicken,300,Fast Food,Guwahati,Six Mile,Quick Bites,1030am to 9pm(Mon-Sun),Good,3.7,33
+SR's Cafe De Woodland's,350,"North Indian,South Indian",Guwahati,Paltan Bazaar,Quick Bites,830am to 930pm(Mon-Sun),Good,3.5,45
+Raghu's Diner,800,"Mughlai,Chinese,North Indian",Guwahati,Beltola,Casual Dining,930am to 1030pm(Mon-Sun),Average,3.4,38
+Hi Asia,400,Asian,Guwahati,Beltola,Casual Dining,11am to 10pm(Mon-Sun),Good,3.8,30
+PK Da Dhaba,300,"North Indian,Chinese,Biryani",Guwahati,Beltola,Quick Bites,1pm to 1030pm(Mon-Sun),Good,3.5,35
+Yellow 29 Food Boutique,200,Asian,Guwahati,Chandmari,Quick Bites,1230pm to 10pm(Mon-Sun),Good,3.9,28
+J14,250,"North Indian,Fast Food",Guwahati,Zoo Tiniali,none,430pm to 1030pm(Mon-Sun),Good,3.7,22
+Red Chilli,700,"Chinese,North Indian,Biryani",Guwahati,Bharalumukh,Casual Dining,11am to 10pm(Mon-Sun),Average,3.1,25
+D' NE Flavour,300,"Assamese,North Indian",Guwahati,Dispur,Quick Bites,11am to 9pm(Mon-Sun),Good,3.5,21
+Sri Hari's,200,"North Indian,South Indian,Chinese",Guwahati,Ulubari,Quick Bites,"12noon to 930pm(Mon-Sat),Closed(Sun)",Good,3.5,43
+Coffee World,400,Cafe,Guwahati,Bhangagarh,Café,10am to 10pm(Mon-Sun),Good,3.5,32
+Prime Bakes,200,"Bakery,Burger,Desserts",Guwahati,Maligaon,Bakery,10am to 10pm(Mon-Sun),Good,3.7,31
+Sneha Fast Food,150,"Chinese,Fast Food,Rolls",Guwahati,Maligaon,Quick Bites,10am to 10pm(Mon-Sun),Average,2.7,34
+The London Shakes,600,Fast Food,Guwahati,Bhangagarh,Food Court,11am to 10pm(Mon-Sun),Good,3.7,38
+Cake.com,600,Desserts,Guwahati,Fancy Bazaar,Dessert Parlor,8am to 830pm(Mon-Sun),Good,3.5,29
+Food Inn,550,"North Indian,Chinese,Fast Food",Guwahati,Beltola,Casual Dining,10am to 10pm(Mon-Sun),Average,2.9,35
+The Food Factory,500,"Chinese,North Indian",Guwahati,Khanapara,Casual Dining,830am to 1030pm(Mon-Sun),Poor,2.3,47
+Food Adda,400,"Chinese,Momos",Guwahati,Ganeshguri,Quick Bites,10am to 10pm(Mon-Sun),Good,3.5,23
+Lohon Restaurant,300,"North Indian,Chinese",Guwahati,Ulubari,Quick Bites,10am to 930pm(Mon-Sun),Good,3.9,22
+Chak de Biryani,250,"Biryani,Fast Food",Guwahati,Paltan Bazaar,Quick Bites,8am to 12midnight(Mon-Sun),Good,3.5,11
+Red Dot,600,"Chinese,Momos",Guwahati,Bhangagarh,Food Court,11am to 10pm(Mon-Sun),Good,3.7,24
+Yummy 4 U,250,"North Indian,Chinese",Guwahati,Bhangagarh,Quick Bites,11am to 10pm(Mon-Sun),Average,3.4,25
+Apple Pie,200,"Bakery,Fast Food",Guwahati,Zoo Tiniali,Bakery,8am to 930pm(Mon-Sun),Good,3.7,41
+Red Pepper,500,"North Indian,Chinese,Fast Food",Guwahati,Beltola,Quick Bites,1030am to 10pm(Mon-Sun),Average,3.3,41
+King Chilly - Hotel Gateway Grandeur,1000,Assamese,Guwahati,Hotel Gateway Grandeur-- Christian Basti,Casual Dining,"12noon to 3pm,7pm to 1030pm(Mon-Sun)",Good,3.7,37
+Urvee's Palate,300,"Chinese,Thai",Guwahati,Beltola,Quick Bites,10am to 10pm(Mon-Sun),Good,3.6,37
+Royal Naga Restaurant,300,"Naga,Chinese",Guwahati,Paltan Bazaar,Casual Dining,"930am to 1030pm(Mon-Sat),Closed(Sun)",Good,3.5,32
+Sticky Finger,350,"South Indian,Fast Food",Guwahati,Maligaon,Quick Bites,9am to 10pm(Mon-Sun),Average,3.3,11
+Needs,300,"North Indian,Chinese",Guwahati,Beltola,Quick Bites,11am to 10pm(Mon-Sun),Average,3.3,7
+Abhinandan - Hotel Rialto,800,"North Indian,Chinese",Guwahati,Pan Bazaar,Quick Bites,10am to 10pm(Mon-Sun),Good,3.6,33
+The Nizan Hub,500,"Chinese,North Indian,Fast Food",Guwahati,Hatigaon,Quick Bites,11am to 10pm(Mon-Sun),Average,3.1,18
+KarenG The Ahom Kitchen,800,"Assamese,Chinese,North Indian",Guwahati,Christian Basti,Casual Dining,11am to 1030pm(Mon-Sun),Good,3.6,37
+Naga Hut,250,North Indian,Guwahati,Hengerabari,Quick Bites,11am to 9pm(Mon-Sun),Average,3.4,11
+Naga Food Konspiracy,600,"North Eastern,Momos",Guwahati,Christian Basti,Casual Dining,11am to 10pm(Mon-Sun),Good,3.5,37
+Lucknavi Tandoori,300,"North Indian,Biryani",Guwahati,Beltola,Quick Bites,11am to 10pm(Mon-Sun),Average,3.4,13
+Bark's Belly,800,"North Indian,Assamese,Chinese,Fast Food",Guwahati,Kahilipara,Casual Dining,"12noon to 1030pm(Mon-Sat),2pm to 1030pm(Sun)",Good,3.7,25
+Coffee House,600,"North Indian,Chinese,Italian",Guwahati,Pan Bazaar,Casual Dining,9am to 830pm(Mon-Sun),Good,3.7,32
+Gokul Sweets,150,"Mithai,Desserts,Street Food",Guwahati,Beltola,Sweet Shop,9am to 930pm(Mon-Sun),Good,3.5,26
+Spring Valley,200,"Bakery,Desserts",Guwahati,Chandmari,Bakery,830am to 9pm(Mon-Sun),Good,3.8,32
+Bfit Cafe,400,"Cafe,Healthy Food",Guwahati,Uzan Bazaar,Café,7am to 10pm(Mon-Sun),Good,3.6,18
+J's Kitchen,300,"Chinese,North Indian",Guwahati,Zoo Tiniali,Quick Bites,12noon to 10pm(Mon-Sun),Good,3.7,30
+Cafe Pull Over,350,"North Indian,Chinese,Momos",Guwahati,Zoo Tiniali,Quick Bites,"11am to 10pm(Mon-Fri),11am to 11pm(Sat-Sun)",Good,3.7,23
+Veg Kitchen,200,"North Indian,Chinese,Fast Food",Guwahati,Paltan Bazaar,Quick Bites,9am to 9pm(Mon-Sun),Average,3.4,9
+Kurry Pot,600,"North Indian,South Indian,Chinese",Guwahati,Silpukhuri,Casual Dining,10am to 10pm(Mon-Sun),Average,2.7,47
+Prime Bakes,500,"Bakery,Desserts",Guwahati,Beltola,Quick Bites,11am to 930pm(Mon-Sun),Average,3.0,35
+Citi Dhaba,500,"North Indian,Chinese",Guwahati,Six Mile,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,58
+Momo Station,350,"Chinese,North Indian,Momos",Guwahati,Chandmari,Quick Bites,10am to 10pm(Mon-Sun),Poor,2.4,40
+Fancy Feeds,150,Fast Food,Guwahati,Fancy Bazaar,Quick Bites,130pm to 9pm(Mon-Sun),Good,3.8,38
+Silentro,150,"North Indian,Fast Food",Guwahati,Hatigaon,Quick Bites,"10am to 9pm(Mon-Sat),Closed(Sun)",Good,3.5,45
+Old's Cool Cafe,400,Chinese,Guwahati,Chandmari,Quick Bites,11am to 930pm(Mon-Sun),Good,3.7,27
+Red and Hot,250,"Fast Food,Chinese",Guwahati,Zoo Tiniali,Quick Bites,10am to 10pm(Mon-Sun),Average,3.4,23
+Suchitra Bakery,100,Bakery,Guwahati,Kala Pahar,Bakery,"10am to 230pm,430pm to 10pm(Mon-Sun)",Good,3.7,45
+Klub - The Street Kitchen,400,Chinese,Guwahati,Ganeshguri,Quick Bites,1030am to 10pm(Mon-Sun),Average,3.2,15
+Dosa Plaza,400,South Indian,Guwahati,Central Mall-- Christian Basti,Food Court,10am to 10pm(Mon-Sun),Average,3.4,31
+De'licious - Hotel Royal De Casa,1500,"North Indian,Continental,Chinese",Guwahati,Hotel Royal De Casa-- Beltola,Fine Dining,730am to 1030pm(Mon-Sun),Good,3.5,21
+Assamese Gorkha Kitchen,350,Assamese,Guwahati,Ulubari,Quick Bites,11am to 10pm(Mon-Sun),Average,3.2,17
+Eagle Nest Restaurant,500,"North Indian,Chinese,Continental",Guwahati,Maligaon,Casual Dining,1130am to 10pm(Mon-Sun),Average,3.4,18
+Kamrupa Food Junction,200,"Fast Food,Chinese",Guwahati,Paltan Bazaar,Quick Bites,11am to 10pm(Mon-Sun),Good,3.5,13
+Eggivorous,500,"Fast Food,Chinese,North Indian",Guwahati,Beltola,Quick Bites,9am to 1030pm(Mon-Sun),Good,3.6,13
+Spicy Affair,300,Chinese,Guwahati,Amingaon,Quick Bites,10am to 10pm(Mon-Sun),Average,2.7,24
+Vyanjan - The Food Village,650,"North Indian,South Indian,Chinese,Street Food",Guwahati,Amingaon,Casual Dining,8am to 1030pm(Mon-Sun),Good,3.7,26
+Aroma Restaurant,450,"North Indian,Chinese",Guwahati,Ulubari,Casual Dining,7am to 1030pm(Mon-Sun),Average,3.4,21
+Happy Nook,300,Chinese,Guwahati,Maligaon,none,"10am to 10pm(Mon,Wed,Thu,Fri,Sat,Sun),11am...",Average,3.4,14
+JB Fast Food,350,"North Indian,Chinese,Fast Food,Rolls",Guwahati,Jalukbari,Quick Bites,"10am to 930pm(Mon-Sat),Closed(Sun)",Average,3.4,14
+J 14,500,"Fast Food,Tibetan",Guwahati,Bhangagarh,Quick Bites,4pm to 1030pm(Mon-Sun),Average,3.4,17
+Chatar Patar,350,"Fast Food,Street Food",Guwahati,Ulubari,Quick Bites,10am to 9pm(Mon-Sun),Average,3.1,9
+Multi Kitchen,350,"North Indian,Bengali",Guwahati,Ulubari,Quick Bites,10am to 10pm(Mon-Sun),Average,3.4,15
+Cafe Strings,400,"Continental,Chinese,Indian,Italian",Guwahati,Hengerabari,Quick Bites,12noon to 10pm(Mon-Sun),Good,3.6,11
+Steams And Fries,250,"North Indian,Fast Food",Guwahati,Kahilipara,Quick Bites,11am to 1030pm(Mon-Sun),Average,3.2,12
+R-omas Restaurant,800,"North Indian,Chinese,Mughlai",Guwahati,Ganeshguri,Casual Dining,11am to 1030pm(Mon-Sun),Good,3.7,34
+Iora Kitchen,500,"North Indian,Seafood",Guwahati,Zoo Tiniali,none,"1230pm to 330pm,630pm to 930pm(Mon-Sun)",Average,3.3,7
+Y'not Juice & Snacks,200,"Desserts,Beverages,Sandwich",Guwahati,Christian Basti,Quick Bites,1030am to 9pm(Mon-Sun),Good,3.9,13
+Dosa Wala,200,South Indian,Guwahati,Silpukhuri,Quick Bites,12noon to 10pm(Mon-Sun),Good,3.5,39
+Nabhoj Restaurant,600,Assamese,Guwahati,Pan Bazaar,Casual Dining,10am to 1030pm(Mon-Sun),Good,3.6,29
+Rice Tales,500,Assamese,Guwahati,Narengi Tinali,Casual Dining,1pm to 1030pm(Mon-Sun),Good,3.6,19
+The Singpho Kitchen,500,"Indian,Assamese,North Eastern",Guwahati,Zoo Tiniali,Casual Dining,1130am to 1030pm(Mon-Sun),Good,3.6,15
+Masala Joint,300,"North Eastern,Chinese",Guwahati,Uzan Bazaar,Quick Bites,10am to 10pm(Mon-Sun),Good,3.5,25
+Morung Restaurant,400,"Naga,Chinese,North Indian",Guwahati,Bhangagarh,Quick Bites,10am to 10pm(Mon-Sun),Good,3.5,37
+Borghar Restaurant,800,"Chinese,North Indian",Guwahati,Six Mile,Casual Dining,11am to 1030pm(Mon-Sun),Good,3.5,19
+Shanghai Restaurant,550,"Chinese,Fast Food,North Indian",Guwahati,Pan Bazaar,Casual Dining,1030am to 10pm(Mon-Sun),Good,3.5,26
+Baker's,300,"Bakery,Fast Food",Guwahati,Bhangagarh,Bakery,10am to 9pm(Mon-Sun),Average,3.2,6
+Fire Bowl,400,"Fast Food,Chinese,North Indian",Guwahati,Christian Basti,Quick Bites,12noon to 10pm(Mon-Sun),Average,2.6,18
+Prem Cold Centre,150,"Fast Food,Street Food",Guwahati,Fancy Bazaar,Quick Bites,"11am to 3pm,6pm to 930pm(Mon-Sun)",Good,3.6,32
+Loyans,300,Bakery,Guwahati,Khanapara,Bakery,10am to 9pm(Mon-Sun),Good,3.5,19
+Zaika,600,"South Indian,North Indian,Chinese",Guwahati,Bharalumukh,Casual Dining,8am to 10pm(Mon-Sun),Average,3.0,34
+Chicken @21,400,North Indian,Guwahati,Ganeshguri,Quick Bites,12noon to 1030pm(Mon-Sun),Average,3.2,6
+Queens,400,"North Indian,Chinese,Biryani",Guwahati,Silpukhuri,Quick Bites,12noon to 10pm(Mon-Sun),Good,3.5,13
+Talk Of The Town,200,North Indian,Guwahati,Chandmari,Quick Bites,"11am to 1030pm(Mon-Sat),1pm to 1030pm(Sun)",Average,3.3,14
+Nubo,400,"Healthy Food,Salad,Sandwich",Guwahati,Hatigaon,none,"1pm to 9pm(Mon-Sat),Closed(Sun)",Good,3.5,16
+Bapi Chat House,300,"Biryani,Street Food,Momos",Guwahati,Maligaon,Quick Bites,11am to 10pm(Mon-Sun),Good,3.6,27
+The Hungry Monk,600,Asian,Guwahati,Christian Basti,Quick Bites,1145am to 945pm(Mon-Sun),Good,3.6,23
+Guwahati Dining,1500,"North Indian,Chinese",Guwahati,Zoo Tiniali,Casual Dining,1230pm to 1030pm(Mon-Sun),Average,2.9,13
+Buns & Bowls,300,"Naga,Fast Food",Guwahati,Narengi Tinali,Quick Bites,"12noon to 9pm(Mon-Sat),Closed(Sun)",Good,3.6,29
+Naga Food Court,250,North Eastern,Guwahati,Fancy Bazaar,Quick Bites,"10am to 9pm(Mon-Sat),Closed(Sun)",Good,3.6,17
+Ice Land,200,"Ice Cream,Desserts",Guwahati,Pan Bazaar,Dessert Parlor,11am to 930pm(Mon-Sun),Average,3.4,12
+King's & Queen's,500,"Biryani,Chinese",Guwahati,Uzan Bazaar,Quick Bites,11am to 1030pm(Mon-Sun),Average,3.0,12
+Chaat House,400,Street Food,Guwahati,Bhangagarh,Food Court,11am to 10pm(Mon-Sun),Average,3.3,9
+The Black Roof Cafe,250,"Chinese,Rolls,Momos",Guwahati,Chandmari,Café,11am to 11pm(Mon-Sun),Good,3.6,36
+Mexitthachi,1000,"Thai,Mexican,Italian,Chinese",Guwahati,Hotel Nandan-- Paltan Bazaar,Casual Dining,1pm to 930pm(Mon-Sun),Average,3.4,29
+Pizza Hut,700,"Pizza,Italian",Guwahati,Dona Planet Mall-- Christian Basti,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.0,424
+Dilli 6,600,"North Indian,Biryani,Chinese,Mughlai",Guwahati,Hatigaon,Casual Dining,11am to 11pm(Mon-Sun),Good,3.8,230
+Domino's Pizza,400,"Pizza,Fast Food",Guwahati,Zoo Tiniali,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.0,237
+Red Hot Chilli Pepper,1500,"Chinese,Thai",Guwahati,Ganeshguri,Casual Dining,"12noon to 11pm(Mon-Fri),12noon to 1130pm(Sat-Sun)",Very Good,4.2,438
+Three Guys,1000,"Continental,North Indian,Chinese,Arabian,Thai,Momos",Guwahati,Zoo Tiniali,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.0,789
+Snap Dine,500,"North Indian,Chinese,Momos",Guwahati,Zoo Tiniali,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.0,142
+Oriental Bistro,1100,"Thai,Japanese,Chinese,Momos",Guwahati,Ulubari,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.3,167
+Chinese Hut,450,"Chinese,North Indian,Momos",Guwahati,Ulubari,Casual Dining,11am to 11pm(Mon-Sun),Good,3.7,201
+Ziya,700,"Continental,Chinese",Guwahati,Silpukhuri,Casual Dining,12noon to 11pm(Mon-Sun),Very Good,4.4,302
+Epic Momos,300,"Chinese,Momos",Guwahati,Six Mile,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.8,180
+Chai Break,600,"Cafe,Fast Food,North Indian,Italian",Guwahati,Ganeshguri,Café,11am to 11pm(Mon-Sun),Good,3.9,181
+The Yellow Chilli,1200,"Chinese,Continental,North Indian",Guwahati,The Hub-- Bhangagarh,Casual Dining,12noon to 11pm(Mon-Sun),Good,3.7,359
+Chick N Chilly,400,"Chinese,North Indian,Rolls",Guwahati,Christian Basti,Quick Bites,630pm to 12midnight(Mon-Sun),Very Good,4.0,182
+Taj Biryani,300,North Indian,Guwahati,Ulubari,Casual Dining,10am to 12midnight(Mon-Sun),Average,3.3,155
+Spice Route,900,"Chinese,North Indian,Fast Food",Guwahati,Dispur,Casual Dining,12noon to 11pm(Mon-Sun),Good,3.9,234
+Pooja Restaurant,300,"North Indian,Chinese",Guwahati,Bharalumukh,Quick Bites,10am to 10pm(Mon-Sun),Average,2.9,23
+Bento Box Cafe,400,"North Indian,Chinese,Asian",Guwahati,Six Mile,none,8am to 10pm(Mon-Sun),Average,2.8,16
+Cafe Orchid,300,Cafe,Guwahati,Christian Basti,Café,10am to 10pm(Mon-Sun),Average,2.8,14
+D Burp Nation,300,"Chinese,Indian",Guwahati,Uzan Bazaar,Quick Bites,11am to 10pm(Mon-Sun),Good,3.6,18
+Repose - Baker's Special,100,Bakery,Guwahati,Ganeshguri,Bakery,8am to 10pm(Mon-Sun),Average,2.8,13
+Bhabani Bhojonalaya,300,"Assamese,North Indian",Guwahati,Dispur,Quick Bites,830am to 10pm(Mon-Sun),Average,3.4,7
+Indish,350,"North Indian,Chinese",Guwahati,Silpukhuri,Quick Bites,11am to 1030pm(Mon-Sun),Average,3.4,12
+Trianshu Food Corner,200,"Chinese,North Indian",Guwahati,Dispur,Quick Bites,11am to 10pm(Mon-Sun),Average,3.1,4
+Spicy Hut Fast Food,300,Fast Food,Guwahati,Chandmari,Quick Bites,11am to 9pm(Mon-Sun),Good,3.5,19
+Tamam Foods,450,"Bakery,North Indian",Guwahati,Kahilipara,none,"8am to 1030pm(Mon,Tue,Wed,Fri,Sat,Sun),11am...",Average,3.4,18
+Lajeez,450,"North Indian,Chinese",Guwahati,Narengi Tinali,Casual Dining,1030am to 930pm(Mon-Sun),Average,2.7,20
+Cheers Crossroads,900,"North Indian,Chinese",Guwahati,Ganeshguri,Pub,1pm to 10pm(Mon-Sun),Average,2.6,24
+Classic Dine,700,"Chinese,North Indian,Momos",Guwahati,Narengi Tinali,Casual Dining,NA,Good,3.5,33
+Food @ 37,200,"Chinese,North Indian",Guwahati,Jalukbari,Quick Bites,10am to 10pm(Mon-Sun),Average,3.2,8
+Fitness Food All Day 7,300,"Healthy Food,Salad",Guwahati,Ganeshguri,Quick Bites,11am to 730pm(Mon-Sun),Average,3.2,9
+Maruti Restaurant,400,"North Indian,Rajasthani",Guwahati,Beltola,Quick Bites,9am to 10pm(Mon-Sun),Average,3.2,8
+Iris Deli,200,"Fast Food,Chinese,Bakery,North Indian",Guwahati,Ulubari,Quick Bites,"830am to 10pm(Mon-Sat),11am to 10pm(Sun)",Average,3.1,11
+Hot Box,350,"North Indian,Chinese,Street Food",Guwahati,Silpukhuri,Quick Bites,12noon to 1030pm(Mon-Sun),Average,2.7,16
+Master Chef Restaurant,500,"Indian,North Eastern",Guwahati,Uzan Bazaar,Casual Dining,9am to 9pm(Mon-Sun),Average,3.3,15
+Awesome Dine,500,"Desserts,Chinese,Biryani",Guwahati,Ganeshguri,Casual Dining,11am to 10pm(Mon-Sun),Good,3.6,10
+Jus Fresh,500,"Juices,Sandwich,Momos,Rolls,Salad,Desserts",Guwahati,Fancy Bazaar,Quick Bites,11am to 930pm(Mon-Sun),Biasa,3.4,13
+On The Plate,250,Fast Food,Guwahati,Zoo Tiniali,Quick Bites,(Mon-Sun),Average,3.0,16
+Cityline,350,Fast Food,Guwahati,Bhangagarh,Quick Bites,930am to 10pm(Mon-Sun),Average,2.8,16
+Missisippi Restaurant,300,South Indian,Guwahati,Ganeshguri,Quick Bites,1130am to 1030pm(Mon-Sun),Average,3.3,8
+Kathi Junction,500,"Fast Food,North Indian",Guwahati,Bhangagarh,Quick Bites,11am to 10pm(Mon-Sun),Average,3.3,18
+Quench,200,"Chinese,Seafood",Guwahati,Chandmari,Quick Bites,"10am to 10pm(Mon-Sat),12noon to 10pm(Sun)",Average,2.9,12
+Guwahati Grill,600,North Indian,Guwahati,Beltola,Quick Bites,11am to 10pm(Mon-Sun),Average,3.3,7
+Hill View Holiday Home And Resort,500,Indian,Guwahati,Maligaon,Casual Dining,9am to 7pm(Mon-Sun),Good,3.6,16
+B Veg,600,"North Indian,South Indian",Guwahati,Bhangagarh,Food Court,11am to 10pm(Mon-Sun),Average,3.1,12
+Punjabi Wok,600,"North Indian,Chinese",Guwahati,Jalukbari,Casual Dining,10am to 10pm(Mon-Sun),Average,3.3,20
+The Classic Retro,800,"Italian,Chinese,Fast Food",Guwahati,Hatigaon,Casual Dining,11am to 1030pm(Mon-Sun),Average,3.4,16
+The Big Freeze,300,Ice Cream,Guwahati,Christian Basti,Dessert Parlor,10am to 10pm(Mon-Sun),Average,3.3,9
+Dawat,400,North Indian,Guwahati,Ganeshguri,Quick Bites,10am to 10pm(Mon-Sun),Average,2.9,22
+Mom's Kitchen,300,"Chinese,Fast Food",Guwahati,Beltola,Quick Bites,12noon to 10pm(Mon-Sun),Average,3.4,25
+Rock Stone,250,Ice Cream,Guwahati,Bhangagarh,Food Court,11am to 10pm(Mon-Sun),Average,3.4,11
+Shree Krishnam,600,"South Indian,North Indian,Mithai,Chinese",Guwahati,Khanapara,Casual Dining,730am to 8pm(Mon-Sun),Average,2.9,11
+Chawla's,800,"North Indian,Chinese",Guwahati,Christian Basti,Casual Dining,1pm to 1am(Mon-Sun),Good,3.7,25
+Kashi Nath Das - Core 1,350,"North Indian,Biryani",Guwahati,Amingaon,Quick Bites,"830am to 730pm(Mon-Sat),Closed(Sun)",Average,3.2,5
+Regal Multi Cuisine Restaurant,1000,"Chinese,North Indian,South Indian",Guwahati,Maligaon,Quick Bites,"1230pm to 930pm(Mon,Tue,Wed,Fri,Sun)...",Average,3.3,7
+Ahom Chang,300,Chinese,Guwahati,Ganeshguri,Quick Bites,12noon to 9pm(Mon-Sun),Average,3.2,6
+Nutrilets,500,"Healthy Food,Chinese,North Indian",Guwahati,Ganeshguri,Quick Bites,10am to 10pm(Mon-Sun),Average,3.3,8
+Sumitra's Kitchen,200,"South Indian,Momos,North Indian",Guwahati,Ulubari,Quick Bites,12noon to 12midnight(Mon-Sun),Average,3.4,50
+Bir's Kitchen,350,"Chinese,South Indian,Momos,North Indian,Mughlai",Guwahati,Zoo Tiniali,Quick Bites,11am to 10pm(Mon-Sun),Average,3.4,13
+Tadka of India,800,North Indian,Guwahati,Bhangagarh,Food Court,11am to 10pm(Mon-Sun),Average,3.0,6
+Upasana Restaurant - Hotel Rodali Residency,400,"Biryani,Chinese,North Indian",Guwahati,Hotel Rodali Residency,Quick Bites,10am to 10pm(Mon-Sun),Average,3.3,14
+Red Chilli,500,"Assamese,North Indian",Guwahati,Ulubari,Casual Dining,11am to 10pm(Mon-Sun),Average,3.2,9
+Khai Saok,200,Assamese,Guwahati,Hatigaon,none,8am to 11am(Mon-Sun),Average,3.4,23
+Yummy Tummy,200,"North Indian,Chinese",Guwahati,Beltola,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,48
+Tawachi,500,"North Indian,Chinese",Guwahati,Ulubari,Casual Dining,7am to 1030pm(Mon-Sun),Average,3.2,3
+Air wings restaurant,700,"Chinese,North Indian",Guwahati,Jalukbari,Casual Dining,730am to 10pm(Mon-Sun),Average,3.4,14
+Restaurant Sugandh,200,Fast Food,Guwahati,Khanapara,Quick Bites,"12noon to 10pm(Mon-Sat),Closed(Sun)",Average,3.2,6
+Holy Fast Food,200,"Fast Food,North Indian,Chinese",Guwahati,Kahilipara,Quick Bites,"9am to 9pm(Mon),9am to 10pm(Tue-Sun)",Average,3.1,7
+Pakghar,600,"North Indian,Chinese,Assamese",Guwahati,Kala Pahar,Quick Bites,8am to 10pm(Mon-Sun),Average,3.2,17
+Mom's Kitchen,200,North Indian,Guwahati,Maligaon,none,830am to 930pm(Mon-Sun),Average,2.8,19
+Latasca Bar & Restaurant,800,Finger Food,Guwahati,Paltan Bazaar,Bar,11am to 10pm(Mon-Sun),Average,2.8,7
+Chitra Restaurant,0,North Indian,Guwahati,Maligaon,Casual Dining,11am to 10pm(Mon-Sun),Average,3.3,11
+High Street Choolah,350,"Biryani,Chinese,North Indian",Guwahati,Christian Basti,Quick Bites,12noon to 1130pm(Mon-Sun),Good,3.7,20
+Kolkata Roll,200,Chinese,Guwahati,Chandmari,Quick Bites,3pm to 1030pm(Mon-Sun),Average,3.3,8
+Bombay Kulfi,100,Ice Cream,Guwahati,Ulubari,Dessert Parlor,10am to 10pm(Mon-Sun),Average,3.3,6
+Fries,300,"Fast Food,Chinese",Guwahati,Bharalumukh,Quick Bites,9am to 10pm(Mon-Sun),Average,3.2,9
+Camellia - Hotel Gateway Grandeur,350,"Cafe,Bakery",Guwahati,Hotel Gateway Grandeur-- Christian Basti,Café,9am to 9pm(Mon-Sun),Average,3.1,12
+Randhan Restaurant,450,"North Indian,Chinese",Guwahati,Fancy Bazaar,Casual Dining,8am to 10pm(Mon-Sun),Average,3.2,8
+Harcheez@99,150,Fast Food,Guwahati,Beltola,none,1130am to 930pm(Mon-Sun),Average,3.2,9
+Itihaas,200,North Eastern,Guwahati,Jalukbari,Quick Bites,10am to 10pm(Mon-Sun),Average,3.4,6
+Scoops N Smile,150,"Ice Cream,Beverages",Guwahati,Ganeshguri,Dessert Parlor,11am to 10pm(Mon-Sun),Average,3.1,6
+Grills n Fries,300,"Fast Food,North Indian,Chinese",Guwahati,Beltola,Quick Bites,10am to 10pm(Mon-Sun),Average,3.3,6
+Yummy Foodz,300,"Fast Food,Chinese",Guwahati,Paltan Bazaar,Quick Bites,7am to 10pm(Mon-Sun),Average,3.3,4
+The Boho Roots Cafe,400,"Cafe,Pizza",Guwahati,Kala Pahar,Café,10am to 10pm(Mon-Sun),Average,3.4,9
+Kesaria Chaiwala,400,"Beverages,Bakery",Guwahati,Zoo Tiniali,Beverage Shop,11am to 8pm(Mon-Sun),Average,3.3,6
+Pan Asia,300,Asian,Guwahati,Hatigaon,Quick Bites,11am to 1030pm(Mon-Sun),Average,3.4,14
+You Me 3,200,"North Indian,Chinese",Guwahati,Bhangagarh,Quick Bites,11am to 10pm(Mon-Sun),Average,3.1,9
+Khorong Akhaj Restaurant,500,"Assamese,Chinese,Indian",Guwahati,Ganeshguri,Quick Bites,10am to 10pm(Mon-Sun),Average,3.2,7
+RB's Restaurant,250,"Chinese,Fast Food",Guwahati,Bhangagarh,Quick Bites,8am to 9pm(Mon-Sun),Average,2.9,10
+Food Fun,200,"North Indian,Chinese",Guwahati,Zoo Tiniali,Quick Bites,"1030am to 10pm(Mon-Sat),1pm to 10pm(Sun)",Average,3.1,14
+South Coast Foods,400,"North Indian,Chinese",Guwahati,Christian Basti,Quick Bites,1030am to 1030pm(Mon-Sun),Average,3.2,4
+DH's Food Express,400,"North Indian,Chinese",Guwahati,Christian Basti,Food Court,10am to 1030pm(Mon-Sun),Average,3.3,5
+The Grill Avenue,900,"North Indian,Continental,Asian",Guwahati,Bhangagarh,Casual Dining,11am to 11pm(Mon-Sun),Good,3.9,55
+North East Kitchen,200,Chinese,Guwahati,Ganeshguri,Quick Bites,11am to 1030pm(Mon-Sun),Average,3.1,7
+Food Hub,200,"North Indian,Chinese,Rolls,Fast Food",Guwahati,Ulubari,Casual Dining,12noon to 930pm(Mon-Sun),Average,3.2,5
+Hotel Kamrupa,350,"Fast Food,North Indian,Chinese",Guwahati,Ganeshguri,Quick Bites,10am to 915pm(Mon-Sun),Average,3.0,7
+Lords Bar,800,Finger Food,Guwahati,Hotel Nandan-- Paltan Bazaar,Bar,1pm to 930pm(Mon-Sun),Average,3.4,12
+Yum Yum Momos,150,Momos,Guwahati,Bhangagarh,Food Court,11am to 10pm(Mon-Sun),Average,3.1,7
+Delicacy,300,"North Indian,Chinese",Guwahati,Amingaon,Quick Bites,10am to 10pm(Mon-Sun),Average,3.4,7
+Food Junction,350,"Fast Food,Chinese,North Indian",Guwahati,Central Mall-- Christian Basti,Quick Bites,11am to 1030pm(Mon-Sun),Average,3.2,7
+Sip N Snack,200,"Juices,Fast Food",Guwahati,Fancy Bazaar,Quick Bites,8am to 830pm(Mon-Sun),Average,3.0,3
+Delicious,150,Assamese,Guwahati,Dispur,Quick Bites,10am to 10pm(Mon-Sun),Average,2.9,11
+House Of Candy,300,Desserts,Guwahati,Bhangagarh,Confectionery,11am to 10pm(Mon-Sun),Average,3.2,4
+Kalita Hotel & Restaurant,400,"North Indian,Indian",Guwahati,Hengerabari,Quick Bites,11am to 10pm(Mon-Sun),Average,3.2,7
+Om Hungry Kya,200,Street Food,Guwahati,Maligaon,Quick Bites,11am to 1030pm(Mon-Sun),Average,3.1,10
+Triangle Resturant,300,North Eastern,Guwahati,Jalukbari,Casual Dining,"10am to 9pm(Mon-Sat),Closed(Sun)",Average,3.3,9
+Royal Naga Hotel,600,Naga,Guwahati,Paltan Bazaar,Casual Dining,11am to 10pm(Mon-Sun),Average,3.3,4
+Jeet Bhojnalaya,400,North Indian,Guwahati,Beltola,Quick Bites,11am to 9pm(Mon-Sun),Average,3.2,4
+Trinkas Restaurant,450,"North Indian,Chinese,Bengali",Guwahati,Dispur,Casual Dining,1130am to 1030pm(Mon-Sun),Average,3.3,9
+New D Dhaba,300,"Fast Food,Chinese",Guwahati,Zoo Tiniali,Dhaba,1130am to 1030pm(Mon-Sun),Average,3.3,4
+Funky Foods,600,"Chinese,Momos",Guwahati,Zoo Tiniali,Quick Bites,12noon to 1030pm(Mon-Sun),Average,3.3,9
+Special Chicken Dum Biryani,100,Biryani,Guwahati,Pan Bazaar,Kiosk,11am to 7pm(Mon-Sun),Average,3.1,7
+Facefood,300,"Chinese,Momos",Guwahati,Amingaon,Quick Bites,10am to 10pm(Mon-Sun),Average,3.2,10
+The Gold Finch Restaurant,500,"Chinese,North Indian",Guwahati,Zoo Tiniali,Casual Dining,10am to 930pm(Mon-Sun),Average,3.1,4
+Rolls Mania,450,"Rolls,Fast Food",Guwahati,Paltan Bazaar,Quick Bites,11am to 12midnight(Mon-Sun),Good,3.9,154
+Quick Pick,500,"Chinese,Momos",Guwahati,Uzan Bazaar,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.0,356
+Michinga,750,"Assamese,Chinese,Naga,Beverages",Guwahati,Uzan Bazaar,Quick Bites,12noon to 11pm(Mon-Sun),Very Good,4.4,115
+John's Kitchen,350,"Chinese,Momos",Guwahati,Christian Basti,Quick Bites,130pm to 10pm(Mon-Sun),Excellent,4.6,785
+Frozen Stone,200,"Desserts,Ice Cream,Bakery",Guwahati,Paltan Bazaar,Dessert Parlor,11am to 12midnight(Mon-Sun),Very Good,4.0,99
+The Steaming Mug,800,Cafe,Guwahati,Uzan Bazaar,Café,1030am to 1030pm(Mon-Sun),Very Good,4.2,541
+Chicago Pizza,400,"Pizza,Italian,Continental,Fast Food",Guwahati,Christian Basti,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,100
+The Dhaba,700,"North Indian,Biryani",Guwahati,Silpukhuri,Quick Bites,9am to 1030pm(Mon-Sun),Very Good,4.1,646
+Cafe Gram,350,"Chinese,Biryani",Guwahati,Zoo Tiniali,Café,930am to 930pm(Mon-Sun),Very Good,4.0,154
+Saatvik,1000,"North Indian,South Indian,Chinese",Guwahati,Fancy Bazaar,Casual Dining,9am to 11pm(Mon-Sun),Good,3.7,133
+Mast Biryani,550,"North Indian,Biryani",Guwahati,Zoo Tiniali,Quick Bites,1130am to 1030pm(Mon-Sun),Excellent,4.5,881
+O Maa Go,800,Bengali,Guwahati,Ulubari,Casual Dining,"10am to 430pm,7pm to 11pm(Mon-Sun)",Good,3.6,178
+Keventers,400,"Desserts,Beverages,Ice Cream",Guwahati,Uzan Bazaar,Beverage Shop,11am to 11pm(Mon-Sun),Very Good,4.1,149
+Nanz Cafe,800,"Cafe,Momos",Guwahati,Zoo Tiniali,Café,11am to 1030pm(Mon-Sun),Excellent,4.5,247
+The Zouq : Resto-Cafe,700,"Chinese,Cafe,Italian,North Indian",Guwahati,Beltola,Café,1030am to 10pm(Mon-Sun),Good,3.8,594
+Kalpana Restaurant,400,"Mithai,North Indian,Chinese",Guwahati,Maligaon,Sweet Shop,830am to 930pm(Mon-Sun),Average,3.2,7
+Xika,500,"Chinese,North Indian",Guwahati,Paltan Bazaar,Casual Dining,"10am to 430pm,530pm to 10pm(Mon-Sun)",Average,2.9,5
+Magpie Restaurant,700,"Chinese,North Indian,South Indian",Guwahati,Hotel Lilawati Grand-- Pan Bazaar,Fine Dining,730am to 1030pm(Mon-Sun),Average,2.9,3
+Food O'Clock,450,"North Indian,Chinese",Guwahati,Zoo Tiniali,Quick Bites,"11am to 10pm(Mon-Sat),5pm to 10pm(Sun)",Average,3.1,4
+Charcoal Cafe,200,"Cafe,Fast Food",Guwahati,Six Mile,Café,11am to 10pm(Mon-Sun),Average,3.2,4
+Woodland Dhaba,300,"Chinese,Fast Food",Guwahati,Beltola,Quick Bites,10am to 10pm(Mon-Sun),Average,3.0,5
+Red Spice,650,"North Indian,Chinese,Italian",Guwahati,Zoo Tiniali,Casual Dining,10am to 10pm(Mon-Sun),Average,3.0,6
+Pork Restaurant,350,North Eastern,Guwahati,Amingaon,Quick Bites,930am to 10pm(Mon-Sun),Average,3.2,4
+Manjuli Dhaba,450,"North Indian,Fast Food",Guwahati,Narengi Tinali,Quick Bites,1030am to 930pm(Mon-Sun),Average,2.9,4
+Legend,700,"Chinese,North Indian",Guwahati,Paltan Bazaar,Casual Dining,10am to 1030pm(Mon-Sun),Average,2.8,1
+Food Doof,250,North Indian,Guwahati,Uzan Bazaar,Quick Bites,10am to 930pm(Mon-Sun),Average,3.1,4
+The Royal Crown,800,North Indian,Guwahati,Christian Basti,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,46
+Foodie's World,350,"Fast Food,Pizza",Guwahati,Amingaon,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,28
+New Momo Ghar,200,"Fast Food,Tibetan",Guwahati,Chandmari,Quick Bites,11am to 12midnight(Mon-Sun),Good,3.6,49
+Dekchi,200,"North Indian,Chinese",Guwahati,Ganeshguri,Casual Dining,1pm to 1am(Mon-Sun),Good,3.5,14
+Meat & Eat,400,"American,Fast Food",Guwahati,Jalukbari,Quick Bites,10am to 11pm(Mon-Sun),Average,3.4,47
+Meat Durbari,250,North Indian,Guwahati,Christian Basti,Quick Bites,630pm to 11pm(Mon-Sun),Good,3.6,39
+Taste of Kolkata,500,"Chinese,Bengali,North Indian",Guwahati,Christian Basti,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.6,47
+Kukura,600,"North Indian,Chinese,Momos",Guwahati,Ulubari,Quick Bites,1pm to 11pm(Mon-Sun),Average,3.4,37
+Silver Dine Multicuisine Restaurant,600,"North Indian,Chinese,Continental",Guwahati,Amingaon,Casual Dining,11am to 11pm(Mon-Sun),Average,2.8,62
+Avijit Bar & Restaurant,600,"North Indian,Chinese",Guwahati,Maligaon,Casual Dining,12noon to 11pm(Mon-Sun),Average,2.7,48
+Kerala Cafe,450,"South Indian,North Indian",Guwahati,Hatigaon,Café,10am to 11pm(Mon-Sun),Average,3.2,41
+Food Mafia,1100,"North Indian,Italian,Chinese",Guwahati,Beltola,Casual Dining,12noon to 11pm(Mon-Sun),Good,3.5,21
+Pabrai's Fresh & Naturelle Ice Creams,200,"Desserts,Ice Cream",Guwahati,Uzan Bazaar,Dessert Parlor,11am to 11pm(Mon-Sun),Good,3.9,20
+D' Yellow Plate,300,"Chinese,Continental",Guwahati,Uzan Bazaar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,20
+The Humble Chef,200,"North Indian,Chinese,Fast Food",Guwahati,Hatigaon,none,12noon to 11pm(Mon-Sun),Good,3.6,7
+Fat J's Cookhouse,300,Fast Food,Guwahati,Paltan Bazaar,Quick Bites,"Closed(Mon),12noon to 11pm(Tue-Sun)",Good,3.8,35
+Mad Over Burgers,300,Burger,Guwahati,Chandmari,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,33
+Dine o Might,700,North Indian,Guwahati,Six Mile,Quick Bites,"12noon to 11pm(Mon-Sat),5pm to 11pm(Sun)",Average,3.1,22
+5 Spice,300,"Chinese,Fast Food",Guwahati,Hatigaon,Quick Bites,11am to 1130pm(Mon-Sun),Average,3.4,9
+Bawarchi Da Dhaba,500,North Indian,Guwahati,Khanapara,Casual Dining,1030am to 1130pm(Mon-Sun),Average,2.8,35
+Pudina Pork Town,250,"Assamese,Bengali",Guwahati,Paltan Bazaar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,15
+Snap Dine Express,400,"North Indian,Chinese",Guwahati,Zoo Tiniali,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,12
+Tripti,250,"North Indian,Chinese",Guwahati,Kahilipara,Quick Bites,930am to 11pm(Mon-Sun),Average,3.4,16
+Dilkush Punjabi Dhaba,300,"North Indian,Fast Food,Biryani",Guwahati,Paltan Bazaar,Quick Bites,530am to 1230AM(Mon-Sun),Average,2.7,42
+Nand Gopala,500,"Fast Food,Biryani",Guwahati,Paltan Bazaar,Casual Dining,8am to 12midnight(Mon-Sun),Average,2.7,29
+JG's,200,"North Indian,Chinese",Guwahati,Paltan Bazaar,Quick Bites,6am to 12midnight(Mon-Sun),Poor,2.3,29
+Shere Punjab,350,North Indian,Guwahati,Khanapara,Quick Bites,1130am to 12midnight(Mon-Sun),Good,3.6,15
+Cygnett Pavilion,1200,"North Indian,Continental,Chinese",Guwahati,Cygnett Inn Repose-- Bhangagarh,Casual Dining,24,Good,3.6,29
+Cilantro,200,"North Indian,Chinese,Assamese",Guwahati,Kahilipara,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,11
+Metro Spice,250,"Chinese,Fast Food",Guwahati,Six Mile,none,12noon to 1am(Mon-Sun),Good,3.6,34
+Friends Fast Food & BBQ,300,"Chinese,Momos,Rolls",Guwahati,Beltola,Quick Bites,1pm to 1am(Mon-Sun),Average,3.4,13
+Club Dine Music Dance & Tulip Restaurant,800,"North Indian,Chinese",Guwahati,Six Mile,Lounge,1pm to 12midnight(Mon-Sun),Average,2.7,38
+Assam Kitchen,400,"South Indian,Assamese",Guwahati,Narengi Tinali,Casual Dining,12noon to 11pm(Mon-Sun),Good,3.5,18
+"Ratatouille: Food, Folks and Fun",400,"North Indian,Chinese,American",Guwahati,Silpukhuri,Quick Bites,12noon to 1130pm(Mon-Sun),Average,3.3,9
+i-Foods,350,"Tibetan,North Indian,Chinese",Guwahati,Paltan Bazaar,Quick Bites,8am to 11pm(Mon-Sun),Average,3.0,10
+Pabular Host,600,"Biryani,North Indian",Guwahati,Amingaon,Casual Dining,12noon to 12midnight(Mon-Sun),Average,3.1,11
+BrewBakes,500,"Cafe,Continental,Chinese",Guwahati,Six Mile,Café,11am to 10pm(Mon-Sun),Excellent,4.6,692
+Genuine Broaster Chicken,500,"American,Fast Food,Beverages",Guwahati,Zoo Tiniali,Casual Dining,11am to 1030pm(Mon-Sun),Very Good,4.2,644
+Moti Mahal Delux,1200,"North Indian,Mughlai",Guwahati,Zoo Tiniali,Quick Bites,1130am to 11pm(Mon-Sun),Good,3.8,132
+Recipes,1100,"Chinese,North Indian,Mughlai",Guwahati,Dispur,Casual Dining,11am to 11pm(Mon-Sun),Good,3.9,165
+Madiza Ultra Lounge,600,"Finger Food,North Indian,Chinese",Guwahati,Bhangagarh,Lounge,12noon to 12midnight(Mon-Sun),Good,3.8,118
+Reddy's Biryani And More,400,Biryani,Guwahati,Beltola,none,11am to 11pm(Mon-Sun),Average,3.1,52
+4 Seasons,500,"Chinese,North Indian,Momos",Guwahati,Uzan Bazaar,Quick Bites,10am to 10pm(Mon-Sun),Very Good,4.0,582
+Biryani Centre,800,"Biryani,North Indian,Rolls,Momos",Guwahati,Maligaon,Casual Dining,12noon to 10pm(Mon-Sun),Good,3.6,331
+The Bean Journal,600,"Cafe,Mediterranean,Chinese",Guwahati,Uzan Bazaar,Café,"1130am to 10pm(Mon,Tue,Wed,Thu,Sun),1130am...",Very Good,4.2,386
+Khorikaa Restaurant,500,Assamese,Guwahati,Ulubari,Casual Dining,"11am to 4pm,7pm to 1030pm(Mon-Sun)",Very Good,4.2,623
+Legacy,1000,"Thai,Chinese,North Indian,South Indian,Continental",Guwahati,Khanapara,Casual Dining,"730am to 1130am,1230pm to 430pm,7pm to 11pm...",Good,3.7,87
+Noodle Kitchen,500,"Chinese,Momos",Guwahati,Kahilipara,Quick Bites,11am to 10pm(Mon-Sun),Very Good,4.2,182
+Naga Kitchen,800,"Naga,Chinese",Guwahati,Six Mile,Quick Bites,10am to 10pm(Mon-Sun),Good,3.9,360
+Xtreme Sports Bar and Grill,1200,"North Indian,Continental,Chinese,Japanese",Guwahati,Christian Basti,Casual Dining,11am to 12midnight(Mon-Sun),Very Good,4.3,119
+Urban JuncXion,500,"Chinese,North Indian,Momos",Guwahati,Chandmari,Casual Dining,11am to 1030pm(Mon-Sun),Very Good,4.0,376
+Manikanta Food Court,300,"North Indian,South Indian",Guwahati,Amingaon,Food Court,11am to 11pm(Mon-Sun),Average,3.2,11
+JPS Dining,400,"North Indian,Chinese",Guwahati,Hatigaon,Quick Bites,12noon to 1130pm(Mon-Sun),Average,3.4,9
+16 Hillside Takeaway,150,North Indian,Guwahati,Uzan Bazaar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,15
+Farzipaan,150,"Beverages,Desserts",Guwahati,Christian Basti,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,22
+Hungry Jack's,300,Fast Food,Guwahati,Dispur,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,10
+Unique Foods,200,"North Indian,Fast Food",Guwahati,Zoo Tiniali,none,11am to 12midnight(Mon-Sun),Average,3.1,8
+Alaiz Food Planet,400,"Chinese,Fast Food",Guwahati,Hatigaon,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,14
+"Towkak Grille - Steak , Seafood & Bar",500,"Chinese,Seafood,Continental",Guwahati,Christian Basti,Casual Dining,11am to 11pm(Mon-Sun),Good,3.7,21
+KOKORIKO,300,"North Indian,Chinese",Guwahati,Six Mile,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,6
+Pizza Hut,0,"Italian,Pizza",Guwahati,Christian Basti,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,26
+Farzi Paan,400,Paan,Guwahati,Zoo Tiniali,Paan Shop,11am to 12midnight(Mon-Sun),Average,3.4,15
+PJ's Food,350,"Chinese,Fast Food",Guwahati,Silpukhuri,Quick Bites,12noon to 12midnight(Mon-Sun),Average,3.4,15
+Box Office Feast,1000,"South Indian,North Indian,Chinese,Momos",Guwahati,Chandmari,Casual Dining,10am to 11pm(Mon-Sun),Good,3.6,15
+Oink,800,Rolls,Guwahati,Chandmari,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.4,12
+Wings,250,"Chinese,North Indian",Guwahati,Paltan Bazaar,Quick Bites,1pm to 1230AM(Mon-Sun),Good,3.5,5
+Nrd's Kitchen,350,"North Indian,Chinese",Guwahati,Hatigaon,Casual Dining,1230pm to 12midnight(Mon-Sun),Average,3.3,10
+Jew,200,"North Indian,Chinese",Guwahati,Zoo Tiniali,Quick Bites,8am to 1130pm(Mon-Sun),Average,2.7,21
+Kapili Restaurant,200,"North Indian,Chinese,Mithai",Guwahati,Silpukhuri,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,6
+Hungry Belly,300,North Indian,Guwahati,Khanapara,Casual Dining,11am to 11pm(Mon-Sun),Average,3.1,10
+Red Box,300,"Biryani,Fast Food",Guwahati,Dispur,Quick Bites,10am to 11pm(Mon-Sun),Average,3.1,9
+Secretrait,1000,"North Indian,Chinese,Continental",Guwahati,Hotel Rajdhani Regency-- Dispur,Casual Dining,730am to 12midnight(Mon-Sun),Average,3.4,15
+House of Delicious Food,350,Fast Food,Guwahati,Paltan Bazaar,Quick Bites,11am to 1130pm(Mon-Sun),Average,3.4,11
+The Misingland,650,"Assamese,Chinese",Guwahati,Ganeshguri,Casual Dining,1130am to 11pm(Mon-Sun),Average,3.3,9
+Lilly's,400,"North Indian,Chinese",Guwahati,Zoo Tiniali,Quick Bites,10am to 11pm(Mon-Sun),Average,2.8,17
+Barbe Q Kitchen,350,"BBQ,North Indian",Guwahati,Zoo Tiniali,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,5
+F Connexion,700,North Indian,Guwahati,Ganeshguri,Bar,12noon to 12midnight(Mon-Sun),Average,3.4,8
+Yumtown,300,"Chinese,North Indian",Guwahati,Chandmari,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,13
+Food Style,250,"Chinese,North Indian,Rolls",Guwahati,Chandmari,Quick Bites,10am to 11pm(Mon-Sun),Average,3.1,7
+Abhisarika Rasoi,300,North Indian,Guwahati,Maligaon,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,6
+Night Food Service,400,North Indian,Guwahati,Ganeshguri,Casual Dining,6pm to 2am(Mon-Sun),Average,3.3,8
+Metro Kitchen,500,"Chinese,Momos,North Indian,Biryani",Guwahati,Beltola,Casual Dining,2pm to 12midnight(Mon-Sun),Average,3.2,9
+Faster Fries,200,Fast Food,Guwahati,Uzan Bazaar,Quick Bites,1230pm to 12midnight(Mon-Sun),Average,3.4,15
+The Food Hut,450,"Indian,Chinese",Guwahati,Zoo Tiniali,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,13
+RJ's Bistro,500,"Chinese,North Indian,Mughlai",Guwahati,Zoo Tiniali,Quick Bites,11am to 1130pm(Mon-Sun),Average,3.4,14
+Classic Court-D Courtyard,1200,Continental,Guwahati,Ganeshguri,Casual Dining,730am to 11pm(Mon-Sun),Average,3.3,6
+Food n Joyy,350,"Chinese,North Indian,Italian",Guwahati,Dispur,Quick Bites,12noon to 12midnight(Mon-Sun),Average,3.1,4
+Rabin Cabin,200,"North Indian,Chinese",Guwahati,Fancy Bazaar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,8
+Desi Kitchen,300,North Indian,Guwahati,Hatigaon,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,8
+Seasoning,700,"Chinese,Continental,North Indian",Guwahati,Hatigaon,Casual Dining,7am to 11pm(Mon-Sun),Average,3.3,8
+Bhogjora - Hotel Mahalaxmi,450,"North Indian,Chinese",Guwahati,Paltan Bazaar,Casual Dining,6am to 11pm(Mon-Sun),Average,3.2,8
+Express Kitchen,250,"North Indian,Chinese",Guwahati,Dispur,Quick Bites,12noon to 11pm(Mon-Sun),Average,2.8,5
+Byanjan,200,Assamese,Guwahati,Dispur,Quick Bites,10am to 11pm(Mon-Sun),Average,2.8,8
+Club V,1200,"Asian,North Indian",Guwahati,Dispur,Casual Dining,12noon to 11pm(Mon-Sun),Average,3.4,8
+Foodie Bite,200,"Chinese,Fast Food",Guwahati,Hatigaon,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,5
+Baritoz,300,Assamese,Guwahati,Khanapara,none,12noon to 12midnight(Mon-Sun),Average,3.4,14
+Brother's Treat,300,"Fast Food,Chinese",Guwahati,Chandmari,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,4
+Seat N Deal,500,"North Indian,Chinese",Guwahati,Khanapara,Quick Bites,10am to 11pm(Mon-Sun),Average,3.3,7
+Flavorino - Leap Of Taste,350,North Indian,Guwahati,Ulubari,Quick Bites,9am to 1130pm(Mon-Sun),Average,3.3,5
+Vinaigrette Canteen,250,"North Indian,Chinese,Fast Food",Guwahati,Amingaon,Quick Bites,"1230pm to 4pm,8pm to 11pm(Mon-Sun)",Average,3.2,4
+Punjabi Tadka,400,"North Indian,Chinese",Guwahati,Fancy Bazaar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,6
+Madina Hotel,150,"Biryani,Mughlai",Guwahati,Hatigaon,Quick Bites,9am to 11pm(Mon-Sun),Average,2.9,9
+Hotel Amrapali,300,North Indian,Guwahati,Paltan Bazaar,Quick Bites,630am to 1130pm(Mon-Sun),Average,3.0,1
+Hotel Brindavan,350,Assamese,Guwahati,Paltan Bazaar,Quick Bites,9am to 11pm(Mon-Sun),Average,3.0,4
+MUGHALS – Taste Meets Tradition,500,"Biryani,North Indian",Guwahati,Dispur,Casual Dining,12noon to 1030pm(Mon-Sun),Good,3.9,253
+Maa Manasha Hotel,500,Bengali,Guwahati,Maligaon,Casual Dining,9am to 10pm(Mon-Sun),Very Good,4.4,285
+Taii Singpho,500,North Eastern,Guwahati,Silpukhuri,Casual Dining,1230pm to 1030pm(Mon-Sun),Very Good,4.4,219
+Tipsy Town,450,"North Indian,Chinese,Italian",Guwahati,Zoo Tiniali,Quick Bites,1230pm to 10pm(Mon-Sun),Very Good,4.0,95
+Café Wings,700,"Cafe,Sandwich,Fast Food,North Indian",Guwahati,Six Mile,Café,12noon to 9pm(Mon-Sun),Good,3.9,245
+Center Point,400,"Biryani,North Indian",Guwahati,Amingaon,Casual Dining,11am to 11pm(Mon-Sun),Good,3.8,78
+Patisserie Operaa,350,"Bakery,Fast Food",Guwahati,Ulubari,Bakery,10am to 10pm(Mon-Sun),Very Good,4.1,336
+Roots,1200,"Continental,North Indian,Asian,Mughlai",Guwahati,Khanapara,Casual Dining,24,Good,3.6,89
+JB's,500,"South Indian,Fast Food,North Indian",Guwahati,Ganeshguri,Quick Bites,730am to 10pm(Mon-Sun),Very Good,4.0,164
+37 Street Affair,400,"Chinese,Italian,Fast Food,Momos",Guwahati,Khanapara,Casual Dining,1130am to 930pm(Mon-Sun),Very Good,4.0,150
+Deja Brew,250,"Continental,Chinese",Guwahati,Zoo Tiniali,Quick Bites,11am to 9pm(Mon-Sun),Very Good,4.0,34
+Gam's Delicacy Restaurant,800,Assamese,Guwahati,Ganeshguri,Casual Dining,11am to 10pm(Mon-Sun),Very Good,4.2,308
+Green Pepper's,800,"Fast Food,Chinese,Pizza",Guwahati,Beltola,Quick Bites,1030am to 1030pm(Mon-Sun),Very Good,4.3,275
+Pizzaz,600,"Pizza,Cafe",Guwahati,Zoo Tiniali,Café,12noon to 1030pm(Mon-Sun),Very Good,4.1,308
+Loyans Cafe and Restaurant,800,"Cafe,Italian",Guwahati,Zoo Tiniali,Café,1030am to 1030pm(Mon-Sun),Very Good,4.2,290
+Yanchin - Asian Restaurant,400,"Momos,Chinese",Guwahati,Khanapara,Quick Bites,11am to 10pm(Mon-Sun),Good,3.7,165
+Chick n Chilly,500,"North Indian,Chinese",Guwahati,Hengerabari,Quick Bites,12noon to 10pm(Mon-Sun),Very Good,4.0,159
+Shanghai Salsa,1200,"Continental,Fast Food,Chinese,Mexican",Guwahati,Zoo Tiniali,Casual Dining,12noon to 1030pm(Mon-Sun),Very Good,4.2,767
+Old Skool - Billiards and Bistro,800,"Continental,North Indian,Chinese",Guwahati,Uzan Bazaar,Casual Dining,11am to 10pm(Mon-Sun),Very Good,4.0,147
+MRB (Momo Roll Burger),250,"Burger,Rolls,Momos",Guwahati,Hatigaon,Quick Bites,2pm to 10pm(Mon-Sun),Good,3.9,121
+Sugar Rush,250,"North Indian,Chinese",Guwahati,Zoo Tiniali,Beverage Shop,"11am to 1130pm(Mon-Thu),11am to 12midnight...",Very Good,4.2,114
+Café Riverrun,500,"Cafe,Juices,Continental,Desserts,Salad,Italian",Guwahati,Uzan Bazaar,Café,7am to 10pm(Mon-Sun),Very Good,4.0,300
+Hot Pot Restaurant,600,"Asian,Chinese,North Indian",Guwahati,Uzan Bazaar,Casual Dining,1230pm to 1030pm(Mon-Sun),Good,3.8,234
+Anuradha's Box Office Feast,700,"South Indian,North Indian,Chinese,Continental,Momos",Guwahati,Chandmari,Casual Dining,10am to 11pm(Mon-Sun),Good,3.8,83
+Subway,500,"Healthy Food,Salad,Fast Food",Guwahati,Christian Basti,Quick Bites,1030am to 1030pm(Mon-Sun),Good,3.8,164
+Ichchapuron,1000,Bengali,Guwahati,Ganeshguri,Casual Dining,"12noon to 4pm,630pm to 1030pm(Mon-Sun)",Good,3.8,235
+Brown Bean Cafe & Restaurant,700,"North Indian,Continental,Chinese,Cafe",Guwahati,Uzan Bazaar,Café,10am to 930pm(Mon-Sun),Good,3.8,321
+Beatrix,750,"Chinese,North Indian,Fast Food",Guwahati,Uzan Bazaar,Casual Dining,11am to 10pm(Mon-Sun),Good,3.9,269
+Buddha Bowl,200,"Chinese,Momos,North Indian",Guwahati,Beltola,Quick Bites,"12noon to 101pm(Mon),11am to 10pm(Tue-Sun)",Very Good,4.0,81
+Ballygunge Place,1000,Bengali,Guwahati,Ulubari,Casual Dining,"1230pm to 4pm,7pm to 1030pm(Mon-Sat),1230pm...",Very Good,4.1,202
+ME - Meat And Eat,400,Fast Food,Guwahati,Beltola,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,55
+BY The Way,500,"Rolls,Chinese",Guwahati,Zoo Tiniali,Café,"12noon to 1030pm(Mon-Sat),4pm to 1030pm(Sun)",Very Good,4.1,125
+The Stayfit Kitchen,600,"Salad,Sandwich,Rolls",Guwahati,Hatigaon,Quick Bites,8am to 10pm(Mon-Sun),Good,3.9,78
+Chillax Cafe& Bistro,400,"Chinese,North Indian",Guwahati,Uzan Bazaar,Quick Bites,12noon to 930pm(Mon-Sun),Good,3.9,33
+16 Anna Bengali Restaurant,400,Bengali,Guwahati,Ulubari,Quick Bites,"12noon to 4pm,630pm to 1030pm(Mon-Sun)",Good,3.6,211
+Chang Mai,1000,Asian,Guwahati,Uzan Bazaar,Casual Dining,1pm to 10pm(Mon-Sun),Very Good,4.0,86
+J 14,250,"Fast Food,Rolls,Momos",Guwahati,Ulubari,Quick Bites,330pm to 11pm(Mon-Sun),Good,3.8,110
+Chick N Chilly,200,"North Indian,Rolls,Chinese",Guwahati,Ulubari,Quick Bites,1130am to 10pm(Mon-Sun),Very Good,4.0,91
+Frozen Punch,200,Desserts,Guwahati,Ulubari,Dessert Parlor,"Closed(Mon),130pm to 1030pm(Tue-Fri),1030am...",Very Good,4.2,120
+Zeppelin's,400,"Chinese,North Indian,Fast Food",Guwahati,Hatigaon,Casual Dining,1130am to 1030pm(Mon-Sun),Good,3.6,146
+Crackling Mustard,400,"Bengali,North Indian",Guwahati,Beltola,Quick Bites,11am to 10pm(Mon-Sun),Good,3.7,173
+Florentine - Hotel Gateway Grandeur,1000,"North Indian,Chinese,Continental",Guwahati,Hotel Gateway Grandeur-- Christian Basti,Casual Dining,730am to 1030pm(Mon-Sun),Very Good,4.0,129
+Y Not Juice,150,Juices,Guwahati,Six Mile,Beverage Shop,930am to 10pm(Mon-Sun),Very Good,4.3,62
+The Belgian Waffle Co.,250,"Bakery,Desserts",Guwahati,Zoo Tiniali,Dessert Parlor,11am to 11pm(Mon-Sun),Very Good,4.3,94
+Santa Fantasea,1000,Seafood,Guwahati,Zoo Tiniali,Casual Dining,12noon to 10pm(Mon-Sun),Very Good,4.1,76
+Uruka,1000,"Assamese,Healthy Food",Guwahati,Silpukhuri,Casual Dining,12noon to 10pm(Mon-Sun),Good,3.8,126
+Cuba Dining,800,"North Indian,Chinese",Guwahati,Maligaon,Casual Dining,10am to 1030pm(Mon-Sun),Good,3.5,138
+Chai Time,200,"Fast Food,Sandwich,Tea",Guwahati,Zoo Tiniali,Quick Bites,10am to 1030pm(Mon-Sun),Good,3.8,78
+Urban Mantra Restro Lounge,1000,"Chinese,North Indian",Guwahati,Khanapara,Casual Dining,1pm to 10pm(Mon-Sun),Good,3.9,186
+Sagar Ratna,500,"South Indian,North Indian,Chinese",Guwahati,Paltan Bazaar,Casual Dining,8am to 1030pm(Mon-Sun),Very Good,4.0,186
+Mast Punjabi Dhaba,600,"North Indian,Chinese",Guwahati,Ulubari,Quick Bites,11am to 10pm(Mon-Sun),Good,3.7,138
+Mosaic Bar and Restaurant,950,"North Indian,Continental,Assamese",Guwahati,Dispur,Casual Dining,630am to 1030pm(Mon-Sun),Good,3.8,97
+Style O Cake,500,Bakery,Guwahati,Fancy Bazaar,Bakery,10am to 1030pm(Mon-Sun),Good,3.5,150
+Momo Hut,150,"Fast Food,Tibetan,Momos",Guwahati,Beltola,Quick Bites,430pm to 10pm(Mon-Sun),Good,3.9,145
+Food.com,450,"North Indian,South Indian,Chinese",Guwahati,Six Mile,Quick Bites,10am to 1030pm(Mon-Sun),Poor,2.2,147
+Aahar,300,"North Indian,Chinese",Guwahati,Hatigaon,none,9am to 9pm(Mon-Sun),Good,3.7,42
+16 Hillside,700,"Indian,Chinese,Momos",Guwahati,Zoo Tiniali,Casual Dining,12noon to 10pm(Mon-Sun),Good,3.8,107
+Keri Beri,300,"Biryani,North Indian",Guwahati,Christian Basti,Quick Bites,8am to 10pm(Mon-Sun),Good,3.7,107
+New Citi Dhaba,700,"North Indian,Biryani,Chinese",Guwahati,Bhangagarh,Casual Dining,1130am to 1030pm(Mon-Sun),Good,3.8,85
+Soul Craft Cafe,600,"Cafe,Italian,Continental,Juices,Desserts,Salad",Guwahati,Uzan Bazaar,Café,11am to 1030pm(Mon-Sun),Very Good,4.2,66
+3 Way Point,400,"Chinese,Rolls",Guwahati,Chandmari,Café,10am to 1030pm(Mon-Sun),Good,3.6,85
+Ethnik,400,"Assamese,Naga,Chinese",Guwahati,Dispur,Quick Bites,12noon to 10pm(Mon-Sun),Good,3.9,49
+Brown Creams,500,"Pizza,Bakery,Desserts",Guwahati,Bharalumukh,Bakery,930am to 10pm(Mon-Sun),Good,3.6,79
+Slice of Heaven,800,"North Indian,Chinese",Guwahati,Zoo Tiniali,Casual Dining,11am to 1030pm(Mon-Sun),Average,3.4,123
+Cafe Coffee Day,650,"Cafe,Fast Food",Guwahati,Zoo Tiniali,Café,10am to 11pm(Mon-Sun),Average,3.0,82
+One Stop Kitchen,350,"Assamese,Rolls",Guwahati,Beltola,none,11am to 10pm(Mon-Sun),Good,3.8,101
+Kolkata Roll,200,"Fast Food,Street Food",Guwahati,Beltola,Quick Bites,10am to 10pm(Mon-Sun),Good,3.7,133
+Anandamoi,200,"North Indian,Chinese,Assamese",Guwahati,Six Mile,Quick Bites,"830am to 930pm(Mon-Sat),830am to 1pm(Sun)",Good,3.8,49
+The Sugar Butterfly,200,"Bakery,Desserts",Guwahati,Dispur,Bakery,11am to 10pm(Mon-Sun),Good,3.9,72
+Shahi Darbar,800,"North Indian,Chinese",Guwahati,Fancy Bazaar,Casual Dining,12noon to 1030pm(Mon-Sun),Very Good,4.1,108
+Emperor China,1000,Chinese,Guwahati,Zoo Tiniali,Casual Dining,"12noon to 430pm,630pm to 1030pm(Mon-Sun)",Good,3.6,89
+Trans Curry,850,"North Indian,Continental,Chinese,Assamese",Guwahati,Hotel Nandan-- Paltan Bazaar,Casual Dining,"11am to 3pm,7pm to 11pm(Mon-Sun)",Good,3.9,79
+Bonfire,300,"North Indian,Chinese,Rolls",Guwahati,Bhangagarh,Quick Bites,11am to 1030pm(Mon-Sun),Good,3.7,64
+Woodland's,250,South Indian,Guwahati,Ulubari,Quick Bites,830am to 930pm(Mon-Sun),Good,3.8,124
+N.E. Food Express,400,"North Indian,Seafood,Chinese,Assamese,South Indian",Guwahati,Beltola,Quick Bites,10am to 10pm(Mon-Sun),Average,2.5,96

@@ -1,0 +1,14 @@
+Name,Price,Cuisine_Category,City,Region,Cuisine_Type,Timing,Rating_Types,Rating,Votes
+Domino's Pizza,400,"Pizza,Fast Food",Dharamshala,Ram Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,74
+Sher e Punjab kala Momo Shop,300,North Indian,Dharamshala,Ram Nagar,Quick Bites,9am to 12midnight(Mon-Sun),Average,3.3,22
+Surya Punjabi Vaishno Dhaba,200,North Indian,Dharamshala,Ram Nagar,Bhojanalya,8am to 11pm(Mon-Sun),Average,3.3,7
+Buttercup Restaurant & Bar,800,"Chinese,Continental,North Indian,Tibetan",Dharamshala,Chilgari,Casual Dining,9am to 12midnight(Mon-Sun),Average,3.2,9
+Vinod Chat Bhandar,300,"Chinese,North Indian,South Indian",Dharamshala,Ram Nagar,Quick Bites,6am to 10pm(Mon-Sun),Average,3.2,8
+Krazy Hunger,300,Fast Food,Dharamshala,Ram Nagar,Quick Bites,10am to 10pm(Mon-Sun),Average,3.2,7
+Sharma's Bakers,250,"Bakery,Desserts",Dharamshala,Ram Nagar,Bakery,10am to 8pm(Mon-Sun),Average,3.2,10
+Pepper - N - Salt,800,"North Indian,Chinese,Fast Food,Beverages",Dharamshala,Chilgari,Casual Dining,8am to 1015pm(Mon-Sun),Average,3.2,11
+City Heart Restaurant,800,"South Indian,Chinese,North Indian",Dharamshala,Ram Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,6
+Vinod Chat Bhandar,200,"Chinese,North Indian,South Indian",Dharamshala,Ram Nagar,Quick Bites,6am to 10pm(Mon-Sun),Average,3.2,5
+The Mustard Door,500,"North Indian,Fast Food",Dharamshala,Gamru,Casual Dining,9am to 10pm(Mon-Sun),Average,3.2,5
+Mid Town Restaurant,400,"North Indian,Chinese",Dharamshala,Ram Nagar,Casual Dining,12noon to 1030pm(Mon-Sun),Average,3.2,7
+The Dhaulladhar,800,"North Indian,Himachali,South Indian,Continental,Chinese",Dharamshala,Chilgari,Casual Dining,730am to 1030pm(Mon-Sun),Average,3.2,6

@@ -1,0 +1,220 @@
+Name,Price,Cuisine_Category,City,Region,Cuisine_Type,Timing,Rating_Types,Rating,Votes
+Brewers - The Coffee Bar,500,Cafe,Jammu,Old Heritage City,Café,8am to 11pm(Mon-Sun),Excellent,4.6,211
+Humpty Dumpty,300,"Pizza,Burger,Fast Food",Jammu,Nanak Nagar,none,11am to 11pm(Mon-Sun),Excellent,4.6,231
+RMP Restaurant,300,"Indian,Chinese",Jammu,Shastri Nagar,Quick Bites,11am to 11pm(Mon-Sun),Excellent,4.6,231
+Nox Cafe & Bar,600,"Continental,Chinese,Italian,Modern Indian",Jammu,Trikuta Nagar,Casual Dining,12noon to 12midnight(Mon-Sun),Very Good,4.3,214
+Domino's Pizza,700,"Pizza,Fast Food",Jammu,Trikuta Nagar,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.0,265
+My Burger's Lab,250,"Burger,Fast Food",Jammu,Trikuta Nagar,none,11am to 11pm(Mon-Sun),Good,3.9,161
+Nomad Cafe,200,Fast Food,Jammu,Trikuta Nagar,Quick Bites,11am to 1030pm(Mon-Sun),Good,3.9,95
+Mango,300,"North Indian,Continental,Italian,Beverages",Jammu,Trikuta Nagar,Quick Bites,1030am to 1030pm(Mon-Sun),Very Good,4.2,128
+Kaffberry,250,"Cafe,Bakery",Jammu,Channi Himmat,Café,11am to 1030pm(Mon-Sun),Very Good,4.3,156
+Buffet Hut,600,North Indian,Jammu,Gandhi Nagar,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.0,192
+Pahalwan's,300,"Fast Food,Desserts,North Indian",Jammu,Channi Himmat,Food Court,11am to 11pm(Mon-Sun),Very Good,4.0,105
+KC 360,400,"North Indian,Fast Food",Jammu,Resham Ghar Colony,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,86
+Cafe Scootervala,700,"Cafe,Modern Indian",Jammu,Trikuta Nagar,Café,12noon to 11pm(Mon-Sun),Very Good,4.1,127
+KC 360 Restaurant & Bakery,300,"Bakery,Fast Food",Jammu,Trikuta Nagar,Bakery,11am to 11pm(Mon-Sun),Average,3.3,80
+The Brewbakers,250,"Bakery,Fast Food",Jammu,Channi Himmat,Bakery,"1030am to 11pm(Mon-Tue),11am to 11pm(Wed-Sun)",Good,3.9,97
+Vijay Di Hatti,200,North Indian,Jammu,Trikuta Nagar,Quick Bites,2pm to 10pm(Mon-Sun),Average,3.4,11
+Elite Baker's & Snacks,100,Bakery,Jammu,Shastri Nagar,Bakery,12noon to 10pm(Mon-Sun),Average,3.1,5
+Dhaba Dot Com,400,"North Indian,South Indian,Chinese",Jammu,Channi Himmat,Quick Bites,11am to 10pm(Mon-Sun),Average,2.9,6
+Mummy’s Kitchen,300,"Mughlai,North Indian,Afghan",Jammu,Nanak Nagar,none,NA,Average,3.2,7
+Pizza Express,600,Pizza,Jammu,Nanak Nagar,Quick Bites,11am to 10pm(Mon-Sun),Average,2.9,5
+PMC Bhujiawala,200,"Mithai,Street Food",Jammu,Hari Market,Confectionery,11am to 10pm(Mon-Sun),Average,3.2,8
+Aliza Food Hub,300,Fast Food,Jammu,Rehari Colony,Quick Bites,10am to 10pm(Mon-Sun),Average,3.2,7
+Healthy Grill,500,"South Indian,North Indian",Jammu,Nanak Nagar,Casual Dining,930am to 1030pm(Mon-Sun),Average,3.3,33
+Firemint The Flavour,500,"Fast Food,Pizza",Jammu,Lal Kuan,Quick Bites,9am to 10pm(Mon-Sun),Average,3.0,4
+Smokin Joe's,600,Pizza,Jammu,Trikuta Nagar,Quick Bites,11am to 1130pm(Mon-Sun),Average,3.4,53
+Funbytes Express,300,Fast Food,Jammu,Channi Himmat,Quick Bites,1130am to 1130pm(Mon-Sun),Good,3.9,43
+Tandoori Hub,500,"North Indian,Fast Food",Jammu,Transport Nagar,Casual Dining,12noon to 1030pm(Mon-Sun),Average,3.3,24
+The Lime Tree- Lords Inn,700,North Indian,Jammu,Karan Nagar,Casual Dining,1130am to 1130pm(Mon-Sun),Average,3.3,12
+Eden - Botanic Kitchen & Bubbly,1400,"Continental,Chinese,Thai,Italian",Jammu,Trikuta Nagar,Casual Dining,"11am to 1130pm(Mon-Sat),12noon to 1130pm(Sun)",Good,3.9,23
+Chetty's Corner,500,"Fast Food,Italian",Jammu,Nanak Nagar,Quick Bites,"Closed(Mon),11am to 1030pm(Tue-Sun)",Good,3.7,43
+World Cuisine - Ramada,2000,"Continental,Chinese,European,North Indian",Jammu,SIDCO Complex,Fine Dining,6am to 530am(Mon-Sun),Good,3.6,32
+Pahalwan Chicken Corner,300,North Indian,Jammu,Gandhi Nagar,Quick Bites,"6pm to 11pm(Mon,Wed,Thu,Fri,Sat,Sun),Closed...",Good,3.5,26
+Dosa Jalebi Express,150,"South Indian,Street Food",Jammu,Gandhi Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,46
+Makhan Pan,100,Paan,Jammu,Gandhi Nagar,Paan Shop,11am to 11pm(Mon-Sun),Average,3.4,10
+The Food Factory,200,"North Indian,Chinese",Jammu,Lal Kuan,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,18
+Exotic Cafe,300,"Chinese,Cafe,Fast Food,South Indian",Jammu,Channi Himmat,Quick Bites,9am to 11pm(Mon-Sun),Average,3.3,19
+Hari Food Court,200,North Indian,Jammu,Channi Himmat,Quick Bites,11am to 1030pm(Mon-Sun),Good,3.8,41
+Tandoori Chai Cafe,200,"Salad,Chinese,Continental,Sandwich,Italian,Burger,Wraps,Pizza",Jammu,Channi Himmat,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,14
+Keventers,300,"Desserts,Beverages,Ice Cream",Jammu,Nanak Nagar,Beverage Shop,11am to 11pm(Mon-Sun),Good,3.8,25
+Roll Snackers,400,"Chinese,Continental",Jammu,Preet Nagar,Quick Bites,11am to 1030pm(Mon-Sun),Good,3.6,25
+Sagar Ratna,500,"North Indian,Chinese,South Indian",Jammu,Hari Market,Casual Dining,10am to 11pm(Mon-Sun),Average,3.0,40
+Yatri Bhojanalaya,300,North Indian,Jammu,Hari Market,Quick Bites,10am to 1030pm(Mon-Sun),Average,3.3,28
+S.S Chinese Fast Food,150,"North Indian,Chinese",Jammu,Katra,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,12
+39 Bakers,300,Bakery,Jammu,Channi Himmat,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.6,31
+Bombay Kitchen,200,North Indian,Jammu,Old Heritage City,Quick Bites,4pm to 11pm(Mon-Sun),Average,3.2,10
+Chick Inn,400,"Continental,Chinese",Jammu,Trikuta Nagar,Quick Bites,130pm to 11pm(Mon-Sun),Good,3.7,45
+Kariem's Delhi Chilly,300,"North Indian,Chinese",Jammu,Katra,Quick Bites,1pm to 1030pm(Mon-Sun),Average,2.7,27
+F Society,500,"Thai,Chinese,Continental,North Indian",Jammu,Channi Himmat,Casual Dining,1130am to 1130pm(Mon-Sun),Good,3.6,16
+Barenaked Bites,300,"Fast Food,Italian,Beverages",Jammu,Gandhi Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,31
+KFC,500,"Burger,Fast Food",Jammu,Channi Himmat,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,60
+Ashoka Fast Food,150,Fast Food,Jammu,Gandhi Nagar,Quick Bites,10am to 1030pm(Mon-Sun),Average,3.3,8
+D Village,300,"North Indian,Mughlai",Jammu,Channi Himmat,Quick Bites,1pm to 1030pm(Mon-Sun),Average,3.1,7
+Red Chilly Restaurant,600,"North Indian,Chinese",Jammu,Karan Nagar,Quick Bites,9am to 1030pm(Mon-Sun),Average,2.8,26
+Wild Wild West Lounge,600,"North Indian,Continental",Jammu,Trikuta Nagar,Lounge,12noon to 11pm(Mon-Sun),Average,3.3,20
+Smokin Joe,500,Italian,Jammu,Shiv Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,13
+Fitness Cook,500,Healthy Food,Jammu,Trikuta Nagar,Quick Bites,10am to 1030pm(Mon-Sun),Good,3.5,45
+The Brewberries,200,"Chinese,North Indian,Burger,Pizza",Jammu,Channi Himmat,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,20
+Kitchen Art,300,"North Indian,Chinese",Jammu,Trikuta Nagar,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.1,4
+Shiv Vaishno Dhaba,250,North Indian,Jammu,Gandhi Nagar,Dhaba,11am to 1030pm(Mon-Sun),Good,3.8,44
+Bistro 57,100,Fast Food,Jammu,Trikuta Nagar,Quick Bites,11am to 1030pm(Mon-Sun),Good,3.5,33
+Imperial Grill,0,North Indian,Jammu,Trikuta Nagar,Casual Dining,11am to 11pm(Mon-Sun),Good,3.7,37
+Sattvik,800,"Italian,Chinese",Jammu,Shiv Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,30
+Chawlas² Since 1960,600,"North Indian,Seafood",Jammu,Gandhi Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,2.9,31
+Drive Thru,400,North Indian,Jammu,Channi Himmat,none,"2pm to 11pm(Mon,Wed,Thu,Fri,Sat,Sun),Closed...",Good,3.7,36
+Balgotra Vaishno Dhaba,300,North Indian,Jammu,Resham Ghar Colony,Quick Bites,7am to 11pm(Mon-Sun),Average,3.1,13
+Grub House Bar & Grill,1000,"Continental,Chinese,Indian",Jammu,Marble Market Area,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,23
+Mint Leaf,700,"Chinese,North Indian",Jammu,Channi Himmat,Café,11am to 11pm(Mon-Sun),Average,3.4,26
+Kashmir e Khas,300,Kashmiri,Jammu,Hari Market,Quick Bites,11am to 1030pm(Mon-Sun),Average,3.3,20
+Chaska,400,"North Indian,Chinese,Kashmiri",Jammu,Trikuta Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,2.9,7
+Sharma Vaishno Dhaba,200,North Indian,Jammu,Preet Nagar,Quick Bites,730am to 1030pm(Mon-Sun),Average,3.2,8
+Shri Krishna Bhog Restaurant,400,Indian,Jammu,Lal Kuan,Casual Dining,11am to 1030pm(Mon-Sun),Average,3.0,8
+Belly Timber,600,Fast Food,Jammu,Gandhi Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,18
+The Legends Food Point,200,"North Indian,Street Food",Jammu,Gandhi Nagar,none,12noon to 1030pm(Mon-Sun),Average,3.2,4
+MK Hotel & Restaurant,700,Kashmiri,Jammu,Hari Market,Casual Dining,1pm to 1030pm(Mon-Sun),Good,3.5,20
+Sharma Shudh Vaishno Khana,200,North Indian,Jammu,Transport Nagar,Dhaba,11am to 1030pm(Mon-Sun),Average,2.9,11
+Rachna Restaurant,400,North Indian,Jammu,Maheshpura,Casual Dining,11am to 11pm(Mon-Sun),Average,3.1,10
+Mom's Kitchen,400,"Chinese,Mughlai,Fast Food",Jammu,Resham Ghar Colony,Quick Bites,12noon to 12midnight(Mon-Sun),Average,2.9,10
+Moti Mahal,800,North Indian,Jammu,SIDCO Complex,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,6
+Royal E Punjab,500,"North Indian,Fast Food",Jammu,Channi Himmat,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.5,15
+Cocoberry,300,Desserts,Jammu,Wave Mall-- Channi Himmat,Dessert Parlor,11am to 1030pm(Mon-Sun),Good,3.6,14
+Cygnett Pavilion,1000,"North Indian,Chinese,Continental",Jammu,Gandhi Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,7
+The Kitchen,250,North Indian,Jammu,Trikuta Nagar,Quick Bites,1230pm to 11pm(Mon-Sun),Average,3.2,4
+Hot Billions,500,"Continental,Chinese,Kashmiri,Indian",Jammu,Rehari Colony,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,15
+The 2nd Wife Kitchen,350,"South Indian,North Indian,Chinese",Jammu,Trikuta Nagar,Quick Bites,11am to 1130pm(Mon-Sun),Average,2.6,20
+The Grand Inn,500,"North Indian,Chinese",Jammu,Trikuta Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,6
+Sizzler's,300,North Indian,Jammu,Channi Himmat,Casual Dining,"1pm to 430pm,630pm to 1030pm(Mon,Wed,Thu...",Average,3.1,9
+The Health Cafe,500,"Italian,Fast Food",Jammu,Channi Himmat,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,9
+Super Shakes,300,Beverages,Jammu,Channi Himmat,Beverage Shop,11am to 1030pm(Mon-Sun),Average,2.9,6
+Baskin Robbins,300,Ice Cream,Jammu,Trikuta Nagar,Dessert Parlor,1130am to 1130pm(Mon-Sun),Average,3.3,13
+La Italia,350,Cafe,Jammu,Transport Nagar,Café,11am to 11pm(Mon-Sun),Average,3.3,8
+American Fried Chicken Restaurant - AFC,600,North Indian,Jammu,Preet Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,8
+Chinar,1200,Kashmiri,Jammu,Resham Ghar Colony,Fine Dining,11am to 11pm(Mon-Sun),Average,3.2,13
+The Street Food,500,North Indian,Jammu,Resham Ghar Colony,Quick Bites,"12noon to 12midnight(Mon,Wed,Thu,Fri,Sat...",Average,3.3,10
+The Waffle Hut,400,Ice Cream,Jammu,Channi Himmat,Dessert Parlor,11am to 11pm(Mon-Sun),Average,3.2,7
+Rajan Bar & Restaurant,700,"North Indian,Chinese",Jammu,Trikuta Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.1,4
+Love Chicken Hut,400,"North Indian,Fast Food",Jammu,Resham Ghar Colony,Quick Bites,1pm to 1030pm(Mon-Sun),Average,3.1,5
+Giani,300,North Indian,Jammu,Shastri Nagar,Quick Bites,1130am to 11pm(Mon-Sun),Average,3.1,7
+Shree Rathnam,350,"North Indian,South Indian",Jammu,Channi Himmat,Food Court,11am to 1030pm(Mon-Sun),Average,3.3,6
+Go Kathi,500,"Fast Food,Rolls",Jammu,Channi Himmat,Food Court,11am to 1030pm(Mon-Sun),Average,3.0,4
+The Grand Grill,500,Continental,Jammu,Channi Himmat,Food Court,11am to 1030pm(Mon-Sun),Average,3.0,5
+Noon 2 Nite,500,North Indian,Jammu,Nanak Nagar,Quick Bites,5pm to 11pm(Mon-Sun),Average,3.1,9
+Singh's Brother,250,North Indian,Jammu,Rehari Colony,none,12noon to 11pm(Mon-Sun),Average,3.1,9
+Singh Food Junction,200,"North Indian,Chinese,Continental",Jammu,Preet Nagar,Quick Bites,11am to 1030pm(Mon-Sun),Average,2.8,8
+Sunny Champ Point,200,North Indian,Jammu,Trikuta Nagar,Quick Bites,5pm to 11pm(Mon-Sun),Average,3.3,6
+Grill Inn,300,North Indian,Jammu,Resham Ghar Colony,Quick Bites,11am to 11pm(Mon-Sun),Average,2.7,5
+Tandoori Bite Halal Dhaba,500,North Indian,Jammu,Transport Nagar,Quick Bites,1030am to 11pm(Mon-Sun),Average,3.1,5
+Kundan Da Dhaba,0,North Indian,Jammu,Hari Market,Dhaba,11am to 11pm(Mon-Sun),Average,3.2,6
+OTR Multi Cuisine Family Restaurant,400,"North Indian,Chinese",Jammu,Trikuta Nagar,Casual Dining,9am to 11pm(Mon-Sun),Average,3.0,4
+Karim's,650,"Mughlai,Rolls",Jammu,Resham Ghar Colony,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,5
+Tandoori Flames,400,"North Indian,Chinese,Continental",Jammu,Maheshpura,Quick Bites,10am to 1030pm(Mon-Sun),Average,3.2,7
+24 Carat Chat & Fast Food,150,"Street Food,Fast Food",Jammu,Nanak Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,4
+Khaana Khazana,650,"Chinese,North Indian",Jammu,Karan Nagar,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.2,118
+Vimpi's,300,"North Indian,Chinese",Jammu,Gandhi Nagar,Quick Bites,12noon to 1030pm(Mon-Sun),Good,3.9,80
+Spicy Grillz 2,250,"Fast Food,North Indian,Mughlai",Jammu,Channi Himmat,Quick Bites,"1pm to 1030pm(Mon,Wed,Thu,Fri,Sat,Sun)...",Good,3.8,84
+Ganpati Food Junction,300,"North Indian,South Indian,Mithai",Jammu,Gandhi Nagar,Quick Bites,10am to 1030pm(Mon-Sun),Good,3.8,97
+Papa Di Hatti,300,North Indian,Jammu,Hari Market,Quick Bites,1030am to 1030pm(Mon-Sun),Good,3.8,84
+Red Farm,1000,Continental,Jammu,Trikuta Nagar,Casual Dining,12noon to 12midnight(Mon-Sun),Very Good,4.2,39
+Sharma Vaishno Bhojnalaya,300,North Indian,Jammu,Trikuta Nagar,Dhaba,8am to 11pm(Mon-Sun),Good,3.8,48
+Hello Jammu,350,"Chinese,North Indian,Rolls,Sandwich,Burger,Pizza,Desserts,Ice Cream",Jammu,Channi Himmat,Casual Dining,10am to 11pm(Mon-Sun),Good,3.8,97
+Momotails,300,"Fast Food,Momos",Jammu,Trikuta Nagar,Quick Bites,(Mon-Sun),Very Good,4.2,152
+McDonald's,500,"Fast Food,Burger",Jammu,Hari Market,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.0,112
+Nai Delhi,400,"North Indian,Chinese,Continental",Jammu,Trikuta Nagar,Quick Bites,1pm to 11pm(Mon-Sun),Very Good,4.0,82
+CAD B CAD M,300,"Fast Food,Beverages",Jammu,Trikuta Nagar,Beverage Shop,10am to 10pm(Mon-Sun),Very Good,4.2,110
+Crustoz By Naaka,250,"North Indian,Fast Food",Jammu,Channi Himmat,Quick Bites,12noon to 1030pm(Mon-Sun),Good,3.9,33
+Rangla Punjab,400,"North Indian,Chinese,Continental",Jammu,Gandhi Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,63
+Dimple Provision Store,500,"Fast Food,Bakery,Sandwich,Burger",Jammu,Hari Market,Quick Bites,11am to 10pm(Mon-Sun),Very Good,4.3,108
+The Law Project. #Y.O.L.O,400,"Fast Food,Desserts",Jammu,Trikuta Nagar,Quick Bites,12noon to 10pm(Mon-Sun),Very Good,4.1,104
+Bobby74,300,"Continental,Fast Food,North Indian,Italian",Jammu,Channi Himmat,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,81
+Oh! Jammu Eatery,500,Fast Food,Jammu,Trikuta Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,87
+Durga Fast Food,250,Fast Food,Jammu,Nanak Nagar,Quick Bites,1230pm to 10pm(Mon-Sun),Very Good,4.2,144
+Baba Chicken,900,North Indian,Jammu,Marble Market Area,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.8,82
+Billu Di hatti,150,Mughlai,Jammu,Hari Market,Quick Bites,10am to 10pm(Mon-Sun),Very Good,4.0,137
+Country Barn,400,"North Indian,Italian",Jammu,Channi Himmat,Casual Dining,12noon to 1030pm(Mon-Sun),Very Good,4.2,51
+Jani Di Hatti,100,North Indian,Jammu,Hari Market,Quick Bites,"730am to 8pm(Mon-Sat),7am to 530pm(Sun)",Very Good,4.0,62
+Aroma Family Restaurant,1000,"South Indian,Continental,Chinese",Jammu,Trikuta Nagar,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.1,103
+Kwality Food Point,200,"Fast Food,Chinese",Jammu,Resham Ghar Colony,Quick Bites,10am to 10pm(Mon-Sun),Good,3.9,51
+Kasturi & Nikka Halwai Di Hatti,100,North Indian,Jammu,Raghunath Bazaar,Quick Bites,8am to 8pm(Mon-Sun),Good,3.9,53
+New Delhi,300,North Indian,Jammu,Gandhi Nagar,Quick Bites,1pm to 10pm(Mon-Sun),Good,3.6,97
+Chawlas2,400,"North Indian,Chinese",Jammu,Shastri Nagar,Casual Dining,11am to 11pm(Mon-Sun),Good,3.7,77
+Cafe Diesel,200,"Fast Food,Sandwich,Beverages",Jammu,Trikuta Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,10
+Fat Boy Cafe,400,"Cafe,Italian,Coffee",Jammu,Gandhi Nagar,Bakery,11am to 10pm(Mon-Sun),Average,3.3,74
+Fun Bytes,400,"Fast Food,Burger",Jammu,Patoli,Quick Bites,11am to 1130pm(Mon-Sun),Good,3.5,120
+Mahi Roll Corner & Fast Food,200,"Chinese,North Indian,Rolls",Jammu,Trikuta Nagar,Quick Bites,1130am to 10pm(Mon-Sun),Good,3.5,44
+Dosas And More,200,"South Indian,Chinese",Jammu,Channi Himmat,Quick Bites,1pm to 1030pm(Mon-Sun),Good,3.9,59
+The Tea Factory,300,Fast Food,Jammu,Trikuta Nagar,Quick Bites,1030am to 10pm(Mon-Sun),Good,3.8,59
+Creme Craft,300,"Bakery,Desserts",Jammu,Resham Ghar Colony,Bakery,930am to 930pm(Mon-Sun),Good,3.5,18
+Madan Mithai Cafe,150,"Mithai,North Indian",Jammu,Channi Himmat,none,8am to 930pm(Mon-Sun),Good,3.8,38
+Kathi Junction,200,Fast Food,Jammu,Resham Ghar Colony,Quick Bites,11am to 10pm(Mon-Sun),Good,3.7,26
+L'oren Cafe,150,Fast Food,Jammu,Nanak Nagar,Quick Bites,430pm to 10pm(Mon-Sun),Very Good,4.0,67
+The Grand Hill,250,North Indian,Jammu,Trikuta Nagar,Quick Bites,9am to 11pm(Mon-Sun),Average,2.8,32
+The Chef's Grill,350,North Indian,Jammu,Channi Himmat,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.8,50
+Fusion Tadka,300,"North Indian,Chinese,Kashmiri,Continental",Jammu,Channi Himmat,Casual Dining,12noon to 1030pm(Mon-Sun),Average,2.7,52
+Dominee The Pizza Expert,300,Pizza,Jammu,Resham Ghar Colony,Quick Bites,10am to 10pm(Mon-Sun),Average,3.4,24
+Pizza Hut,600,Pizza,Jammu,Trikuta Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,85
+Me 'N' U,400,Fast Food,Jammu,Nanak Nagar,Quick Bites,11am to 945pm(Mon-Sun),Average,3.3,37
+FaceFood,200,"Healthy Food,Chinese",Jammu,Nanak Nagar,Quick Bites,11am to 10pm(Mon-Sun),Good,3.7,54
+17 Miles Sweet Temptations JDA Park,250,"North Indian,Chinese",Jammu,Old Heritage City,Quick Bites,11am to 9pm(Mon-Sun),Good,3.5,14
+Momo Nation Cafe,200,"Momos,Fast Food,Chinese",Jammu,Channi Himmat,none,2pm to 1030pm(Mon-Sun),Good,3.8,64
+DadiMaa's Kitchen,400,North Indian,Jammu,Gandhi Nagar,none,9am to 9pm(Mon-Sun),Good,3.5,18
+Dum Pukhat,300,"North Indian,Chinese",Jammu,Nanak Nagar,Quick Bites,11am to 11pm(Mon-Sun),Poor,2.4,105
+Smugglers,500,"Healthy Food,Fast Food,Beverages",Jammu,Trikuta Nagar,Quick Bites,10am to 10pm(Mon-Sun),Very Good,4.0,53
+Premier's Cake Walk,300,"Desserts,Bakery",Jammu,Hari Market,Bakery,10am to 10pm(Mon-Sun),Average,2.8,16
+Annpurna Vaishno Bhojanalya,200,North Indian,Jammu,Trikuta Nagar,Casual Dining,930am to 11pm(Mon-Sun),Good,3.8,35
+Se7en Beans Cafe,250,"Cafe,Bakery",Jammu,Channi Himmat,Café,11am to 10pm(Mon-Sun),Good,3.6,17
+Zaika,300,Kashmiri,Jammu,Trikuta Nagar,Quick Bites,1pm to 10pm(Mon-Sun),Good,3.7,31
+Grill Inn,200,"Fast Food,Italian",Jammu,Trikuta Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,38
+Momo Hut,200,Momos,Jammu,Karan Nagar,Quick Bites,12noon to 10pm(Mon-Sun),Average,3.3,18
+Perfect Food Junction,600,"Mughlai,Chinese",Jammu,Nanak Nagar,Quick Bites,NA,Good,3.6,72
+Tandoor Blow Up,250,North Indian,Jammu,Resham Ghar Colony,none,11am to 10pm(Mon-Sun),Good,3.5,22
+Bakshi Food Corner,100,Fast Food,Jammu,Nanak Nagar,Quick Bites,11am to 9pm(Mon-Sun),Good,3.5,30
+The Village,400,"North Indian,Chinese,Continental",Jammu,Trikuta Nagar,Quick Bites,11am to 10pm(Mon-Sun),Good,3.5,19
+Fun Bytes,200,"Fast Food,Burger",Jammu,Gandhi Nagar,Quick Bites,1130am to 1130pm(Mon-Sun),Good,3.9,67
+Kailash Dhaba,400,"North Indian,Chinese",Jammu,Trikuta Nagar,Dhaba,11am to 10pm(Mon-Sun),Average,3.4,18
+Pick,200,"North Indian,Chinese",Jammu,Nanak Nagar,Quick Bites,11am to 10pm(Mon-Sun),Good,3.8,30
+Cafe 1947,150,"Chinese,Fast Food",Jammu,Raghunath Bazaar,Quick Bites,11am to 10pm(Mon-Sun),Average,2.8,9
+Spice Food Court,500,"South Indian,North Indian",Jammu,Gandhi Nagar,Casual Dining,11am to 1030pm(Mon-Sun),Good,3.7,40
+Oh! Jammu The Health Cafe,500,Fast Food,Jammu,Trikuta Nagar,Quick Bites,11am to 10pm(Mon-Sun),Good,3.5,23
+Grill N Chill,400,"Indian,Continental,Chinese,Fast Food",Jammu,Lal Kuan,Quick Bites,10am to 1030pm(Mon-Sun),Good,3.7,26
+Shake Shack,200,"Chinese,Fast Food",Jammu,Nanak Nagar,Quick Bites,1pm to 10pm(Mon-Sun),Good,3.9,31
+Frutub,200,"Beverages,Juices",Jammu,Channi Himmat,Beverage Shop,11am to 930pm(Mon-Sun),Good,3.5,23
+My Kitchen,250,North Indian,Jammu,Trikuta Nagar,Quick Bites,12noon to 10pm(Mon-Sun),Good,3.6,30
+Sanju Momo's,300,"North Indian,Chinese",Jammu,Nanak Nagar,Quick Bites,12noon to 9pm(Mon-Sun),Good,3.6,35
+Renuka's Cakes,250,Bakery,Jammu,Gandhi Nagar,Bakery,11am to 630pm(Mon-Sun),Average,2.7,17
+Momo Hut,200,Chinese,Jammu,Gandhi Nagar,Quick Bites,12noon to 930pm(Mon-Sun),Good,3.5,17
+City Hop,300,"Chinese,Fast Food",Jammu,Shastri Nagar,Quick Bites,"12noon to 10pm(Mon,Wed,Thu,Fri,Sat,Sun)...",Good,3.7,42
+Kashmir Flavour,500,"Kashmiri,North Indian",Jammu,Channi Himmat,Casual Dining,11am to 11pm(Mon-Sun),Good,3.9,58
+Chaat & More,100,Street Food,Jammu,Resham Ghar Colony,Quick Bites,12noon to 10pm(Mon-Sun),Average,3.2,21
+Grill Inn Parade,500,"Fast Food,Burger,Pizza",Jammu,Preet Nagar,Casual Dining,11am to 10pm(Mon-Sun),Average,3.0,7
+CHUNKY'S Shawarma And Grill,150,"Lebanese,American,Beverages,Chinese",Jammu,Nanak Nagar,Quick Bites,10am to 12midnight(Mon-Sun),Good,3.8,20
+Roll & Shakes Hub,200,"Chinese,Continental,Indian,Fast Food",Jammu,Patoli,Quick Bites,11am to 10pm(Mon-Sun),Good,3.7,24
+Cherries n Berries,350,"Bakery,Desserts",Jammu,Gandhi Nagar,Bakery,1130am to 830pm(Mon-Sun),Average,3.1,16
+Marasim,1300,North Indian,Jammu,Channi Himmat,Fine Dining,(Mon-Sun),Good,3.6,23
+Spicy Grillz,250,Fast Food,Jammu,Trikuta Nagar,Quick Bites,1130am to 1030pm(Mon-Sun),Good,3.7,41
+Delicacy,400,"Chinese,Fast Food,North Indian,Mughlai,Pizza",Jammu,Gandhi Nagar,Casual Dining,10am to 1030pm(Mon-Sun),Good,3.5,37
+Vijay Vaishno Dhaba,150,North Indian,Jammu,Gandhi Nagar,Quick Bites,1pm to 10pm(Mon-Sun),Good,3.7,30
+Sagar Fast Food,100,"Fast Food,Chinese",Jammu,Old Heritage City,Quick Bites,12noon to 10pm(Mon-Sun),Average,3.2,6
+Ominos,500,"Pizza,Fast Food",Jammu,Lal Kuan,Quick Bites,10am to 10pm(Mon-Sun),Good,3.5,24
+Royal Refreshment-Janta Ice Cream,150,"Desserts,Ice Cream,Bakery",Jammu,Marble Market Area,Dessert Parlor,12noon to 10pm(Mon-Sun),Average,3.3,9
+Bombay Pav Bhaji,600,"Street Food,Italian,Chinese,Indian",Jammu,Trikuta Nagar,Quick Bites,12noon to 1045pm(Mon-Sun),Good,3.6,29
+Imperial Food,600,North Indian,Jammu,Trikuta Nagar,Quick Bites,"11am to 810pm(Mon-Sat),Closed(Sun)",Average,3.4,25
+Kunwar Fast Food,150,Chinese,Jammu,Nanak Nagar,Quick Bites,11am to 10pm(Mon-Sun),Average,3.3,13
+10 Eat Street,400,"North Indian,Kashmiri,Chinese",Jammu,Marble Market Area,Quick Bites,11am to 10pm(Mon-Sun),Average,3.2,5
+Singh Food Corner,300,North Indian,Jammu,Trikuta Nagar,Quick Bites,11am to 10pm(Mon-Sun),Average,2.9,6
+Laziz Pizza,200,Fast Food,Jammu,Channi Himmat,Quick Bites,10am to 10pm(Mon-Sun),Average,2.9,8
+Poppins,200,"North Indian,Chinese",Jammu,Nanak Nagar,Quick Bites,11am to 10pm(Mon-Sun),Average,3.1,5
+Brownie Box,300,Desserts,Jammu,Channi Himmat,Dessert Parlor,11am to 1030pm(Mon-Sun),Good,3.9,49
+Aahar,200,"North Indian,South Indian",Jammu,Trikuta Nagar,none,"12noon to 230pm,7pm to 9pm(Mon-Sun)",Average,3.4,10
+Choudhary Restaurant,300,Indian,Jammu,Trikuta Nagar,Quick Bites,9am to 9pm(Mon-Sun),Average,3.3,8
+Pannyaar Restaurant,600,"Chinese,Kashmiri,North Indian",Jammu,Trikuta Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,48
+Veer Ji,100,North Indian,Jammu,Channi Himmat,Quick Bites,5pm to 9pm(Mon-Sun),Average,3.3,8
+Bharat Cafe,200,"North Indian,Bakery",Jammu,Shastri Nagar,Café,"11am to 10pm(Mon-Sat),122pm to 10pm(Sun)",Average,3.1,6
+Bangs,300,"Fast Food,Burger",Jammu,Nanak Nagar,Quick Bites,1130am to 8pm(Mon-Sun),Average,3.4,23
+Body Fuel Station,500,"Continental,North Indian,Chinese",Jammu,Channi Himmat,Casual Dining,9am to 10pm(Mon-Sun),Average,3.2,5
+Zaikas Take away,200,Kashmiri,Jammu,Trikuta Nagar,none,2pm to 10pm(Mon-Sun),Average,3.1,5
+Cakes 'M' More,200,Bakery,Jammu,Channi Himmat,Bakery,11am to 9pm(Mon-Sun),Average,3.1,5
+Taj Restaurant,400,North Indian,Jammu,Raghunath Bazaar,Quick Bites,10am to 10pm(Mon-Sun),Average,3.4,16
+Khau Gali,300,North Indian,Jammu,Trikuta Nagar,Quick Bites,1130am to 1030pm(Mon-Sun),Average,2.9,44
+Food Villa,200,North Indian,Jammu,Trikuta Nagar,Quick Bites,11am to 10pm(Mon-Sun),Average,3.1,4
+Tasties,350,"Fast Food,North Indian",Jammu,Nanak Nagar,Quick Bites,9am to 11pm(Mon-Sun),Average,2.9,39

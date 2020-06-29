@@ -1,0 +1,906 @@
+Name,Price,Cuisine_Category,City,Region,Cuisine_Type,Timing,Rating_Types,Rating,Votes
+Sagar Gaire Fast Food,300,"North Indian,South Indian,Chinese,Fast Food,Beverages",Bhopal,TT Nagar,Quick Bites,9am to 11pm(Mon-Sun),Excellent,4.5,1401
+Zam Zam Fast Food,500,"North Indian,Mughlai",Bhopal,Peer Gate Area,Casual Dining,11am to 12midnight(Mon-Sun),Very Good,4.1,869
+Manohar Dairy And Restaurant,400,"Street Food,South Indian,Fast Food,Desserts,North Indian,Chinese,Bakery,Mithai",Bhopal,Peer Gate Area,Quick Bites,9am to 11pm(Mon-Sun),Very Good,4.4,756
+Vishnu Chinese Fast Food,350,"North Indian,South Indian,Chinese,Fast Food",Bhopal,Maharana Pratap Nagar,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.3,798
+Khan Sahab,600,"North Indian,Mughlai",Bhopal,Peer Gate Area,Casual Dining,11am to 12midnight(Mon-Sun),Very Good,4.2,739
+Al-Beik,300,Fast Food,Bhopal,Maharana Pratap Nagar,Quick Bites,"12noon to 11pm(Mon-Sat),11am to 11pm(Sun)",Very Good,4.3,1018
+Anni Bhai ki Biryani,250,Biryani,Bhopal,JP Nagar,Quick Bites,1030am to 3am(Mon-Sun),Excellent,4.5,282
+Bapu Ki Kutia,400,"North Indian,Chinese,South Indian,Fast Food,Street Food",Bhopal,TT Nagar,Quick Bites,1030am to 1130pm(Mon-Sun),Good,3.9,520
+Rajhans Thali,600,North Indian,Bhopal,Maharana Pratap Nagar,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,605
+Khan Chacha,500,North Indian,Bhopal,BHEL,Quick Bites,12noon to 11pm(Mon-Sun),Very Good,4.0,593
+The Public House Café n Restaurant,800,"North Indian,Cafe,Italian,Continental,Chinese",Bhopal,Maharana Pratap Nagar,Casual Dining,"12noon to 1115pm(Mon-Fri),12noon to 1130pm...",Excellent,4.9,774
+Da pizzeria,500,"Pizza,Italian,Fast Food",Bhopal,Maharana Pratap Nagar,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.1,704
+Bake N Shake,500,"Bakery,Chinese,Continental,Pizza,Italian,Sandwich,Beverages,Cafe",Bhopal,Arera Colony,Café,10am to 11pm(Mon-Sun),Excellent,4.6,649
+Lazeez Hakeem,400,"North Indian,Chinese,Mughlai",Bhopal,Maharana Pratap Nagar,Casual Dining,9am to 1am(Mon-Sun),Very Good,4.0,652
+Shri Gurukripa Restaurant,400,North Indian,Bhopal,BHEL,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.4,373
+Zauq,600,Mughlai,Bhopal,TT Nagar,Casual Dining,130pm to 11pm(Mon-Sun),Very Good,4.2,98
+Cafe Nine Bhopal,150,"Cafe,Fast Food,Burger,Sandwich,Desserts,Beverages",Bhopal,Maharana Pratap Nagar,Café,1145am to 10pm(Mon-Sun),Good,3.7,145
+Mowgli's Cafe,500,"Chinese,North Indian",Bhopal,Maharana Pratap Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,98
+Chef's Triangle,300,Fast Food,Bhopal,BHEL,Quick Bites,10am to 10pm(Mon-Sun),Very Good,4.2,130
+Food City Restaurant,300,North Indian,Bhopal,Jhangirabad,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,127
+Rajoriya Restaurant,250,North Indian,Bhopal,BHEL,Quick Bites,11am to 12midnight(Mon-Sun),Good,3.9,77
+The Sandwich Cafe,500,"Cafe,Bakery",Bhopal,Maharana Pratap Nagar,Café,"1130am to 1030pm(Mon-Sat),1pm to 1030pm(Sun)",Good,3.6,142
+Arpit's Rivaayat,400,"Biryani,Hyderabadi",Bhopal,Arera Colony,Quick Bites,NA,Good,3.9,174
+Time Out Restaurant,600,"North Indian,Fast Food",Bhopal,Maharana Pratap Nagar,Casual Dining,11am to 1030pm(Mon-Sun),Good,3.8,192
+Rajoriya DK Restaurant,300,"Street Food,North Indian,Mithai",Bhopal,BHEL,Quick Bites,8am to 12midnight(Mon-Sun),Good,3.6,106
+Cakewalk,200,"Bakery,Desserts,Cafe",Bhopal,Arera Colony,Bakery,"11am to 10pm(Mon,Wed,Thu,Fri,Sat,Sun),4pm...",Good,3.9,154
+Jharokha - Hotel Amer Palace,1500,"North Indian,Chinese",Bhopal,Maharana Pratap Nagar,Fine Dining,7am to 11pm(Mon-Sun),Very Good,4.0,116
+The Chicken Express,200,Fast Food,Bhopal,Maharana Pratap Nagar,Quick Bites,1pm to 11pm(Mon-Sun),Good,3.9,148
+Ma Karma Dairy & Bhojanalay,300,"North Indian,South Indian,Chinese",Bhopal,BHEL,Quick Bites,11am to 11pm(Mon-Sun),Average,2.9,105
+Murga On Wheels,300,"North Indian,Biryani",Bhopal,Maharana Pratap Nagar,Quick Bites,"6pm to 11pm(Mon,Wed,Thu,Fri,Sat,Sun),Closed...",Average,3.4,151
+Chaat Chatore,250,"Fast Food,South Indian,Chinese,Sandwich,Beverages",Bhopal,Maharana Pratap Nagar,Quick Bites,"1130am to 10pm(Mon-Sat),1230pm to 10pm(Sun)",Good,3.8,71
+Biryani Express,200,"Biryani,North Indian",Bhopal,Maharana Pratap Nagar,Food Truck,"11am to 10pm(Mon-Sat),12noon to 10pm(Sun)",Good,3.8,125
+LHD India,400,"North Indian,Mughlai,Chinese",Bhopal,Maharana Pratap Nagar,Quick Bites,9am to 1am(Mon-Sun),Good,3.8,125
+Zyka The Taste,300,North Indian,Bhopal,Habib Ganj,Quick Bites,11am to 12midnight(Mon-Sun),Average,2.9,112
+Rubaab,800,"North Indian,Mughlai",Bhopal,Gulmohar Colony,Casual Dining,11am to 11pm(Mon-Sun),Good,3.8,124
+Haryana Hot Dog,300,"Fast Food,Street Food,Beverages",Bhopal,BHEL,Quick Bites,12noon to 10pm(Mon-Sun),Very Good,4.1,121
+Mughal Darbar Family Restaurant,550,North Indian,Bhopal,Peer Gate Area,Casual Dining,8am to 12midnight(Mon-Sun),Good,3.9,73
+Picnik Restaurant,400,"North Indian,Chinese,South Indian,Sandwich,Salad",Bhopal,TT Nagar,Casual Dining,8am to 11pm(Mon-Sun),Good,3.9,131
+Sawariya Bakery & Fast Food,250,"Bakery,Fast Food",Bhopal,TT Nagar,Bakery,12noon to 10pm(Mon-Sun),Good,3.7,83
+Cream Dream,250,Ice Cream,Bhopal,Kohefiza,Dessert Parlor,1230pm to 1030pm(Mon-Sun),Good,3.9,88
+Bum Chik Restaurant,550,North Indian,Bhopal,BHEL,Casual Dining,11am to 11pm(Mon-Sun),Average,2.7,112
+Tea Talks,300,Cafe,Bhopal,TT Nagar,Café,1pm to 1030pm(Mon-Sun),Very Good,4.0,102
+Ghamandi Lassi,150,Beverages,Bhopal,Maharana Pratap Nagar,Beverage Shop,"9am to 1045pm(Mon),9pm to 1045pm(Tue-Sun)",Good,3.6,25
+Chai 34,200,"Fast Food,Beverages,Burger,Tea",Bhopal,Maharana Pratap Nagar,Quick Bites,1130am to 915pm(Mon-Sun),Good,3.8,108
+Drinx Exchange,1500,"Italian,Mexican,Chinese,North Indian,American,Desserts",Bhopal,DB City-- Maharana Pratap Nagar,Bar,1pm to 12midnight(Mon-Sun),Very Good,4.0,105
+A-One Fast Food,300,Fast Food,Bhopal,Kohefiza,Quick Bites,5pm to 11pm(Mon-Sun),Very Good,4.1,120
+Happu Singh Di Hatti,200,North Indian,Bhopal,Maharana Pratap Nagar,Quick Bites,12noon to 3am(Mon-Sun),Good,3.9,38
+Fresh Meal Basket,200,"North Indian,Mughlai",Bhopal,Maharana Pratap Nagar,none,10am to 1030pm(Mon-Sun),Good,3.8,77
+Vrindavan Dhaba's Timbuktoo,400,"North Indian,South Indian,Chinese,Fast Food,Beverages",Bhopal,Gulmohar Colony,Quick Bites,12noon to 1145pm(Mon-Sun),Good,3.7,71
+Refresh Eat & Drink,300,Fast Food,Bhopal,Maharana Pratap Nagar,Quick Bites,1am to 1045pm(Mon-Sun),Very Good,4.0,78
+Taste Of India,500,"North Indian,South Indian,Beverages",Bhopal,Kolar,Quick Bites,8am to 11pm(Mon-Sun),Good,3.8,71
+Gaagar,250,"Mithai,Bakery,Beverages,Desserts",Bhopal,TT Nagar,Sweet Shop,930am to 10pm(Mon-Sun),Very Good,4.2,76
+Hotel Shikha,400,"North Indian,Chinese,South Indian",Bhopal,Peer Gate Area,Casual Dining,10am to 12midnight(Mon-Sun),Good,3.6,128
+Andhra Mirchi,1200,Andhra,Bhopal,Gulmohar Colony,Casual Dining,9am to 11pm(Mon-Sun),Good,3.7,117
+Milan Sweets And Namkeen,200,"Street Food,Fast Food",Bhopal,Maharana Pratap Nagar,Sweet Shop,830am to 930pm(Mon-Sun),Very Good,4.1,33
+Fluffy Bake Eats,400,"Bakery,Desserts",Bhopal,Maharana Pratap Nagar,Bakery,2pm to 9pm(Mon-Sun),Good,3.9,82
+Malhotra's Kitchen,300,North Indian,Bhopal,Arera Colony,none,6pm to 11pm(Mon-Sun),Very Good,4.3,42
+Jai Hind Bakery,700,"Bakery,Fast Food",Bhopal,Peer Gate Area,Bakery,9am to 10pm(Mon-Sun),Good,3.5,97
+CAD(M) CAD(B),200,"Desserts,Cafe,Beverages",Bhopal,Maharana Pratap Nagar,Dessert Parlor,12noon to 1030pm(Mon-Sun),Good,3.8,69
+Sugar Side Up,500,"Bakery,Desserts",Bhopal,TT Nagar,Bakery,11am to 1030pm(Mon-Sun),Good,3.8,52
+Kafeela - The Barbecue,300,Fast Food,Bhopal,Jhangirabad,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,136
+Hungry Burger,200,Fast Food,Bhopal,Kohefiza,Casual Dining,11am to 1am(Mon-Sun),Very Good,4.0,63
+Waffle Hut,400,"Desserts,Beverages",Bhopal,Aashima Mall-- Hoshangabad Road,Dessert Parlor,11am to 1030pm(Mon-Sun),Good,3.7,62
+Bake Story,250,Cafe,Bhopal,Hoshangabad Road,Café,11am to 11pm(Mon-Sun),Very Good,4.1,112
+Hotel Amer Greens,300,"North Indian,Chinese",Bhopal,Hoshangabad Road,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.9,112
+Kundan Namkeen Center,300,"Mithai,Fast Food",Bhopal,Peer Gate Area,Sweet Shop,12noon to 10pm(Mon-Sun),Good,3.8,64
+The Indian Spice,450,"Biryani,Fast Food,Mughlai",Bhopal,Airport Area,Casual Dining,12noon to 12midnight(Mon-Sun),Good,3.7,112
+LIG Maggi & Pasta,250,Fast Food,Bhopal,Kohefiza,Quick Bites,1pm to 11pm(Mon-Sun),Average,3.4,96
+Uncle's Kitchen,400,"North Indian,Chinese,South Indian,Mughlai",Bhopal,TT Nagar,Quick Bites,11am to 1145pm(Mon-Sun),Good,3.9,113
+Atari,300,Fast Food,Bhopal,BHEL,Quick Bites,11am to 1030pm(Mon-Sun),Good,3.5,61
+Pooja Veg Bhojanalay,400,North Indian,Bhopal,Maharana Pratap Nagar,Bhojanalya,11am to 3am(Mon-Sun),Good,3.7,67
+Gandhi Dham,250,North Indian,Bhopal,TT Nagar,Quick Bites,10am to 11pm(Mon-Sun),Good,3.6,90
+Taste of Zaffran,200,"North Indian,Chinese,Biryani",Bhopal,Hoshangabad Road,Food Court,12noon to 1030pm(Mon-Sun),Average,2.7,78
+Urban Tohfa,300,"Bakery,Desserts",Bhopal,Gulmohar Colony,Bakery,"10am to 1245pm(Mon,Tue,Thu,Fri,Sat,Sun)...",Good,3.7,34
+Cook Dooh Kooh,500,"North Indian,Kebab,Chinese,Street Food",Bhopal,Gulmohar Colony,Quick Bites,12noon to 12midnight(Mon-Sun),Good,3.6,95
+Nukkad BBQ,500,"North Indian,BBQ",Bhopal,TT Nagar,Casual Dining,530pm to 11pm(Mon-Sun),Good,3.7,146
+Bhukkad Bites,200,"Chinese,Fast Food,Beverages",Bhopal,Maharana Pratap Nagar,Quick Bites,2pm to 10pm(Mon-Sun),Good,3.8,50
+The Relish Prince,300,"Pizza,Fast Food,Burger,Sandwich,Beverages",Bhopal,Aura Mall,Quick Bites,"11am to 10pm(Mon,Wed,Thu,Fri,Sat,Sun),Closed...",Good,3.9,44
+Hungry Like Us,450,Burger,Bhopal,Maharana Pratap Nagar,Quick Bites,12noon to 10pm(Mon-Sun),Good,3.7,45
+Hello Foodie,100,"North Indian,Chinese,Fast Food",Bhopal,BHEL,Quick Bites,10am to 10pm(Mon-Sun),Good,3.7,28
+Moksh,500,Cafe,Bhopal,Kohefiza,Café,11am to 2am(Mon-Sun),Good,3.5,135
+The Thela Fast Food,200,Fast Food,Bhopal,Airport Area,Quick Bites,8am to 10pm(Mon-Sun),Good,3.6,59
+Bistro 9 ¾,400,"Chinese,Beverages,Desserts,Fast Food",Bhopal,TT Nagar,Quick Bites,"1pm to 1030pm(Mon,Tue,Wed,Fri,Sat,Sun)...",Good,3.8,50
+Sweet Posse,400,"Fast Food,Bakery",Bhopal,JP Nagar,Quick Bites,11am to 1030pm(Mon-Sun),Average,3.3,50
+Aesthetic’s Nutrition,350,Healthy Food,Bhopal,Arera Colony,Quick Bites,1pm to 1030pm(Mon-Sun),Very Good,4.0,53
+The Royal Punjab Flavours,300,North Indian,Bhopal,Hoshangabad Road,Quick Bites,10am to 1030pm(Mon-Sun),Good,3.7,49
+Al- Zaid Fast Food,400,Fast Food,Bhopal,Peer Gate Area,Quick Bites,12noon to 11pm(Mon-Sun),Very Good,4.0,127
+Taste Of Family Restaurant,400,"Fast Food,North Indian,Chinese",Bhopal,Kolar,Quick Bites,8am to 12midnight(Mon-Sun),Good,3.9,93
+Delhi 6,500,North Indian,Bhopal,DB City-- Maharana Pratap Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,80
+SKY 55,600,Continental,Bhopal,Maharana Pratap Nagar,Casual Dining,715pm to 11pm(Mon-Sun),Good,3.8,61
+Nilisha's Kitchen,350,"Bakery,Desserts",Bhopal,Peer Gate Area,Bakery,8am to 11pm(Mon-Sun),Good,3.9,21
+Foodies,400,"North Indian,Chinese",Bhopal,Kohefiza,Quick Bites,10am to 12midnight(Mon-Sun),Average,3.4,78
+The Nest Restaurant,400,"North Indian,Chinese,Biryani,South Indian,Beverages,Desserts",Bhopal,Gulmohar Colony,Casual Dining,8am to 12midnight(Mon-Sun),Average,3.4,90
+Blue Heaven Cakes & Flowers,300,"Bakery,Desserts,Cafe,Beverages",Bhopal,Gulmohar Colony,Bakery,9am to 9pm(Mon-Sun),Average,3.3,15
+Rajhans Thali,500,North Indian,Bhopal,Hoshangabad Road,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,106
+The Backbenchers,300,"Pizza,Fast Food,Sandwich,Beverages",Bhopal,Kolar,Café,1130am to 10pm(Mon-Sun),Good,3.9,35
+Red Velvet Cafe,400,Bakery,Bhopal,Hoshangabad Road,Café,11am to 930pm(Mon-Sun),Average,3.3,45
+Rajasthan Mishthan Bhandar,200,"Mithai,Street Food",Bhopal,Kohefiza,Sweet Shop,8am to 1030pm(Mon-Sun),Good,3.6,18
+Honey Punjabi Dhaba,300,"North Indian,Fast Food",Bhopal,BHEL,Dhaba,11am to 1130pm(Mon-Sun),Good,3.9,35
+AJ's Cafe,500,"North Indian,Chinese,Rolls,Fast Food,Sandwich,Cafe,Beverages",Bhopal,Maharana Pratap Nagar,Café,11am to 11pm(Mon-Sun),Good,3.6,112
+Half Plate,500,"North Indian,Kebab,Beverages",Bhopal,Arera Colony,Food Truck,6pm to 1030pm(Mon-Sun),Average,2.8,62
+Begum’s BBQ,800,"North Indian,Chinese",Bhopal,Peer Gate Area,Casual Dining,3pm to 11pm(Mon-Sun),Good,3.6,118
+Merhaba,250,North Indian,Bhopal,Peer Gate Area,Quick Bites,3pm to 11pm(Mon-Sun),Very Good,4.1,135
+Bikaner Sweets And Namkeen,250,"Mithai,Street Food",Bhopal,BHEL,Sweet Shop,11am to 10pm(Mon-Sun),Average,3.4,30
+Hindustani Chicken Briryani,200,Biryani,Bhopal,Peer Gate Area,Quick Bites,6pm to 12midnight(Mon-Sun),Good,3.7,35
+Hotel Rajdhani,250,North Indian,Bhopal,Arera Colony,Quick Bites,11am to 1030pm(Mon-Sun),Good,3.8,62
+Dhaba Cafe,300,"Fast Food,Street Food,Italian,Sandwich,Pizza,Beverages",Bhopal,Maharana Pratap Nagar,Quick Bites,"1130am to 10pm(Mon-Sat),1230pm to 10pm(Sun)",Good,3.5,28
+Mittal Kachori Centre,250,"Street Food,North Indian,Rajasthani",Bhopal,BHEL,Quick Bites,"8am to 10pm(Mon,Tue,Wed,Thu,Fri,Sun),8am to ...",Average,3.0,33
+Amour Ice Cream,300,Ice Cream,Bhopal,Peer Gate Area,Dessert Parlor,11am to 1am(Mon-Sun),Very Good,4.0,74
+Mahakaal Restaurant,400,"North Indian,Chinese",Bhopal,Jhangirabad,Quick Bites,11am to 10pm(Mon-Sun),Average,2.9,37
+The Ultimate Foodie,300,North Indian,Bhopal,BHEL,Quick Bites,11am to 12midnight(Mon-Sun),Very Good,4.1,72
+Kolkata Chole Bhature,200,North Indian,Bhopal,TT Nagar,none,930am to 1030pm(Mon-Sun),Good,3.5,26
+Bay Of Bengal,550,"Chinese,Mughlai",Bhopal,Gulmohar Colony,Quick Bites,"11am to 11pm(Mon,Wed,Thu,Fri,Sat,Sun),3pm...",Very Good,4.0,84
+Bikaner Misthan Bhandar,150,"Mithai,Desserts",Bhopal,Kolar,Sweet Shop,"715am to 1215AM(Mon),11am to 10pm(Tue-Sun)",Good,3.6,24
+Dosa Junction,400,South Indian,Bhopal,Maharana Pratap Nagar,Quick Bites,130pm to 1030pm(Mon-Sun),Average,3.3,45
+Spicy Fast Food Center,250,"North Indian,Chinese",Bhopal,Airport Area,Quick Bites,11am to 10pm(Mon-Sun),Good,3.6,26
+Indian Tea House,200,"Beverages,Fast Food",Bhopal,Peer Gate Area,Beverage Shop,12noon to 1230AM(Mon-Sun),Very Good,4.0,104
+Mamma's Burger,300,Burger,Bhopal,Kohefiza,Quick Bites,12noon to 1030pm(Mon-Sun),Good,3.6,41
+Dilli Da Zaika,500,"North Indian,Continental,Chinese",Bhopal,Gulmohar Colony,Casual Dining,11am to 1030pm(Mon-Sun),Average,3.4,28
+Chappan Bhog,400,"Street Food,Desserts",Bhopal,TT Nagar,Quick Bites,8am to 1030pm(Mon-Sun),Average,2.6,27
+Hotel Afghan,400,Afghan,Bhopal,Kohefiza,Quick Bites,12noon to 11pm(Mon-Sun),Very Good,4.0,102
+Abaking,350,"Bakery,Desserts,Fast Food",Bhopal,Arera Colony,Bakery,10am to 10pm(Mon-Sun),Good,3.6,20
+Mumbai Delights,250,"North Indian,Fast Food",Bhopal,Gulmohar Colony,Quick Bites,11am to 1030pm(Mon-Sun),Good,3.7,29
+The Local Eatery,500,Fast Food,Bhopal,Gulmohar Colony,Quick Bites,12noon to 1030pm(Mon-Sun),Good,3.8,26
+Raju South Indian Corner,300,South Indian,Bhopal,Maharana Pratap Nagar,Quick Bites,9am to 6pm(Mon-Sun),Good,3.7,39
+Navratna,350,North Indian,Bhopal,Hoshangabad Road,Quick Bites,1230pm to 1130pm(Mon-Sun),Good,3.8,66
+Burgerland,150,"Fast Food,Burger",Bhopal,Maharana Pratap Nagar,Quick Bites,1130am to 1030pm(Mon-Sun),Good,3.7,17
+Mohan Bhai Chicken And Chinese Corner,250,"Mughlai,Chinese,Biryani",Bhopal,Kolar,Casual Dining,12noon to 1030pm(Mon-Sun),Good,3.7,27
+Wah Ji Wah,300,"North Indian,Chinese",Bhopal,TT Nagar,Quick Bites,1230pm to 1030pm(Mon-Sun),Good,3.5,32
+24 Hours Food Factory,400,"North Indian,Chinese",Bhopal,Maharana Pratap Nagar,none,NA,Poor,2.4,42
+Baba Vada Pav,300,"Fast Food,Maharashtrian,Street Food,Beverages,Burger",Bhopal,BHEL,Quick Bites,11am to 1030pm(Mon-Sun),Average,3.4,32
+Wild Smack,200,North Indian,Bhopal,Gulmohar Colony,Casual Dining,11am to 1159am(Mon-Sun),Good,3.8,24
+Delhi Ke Chole Bature,200,North Indian,Bhopal,TT Nagar,Quick Bites,10am to 10pm(Mon-Sun),Average,3.2,25
+Varsha Sweets and Proteins,200,"Mithai,Street Food",Bhopal,Kohefiza,Sweet Shop,830am to 10pm(Mon-Sun),Good,3.5,23
+Sandwich Express,200,"Sandwich,Burger,Fast Food",Bhopal,Aashima Mall-- Hoshangabad Road,Quick Bites,1130am to 10pm(Mon-Sun),Average,3.4,26
+Agrawal Sweets And Restaurant,200,"Mithai,North Indian",Bhopal,BHEL,Quick Bites,8am to 9pm(Mon-Sun),Good,3.6,17
+Zaiqa-e-Lucknavi,200,Lucknowi,Bhopal,Peer Gate Area,Quick Bites,"1230pm to 12midnight(Mon,Wed,Thu,Fri,Sat...",Very Good,4.1,120
+Mom's Kitchen,300,North Indian,Bhopal,Jhangirabad,Quick Bites,"8am to 11pm(Mon,Tue,Wed,Sat,Sun),Closed...",Good,3.6,21
+R J Paratha House,300,Fast Food,Bhopal,BHEL,Quick Bites,"1030am to 1030pm(Mon-Sat),12noon to 1030pm(Sun)",Average,3.4,39
+Taste Of Chenaa,200,"Mithai,Street Food",Bhopal,Gulmohar Colony,Sweet Shop,9am to 9pm(Mon-Sun),Average,3.0,5
+The Belgian Waffle Co.,350,"Desserts,Beverages",Bhopal,Maharana Pratap Nagar,Dessert Parlor,1230pm to 1030pm(Mon-Sun),Average,3.2,23
+The Belgian Waffle Co.,350,"Desserts,Beverages",Bhopal,Maharana Pratap Nagar,Dessert Parlor,1230pm to 1030pm(Mon-Sun),Average,3.2,23
+WTF - Where's the food cafe,300,Fast Food,Bhopal,TT Nagar,Quick Bites,4pm to 1030pm(Mon-Sun),Good,3.6,37
+Heera Sweets and Namkeen,300,"Mithai,Fast Food",Bhopal,Kolar,Quick Bites,8am to 10pm(Mon-Sun),Good,3.6,21
+Vibe Restro Bar,1500,"North Indian,Finger Food,Continental,Italian",Bhopal,Arera Colony,Casual Dining,12noon to 1130pm(Mon-Sun),Good,3.7,75
+Rasoi,800,"North Indian,Chinese",Bhopal,Jhangirabad,Casual Dining,730am to 1030pm(Mon-Sun),Good,3.5,21
+Vyanjan Restaurant,500,"North Indian,South Indian,Chinese",Bhopal,JP Nagar,Quick Bites,11am to 1030pm(Mon-Sun),Good,3.5,28
+8Plates,600,North Indian,Bhopal,Arera Colony,Quick Bites,2pm to 11pm(Mon-Sun),Good,3.6,62
+Bhopal Udipi Restaurant,600,"South Indian,North Indian",Bhopal,JP Nagar,Casual Dining,11am to 10pm(Mon-Sun),Average,3.2,13
+My Foods Cafe,200,"South Indian,North Indian,Fast Food,Sandwich,Chinese,Beverages",Bhopal,TT Nagar,Quick Bites,"8am to 101pm(Mon),8am to 10pm(Tue-Sun)",Average,2.8,24
+Mishra Bhojnalaya & Restaurant,600,"Indian,Chinese",Bhopal,Maharana Pratap Nagar,Casual Dining,11am to 10pm(Mon-Sun),Good,3.6,33
+Raju Restaurant,250,"Fast Food,Beverages",Bhopal,Jhangirabad,Quick Bites,7am to 10pm(Mon-Sun),Average,3.4,13
+Bittu Food Corner,200,"Fast Food,Street Food,Rolls",Bhopal,Maharana Pratap Nagar,Quick Bites,11am to 1030pm(Mon-Sun),Good,3.5,18
+Meal On!!,300,"North Indian,South Indian",Bhopal,BHEL,Quick Bites,"11am to 930pm(Mon-Sat),Closed(Sun)",Good,3.5,27
+J Vedi Appan,300,South Indian,Bhopal,BHEL,Quick Bites,9am to 8pm(Mon-Sun),Average,3.4,25
+Swastik Pure Veg Restaurant,300,"North Indian,Biryani,Chinese",Bhopal,BHEL,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.3,538
+CKC Restaurant,400,"North Indian,Fast Food,Chinese",Bhopal,Gulmohar Colony,Quick Bites,9am to 11pm(Mon-Sun),Very Good,4.1,258
+KFC,550,"Burger,Fast Food",Bhopal,DB City-- Maharana Pratap Nagar,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.3,578
+Vrindavan Dhaba,450,"North Indian,Chinese,Beverages,Fast Food",Bhopal,Hoshangabad Road,Quick Bites,11am to 1245AM(Mon-Sun),Good,3.9,350
+Milan Restaurant,300,"North Indian,South Indian,Fast Food,Beverages",Bhopal,Maharana Pratap Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,335
+Ganesh Chinese & Fast Food,300,"Fast Food,Chinese,North Indian",Bhopal,Kolar,Quick Bites,9am to 11pm(Mon-Sun),Very Good,4.1,356
+Mamaji Jalebi Wale,200,"Mithai,Desserts,Street Food",Bhopal,Peer Gate Area,Sweet Shop,7am to 11pm(Mon-Sun),Good,3.9,423
+Tilak's Chocolady Bakery & Restaurant,800,"North Indian,South Indian,Chinese,Sandwich,Beverages",Bhopal,Gulmohar Colony,Casual Dining,11am to 11pm(Mon-Sun),Excellent,4.5,397
+Naveen's Bapu ki Kutia,550,"North Indian,Biryani,South Indian,Fast Food,Desserts",Bhopal,Maharana Pratap Nagar,Casual Dining,"930am to 2am(Mon),930am to 11pm(Tue-Sun)",Good,3.8,690
+Pizza Hut,650,"Pizza,Fast Food",Bhopal,DB City-- Maharana Pratap Nagar,Casual Dining,1130am to 11pm(Mon-Sun),Good,3.7,502
+Pakiza Restaurant,350,North Indian,Bhopal,Peer Gate Area,Quick Bites,11am to 12midnight(Mon-Sun),Good,3.9,327
+Hakeem's,600,"Mughlai,Chinese,North Indian,Kebab,Hyderabadi,Biryani",Bhopal,Maharana Pratap Nagar,Casual Dining,11am to 11pm(Mon-Sun),Good,3.9,350
+Sehra's Morar Restaurant,500,North Indian,Bhopal,BHEL,Quick Bites,11am to 1150pm(Mon-Sun),Good,3.7,353
+McDonald's,500,"Burger,Fast Food",Bhopal,DB City-- Maharana Pratap Nagar,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.2,485
+Daawat,300,"North Indian,Chinese,Rolls,Beverages",Bhopal,Maharana Pratap Nagar,Casual Dining,24,Good,3.8,324
+HL Rooftop Restaurant,800,"Continental,North Indian",Bhopal,Arera Colony,Casual Dining,11am to 10pm(Mon-Sun),Good,3.5,21
+Brown Sugar Cafe,400,"Cafe,Bakery",Bhopal,Gulmohar Colony,Café,10am to 11pm(Mon-Sun),Poor,2.1,74
+Tea Friend's,100,"Tea,Fast Food,Bakery,Coffee",Bhopal,Maharana Pratap Nagar,Quick Bites,9am to 10pm(Mon-Sun),Good,3.5,22
+Hide Away Grill,600,North Indian,Bhopal,Arera Colony,Casual Dining,2pm to 10pm(Mon-Sun),Good,3.5,28
+Hotel Sai Mahima,400,North Indian,Bhopal,Maharana Pratap Nagar,Quick Bites,11am to 3am(Mon-Sun),Good,3.7,66
+Laxmi Chinese Fast Food,150,"Chinese,North Indian",Bhopal,Maharana Pratap Nagar,Quick Bites,11am to 1030pm(Mon-Sun),Good,3.5,20
+Sindh Krishna Bakery,300,"Desserts,Fast Food",Bhopal,Kohefiza,Bakery,"10am to 10pm(Mon,Tue,Wed,Thu,Fri,Sun),10am...",Average,3.4,25
+Gyani de Chole Bhature,400,North Indian,Bhopal,BHEL,Quick Bites,"2pm to 8pm(Mon,Tue,Wed,Fri,Sat,Sun),Closed...",Average,2.5,24
+Air Kitchen Restaurant,600,"North Indian,Chinese,Fast Food",Bhopal,Maharana Pratap Nagar,Quick Bites,1030am to 10pm(Mon-Sun),Good,3.5,16
+The Momo Factory,200,Momos,Bhopal,Arera Colony,none,4pm to 1030pm(Mon-Sun),Average,3.3,8
+Barbeque Corner,700,BBQ,Bhopal,Arera Colony,Casual Dining,"12noon to 3am(Mon,Tue,Wed,Thu,Sat),Closed...",Good,3.5,17
+Mama Fruit Juice Bar since 1974,100,"Juices,Salad,Beverages",Bhopal,TT Nagar,Beverage Shop,9am to 10pm(Mon-Sun),Good,3.5,11
+Hotel Aditya Palace,400,North Indian,Bhopal,Maharana Pratap Nagar,none,"830am to 1030pm(Mon,Tue,Wed,Fri,Sat,Sun)...",Average,3.3,14
+Mizaz-e-Bhopal,300,"North Indian,Chinese",Bhopal,Jhangirabad,none,12noon to 10pm(Mon-Sun),Average,3.2,21
+Self Care,200,Healthy Food,Bhopal,Gulmohar Colony,none,830am to 7pm(Mon-Sun),Average,3.3,11
+Aradhana,500,"Fast Food,North Indian",Bhopal,BHEL,Casual Dining,8am to 1030pm(Mon-Sun),Average,3.4,9
+Tea Friend's,250,"Cafe,Tea",Bhopal,TT Nagar,Café,10am to 10pm(Mon-Sun),Average,2.9,21
+Monkey's Cafe & Grill,250,"Cafe,Fast Food",Bhopal,Maharana Pratap Nagar,Café,12noon to 10pm(Mon-Sun),Average,3.3,14
+Chai Da Talab,200,"Sandwich,Fast Food,Beverages",Bhopal,BHEL,Quick Bites,8am to 10pm(Mon-Sun),Average,3.2,20
+RK's Idli,250,South Indian,Bhopal,BHEL,Quick Bites,"8am to 2pm,5pm to 7pm(Mon-Sat),8am to 2pm(Sun)",Good,3.6,27
+Fresh Fruit Salad Centre,200,Healthy Food,Bhopal,TT Nagar,Quick Bites,8am to 1030pm(Mon-Sun),Good,3.6,17
+Food Venture,200,"Chinese,North Indian,Sandwich,Burger",Bhopal,Gulmohar Colony,none,11am to 10pm(Mon-Sun),Average,3.2,16
+Desi Gali FastFood,350,Fast Food,Bhopal,Jhangirabad,Quick Bites,11am to 10pm(Mon-Sun),Average,3.4,16
+Club D Zorba,600,"North Indian,Chinese,Biryani,Desserts,Beverages",Bhopal,Gulmohar Colony,Casual Dining,12noon to 10pm(Mon-Sun),Good,3.6,19
+Balaji Cafe,200,South Indian,Bhopal,Hoshangabad Road,Quick Bites,9am to 9pm(Mon-Sun),Good,3.6,18
+Twister King,250,North Indian,Bhopal,JP Nagar,Quick Bites,7pm to 4am(Mon-Sun),Very Good,4.0,53
+Agrawal Puri Bhandar,200,Street Food,Bhopal,Peer Gate Area,Quick Bites,"1120am to 1020pm(Mon-Sat),12noon to 345pm(Sun)",Average,2.7,23
+Swad Desh,200,"North Indian,Fast Food",Bhopal,Maharana Pratap Nagar,Quick Bites,10am to 10pm(Mon-Sun),Average,3.4,11
+Bhagat Bakers,350,Bakery,Bhopal,Kolar,Bakery,1030am to 1030pm(Mon-Sun),Average,3.4,13
+Jai Maa Ambey Restaurant,500,North Indian,Bhopal,BHEL,Quick Bites,1030am to 10pm(Mon-Sun),Good,3.6,21
+The London Shakes & Cafe,300,"Cafe,Beverages,Fast Food",Bhopal,Maharana Pratap Nagar,Café,11am to 9pm(Mon-Sun),Good,3.5,15
+Mix n Match,250,Fast Food,Bhopal,Aashima Mall-- Hoshangabad Road,Quick Bites,12noon to 10pm(Mon-Sun),Average,3.3,14
+Punjabi Chulha,300,North Indian,Bhopal,Maharana Pratap Nagar,Quick Bites,"1pm to 1030pm(Mon,Tue,Wed,Fri,Sat,Sun)...",Average,3.2,7
+Foodies Cafe,200,"Fast Food,Tea",Bhopal,BHEL,Quick Bites,10am to 10pm(Mon-Sun),Average,3.4,19
+Paratha Shots,250,"North Indian,Fast Food",Bhopal,Maharana Pratap Nagar,Quick Bites,1030am to 1030pm(Mon-Sun),Average,3.4,13
+Anugrah Restaurant,100,Street Food,Bhopal,Hoshangabad Road,none,8am to 10pm(Mon-Sun),Average,3.4,13
+Hotel Kolar,650,North Indian,Bhopal,Kolar,Casual Dining,10am to 1030pm(Mon-Sun),Average,2.6,17
+Jain Ke Namkeen,200,Fast Food,Bhopal,Peer Gate Area,Quick Bites,"11am to 10pm(Mon-Sat),11am to 3pm(Sun)",Good,3.5,14
+Waterville,900,"North Indian,Chinese,Continental",Bhopal,Kohefiza,Casual Dining,11am to 12midnight(Mon-Sun),Good,3.6,58
+Shree Nashta Center,400,Fast Food,Bhopal,BHEL,Quick Bites,11am to 10pm(Mon-Sun),Average,3.3,8
+House Of Food,250,Fast Food,Bhopal,Kolar,Quick Bites,2pm to 10pm(Mon-Sun),Average,3.3,7
+Tukku Food House,300,North Indian,Bhopal,BHEL,Quick Bites,3pm to 10pm(Mon-Sun),Average,3.3,11
+Instagaram,250,Fast Food,Bhopal,Arera Colony,Quick Bites,11am to 10pm(Mon-Sun),Average,2.9,17
+Mr Cook,200,"North Indian,Street Food,Chinese,South Indian,Fast Food",Bhopal,Habib Ganj,Quick Bites,10am to 8pm(Mon-Sun),Average,3.3,19
+Truly Fresh,250,"Fast Food,Sandwich,Beverages",Bhopal,Hoshangabad Road,Quick Bites,1130am to 10pm(Mon-Sun),Average,3.4,10
+Alfresco -The Food Truck,250,"Continental,Chinese,Fast Food",Bhopal,Gulmohar Colony,Food Truck,12noon to 9pm(Mon-Sun),Average,3.4,14
+Ali Baba Caves,1000,"Continental,North Indian,Italian,Chinese",Bhopal,Gulmohar Colony,Casual Dining,11am to 11pm(Mon-Sun),Good,3.7,81
+Chennai Dosa House,200,"Fast Food,South Indian",Bhopal,Kolar,Quick Bites,11am to 10pm(Mon-Sun),Average,3.3,10
+Al Baksh,400,Fast Food,Bhopal,TT Nagar,Quick Bites,3pm to 12midnight(Mon-Sun),Very Good,4.0,93
+Raw @ BAGMUGALIA,450,"Italian,Salad,Healthy Food",Bhopal,Hoshangabad Road,Quick Bites,12noon to 10pm(Mon-Sun),Average,3.3,12
+The Maggie Boy,150,Fast Food,Bhopal,Maharana Pratap Nagar,Quick Bites,1230pm to 930pm(Mon-Sun),Average,3.2,6
+Food Point Restaurant,150,"North Indian,Fast Food",Bhopal,Jhangirabad,Quick Bites,11am to 130am(Mon-Sun),Very Good,4.0,55
+The Sandwich Hub,200,Sandwich,Bhopal,Gulmohar Colony,Quick Bites,12noon to 10pm(Mon-Sun),Average,3.4,15
+Mummy Ki Biryani,200,Biryani,Bhopal,BHEL,none,11am to 1030pm(Mon-Sun),Average,2.9,14
+Goodricke Teapot,300,"Cafe,Tea,Coffee",Bhopal,TT Nagar,Café,11am to 1030pm(Mon-Sun),Average,3.1,8
+Morena Dairy,250,"Mithai,Fast Food",Bhopal,Arera Colony,Sweet Shop,8am to 10pm(Mon-Sun),Average,3.4,15
+Hotel La Pearl,400,North Indian,Bhopal,Arera Colony,Quick Bites,"12noon to 3pm,630pm to 1030pm(Mon-Sun)",Average,3.1,14
+Balaji Sweets and Namkeen,150,"Mithai,Street Food,Desserts",Bhopal,Kohefiza,Sweet Shop,"9am to 11pm(Mon),9am to 10pm(Tue-Sun)",Average,3.3,4
+Jaiswal Chinese Centre,250,"Chinese,Fast Food,Street Food",Bhopal,Hoshangabad Road,Quick Bites,1pm to 10pm(Mon-Sun),Average,3.3,8
+Raj Gajak,200,North Indian,Bhopal,Peer Gate Area,Casual Dining,11am to 10pm(Mon-Sun),Average,2.9,12
+Chahat Sweets And Namkeen,700,"North Indian,Mithai,Desserts",Bhopal,BHEL,Quick Bites,730am to 1030pm(Mon-Sun),Average,3.3,10
+Jai's Dosa Hub,200,South Indian,Bhopal,BHEL,Quick Bites,11am to 10pm(Mon-Sun),Average,3.3,11
+Baskin Robbins,300,"Ice Cream,Desserts",Bhopal,DB City-- Maharana Pratap Nagar,Dessert Parlor,1pm to 9pm(Mon-Sun),Good,3.5,14
+Momos Treat Fast Food,250,Fast Food,Bhopal,Habib Ganj,Quick Bites,12noon to 10pm(Mon-Sun),Average,2.8,6
+Bon Pizza,200,"Pizza,Fast Food",Bhopal,Habib Ganj,Quick Bites,615pm to 1015pm(Mon-Sun),Average,3.4,10
+ChickenKukduku,300,North Indian,Bhopal,Arera Colony,none,"Closed(Mon-Fri),11am to 9pm(Sat-Sun)",Average,3.3,16
+Lee Momos,200,Momos,Bhopal,Maharana Pratap Nagar,Quick Bites,1pm to 10pm(Mon-Sun),Average,3.0,7
+The Baker's Home,400,Bakery,Bhopal,Arera Colony,Bakery,1pm to 10pm(Mon-Sun),Average,2.9,9
+Friends Cake Shop,300,Bakery,Bhopal,BHEL,Bakery,11am to 10pm(Mon-Sun),Average,3.3,13
+Sai Kripa Sweets And Restaurant,400,"Mithai,North Indian,Street Food",Bhopal,Kohefiza,Sweet Shop,"9am to 1040pm(Mon,Tue,Wed,Thu,Fri,Sun),9am...",Average,3.3,4
+Dosa Point,300,South Indian,Bhopal,BHEL,Quick Bites,8am to 10pm(Mon-Sun),Average,3.1,10
+Dr. Bubbles,350,"Beverages,Bubble Tea,Desserts",Bhopal,Hoshangabad Road,Food Court,"Closed(Mon-Tue),12noon to 815pm(Wed-Sun)",Average,3.2,9
+Street Foods by Punjab Grill,450,"North Indian,South Indian,Chinese",Bhopal,Arera Colony,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.1,71
+Amar Jyot Restaurant,350,"North Indian,Chinese",Bhopal,Kohefiza,Quick Bites,2pm to 11pm(Mon-Sun),Good,3.5,106
+Just Cakes,400,Bakery,Bhopal,Jhangirabad,Quick Bites,11am to 10pm(Mon-Sun),Average,3.1,5
+Ujjali Chinese Fast Food,200,"Fast Food,Rolls",Bhopal,Maharana Pratap Nagar,Quick Bites,NA,Average,3.3,10
+Swad Sandesh,150,"South Indian,Chinese,Fast Food",Bhopal,Kolar,Casual Dining,7am to 10pm(Mon-Sun),Average,2.9,6
+Ahuja Punjab Dairy Product & Sweets,400,"Mithai,Bakery",Bhopal,TT Nagar,Quick Bites,11am to 10pm(Mon-Sun),Average,3.1,6
+Bake n Bites,300,Fast Food,Bhopal,Aashima Mall-- Hoshangabad Road,Quick Bites,11am to 10pm(Mon-Sun),Average,3.1,7
+Aroma Kitchen,500,"North Indian,Mughlai,Desserts,Beverages",Bhopal,BHEL,none,1030am to 3pm(Mon-Sun),Average,3.1,9
+BB Foods & Restaurant,400,"South Indian,Chinese,North Indian",Bhopal,Maharana Pratap Nagar,Casual Dining,11am to 1030pm(Mon-Sun),Average,2.8,13
+Gwalior Gajak,200,"Mithai,Street Food",Bhopal,TT Nagar,Sweet Shop,11am to 10pm(Mon-Sun),Average,3.0,4
+Eldritch Blues,800,"Continental,North Indian,Chinese",Bhopal,TT Nagar,Casual Dining,9am to 11pm(Mon-Sun),Good,3.6,57
+Bakers Treat,300,Desserts,Bhopal,Arera Colony,Dessert Parlor,2pm to 9pm(Mon-Sun),Average,3.1,5
+The Black Pepper Restaurnat,550,North Indian,Bhopal,Airport Area,Casual Dining,"11am to 11pm(Mon,Tue,Wed,Thu,Sat,Sun),430pm...",Average,2.5,90
+Food Swings,200,"North Indian,Fast Food,Chinese,Sandwich,Burger,Wraps",Bhopal,Maharana Pratap Nagar,Quick Bites,9am to 9pm(Mon-Sun),Average,3.2,7
+Wah Chef Fast Food,250,"Burger,Biryani,Pizza,Sandwich,Fast Food",Bhopal,JP Nagar,Quick Bites,3pm to 1130pm(Mon-Sun),Very Good,4.0,72
+INDIAN CHATPATI BIRYANI,150,Biryani,Bhopal,Jhangirabad,Quick Bites,9am to 4pm(Mon-Sun),Average,3.3,11
+Gupta Tea Corner,100,"Tea,Street Food",Bhopal,Maharana Pratap Nagar,Quick Bites,8am to 9pm(Mon-Sun),Average,2.9,9
+Chatkara Fast Food,200,Fast Food,Bhopal,Peer Gate Area,Quick Bites,11am to 10pm(Mon-Sun),Average,3.0,4
+7 Eleven,200,"Fast Food,Chinese,Sandwich,Momos,Beverages",Bhopal,Maharana Pratap Nagar,Quick Bites,11am to 1030pm(Mon-Sun),Average,3.0,4
+11 Meal Restaurant,350,"North Indian,Chinese",Bhopal,BHEL,Quick Bites,10am to 10pm(Mon-Sun),Average,3.0,5
+Maalwa Ki Daal Bati,100,Street Food,Bhopal,BHEL,none,10am to 8pm(Mon-Sun),Average,3.0,5
+Sahu Ji Health Point,100,Juices,Bhopal,Maharana Pratap Nagar,Beverage Shop,11am to 9pm(Mon-Sun),Average,3.2,6
+Mystic Grill,300,Fast Food,Bhopal,Maharana Pratap Nagar,Quick Bites,2pm to 10pm(Mon-Sun),Average,3.2,6
+Som Cafe,400,Fast Food,Bhopal,Gulmohar Colony,Quick Bites,12noon to 10pm(Mon-Sun),Average,3.2,7
+The Chicken Treats,400,Fast Food,Bhopal,JP Nagar,Quick Bites,3pm to 10pm(Mon-Sun),Average,3.0,9
+Big Byte Bakers,300,"Bakery,Desserts",Bhopal,Arera Colony,Bakery,1130am to 930pm(Mon-Sun),Average,3.1,6
+House Of Candy,200,Desserts,Bhopal,Maharana Pratap Nagar,Confectionery,1030am to 10pm(Mon-Sun),Average,3.1,4
+Milan Chinese,150,"Chinese,Fast Food",Bhopal,Peer Gate Area,Quick Bites,11am to 10pm(Mon-Sun),Average,3.0,6
+Rhythm Foods and Bhojnalaya,250,North Indian,Bhopal,BHEL,Bhojanalya,11am to 10pm(Mon-Sun),Average,3.1,4
+Aroma,700,"Continental,Italian,North Indian",Bhopal,Arera Colony,Casual Dining,730am to 1030pm(Mon-Sun),Average,3.0,6
+Chulha Chauka,300,North Indian,Bhopal,BHEL,Quick Bites,11am to 10pm(Mon-Sun),Average,3.2,7
+Arabian Night Kebab,350,Mughlai,Bhopal,Kohefiza,Quick Bites,10am to 10pm(Mon-Sun),Average,3.0,6
+Mad Over Shakes,500,"Cafe,Beverages,Fast Food",Bhopal,Arera Colony,Café,12noon to 1130pm(Mon-Sun),Very Good,4.1,65
+Richie's Cafe & Bakers,200,"Fast Food,Bakery",Bhopal,Maharana Pratap Nagar,Quick Bites,11am to 10pm(Mon-Sun),Average,3.0,4
+The Rooftree,400,"Chinese,Indian,Italian,Mexican",Bhopal,Maharana Pratap Nagar,Quick Bites,11am to 12midnight(Mon-Sun),Good,3.5,59
+Taj Foods,400,Fast Food,Bhopal,Kohefiza,Quick Bites,5pm to 1030pm(Mon-Sun),Average,3.1,5
+Cafe Kinara,180,Chinese,Bhopal,Kohefiza,Quick Bites,12noon to 10pm(Mon-Sun),Average,3.0,5
+Guptaji Shakahari Bhojnalay,350,North Indian,Bhopal,Maharana Pratap Nagar,Quick Bites,8am to 12midnight(Mon-Sun),Very Good,4.1,306
+Rajhans Restaurant,400,"North Indian,South Indian,Continental,Chinese",Bhopal,Peer Gate Area,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,342
+Domino's Pizza,700,Pizza,Bhopal,BHEL,Casual Dining,11am to 12midnight(Mon-Sun),Good,3.8,389
+Taste Of India,500,"North Indian,South Indian,Fast Food",Bhopal,Maharana Pratap Nagar,Casual Dining,8am to 11pm(Mon-Sun),Good,3.7,424
+Filfora,800,"North Indian,Fast Food,Mughlai",Bhopal,Kohefiza,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,425
+Alfry Foods,250,"Fast Food,Burger",Bhopal,Peer Gate Area,Quick Bites,4pm to 1am(Mon-Sun),Excellent,4.5,591
+Rice Bowl Thai & Chinese,600,Chinese,Bhopal,Habib Ganj,Casual Dining,12noon to 11pm(Mon-Sun),Very Good,4.1,368
+Nerbada Sweets & Restaurant,350,"North Indian,Fast Food,Desserts,South Indian",Bhopal,Peer Gate Area,Quick Bites,930am to 11pm(Mon-Sun),Very Good,4.1,341
+Hotel Rajhans Regent,800,"North Indian,Continental",Bhopal,Maharana Pratap Nagar,Casual Dining,11am to 11pm(Mon-Sun),Good,3.9,324
+Pooja Bhojnalay,200,North Indian,Bhopal,Maharana Pratap Nagar,Dhaba,11am to 12midnight(Mon-Sun),Very Good,4.0,199
+Rolls Mania,450,"Rolls,Fast Food",Bhopal,Maharana Pratap Nagar,Quick Bites,1110am to 11pm(Mon-Sun),Very Good,4.1,345
+Kafe Kulture,600,"North Indian,Fast Food,Beverages",Bhopal,Gulmohar Colony,Quick Bites,1pm to 11pm(Mon-Sun),Good,3.9,245
+Sankalp,600,"South Indian,North Indian",Bhopal,Maharana Pratap Nagar,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.1,241
+Behrouz Biryani,700,Biryani,Bhopal,Maharana Pratap Nagar,Casual Dining,10am to 1am(Mon-Sun),Very Good,4.1,299
+Bhopal Baking Company,500,"Bakery,Desserts,Fast Food",Bhopal,Arera Colony,Bakery,9am to 11pm(Mon-Sun),Very Good,4.0,159
+Juice Corner,100,"Juices,Beverages",Bhopal,Maharana Pratap Nagar,Beverage Shop,"10am to 8pm(Mon-Sat),Closed(Sun)",Average,2.9,4
+MH-31 in MP-04 Maharashtrian,600,"Maharashtrian,North Indian",Bhopal,Kolar,Casual Dining,"1pm to 111pm(Mon),1pm to 11pm(Tue-Sun)",Good,3.8,83
+Shankar Hotel,300,North Indian,Bhopal,Arera Colony,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,98
+Hotel Sunshine,500,North Indian,Bhopal,Kohefiza,Casual Dining,11am to 12midnight(Mon-Sun),Good,3.9,69
+Balaji's Family Restaurant,400,"North Indian,Biryani,Chinese",Bhopal,BHEL,Casual Dining,1130am to 11pm(Mon-Sun),Good,3.7,105
+AB's Tom and Jerry,200,"Fast Food,Chinese",Bhopal,Gulmohar Colony,Café,8am to 11pm(Mon-Sun),Good,3.6,111
+Oh! MilkShake,150,"Beverages,Coffee,Burger,Desserts",Bhopal,Gulmohar Colony,Beverage Shop,11am to 11pm(Mon-Sun),Very Good,4.0,65
+Chai Kaapi,400,"Tea,Biryani,Fast Food,Coffee,Finger Food",Bhopal,Arera Colony,Café,9am to 12midnight(Mon-Sun),Good,3.9,58
+Chappan Bhog,250,Desserts,Bhopal,Gulmohar Colony,Dessert Parlor,8am to 11pm(Mon-Sun),Average,3.4,59
+Dark Dining Restaurant,150,North Indian,Bhopal,Hoshangabad Road,Casual Dining,24,Good,3.5,64
+Prada Food Zone,300,"North Indian,Chinese",Bhopal,Hoshangabad Road,Quick Bites,11am to 12midnight(Mon-Sun),Very Good,4.0,60
+Burger Buddy,400,Fast Food,Bhopal,Maharana Pratap Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,80
+Food Stories,550,"Fast Food,Street Food,Chinese,Continental,Beverages",Bhopal,TT Nagar,Casual Dining,11am to 11pm(Mon-Sun),Good,3.7,81
+Ocean Cafe,500,"Cafe,Burger,Chinese,Continental,Fast Food,North Indian,Sandwich",Bhopal,Gulmohar Colony,Café,8am to 12midnight(Mon-Sun),Good,3.6,74
+Hotel Shikha Palace,500,"North Indian,Coffee and Tea,Chinese,Fast Food,BBQ,Indian,Tea,South Indian",Bhopal,Peer Gate Area,Casual Dining,11am to 12midnight(Mon-Sun),Good,3.7,105
+Hotel Aftab,400,North Indian,Bhopal,Peer Gate Area,Quick Bites,11am to 12midnight(Mon-Sun),Good,3.5,94
+The Barni House,650,"North Indian,Chinese,Continental,Desserts,Italian,Mughlai,Beverages",Bhopal,Gulmohar Colony,Casual Dining,12noon to 11pm(Mon-Sun),Good,3.9,70
+The Highway Kitchen,400,"North Indian,Mughlai,Kebab,Chinese,Pizza,Sandwich,Rolls,Desserts",Bhopal,Hoshangabad Road,Quick Bites,12noon to 11pm(Mon-Sun),Average,2.9,71
+Vogue Restro & Bistro,800,"North Indian,Chinese,Continental,Desserts,Fast Food",Bhopal,Kajlas,Casual Dining,12noon to 11pm(Mon-Sun),Good,3.9,22
+Hot Spot,550,Fast Food,Bhopal,TT Nagar,Quick Bites,5pm to 12midnight(Mon-Sun),Good,3.6,73
+Hakeem Hotel,800,"North Indian,Mughlai,Hyderabadi,Biryani,Kebab,Chinese",Bhopal,BHEL,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,77
+Shagun's Restaurant,800,"North Indian,Chinese",Bhopal,Peer Gate Area,Casual Dining,7am to 3am(Mon-Sun),Good,3.8,58
+New Gazala Hotel,400,"Mughlai,North Indian",Bhopal,Peer Gate Area,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.0,47
+Dollson,350,Chinese,Bhopal,Hoshangabad Road,Food Court,11am to 11pm(Mon-Sun),Good,3.6,63
+Chai Ho Jaye,300,"Fast Food,Tea,Chinese,Sandwich,Street Food,Beverages",Bhopal,Hoshangabad Road,Quick Bites,"10am to 1130pm(Mon),11am to 11pm(Tue-Sun)",Good,3.5,66
+The Brunch House,200,North Indian,Bhopal,Maharana Pratap Nagar,Casual Dining,9am to 11pm(Mon-Sun),Very Good,4.0,40
+Hot N Spicy,300,North Indian,Bhopal,TT Nagar,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.8,75
+The Sundown Grill,750,"North Indian,Chinese,Italian,Biryani,Sandwich,Rolls,Beverages",Bhopal,Gulmohar Colony,Casual Dining,12noon to 11pm(Mon-Sun),Good,3.5,37
+The Chicken Express,200,"Fast Food,North Indian",Bhopal,JP Nagar,Quick Bites,"3pm to 11pm(Mon-Wed),3pm to 12midnight(Thu-Sun)",Good,3.8,47
+Amrita Restaurant,350,"North Indian,Chinese",Bhopal,Gulmohar Colony,Quick Bites,"9am to 12midnight(Mon,Wed,Thu,Fri,Sat,Sun)...",Average,3.4,43
+AEM Foods,200,"North Indian,Rajasthani",Bhopal,BHEL,none,11am to 11pm(Mon-Sun),Good,3.9,70
+BBQ Corner,300,BBQ,Bhopal,Kolar,Quick Bites,"12midnight to 12noon(Mon),1pm to 12midnight...",Good,3.7,72
+Oh My Grill,300,"North Indian,Chinese",Bhopal,Hoshangabad Road,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,41
+Kulhadwala,300,"Beverages,Fast Food",Bhopal,Maharana Pratap Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,2.8,60
+Out Of Oven,400,Bakery,Bhopal,Airport Area,Bakery,11am to 11pm(Mon-Sun),Good,3.8,51
+Spicy n' Icy,250,"Fast Food,Chinese,Sandwich,Momos",Bhopal,Peer Gate Area,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.8,75
+The Frozzen Hut | Waffle Hut,400,"Bakery,Fast Food",Bhopal,Gulmohar Colony,Bakery,1pm to 12midnight(Mon-Sun),Good,3.9,70
+Hotel Rahi,300,"Chinese,North Indian",Bhopal,JP Nagar,Casual Dining,11am to 12midnight(Mon-Sun),Good,3.7,44
+Orient Lake Treat,800,"Chinese,North Indian,Fast Food",Bhopal,Arera Colony,Casual Dining,11am to 1130pm(Mon-Sun),Average,2.7,68
+Idli And More,200,"South Indian,Chinese,Fast Food",Bhopal,Arera Colony,Quick Bites,830am to 11pm(Mon-Sun),Good,3.8,50
+Junkyard Cafe,200,"Cafe,Beverages,Fast Food,Chinese,Sandwich",Bhopal,BHEL,Café,11am to 11pm(Mon-Sun),Average,3.3,27
+Kailash Parbat,500,"Chinese,North Indian,Street Food",Bhopal,TT Nagar,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,62
+A2Y Calories,300,"Fast Food,Healthy Food",Bhopal,Maharana Pratap Nagar,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.0,38
+Sam's Pizza,400,Pizza,Bhopal,Maharana Pratap Nagar,Food Court,11am to 11pm(Mon-Sun),Average,2.9,59
+Zam's Fast Food,300,Fast Food,Bhopal,BHEL,Quick Bites,2pm to 11pm(Mon-Sun),Good,3.8,60
+Mama Juice Bar,150,"Juices,Beverages",Bhopal,TT Nagar,Beverage Shop,8am to 1130pm(Mon-Sun),Good,3.8,33
+Sai Bhojanalay Fast Food Centre,250,"North Indian,South Indian,Chinese",Bhopal,Maharana Pratap Nagar,Quick Bites,11am to 1155pm(Mon-Sun),Good,3.6,51
+Sharma Bhojnalaya,300,North Indian,Bhopal,TT Nagar,Bhojanalya,11am to 11pm(Mon-Sun),Good,3.7,65
+Sandwich Club,400,"Sandwich,Healthy Food,Beverages",Bhopal,Kohefiza,Quick Bites,8am to 11pm(Mon-Sun),Good,3.7,62
+SaltWater Restaurant And Pub,1000,"Chinese,Fast Food,Bar Food,BBQ,North Indian,Beverages",Bhopal,TT Nagar,Pub,11am to 11pm(Mon-Sun),Good,3.5,34
+Hotel Shan E Rahman,500,"North Indian,Mughlai,Biryani,Kebab",Bhopal,BHEL,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,91
+Rahul Meena Momos,400,"Momos,Chinese,Street Food,Beverages",Bhopal,Gulmohar Colony,Café,11am to 11pm(Mon-Sun),Good,3.9,56
+Sandeep Provision,200,Fast Food,Bhopal,Kohefiza,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.0,77
+Keventers,400,"Beverages,Ice Cream,Desserts",Bhopal,TT Nagar,Beverage Shop,11am to 11pm(Mon-Sun),Good,3.7,54
+Al-laziz Restaurant,200,Biryani,Bhopal,JP Nagar,Quick Bites,9am to 3am(Mon-Sun),Good,3.9,13
+Shikha Restaurant,300,"Indian,North Indian,South Indian,Chinese,Fast Food",Bhopal,Jhangirabad,Casual Dining,7am to 12midnight(Mon-Sun),Average,3.2,90
+Shahi Durbar,350,"Ice Cream,Desserts",Bhopal,DB City-- Maharana Pratap Nagar,Dessert Parlor,11am to 11pm(Mon-Sun),Good,3.9,60
+Angithi Restaurant,500,"North Indian,Chinese,Kebab,BBQ,Mughlai",Bhopal,Gulmohar Colony,Casual Dining,11am to 11pm(Mon-Sun),Average,3.1,42
+Evening Post,400,Mughlai,Bhopal,Airport Area,Quick Bites,12noon to 11pm(Mon-Sun),Average,2.7,63
+Chatkara Fast Food,500,"Chinese,Pizza,South Indian,North Indian",Bhopal,Hoshangabad Road,Quick Bites,8am to 11pm(Mon-Sun),Average,3.2,47
+Aflatoon,700,"North Indian,Chinese",Bhopal,Gulmohar Colony,Casual Dining,8am to 1115pm(Mon-Sun),Average,3.4,40
+Pooja Shri Bhojnalay,200,North Indian,Bhopal,Maharana Pratap Nagar,Bhojanalya,11am to 12midnight(Mon-Sun),Good,3.6,24
+Ranjit's Lakeview,450,"North Indian,Mughlai,Chinese",Bhopal,TT Nagar,Casual Dining,11am to 1130pm(Mon-Sun),Good,3.7,50
+Raj Darbar,250,North Indian,Bhopal,Arera Colony,Quick Bites,11am to 1am(Mon-Sun),Good,3.7,20
+Danish Ice Cream,500,Desserts,Bhopal,TT Nagar,Dessert Parlor,11am to 12midnight(Mon-Sun),Good,3.7,62
+The Good Bowl,350,"Asian,Biryani,North Indian",Bhopal,Gulmohar Colony,none,10am to 1am(Mon-Sun),Good,3.7,24
+Kafeela - The Barbeque,300,Fast Food,Bhopal,Arera Colony,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,59
+Hakeem hotel,800,"Mughlai,Chinese,North Indian",Bhopal,Gulmohar Colony,Casual Dining,"12noon to 1121pm(Mon,Sat),12noon to 1120pm...",Average,3.0,52
+Jalandhar Chaat House,250,"Street Food,Fast Food,Finger Food",Bhopal,Gulmohar Colony,Quick Bites,11am to 11pm(Mon-Sun),Average,2.9,45
+Khaasiyat,400,"Mughlai,Biryani,Rolls,North Indian",Bhopal,Gulmohar Colony,Quick Bites,"7pm to 11pm(Mon,Wed,Thu),133am to 134am...",Good,3.8,49
+Waterville Takeaway,400,"North Indian,Chinese,Fast Food",Bhopal,Kohefiza,Quick Bites,12noon to 12midnight(Mon-Sun),Good,3.8,34
+Moti Mahal Delux,800,"North Indian,South Indian",Bhopal,Aashima Mall-- Hoshangabad Road,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,51
+Al Zam Zam,300,North Indian,Bhopal,Maharana Pratap Nagar,Quick Bites,11am to 2am(Mon-Sun),Good,3.6,208
+Cowboy Restaurant & Lounge,800,"North Indian,Mexican,Chinese,Continental",Bhopal,Arera Colony,Casual Dining,12noon to 11pm(Mon-Sun),Very Good,4.0,319
+Tapree House,250,North Indian,Bhopal,Kolar,Quick Bites,"1230pm to 2am(Mon),1230pm to 1145pm(Tue-Sun)",Very Good,4.0,248
+Nite Cuisine,350,"North Indian,Chinese,Fast Food",Bhopal,Maharana Pratap Nagar,none,1230pm to 4am(Mon-Sun),Very Good,4.3,221
+The Kasbah,700,"North Indian,Chinese",Bhopal,Kolar,Casual Dining,12noon to 11pm(Mon-Sun),Very Good,4.1,272
+Olive & Honey Restaurant,600,"Italian,Fast Food",Bhopal,Kohefiza,Casual Dining,1pm to 11pm(Mon-Sun),Very Good,4.2,218
+Amer Bakery Hut (ABH),400,"Fast Food,South Indian,North Indian,Chinese,Continental,Pizza,Healthy Food,Beverages",Bhopal,TT Nagar,Bakery,11am to 11pm(Mon-Sun),Very Good,4.2,221
+Hong Kong,550,Chinese,Bhopal,Maharana Pratap Nagar,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.1,317
+Anjani Bhojnalay,300,North Indian,Bhopal,Maharana Pratap Nagar,Quick Bites,11am to 1130pm(Mon-Sun),Very Good,4.0,231
+Zam's Chicken Fast Food,250,Fast Food,Bhopal,Maharana Pratap Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,189
+Grills & More,300,"Fast Food,Chinese,Pizza,Burger,Sandwich,Rolls,Beverages",Bhopal,BHEL,Quick Bites,1030am to 11pm(Mon-Sun),Very Good,4.0,234
+Countryside Meadows,600,"North Indian,Chinese",Bhopal,Kajlas,Casual Dining,12noon to 12midnight(Mon-Sun),Very Good,4.2,113
+Natural Ice Cream,150,"Desserts,Ice Cream",Bhopal,Maharana Pratap Nagar,Dessert Parlor,11am to 12midnight(Mon-Sun),Excellent,4.5,200
+Yuvraj Dhaba,400,North Indian,Bhopal,BHEL,Quick Bites,11am to 12midnight(Mon-Sun),Very Good,4.1,214
+Socialite Seven,500,"Cafe,Continental,Chinese,North Indian",Bhopal,Maharana Pratap Nagar,Café,11am to 1130pm(Mon-Sun),Very Good,4.0,159
+Kwality Restaurant,500,"North Indian,South Indian,Continental",Bhopal,TT Nagar,Casual Dining,930am to 11pm(Mon-Sun),Average,2.6,48
+The Pitchers Club & Lounge,650,"North Indian,Italian,Continental,Chinese,Cafe",Bhopal,Maharana Pratap Nagar,Lounge,1130am to 12midnight(Mon-Sun),Average,3.2,8
+Coffee and Kitchen,400,"Fast Food,Cafe,Beverages,Pizza,Italian,Chinese,Tea",Bhopal,BHEL,Café,"119am to 1130pm(Mon),1110am to 1130pm...",Good,3.6,48
+Shakes Appeal,250,"Fast Food,Beverages,Burger,Desserts",Bhopal,Kohefiza,Quick Bites,330pm to 130am(Mon-Sun),Good,3.8,37
+Lahmi The Chicken House,500,Fast Food,Bhopal,BHEL,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,71
+F For Fries,250,Fast Food,Bhopal,TT Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,47
+Badshah Foodbox,300,"Chinese,Fast Food",Bhopal,Kohefiza,none,2pm to 2am(Mon-Sun),Average,3.4,37
+Omni Bakers,300,Bakery,Bhopal,Airport Area,Bakery,11am to 11pm(Mon-Sun),Good,3.6,54
+Royal Kitchen Indian Restaurant,400,"North Indian,Chinese",Bhopal,Airport Area,Casual Dining,1030am to 1130pm(Mon-Sun),Good,3.8,46
+Shanky's,300,"North Indian,Biryani,Fast Food,Chinese,Beverages",Bhopal,BHEL,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,53
+Khan Sahab Xpress,400,"North Indian,Mughlai",Bhopal,Maharana Pratap Nagar,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.7,40
+BFC- Bhopal Fried Chicken,200,Fast Food,Bhopal,Kohefiza,Quick Bites,2pm to 12midnight(Mon-Sun),Good,3.7,49
+Hotel 4G,700,"North Indian,Bakery,Mithai",Bhopal,Hoshangabad Road,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,54
+Tapti Restaurant,550,"North Indian,Chinese,Continental,Sandwich,Desserts",Bhopal,TT Nagar,Casual Dining,9am to 11pm(Mon-Sun),Average,2.6,54
+Rural Taste Restaurant And Coffee House,300,"North Indian,Mughlai,Chinese",Bhopal,Gulmohar Colony,Quick Bites,1130am to 1130pm(Mon-Sun),Average,3.2,46
+Food Hub,250,"North Indian,Mughlai",Bhopal,Maharana Pratap Nagar,Quick Bites,1230pm to 11pm(Mon-Sun),Good,3.6,67
+Zahaz Restro Lounge,800,"Chinese,North Indian",Bhopal,Kajlas,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,40
+Pocket Roti,300,North Indian,Bhopal,Peer Gate Area,Quick Bites,"11am to 11pm(Mon-Sat),11am to 1145pm(Sun)",Good,3.6,59
+Wonder Bread,300,Bakery,Bhopal,Kohefiza,Bakery,9am to 11pm(Mon-Sun),Good,3.8,69
+Veera Da Dhaba,400,North Indian,Bhopal,BHEL,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.5,69
+Sher E Punjab Paji,600,"North Indian,Mughlai",Bhopal,TT Nagar,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,43
+Pet Pooja,300,"Fast Food,North Indian,Biryani,Chinese",Bhopal,Hoshangabad Road,Quick Bites,11am to 1130pm(Mon-Sun),Average,2.8,56
+Om Barfi House Sweets and Fast Food,300,"Mithai,Fast Food,Chinese,South Indian,Sandwich",Bhopal,JP Nagar,Sweet Shop,830am to 11pm(Mon-Sun),Good,3.7,36
+Waffle Wonder,250,Desserts,Bhopal,Gulmohar Colony,Dessert Parlor,"12noon to 1130pm(Mon-Sat),1230pm to 1130pm(Sun)",Good,3.9,47
+Bakery Vakery,400,Bakery,Bhopal,Arera Colony,Bakery,8am to 11pm(Mon-Sun),Good,3.5,41
+Shree Vaibhav Laxmi Restaurant,300,North Indian,Bhopal,BHEL,Quick Bites,12noon to 1130pm(Mon-Sun),Good,3.7,33
+The Mark Hotel and Club,1000,"Finger Food,Chinese",Bhopal,Hoshangabad Road,Bar,"12noon to 4pm,5pm to 11pm(Mon-Sun)",Good,3.6,52
+Omni Bakers,200,"Bakery,Fast Food,Desserts",Bhopal,BHEL,Bakery,11am to 11pm(Mon-Sun),Good,3.6,39
+Spice Ring Restaurant,800,North Indian,Bhopal,Airport Area,Casual Dining,1130am to 1155pm(Mon-Sun),Good,3.5,52
+Mushtaq Chicken Corner,500,North Indian,Bhopal,Peer Gate Area,Casual Dining,1pm to 11pm(Mon-Sun),Good,3.8,46
+Make My Day,250,Fast Food,Bhopal,BHEL,Quick Bites,8am to 11pm(Mon-Sun),Average,3.4,34
+Millenium Food Point,350,"Fast Food,North Indian",Bhopal,BHEL,Quick Bites,10am to 12midnight(Mon-Sun),Average,3.2,62
+Joginder Punjabi Dhaba,400,North Indian,Bhopal,Jhangirabad,Quick Bites,"1130am to 1115pm(Mon-Sat),1130am to 1114pm(Sun)",Average,3.3,61
+Dana Pani Restaurant,700,North Indian,Bhopal,Arera Colony,Casual Dining,11am to 11pm(Mon-Sun),Average,2.9,51
+Ayush Fast Food,250,"South Indian,Chinese,Fast Food",Bhopal,Peer Gate Area,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.6,51
+Breads & Stories,200,"Sandwich,Fast Food,Bakery,Desserts,Juices,Beverages",Bhopal,Gulmohar Colony,Bakery,11am to 11pm(Mon-Sun),Good,3.5,15
+Naivaidyam,500,South Indian,Bhopal,Maharana Pratap Nagar,Casual Dining,10am to 11pm(Mon-Sun),Good,3.6,41
+Spice Bhojnalay,200,"North Indian,Chinese",Bhopal,Hoshangabad Road,Bhojanalya,11am to 11pm(Mon-Sun),Good,3.7,46
+Altayyab Chicken Hut,400,North Indian,Bhopal,Jhangirabad,Quick Bites,3pm to 11pm(Mon-Sun),Good,3.9,46
+Meraki,600,"North Indian,Chinese",Bhopal,Gulmohar Colony,Casual Dining,11am to 1130pm(Mon-Sun),Average,3.3,50
+Kesari - Taste of Rajasthan,200,"Fast Food,Desserts,Beverages,North Indian,Rajasthani",Bhopal,Gulmohar Colony,Quick Bites,8am to 11pm(Mon-Sun),Average,3.4,13
+Pizza Brothers,350,"Pizza,Fast Food,Italian,Street Food,Beverages",Bhopal,Maharana Pratap Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,37
+New Chicken Zayqa,400,Fast Food,Bhopal,Peer Gate Area,Quick Bites,3pm to 12midnight(Mon-Sun),Good,3.8,51
+Gappu Punjabi Dhaba,700,North Indian,Bhopal,Jhangirabad,Casual Dining,"12noon to 430pm,630pm to 11pm(Mon-Sun)",Good,3.5,61
+TRIO Beer Pub & Restaurant,1200,"Chinese,Finger Food",Bhopal,Hoshangabad Road,Pub,1130am to 12midnight(Mon-Sun),Good,3.6,49
+Amar's Delhi Darbar,600,"North Indian,Biryani",Bhopal,TT Nagar,Casual Dining,"11am to 1130pm(Mon),9am to 1130pm(Tue-Sun)",Good,3.8,52
+FOI - Food Of Indians,500,Fast Food,Bhopal,BHEL,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,38
+Bawarchi Restaurant,800,"North Indian,Chinese,Beverages,Fast Food,Mughlai",Bhopal,Hoshangabad Road,Casual Dining,1130am to 12midnight(Mon-Sun),Good,3.5,49
+Jaipur Street,300,Rajasthani,Bhopal,Maharana Pratap Nagar,Food Court,11am to 11pm(Mon-Sun),Good,3.5,43
+Hotel Abhinav Palace,500,"North Indian,Chinese",Bhopal,Hoshangabad Road,Quick Bites,8am to 11pm(Mon-Sun),Average,3.3,39
+Gulshan Bhojanalaya,300,North Indian,Bhopal,Jhangirabad,Bhojanalya,11am to 1230AM(Mon-Sun),Good,3.7,46
+Bapu Ki Kuttiya,300,North Indian,Bhopal,Gulmohar Colony,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,59
+Bhopali Beats Corner,300,"North Indian,Fast Food",Bhopal,Maharana Pratap Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,36
+Mangalam Proteins,300,"Fast Food,Bakery",Bhopal,BHEL,Bakery,11am to 12midnight(Mon-Sun),Good,3.6,16
+Bhojkuti Dhaba,400,North Indian,Bhopal,BHEL,Dhaba,11am to 12midnight(Mon-Sun),Average,2.9,38
+Evening Point,500,"North Indian,Chinese,Biryani,Mughlai",Bhopal,Arera Colony,Casual Dining,5pm to 11pm(Mon-Sun),Good,3.5,49
+Akash Fast Food and Restaurant,300,"Fast Food,North Indian",Bhopal,BHEL,Quick Bites,8am to 11pm(Mon-Sun),Average,2.7,57
+Saatvik Restaurant,500,"North Indian,South Indian",Bhopal,Habib Ganj,Casual Dining,8am to 11pm(Mon-Sun),Good,3.7,53
+Kolkata Biryani House,300,"North Indian,Chinese,Biryani,Beverages,Fast Food",Bhopal,TT Nagar,Quick Bites,8am to 12midnight(Mon-Sun),Poor,2.4,49
+Laxmi Green Fruits and Juice Center,200,"Beverages,Juices,Healthy Food,Salad",Bhopal,TT Nagar,Beverage Shop,9am to 11pm(Mon-Sun),Very Good,4.0,39
+The Egypt Cafe And Restro,500,"Chinese,Italian",Bhopal,Arera Colony,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,40
+Sai Kripa Bhojnalaya,400,North Indian,Bhopal,Jhangirabad,Casual Dining,11am to 12midnight(Mon-Sun),Good,3.7,27
+New Sangam Bhojanalay,450,North Indian,Bhopal,BHEL,Bhojanalya,11am to 11pm(Mon-Sun),Good,3.5,61
+NiK'S Restro & Cafe,600,"North Indian,Thai,Chinese,Beverages",Bhopal,JP Nagar,Casual Dining,"1230pm to 4pm,7pm to 11pm(Mon-Sun)",Good,3.5,14
+The Grave Yard,700,"North Indian,Fast Food",Bhopal,Arera Colony,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,42
+Cafe 11 O' CLOCK,200,"Fast Food,Chinese,Beverages",Bhopal,Habib Ganj,Quick Bites,12noon to 12midnight(Mon-Sun),Average,3.3,13
+Fryday's,200,"Fast Food,Burger,Beverages,Pizza,Italian",Bhopal,Kohefiza,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,34
+Jhulelal Bakery,300,Bakery,Bhopal,Peer Gate Area,Bakery,10am to 11pm(Mon-Sun),Good,3.5,38
+Raas - Hotel Sangam,800,"North Indian,Chinese",Bhopal,Hotel Sangam,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,17
+Al Shad Eat & Treat,200,"Biryani,Fast Food,Burger,Sandwich",Bhopal,Jhangirabad,Quick Bites,"12noon to 12midnight(Mon-Sat),3pm to 12midnight...",Good,3.5,55
+4yaar Cafe,500,"Cafe,Chinese,Sandwich,Rolls,Fast Food,Momos,Wraps",Bhopal,Maharana Pratap Nagar,Café,11am to 1030am(Mon-Sun),Good,3.5,23
+Brai Fry,250,Fast Food,Bhopal,TT Nagar,Quick Bites,"6pm to 12midnight(Mon,Wed,Thu,Fri,Sat,Sun)...",Good,3.6,56
+Foodie Family Garden Restaurant,800,"North Indian,Chinese",Bhopal,Gulmohar Colony,Casual Dining,12noon to 11pm(Mon-Sun),Good,3.8,48
+Raju Bhai Amar Hotel,300,"North Indian,Chinese",Bhopal,Maharana Pratap Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,59
+Evergreen Garden & Restaurant,1200,"North Indian,Chinese,Mughlai",Bhopal,Airport Area,Fine Dining,11am to 11pm(Mon-Sun),Good,3.9,58
+Milkshake Kulture,300,Beverages,Bhopal,TT Nagar,Beverage Shop,11am to 1130pm(Mon-Sun),Very Good,4.0,32
+Apna Kitchen,300,North Indian,Bhopal,Maharana Pratap Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,34
+Zero Degree Cafe And Restaurant,500,"North Indian,Chinese,Fast Food",Bhopal,Maharana Pratap Nagar,Café,11am to 11pm(Mon-Sun),Average,3.4,39
+Shri Barfi House,200,"Mithai,North Indian,South Indian,Street Food",Bhopal,Airport Area,Sweet Shop,8am to 11pm(Mon-Sun),Average,3.4,49
+Cherry on Top,400,"Desserts,Bakery",Bhopal,Peer Gate Area,Dessert Parlor,11am to 1am(Mon-Sun),Good,3.6,26
+Food Adda,300,Fast Food,Bhopal,Gulmohar Colony,Quick Bites,"12noon to 1030pm(Mon,Tue,Wed,Sun),12noon to ...",Good,3.5,57
+Hindustani Chicken Biryani,350,Biryani,Bhopal,Jhangirabad,Quick Bites,11am to 12midnight(Mon-Sun),Good,3.9,28
+Hotel Sher-E-Punjab,600,"North Indian,Mughlai,Chinese",Bhopal,TT Nagar,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,13
+Hot N Crispy,200,"Fast Food,Burger,Sandwich",Bhopal,Jhangirabad,Quick Bites,3pm to 1150pm(Mon-Sun),Good,3.8,32
+Chicken Food Corner,500,"Burger,Fast Food,Momos",Bhopal,Peer Gate Area,Quick Bites,"12noon to 12midnight(Mon-Sat),Closed(Sun)",Average,2.5,60
+K2 Club & Lounge,800,"North Indian,Fast Food,Salad,Kebab,Biryani",Bhopal,Arera Colony,Lounge,11am to 11pm(Mon-Sun),Average,2.8,38
+Apna Bhopali Zyaka,400,North Indian,Bhopal,TT Nagar,Quick Bites,1pm to 11pm(Mon-Sun),Average,3.3,8
+The Random Place,400,"Fast Food,Italian,Beverages",Bhopal,Kolar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,34
+BFT,400,"Fast Food,Pizza,Chinese,Burger,Sandwich,Beverages",Bhopal,BHEL,Café,11am to 11pm(Mon-Sun),Average,3.4,47
+Eat And Enjoy,300,"North Indian,Chinese,Fast Food",Bhopal,BHEL,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,23
+Darji Punjabi Dhaba,300,North Indian,Bhopal,BHEL,Dhaba,11am to 12midnight(Mon-Sun),Good,3.5,38
+Milk &  Munch,400,"Cafe,Fast Food,Beverages",Bhopal,Kohefiza,Café,12noon to 11pm(Mon-Sun),Good,3.7,34
+Krishna Veg Biryani And Chowmeen Fast Food,200,"Fast Food,Chinese",Bhopal,Peer Gate Area,Quick Bites,12noon to 2am(Mon-Sun),Good,3.7,18
+Gupta Ji Burger Center,100,Burger,Bhopal,Arera Colony,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,52
+Szűz Café,300,Cafe,Bhopal,Airport Area,Café,2pm to 12midnight(Mon-Sun),Good,3.7,40
+Fourved Café,400,"Fast Food,Chinese,Beverages",Bhopal,Aura Mall,Café,12noon to 11pm(Mon-Sun),Average,3.4,28
+Kerala Cafe,500,"Cafe,South Indian,Beverages",Bhopal,Aashima Mall-- Hoshangabad Road,Quick Bites,1030am to 11pm(Mon-Sun),Good,3.5,38
+Amer Bakery Hut,250,Bakery,Bhopal,Maharana Pratap Nagar,Bakery,11am to 11pm(Mon-Sun),Good,3.9,33
+NM South Indian Food Chain,300,South Indian,Bhopal,Hoshangabad Road,Quick Bites,830am to 11pm(Mon-Sun),Good,3.7,33
+New Hakeem Hotel,500,North Indian,Bhopal,Maharana Pratap Nagar,Casual Dining,10am to 1130pm(Mon-Sun),Good,3.7,27
+Meethi Si Mehak,600,North Indian,Bhopal,Gulmohar Colony,Casual Dining,9am to 11pm(Mon-Sun),Average,3.0,37
+Firangi Cafe,300,"Cafe,Fast Food,Sandwich,North Indian,Beverages",Bhopal,Maharana Pratap Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,33
+Burger Land,200,"Burger,Fast Food",Bhopal,Hoshangabad Road,Food Court,12noon to 1130pm(Mon-Sun),Good,3.6,35
+Ruchiram Fast Food,350,"Fast Food,Chinese,North Indian",Bhopal,Jhangirabad,Quick Bites,9am to 12midnight(Mon-Sun),Good,3.6,32
+Veg Kabab Factory,250,Kebab,Bhopal,Arera Colony,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,30
+Sunny's Delhi Darbar,400,Mughlai,Bhopal,Kohefiza,none,6pm to 11pm(Mon-Sun),Good,3.7,41
+New Indian Coffee House,300,"North Indian,Chinese,South Indian",Bhopal,BHEL,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,35
+Tea Holic,250,"Fast Food,Tea,Sandwich",Bhopal,Hoshangabad Road,Quick Bites,9am to 12midnight(Mon-Sun),Average,3.4,13
+Swad Ganga Bhojnalaya,300,North Indian,Bhopal,Maharana Pratap Nagar,Bhojanalya,11am to 11pm(Mon-Sun),Good,3.6,45
+Mukesh Coka Protein Stores,250,Fast Food,Bhopal,Kohefiza,Quick Bites,530pm to 12midnight(Mon-Sun),Good,3.6,45
+Silbatta Chicken,300,North Indian,Bhopal,Kohefiza,Quick Bites,11am to 12midnight(Mon-Sun),Good,3.5,29
+Drool Ah!,350,Fast Food,Bhopal,Gulmohar Colony,Quick Bites,"1130am to 11pm(Mon),11am to 11pm(Tue-Sun)",Average,3.3,38
+Amrapali,150,"North Indian,Chinese",Bhopal,TT Nagar,Casual Dining,9am to 11pm(Mon-Sun),Average,3.2,32
+The Angry Chef,300,"Fast Food,Burger,Sandwich,Italian,Beverages",Bhopal,Arera Colony,Food Truck,"3pm to 11pm(Mon-Sat),2pm to 12midnight(Sun)",Good,3.6,37
+Al-haqmee,300,"North Indian,Fast Food",Bhopal,Peer Gate Area,Quick Bites,4pm to 1230AM(Mon-Sun),Good,3.7,37
+Gurukripa Celebration,350,"Bakery,Fast Food",Bhopal,BHEL,Bakery,"11am to 11pm(Mon,Tue,Thu,Fri,Sat,Sun),Closed...",Good,3.5,27
+Gupta Ji Ka Shudh Sahakari Bhojnalaya,150,North Indian,Bhopal,Jhangirabad,Bhojanalya,"11am to 1135pm(Mon),11am to 12midnight(Tue...",Good,3.6,27
+Biryani And Roll Centre,300,"Biryani,Rolls",Bhopal,BHEL,none,11am to 11pm(Mon-Sun),Good,3.5,35
+Desi Tadka,300,"North Indian,Chinese,Fast Food,Beverages,Desserts",Bhopal,Gulmohar Colony,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,34
+Dew Drops,400,"Fast Food,Momos,Chinese,Street Food,Beverages,Pizza",Bhopal,Arera Colony,none,10am to 12midnight(Mon-Sun),Good,3.7,26
+Royal Chicken Fast Food,200,"Fast Food,North Indian",Bhopal,Maharana Pratap Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,35
+"The Forestaa Bistro, Cafe and Lounge",350,"Fast Food,Beverages",Bhopal,Arera Colony,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,29
+Dubai Return Chef,200,"South Indian,Chinese,Burger,Rolls",Bhopal,JP Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,25
+Shiv Shankar Bhojnalaya,400,North Indian,Bhopal,Peer Gate Area,Bhojanalya,930am to 1130pm(Mon-Sun),Good,3.6,34
+Nai Dilli,300,North Indian,Bhopal,Airport Area,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.6,29
+Muskan Restaurant,300,North Indian,Bhopal,Arera Colony,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,18
+Yummy Fast Food,150,"Fast Food,Beverages",Bhopal,Airport Area,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,28
+Qrawcity Lounge and Restaurant,600,North Indian,Bhopal,TT Nagar,Casual Dining,"11am to 11pm(Mon,Tue,Wed,Thu,Sun),11am to ...",Average,2.8,39
+Balveer Da Punjabi Dhaba,300,North Indian,Bhopal,BHEL,Dhaba,11am to 11pm(Mon-Sun),Good,3.7,44
+Hotel Plaza Inn,500,"North Indian,Chinese,Beverages",Bhopal,Airport Area,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,21
+New Pizza Centre,300,Pizza,Bhopal,Hoshangabad Road,Quick Bites,11am to 11pm(Mon-Sun),Average,2.8,31
+Mehak Restaurant,500,"North Indian,Continental,Italian,South Indian,Chinese",Bhopal,Maharana Pratap Nagar,Fine Dining,24,Good,3.7,22
+1UP Barbeque,750,"BBQ,North Indian",Bhopal,Habib Ganj,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,16
+Coco Cafe,250,"Fast Food,Italian,Street Food",Bhopal,BHEL,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,29
+The Mukhtalif Taste,400,Mughlai,Bhopal,Jhangirabad,Quick Bites,6pm to 12midnight(Mon-Sun),Average,3.3,37
+Hotel Sudarshan City Walk,400,"North Indian,Fast Food,Chinese,Sandwich",Bhopal,Kohefiza,Casual Dining,10am to 11pm(Mon-Sun),Average,3.4,31
+Goldmine Bar,700,BBQ,Bhopal,Arera Colony,Bar,11am to 1130pm(Mon-Sun),Good,3.5,31
+The Chef Spoon,150,North Indian,Bhopal,TT Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,11
+Flavour Of Rajasthan,300,"Rajasthani,North Indian",Bhopal,Aashima Mall-- Hoshangabad Road,Food Court,"130pm to 11pm(Mon),11am to 11pm(Tue-Sun)",Average,2.9,31
+Agrawal's Rajbhog,550,"North Indian,Chinese,Beverages",Bhopal,Maharana Pratap Nagar,Casual Dining,11am to 11pm(Mon-Sun),Good,3.9,205
+New Zam Zam,600,North Indian,Bhopal,BHEL,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,167
+Taste Of Street,250,"North Indian,South Indian",Bhopal,BHEL,Quick Bites,9am to 11pm(Mon-Sun),Good,3.8,173
+7 Meals,400,"Chinese,Indian,Fast Food",Bhopal,BHEL,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,141
+The Urban Grill,500,"Biryani,North Indian",Bhopal,Gulmohar Colony,Quick Bites,7pm to 11pm(Mon-Sun),Very Good,4.2,242
+Sanchi - Sayaji Hotel,1500,"North Indian,Chinese,Continental",Bhopal,Sayaji Hotel,Fine Dining,"12noon to 315pm,7pm to 1115pm(Mon-Sun)",Very Good,4.4,140
+Shobhit's Food Storm,250,"Fast Food,Chinese,Sandwich",Bhopal,Peer Gate Area,Quick Bites,11am to 12midnight(Mon-Sun),Very Good,4.0,197
+Veera Di Hatti,400,North Indian,Bhopal,Arera Colony,Quick Bites,12noon to 1130pm(Mon-Sun),Good,3.9,214
+Saffron,750,"North Indian,South Indian",Bhopal,Maharana Pratap Nagar,Casual Dining,"12noon to 3pm,7pm to 11pm(Mon-Sun)",Very Good,4.1,189
+Me'nu,200,"North Indian,Chinese,Cafe Food,Coffee and Tea,Fast Food,Beverages,Indian,South Indian",Bhopal,Gulmohar Colony,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.1,179
+Sagar Restaurant,400,"North Indian,South Indian,Fast Food,Beverages",Bhopal,Maharana Pratap Nagar,Quick Bites,1030am to 11pm(Mon-Sun),Good,3.9,202
+Cafe Arabia,300,Fast Food,Bhopal,Kohefiza,Quick Bites,2pm to 130am(Mon-Sun),Very Good,4.1,235
+Pind Balluchi,1000,North Indian,Bhopal,DB City-- Maharana Pratap Nagar,Casual Dining,11am to 11pm(Mon-Sun),Poor,2.3,240
+Chache Da Dhaba,300,North Indian,Bhopal,BHEL,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,172
+Haji Hotel,300,"North Indian,Biryani",Bhopal,Peer Gate Area,Casual Dining,11am to 12midnight(Mon-Sun),Very Good,4.4,122
+Street Cafe,300,"Fast Food,North Indian",Bhopal,BHEL,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,38
+Jain Mithai Bhandaar,300,"Street Food,Mithai",Bhopal,Kohefiza,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,36
+Ratan's Little Paradise,300,Fast Food,Bhopal,Arera Colony,Quick Bites,10am to 1130pm(Mon-Sun),Good,3.6,32
+Zaika Hotel,400,North Indian,Bhopal,Hoshangabad Road,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,23
+Bunty Bhojanalay,250,North Indian,Bhopal,Jhangirabad,Bhojanalya,11am to 11pm(Mon-Sun),Good,3.5,38
+Shrestha Chines & Fast Food,350,Fast Food,Bhopal,BHEL,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,12
+Cloud 9,500,"North Indian,South Indian,Continental",Bhopal,Kohefiza,Casual Dining,7am to 11pm(Mon-Sun),Good,3.9,26
+Peppers Restaurant & Fast Food,400,"North Indian,Chinese,Kebab,Pizza,Italian,Burger",Bhopal,Habib Ganj,Casual Dining,8am to 11pm(Mon-Sun),Average,3.1,21
+Spoons - Hotel K International,500,"North Indian,Mughlai,Chinese,Thai,Fast Food",Bhopal,Habib Ganj,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,35
+Sadda Adda,400,Fast Food,Bhopal,BHEL,Quick Bites,"1130am to 1030pm(Mon,Tue,Wed,Thu,Sat,Sun)...",Average,2.9,28
+Gurukripa Bhojnalaya,400,North Indian,Bhopal,Jhangirabad,Dhaba,24,Average,3.2,35
+Momo Junction,100,"Momos,Chinese",Bhopal,Kohefiza,none,2pm to 12midnight(Mon-Sun),Good,3.6,16
+Aditya Bhojnalaya,300,North Indian,Bhopal,BHEL,Bhojanalya,11am to 12midnight(Mon-Sun),Good,3.5,28
+Rajbhog Restaurant,300,"North Indian,Street Food",Bhopal,Arera Colony,Quick Bites,10am to 11pm(Mon-Sun),Average,3.3,35
+Sweet Truth,300,Desserts,Bhopal,Gulmohar Colony,none,9am to 1am(Mon-Sun),Good,3.9,30
+Al-Ta'if Chicken Fast Food,250,Fast Food,Bhopal,Jhangirabad,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,32
+Prakash Family Restaurant,450,"North Indian,Chinese,Fast Food",Bhopal,Gulmohar Colony,Dhaba,11am to 11pm(Mon-Sun),Average,3.0,19
+Crispy Chicken Point,350,"Roast Chicken,North Indian",Bhopal,TT Nagar,Quick Bites,3pm to 12midnight(Mon-Sun),Good,3.7,26
+Smack-A tasty Encounter,250,"Fast Food,Momos,Chinese,Street Food",Bhopal,Arera Colony,Quick Bites,5pm to 11pm(Mon-Sun),Good,3.5,24
+Anupam Sweets & Restaurant,400,"Mithai,Street Food,North Indian,Fast Food",Bhopal,TT Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,26
+Kukuz,300,"North Indian,Chinese",Bhopal,Gulmohar Colony,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,27
+Royal Burger king,250,"Burger,Fast Food",Bhopal,Jhangirabad,Quick Bites,1pm to 11pm(Mon-Sun),Average,2.8,42
+Malgudi Restaurant,800,"North Indian,Chinese",Bhopal,BHEL,Casual Dining,11am to 11pm(Mon-Sun),Average,2.6,33
+Sai Veg Bhojnalaya,250,North Indian,Bhopal,BHEL,Quick Bites,10am to 11pm(Mon-Sun),Good,3.6,11
+Hotel Western Aroma cafe and Restaurant,1200,"North Indian,South Indian,Thai,Chinese,Continental",Bhopal,Arera Colony,Casual Dining,7am to 11pm(Mon-Sun),Average,3.4,18
+Delight Korner Cafe Restaurant,800,"North Indian,Chinese,South Indian,Pizza,Sandwich,Fast Food,Beverages",Bhopal,Maharana Pratap Nagar,Casual Dining,9am to 12midnight(Mon-Sun),Average,3.4,22
+Narmada Bakers,350,"Bakery,Fast Food",Bhopal,BHEL,Bakery,11am to 11pm(Mon-Sun),Average,3.4,24
+Neha Restaurant,250,Chinese,Bhopal,Airport Area,Quick Bites,1pm to 11pm(Mon-Sun),Good,3.5,16
+Lake City Pride Restaurant,700,North Indian,Bhopal,Kohefiza,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,11
+Bhai Bhai Biryani,300,North Indian,Bhopal,Kolar,Quick Bites,1pm to 11pm(Mon-Sun),Average,3.2,33
+Al-Baik.In,250,Fast Food,Bhopal,TT Nagar,Quick Bites,2pm to 12midnight(Mon-Sun),Average,3.0,9
+Kachnaar - Hotel Raja Bhoj,800,"North Indian,Italian",Bhopal,JP Nagar,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,35
+Sardar Foods,400,Fast Food,Bhopal,Maharana Pratap Nagar,Quick Bites,11am to 3am(Mon-Sun),Good,3.5,22
+Chaifeteria,200,"Fast Food,Street Food,Pizza,Tea,Beverages",Bhopal,Kohefiza,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,27
+Foodizo,300,"Chinese,Sandwich,Burger",Bhopal,Kohefiza,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,7
+Annapurna Vaishnav Bhojnalaya,200,"North Indian,South Indian",Bhopal,Maharana Pratap Nagar,Bhojanalya,8am to 11pm(Mon-Sun),Average,3.4,20
+Mongnese Veg Restaurant,300,"South Indian,North Indian,Fast Food",Bhopal,Kohefiza,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,11
+Bhima Chinese and Fast Food,300,"Chinese,Fast Food",Bhopal,TT Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,27
+The Himalaya Restaurant,650,"North Indian,Chinese",Bhopal,Gulmohar Colony,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,27
+Food Garage,450,Mughlai,Bhopal,TT Nagar,Quick Bites,8am to 11pm(Mon-Sun),Average,2.5,29
+Shamiyana Greens Family Restaurant,250,"North Indian,Fast Food",Bhopal,BHEL,Quick Bites,11am to 12midnight(Mon-Sun),Good,3.5,17
+Amit's Kathi Rolls & Grills,300,"Rolls,Fast Food",Bhopal,Habib Ganj,Quick Bites,5pm to 11pm(Mon-Sun),Good,3.6,20
+Chef Bite,300,Fast Food,Bhopal,Maharana Pratap Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,2.9,29
+Ratlami Namkeen Sweets & Bakery,250,"Street Food,Mithai,Bakery,South Indian,Chinese",Bhopal,Hoshangabad Road,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,14
+The Momo Fast Food,300,"Fast Food,Momos",Bhopal,Habib Ganj,Quick Bites,3pm to 11pm(Mon-Sun),Good,3.7,24
+Nature Cottage,300,Healthy Food,Bhopal,Kajlas,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,21
+Asha Protiens And Bakery Corner,200,Bakery,Bhopal,TT Nagar,Bakery,10am to 11pm(Mon-Sun),Average,3.2,19
+Hotel Sunpark,500,"South Indian,North Indian,Chinese,Desserts,Fast Food,Indian,Sandwich",Bhopal,BHEL,Casual Dining,8am to 1am(Mon-Sun),Average,2.8,15
+Sizzlers Restaurant,1200,"North Indian,Chinese,BBQ,Charcoal Chicken",Bhopal,Gulmohar Colony,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,12
+Chicken House,250,Fast Food,Bhopal,Airport Area,Quick Bites,3pm to 12midnight(Mon-Sun),Good,3.5,15
+Indian Flavour,150,"South Indian,Chinese,Fast Food",Bhopal,Maharana Pratap Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,28
+Mughlai,250,"Mughlai,North Indian",Bhopal,TT Nagar,Casual Dining,12noon to 1130pm(Mon-Sun),Average,2.6,20
+Hotel Jalsa DLX,800,"North Indian,Chinese,Beverages",Bhopal,Gulmohar Colony,Casual Dining,10am to 11pm(Mon-Sun),Good,3.5,15
+The Coffee Club-1947,350,Beverages,Bhopal,BHEL,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,24
+Mishra Bakery and Dairy,300,"North Indian,Fast Food,Bakery",Bhopal,Hoshangabad Road,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.4,16
+Hotel Shubh Inn,800,"North Indian,Chinese,South Indian,Continental",Bhopal,Arera Colony,Casual Dining,7am to 11pm(Mon-Sun),Average,3.2,10
+Cakes n Koffee,250,"Bakery,Fast Food,Beverages",Bhopal,Kolar,Quick Bites,1130am to 11pm(Mon-Sun),Average,3.4,18
+Swadish Kitchen,600,"North Indian,South Indian,Mughlai,Italian,Fast Food,Rolls",Bhopal,Maharana Pratap Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,20
+Ketley- The Tea Bar,250,"Tea,Fast Food",Bhopal,Kohefiza,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.5,17
+Vishal Hotel,300,North Indian,Bhopal,Jhangirabad,Quick Bites,11am to 1am(Mon-Sun),Average,3.4,31
+Amulya Restaurant,350,North Indian,Bhopal,Arera Colony,Quick Bites,11am to 12midnight(Mon-Sun),Average,2.7,27
+Rich Flavours Bakery & Restaurant,400,"North Indian,Chinese,Fast Food,Bakery",Bhopal,Maharana Pratap Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,2.7,16
+Nature's Barr,200,"Healthy Food,Salad",Bhopal,Gulmohar Colony,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,7
+Sakshi Ka Gangotri Restaurant,300,South Indian,Bhopal,Kajlas,Quick Bites,11am to 11pm(Mon-Sun),Average,2.9,12
+Meena Momos Shahpura Wale,150,Momos,Bhopal,Gulmohar Colony,none,11am to 11pm(Mon-Sun),Average,3.2,17
+Gaurav Dairy And Sweets,300,Mithai,Bhopal,BHEL,Sweet Shop,11am to 11pm(Mon-Sun),Average,2.9,11
+Spicy Affair,700,"North Indian,Chinese",Bhopal,Peer Gate Area,Casual Dining,3pm to 1am(Mon-Sun),Good,3.7,30
+Mad Over Shakes,400,Beverages,Bhopal,Arera Colony,Beverage Shop,"1230pm to 1059pm(Mon),12noon to 12midnight...",Good,3.5,16
+Hotel Sandalwood,250,"North Indian,Chinese,Biryani,Fast Food",Bhopal,Kolar,Quick Bites,8am to 12midnight(Mon-Sun),Average,3.2,9
+H&B Restro,700,"Italian,Chinese,North Indian",Bhopal,Maharana Pratap Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,17
+Spice Den,300,"North Indian,South Indian,Chinese",Bhopal,Kolar,Quick Bites,11am to 11pm(Mon-Sun),Average,2.8,21
+Road Runner,350,Fast Food,Bhopal,Jhangirabad,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,31
+Cakes 24,200,Bakery,Bhopal,Peer Gate Area,Bakery,11am to 11pm(Mon-Sun),Average,3.3,12
+The Hyderabad Spice,400,"Hyderabadi,Continental,North Indian,Biryani,Chinese,Beverages",Bhopal,Jhangirabad,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,13
++91 Cafe,250,Fast Food,Bhopal,Kolar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,23
+Dhakad Biryani,300,Biryani,Bhopal,BHEL,Quick Bites,11am to 11pm(Mon-Sun),Average,2.7,24
+F Cube cafe and Restaurant,500,"North Indian,South Indian,Italian,Chinese",Bhopal,Maharana Pratap Nagar,Casual Dining,12noon to 11pm(Mon-Sun),Average,3.4,16
+Chimney - The Celestial Park Hotel,1200,"North Indian,Fast Food",Bhopal,Hoshangabad Road,Casual Dining,1230pm to 11pm(Mon-Sun),Good,3.6,17
+Hotel Sarthak,300,"North Indian,Fast Food",Bhopal,TT Nagar,Casual Dining,8am to 11pm(Mon-Sun),Average,3.4,21
+Ramu Dada Ka Barf Rasmalai Dona,300,"Mithai,Fast Food,Beverages",Bhopal,Peer Gate Area,Sweet Shop,11am to 11pm(Mon-Sun),Average,3.3,13
+Strings Cakes and Cafe,250,"Fast Food,Desserts",Bhopal,Airport Area,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.3,18
+Kahwa Junction,200,"Continental,Chinese,Sandwich,Beverages",Bhopal,Gulmohar Colony,Quick Bites,3pm to 11pm(Mon-Sun),Average,3.4,16
+Chef Home Taste,300,North Indian,Bhopal,BHEL,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,13
+Chatar Patar,300,"Street Food,Beverages,Chinese,Cafe Food,Fast Food,Sandwich",Bhopal,Maharana Pratap Nagar,Quick Bites,"10am to 11pm(Mon-Sat),4pm to 11pm(Sun)",Good,3.6,20
+Publika Chinese Restaurant,450,"Chinese,Fast Food",Bhopal,Hoshangabad Road,Quick Bites,9am to 11pm(Mon-Sun),Good,3.5,20
+Cloud 9,700,"North Indian,Chinese,Beverages",Bhopal,Airport Area,Lounge,11am to 11pm(Mon-Sun),Average,3.2,10
+Jhama Jham Fast Food,300,Fast Food,Bhopal,Kolar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,20
+Home Kitchen Restaurant,500,"North Indian,South Indian",Bhopal,Maharana Pratap Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.1,9
+Bite Me,250,Fast Food,Bhopal,BHEL,Quick Bites,830am to 11pm(Mon-Sun),Average,3.3,11
+Yash Bakers and Proteins,200,"Bakery,Desserts,Fast Food",Bhopal,BHEL,Bakery,11am to 11pm(Mon-Sun),Average,3.4,19
+Azaan Chicken Adda,400,"Biryani,North Indian,Kebab,Street Food,Fast Food",Bhopal,BHEL,Quick Bites,11am to 1130pm(Mon-Sun),Average,2.9,25
+Bombay Chopati Icecream,150,Ice Cream,Bhopal,Jhangirabad,Dessert Parlor,5pm to 12midnight(Mon-Sun),Good,3.7,20
+Bhanu's Andhra Mirchi,200,"North Indian,South Indian",Bhopal,TT Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,20
+Crispy Bites,150,"Fast Food,Chinese",Bhopal,Peer Gate Area,Quick Bites,11am to 1am(Mon-Sun),Good,3.7,22
+Wat-a-Biryani,500,"Biryani,North Indian",Bhopal,Maharana Pratap Nagar,none,11am to 11pm(Mon-Sun),Average,2.7,10
+Zaffran Biryani,300,"Biryani,North Indian,Chinese,Fast Food",Bhopal,Gulmohar Colony,Quick Bites,10am to 11pm(Mon-Sun),Average,3.2,5
+Diet Food Corner,300,"Healthy Food,Fast Food,Sandwich,Beverages",Bhopal,Kohefiza,Quick Bites,8am to 11pm(Mon-Sun),Average,3.4,5
+Al Safa Fast Food,250,"North Indian,Fast Food",Bhopal,BHEL,Quick Bites,3pm to 11pm(Mon-Sun),Average,3.4,11
+The Bhanvi,500,North Indian,Bhopal,Hoshangabad Road,Casual Dining,11am to 11pm(Mon-Sun),Average,2.8,11
+Radhe Radhe Fast Food and Restaurant,600,"North Indian,Chinese,Continental",Bhopal,BHEL,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,18
+Banghdi Dhaba And Restaurant,350,North Indian,Bhopal,Airport Area,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.5,17
+Mr Tea,200,Beverages,Bhopal,BHEL,Beverage Shop,11am to 11pm(Mon-Sun),Good,3.6,22
+Singh Nonveg Restaurant,200,"North Indian,Fast Food",Bhopal,BHEL,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,13
+100  Sandwiches,200,"Sandwich,Fast Food,Beverages",Bhopal,Hoshangabad Road,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,16
+Hyderabadi Bawarchi,800,"North Indian,South Indian,Chinese,Hyderabadi",Bhopal,Gulmohar Colony,Casual Dining,8am to 11pm(Mon-Sun),Average,3.0,23
+Balaji Vaishnav Bhojanalay,400,Indian,Bhopal,Maharana Pratap Nagar,Quick Bites,9am to 11pm(Mon-Sun),Average,3.3,12
+Silbatta Chicken,400,"Mughlai,North Indian",Bhopal,Kohefiza,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,7
+Chicken House,350,Fast Food,Bhopal,Peer Gate Area,Quick Bites,230pm to 12midnight(Mon-Sun),Good,3.5,15
+Gaagar,300,"Mithai,Bakery,Beverages",Bhopal,Maharana Pratap Nagar,Sweet Shop,11am to 11pm(Mon-Sun),Average,3.3,11
+HBT Bakery,400,"Bakery,Chinese,Desserts,Fast Food,Beverages",Bhopal,Hoshangabad Road,Bakery,11am to 11pm(Mon-Sun),Average,3.3,12
+Chandra Sweets,300,"Desserts,Mithai,Fast Food",Bhopal,Jhangirabad,Sweet Shop,11am to 11pm(Mon-Sun),Average,3.2,9
+Jain Chatpati Gali,300,Street Food,Bhopal,Maharana Pratap Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,12
+Spicy Car Khana,300,Fast Food,Bhopal,BHEL,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,19
+Level 3 Restaurant,500,"North Indian,Italian,Fast Food,Continental,Chinese,Beverages",Bhopal,Hoshangabad Road,none,10am to 12midnight(Mon-Sun),Average,3.1,9
+AL-Ghiza Biryani King,250,"Biryani,North Indian",Bhopal,JP Nagar,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.2,6
+Woods Inn Restaurant,800,"North Indian,Chinese",Bhopal,Airport Area,Casual Dining,1pm to 12midnight(Mon-Sun),Poor,2.4,15
+Rahul meena momos and shakes,150,"Fast Food,Street Food,Momos,Beverages",Bhopal,Maharana Pratap Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,11
+Hotel Mohit Regency,600,"North Indian,Fast Food",Bhopal,Maharana Pratap Nagar,Casual Dining,11am to 11pm(Mon-Sun),Good,3.7,23
+Saffron Express,500,North Indian,Bhopal,DB City-- Maharana Pratap Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,2.5,16
+Aryan Chicken Corner And Restaurant,250,North Indian,Bhopal,Kolar,Quick Bites,4pm to 12midnight(Mon-Sun),Average,3.2,6
+Nayaab Fast Food,250,Fast Food,Bhopal,Maharana Pratap Nagar,Quick Bites,4pm to 11pm(Mon-Sun),Average,3.4,17
+Mishra Bhojnalya,300,South Indian,Bhopal,Jhangirabad,Bhojanalya,11am to 11pm(Mon-Sun),Average,3.2,15
+Tea Holic,300,Fast Food,Bhopal,TT Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,18
+Kulhad Desi Chai Chaska,300,"Fast Food,Beverages,Tea,Burger,Sandwich",Bhopal,BHEL,Quick Bites,12noon to 1130pm(Mon-Sun),Average,3.3,11
+Udipi Corner,300,"South Indian,North Indian",Bhopal,BHEL,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,18
+Hill Point,650,"North Indian,Chinese",Bhopal,TT Nagar,Casual Dining,10am to 11pm(Mon-Sun),Average,3.1,20
+Ghiza,300,"North Indian,South Indian,Chinese",Bhopal,TT Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,16
+Fanoosh Chicken Shawarma,250,Fast Food,Bhopal,Arera Colony,Quick Bites,"5pm to 11pm(Mon,Wed,Thu,Sat,Sun),11am to ...",Average,3.3,13
+Hotel Signetic Blue,400,"North Indian,Chinese,Kebab,Italian,Street Food,Beverages",Bhopal,Maharana Pratap Nagar,Casual Dining,8am to 11pm(Mon-Sun),Average,3.3,9
+Shagun Cafe,250,Fast Food,Bhopal,Maharana Pratap Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,19
+Akash Bhojnalaya,300,North Indian,Bhopal,Maharana Pratap Nagar,Bhojanalya,11am to 11pm(Mon-Sun),Average,3.3,20
+Yolo Spice & Lounge,500,North Indian,Bhopal,Hoshangabad Road,Casual Dining,11am to 11pm(Mon-Sun),Average,3.1,16
+Famous Chicken Biryani,200,North Indian,Bhopal,TT Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,18
+Gupta Ji Burger Center And Fast Food,400,"Fast Food,Burger,Chinese",Bhopal,Arera Colony,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,8
+Foodistan,350,Fast Food,Bhopal,Peer Gate Area,Quick Bites,6pm to 11pm(Mon-Sun),Average,3.4,15
+Vijay Bhai Egg Corner,150,Street Food,Bhopal,Kohefiza,Quick Bites,4pm to 12midnight(Mon-Sun),Average,3.4,14
+Sharma Bhojanalaya & Restaurant,500,North Indian,Bhopal,TT Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,14
+Blossom - Hotel Shree Vatika,600,"North Indian,Chinese,Fast Food",Bhopal,Maharana Pratap Nagar,Casual Dining,7am to 11pm(Mon-Sun),Average,3.3,11
+Crèmeore,100,"Ice Cream,Desserts,Cafe",Bhopal,Arera Colony,Dessert Parlor,11am to 11pm(Mon-Sun),Excellent,4.5,112
+Padharo Sa,200,"North Indian,Rajasthani,Mithai,Desserts",Bhopal,Habib Ganj,Quick Bites,8am to 11pm(Mon-Sun),Good,3.7,167
+Tandoori Hut,300,"North Indian,Fast Food",Bhopal,JP Nagar,Quick Bites,"12noon to 12midnight(Mon,Thu,Fri,Sun)...",Very Good,4.1,127
+Cafe Hidden Paradise,400,North Indian,Bhopal,Gulmohar Colony,Quick Bites,11am to 12midnight(Mon-Sun),Good,3.5,233
+Cafe Mojo Jojo,400,"Cafe,Fast Food,Sandwich,Burger,Desserts,Beverages",Bhopal,Arera Colony,Café,11am to 1030pm(Mon-Sun),Very Good,4.1,372
+Mahadev Bhojnalay,200,North Indian,Bhopal,Maharana Pratap Nagar,Dhaba,11am to 11pm(Mon-Sun),Good,3.8,157
+Chai Sutta Bar,200,"Fast Food,Tea",Bhopal,Maharana Pratap Nagar,Quick Bites,1030am to 11pm(Mon-Sun),Good,3.9,151
+Dawat-e-Chef,500,"North Indian,Chinese",Bhopal,Maharana Pratap Nagar,Quick Bites,11am to 12midnight(Mon-Sun),Good,3.7,189
+Mezbaan Bhopal,500,North Indian,Bhopal,Jhangirabad,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.9,164
+Best Bites,450,"Fast Food,North Indian,Continental,Mughlai,Kebab,Rolls,Chinese,Sandwich",Bhopal,Arera Colony,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,184
+Laziz Zam Zam Restaurant,600,North Indian,Bhopal,BHEL,Casual Dining,11am to 11pm(Mon-Sun),Good,3.9,140
+Dilli di Hatti,500,"North Indian,Chinese,South Indian,Continental",Bhopal,Kohefiza,Quick Bites,1130am to 1130pm(Mon-Sun),Good,3.7,176
+RAW The Restrobar,600,"Italian,North Indian,Chinese",Bhopal,DB City-- Maharana Pratap Nagar,Casual Dining,12noon to 11pm(Mon-Sun),Average,2.9,113
+Violet Hour,500,Bakery,Bhopal,Kohefiza,Bakery,"2pm to 11pm(Mon-Fri),2pm to 1115pm(Sat-Sun)",Very Good,4.1,93
+Bombay Street Cafe,200,"Street Food,Maharashtrian,Fast Food,Biryani,Chinese,Coffee,Desserts",Bhopal,Airport Area,Quick Bites,1pm to 1130pm(Mon-Sun),Good,3.9,117
+Babbuz Kitchen - Ghar Jaisa Khana,400,North Indian,Bhopal,Arera Colony,none,5pm to 11pm(Mon-Sun),Average,2.7,17
+Eat Out Loud,300,North Indian,Bhopal,Hoshangabad Road,Quick Bites,3pm to 11pm(Mon-Sun),Average,3.3,10
+Moms Kitchen,350,"North Indian,South Indian,Chinese,Continental",Bhopal,Maharana Pratap Nagar,Quick Bites,24,Average,2.8,24
+New Famous Hotel,250,North Indian,Bhopal,Jhangirabad,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,19
+Mom's kitchen 24x7,300,"North Indian,Fast Food,Sandwich,Beverages",Bhopal,TT Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,19
+Sai Bhojanalaya,300,North Indian,Bhopal,Jhangirabad,Dhaba,11am to 11pm(Mon-Sun),Average,2.7,22
+Willy's Momos,250,"Fast Food,Chinese",Bhopal,Hoshangabad Road,Quick Bites,1pm to 1am(Mon-Sun),Good,3.5,15
+Milano Bakes,300,"Desserts,Fast Food,Sandwich,Pizza,Beverages",Bhopal,Airport Area,Quick Bites,11am to 11pm(Mon-Sun),Average,2.9,7
+Vyanjan Restaurant,500,North Indian,Bhopal,Airport Area,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,20
+Total Refreshing Point,200,"Mexican,Mughlai",Bhopal,Arera Colony,Food Truck,6pm to 11pm(Mon-Sun),Good,3.5,15
+Chambal Dhaba,200,North Indian,Bhopal,JP Nagar,Quick Bites,"12noon to 11pm(Mon-Sat),Closed(Sun)",Average,3.0,9
+Chicken Tadka,400,North Indian,Bhopal,TT Nagar,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.2,13
+Anndaata Rasoi,500,North Indian,Bhopal,Gulmohar Colony,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.4,12
+Bhojpur Club,400,North Indian,Bhopal,Arera Colony,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,15
+The Young Mugs Cafe,250,Cafe,Bhopal,TT Nagar,Café,11am to 11pm(Mon-Sun),Average,3.4,13
+Aqua Multi Cuisine Restaurant,500,"North Indian,Chinese",Bhopal,Maharana Pratap Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,14
+Sai Kripa Sweets And Bakery,350,"Mithai,Bakery,Desserts",Bhopal,Jhangirabad,Sweet Shop,11am to 11pm(Mon-Sun),Average,3.4,19
+Milan Bakery,300,Bakery,Bhopal,Kohefiza,Bakery,11am to 11pm(Mon-Sun),Average,3.3,9
+The Green Room Restro & Cafe,500,Fast Food,Bhopal,Maharana Pratap Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,2.9,9
+Ashish Ice Cream Parlor,200,Ice Cream,Bhopal,Peer Gate Area,Dessert Parlor,11am to 11pm(Mon-Sun),Average,3.0,7
+Food Paradise,200,"South Indian,Chinese,Fast Food",Bhopal,Gulmohar Colony,Quick Bites,11am to 11pm(Mon-Sun),Average,2.9,12
+The Kanha Castle,1200,"Chinese,Continental,North Indian",Bhopal,Maharana Pratap Nagar,Casual Dining,830am to 11pm(Mon-Sun),Average,3.4,15
+Shivam Cake Parlour,300,Bakery,Bhopal,Peer Gate Area,Bakery,11am to 11pm(Mon-Sun),Average,3.3,17
+Loli Mumbai Vada Pav,150,Fast Food,Bhopal,Arera Colony,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.2,8
+AM Chicken Corner,400,"North Indian,Kebab",Bhopal,Maharana Pratap Nagar,Quick Bites,1pm to 11pm(Mon-Sun),Average,3.4,17
+Royal Biryani House,350,Biryani,Bhopal,Peer Gate Area,Quick Bites,11am to 11pm(Mon-Sun),Average,2.9,23
+Yash Fast Food,300,Fast Food,Bhopal,Airport Area,Quick Bites,4pm to 11pm(Mon-Sun),Average,3.3,14
+Chill-N-Grill,400,North Indian,Bhopal,Airport Area,Quick Bites,3pm to 12midnight(Mon-Sun),Average,3.2,10
+The Second Mother Fast Food and Restaurant,300,"Fast Food,North Indian",Bhopal,Jhangirabad,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,18
+Bhopal ka Zayka,250,North Indian,Bhopal,Jhangirabad,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.1,9
+Aachman Restaurant,550,North Indian,Bhopal,BHEL,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,12
+Cafe Cheese Box,300,"Italian,Indian,Mexican,Oriental,Salad",Bhopal,Arera Colony,Café,11am to 11pm(Mon-Sun),Good,3.5,7
+Planet Fries,250,"Fast Food,Beverages",Bhopal,Kohefiza,Quick Bites,11am to 12midnight(Mon-Sun),Average,3.2,6
+Today's Special,350,"North Indian,Fast Food",Bhopal,BHEL,none,8am to 11pm(Mon-Sun),Average,3.0,7
+Pure Sip,300,Beverages,Bhopal,Maharana Pratap Nagar,Beverage Shop,"10am to 1030pm(Mon),930am to 11pm(Tue,Wed...",Average,3.2,17
+Tandoor Elements,400,"Fast Food,North Indian",Bhopal,Arera Colony,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,11
+Sai Kripa,200,North Indian,Bhopal,Maharana Pratap Nagar,Bhojanalya,"11am to 11pm(Mon-Sat),Closed(Sun)",Average,3.1,11
+Bhopal Udipi Restaurant,250,"South Indian,North Indian,Fast Food,Chinese",Bhopal,JP Nagar,Quick Bites,10am to 11pm(Mon-Sun),Average,3.3,4
+Seema's Kitchen,400,Sindhi,Bhopal,Maharana Pratap Nagar,Quick Bites,8am to 1130pm(Mon-Sun),Average,3.4,11
+Insha Chicken Biryani,200,Biryani,Bhopal,BHEL,Quick Bites,1pm to 11pm(Mon-Sun),Average,3.2,6
+The Super Cafe,350,"Cafe,Fast Food,Desserts",Bhopal,Kohefiza,Café,11am to 11pm(Mon-Sun),Average,3.1,11
+Smooky Tandoor,500,North Indian,Bhopal,Maharana Pratap Nagar,Quick Bites,12noon to 12midnight(Mon-Sun),Average,3.4,11
+Jain Mithai & Dairy,200,Mithai,Bhopal,Kohefiza,Sweet Shop,11am to 11pm(Mon-Sun),Average,3.1,8
+House of Baking,400,"Italian,Fast Food,Cafe,Bakery",Bhopal,Gulmohar Colony,none,11am to 11pm(Mon-Sun),Average,3.2,5
+Sawariya Ji,250,North Indian,Bhopal,Hoshangabad Road,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,19
+Delicious Delhi Dhaba,400,"North Indian,Chinese",Bhopal,Gulmohar Colony,Quick Bites,8am to 12midnight(Mon-Sun),Average,3.4,17
+Ajwa Food Point,200,"Fast Food,North Indian",Bhopal,Maharana Pratap Nagar,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.2,7
+E-Cafe,600,"Fast Food,Sandwich",Bhopal,Arera Colony,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,11
+Al Lazeez Hotel,200,North Indian,Bhopal,BHEL,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,17
+Kulhad Treat,250,"Fast Food,Tea,Beverages",Bhopal,Maharana Pratap Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,5
+Dark Dining Kitchen,300,"North Indian,Fast Food,Chinese,Burger,Biryani,Italian,Pizza",Bhopal,Hoshangabad Road,Quick Bites,24,Average,3.1,4
+New Chicken Zayqa,200,Fast Food,Bhopal,Peer Gate Area,none,3pm to 12midnight(Mon-Sun),Average,3.4,12
+A1 Bakers,200,"Bakery,Desserts,Cafe,Beverages",Bhopal,Airport Area,Bakery,11am to 11pm(Mon-Sun),Average,3.2,6
+Sapna Sweets & Restaurant,600,"North Indian,South Indian,Chinese,Fast Food",Bhopal,JP Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.1,11
+Heena Hotel,500,North Indian,Bhopal,Jhangirabad,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,12
+Vintage Kitchen By Hideout,450,North Indian,Bhopal,Airport Area,Casual Dining,1230pm to 11pm(Mon-Sun),Average,3.0,4
+Al Hamd Chiken Hut,200,"Fast Food,Burger",Bhopal,Jhangirabad,Quick Bites,12noon to 12midnight(Mon-Sun),Average,3.3,9
+Chicken Hut,400,"Fast Food,North Indian",Bhopal,Jhangirabad,Quick Bites,"4pm to 11pm(Mon-Sat),Closed(Sun)",Average,2.9,17
+Chitwan Fine Dine Garden Restaurant,400,North Indian,Bhopal,Hoshangabad Road,Quick Bites,8am to 11pm(Mon-Sun),Average,3.0,11
+New Chanchal's Khatta Meetha,300,Fast Food,Bhopal,TT Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,11
+Dark Dining,300,"North Indian,Fast Food,Chinese",Bhopal,Hoshangabad Road,none,630am to 6am(Mon-Sun),Average,3.1,5
+The Cheeze,400,Italian,Bhopal,TT Nagar,Quick Bites,12noon to 1230AM(Mon-Sun),Average,3.0,9
+Shiv Shambhu Bhojnalay,300,North Indian,Bhopal,Maharana Pratap Nagar,Bhojanalya,11am to 12midnight(Mon-Sun),Average,3.3,12
+Rahul Protiens,200,"Healthy Food,Salad,Fast Food",Bhopal,Kohefiza,Quick Bites,10am to 11pm(Mon-Sun),Average,3.3,9
+Shakes and Snacks Fastfood,400,"Fast Food,Beverages",Bhopal,Arera Colony,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,6
+TCF - The Chilly Flavour,400,North Indian,Bhopal,Hoshangabad Road,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,9
+Laxmi Chinese & Fast Food,300,"Chinese,Fast Food",Bhopal,JP Nagar,Quick Bites,10am to 11pm(Mon-Sun),Average,3.0,10
+Rajhans Fast Food,200,Fast Food,Bhopal,Habib Ganj,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,7
+Natkhat Food Zone,300,Fast Food,Bhopal,Kajlas,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,12
+J.P Chinese & Fast Food,300,"Chinese,Fast Food",Bhopal,Gulmohar Colony,Quick Bites,1pm to 11pm(Mon-Sun),Average,3.3,14
+Refresh,300,"North Indian,South Indian,Chinese",Bhopal,Habib Ganj,Quick Bites,8am to 12midnight(Mon-Sun),Average,3.3,11
+Shahar-e-Galib,400,"North Indian,Mughlai",Bhopal,Gulmohar Colony,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,10
+Rudragiri Velvase Fast Food,400,Fast Food,Bhopal,TT Nagar,Quick Bites,2pm to 11pm(Mon-Sun),Average,3.4,12
+Herbal Juice House,150,"Beverages,Juices",Bhopal,Hoshangabad Road,Beverage Shop,8am to 11pm(Mon-Sun),Average,3.2,4
+Rawal's Ratlami Namkeen,200,Fast Food,Bhopal,Gulmohar Colony,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,8
+Malwa's Spicy Treat Cafe & Restaurant,400,"Fast Food,North Indian",Bhopal,Habib Ganj,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,8
+Hotel Royal Star,500,"North Indian,Fast Food",Bhopal,Maharana Pratap Nagar,Quick Bites,9am to 11pm(Mon-Sun),Average,3.2,10
+Hotel Mayur Palace,400,"North Indian,Chinese",Bhopal,Maharana Pratap Nagar,Quick Bites,8am to 12midnight(Mon-Sun),Average,3.1,6
+Bombay Tawa,600,North Indian,Bhopal,Maharana Pratap Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,2.9,11
+Do Do Fast Food & Restaurant,500,"North Indian,Chinese",Bhopal,Gulmohar Colony,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.1,12
+Dollson,300,Chinese,Bhopal,Maharana Pratap Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,8
+Hot Point Chicken Corner,250,Fast Food,Bhopal,Kohefiza,none,"1130am to 11pm(Mon,Wed,Thu,Fri,Sat,Sun)...",Average,3.3,5
+Fifty 5 Fast Food,200,Fast Food,Bhopal,Peer Gate Area,Quick Bites,4pm to 11pm(Mon-Sun),Average,3.1,7
+T-20 Cafe Lounge,400,Cafe,Bhopal,TT Nagar,Café,11am to 11pm(Mon-Sun),Good,3.5,9
+Dhaba Pindbamhori,400,North Indian,Bhopal,Jhangirabad,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,10
+Zaffran,700,North Indian,Bhopal,Peer Gate Area,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,12
+Ustad Chote Nawab,450,North Indian,Bhopal,Habib Ganj,Quick Bites,2pm to 11pm(Mon-Sun),Average,3.3,11
+Cloud XI,1000,"Chinese,Fast Food",Bhopal,BHEL,Casual Dining,10am to 11pm(Mon-Sun),Average,2.9,9
+Kinara A MultiCuisine Restaurant,450,"North Indian,Mughlai,Chinese",Bhopal,Kohefiza,Casual Dining,11am to 11pm(Mon-Sun),Average,3.0,4
+Ashok Juice Center,200,"Beverages,Juices",Bhopal,Jhangirabad,Beverage Shop,11am to 11pm(Mon-Sun),Average,3.1,5
+The Chicken Hub,400,Fast Food,Bhopal,Gulmohar Colony,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,10
+Milan Parantha House,200,North Indian,Bhopal,Peer Gate Area,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,5
+Chaska Momos,300,"Fast Food,Momos",Bhopal,BHEL,Quick Bites,5pm to 11pm(Mon-Sun),Average,3.3,9
+Shri Restaurant,250,North Indian,Bhopal,Kolar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,6
+Sam's Midnight Snacks,350,"Kebab,North Indian,Fast Food",Bhopal,Kohefiza,none,"121AM to 130am,8pm to 12midnight(Mon-Sun)",Average,3.2,12
+Da'wat Restaurant,250,"North Indian,Mughlai",Bhopal,Airport Area,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,12
+Lazeez Restaurant,250,North Indian,Bhopal,JP Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,6
+The Dark Box Cafe,500,Cafe,Bhopal,Maharana Pratap Nagar,Café,11am to 11pm(Mon-Sun),Average,2.8,7
+J.Laxmi Restaurant,300,"North Indian,Chinese",Bhopal,BHEL,Casual Dining,11am to 11pm(Mon-Sun),Average,3.0,5
+Masala Dabba,250,Fast Food,Bhopal,BHEL,Quick Bites,9am to 11pm(Mon-Sun),Average,3.2,10
+Rajhans Regent Bakery,600,"Bakery,Fast Food",Bhopal,Hoshangabad Road,Bakery,11am to 11pm(Mon-Sun),Average,3.1,8
+Simple Fastfood,250,"Fast Food,Street Food,Beverages",Bhopal,Arera Colony,Quick Bites,5pm to 11pm(Mon-Sun),Average,3.2,5
+New Pizza Centre 3,400,"Pizza,Fast Food",Bhopal,Kolar,Quick Bites,11am to 11pm(Mon-Sun),Average,2.8,6
+Grand Ashirwad Beacon,400,"North Indian,Beverages",Bhopal,Maharana Pratap Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,2.7,6
+Jio Maggie,200,Fast Food,Bhopal,BHEL,Quick Bites,"6pm to 11pm(Mon,Tue,Wed,Fri,Sat,Sun),Closed...",Average,3.2,8
+Cafe Elixir,350,"Fast Food,Beverages",Bhopal,Maharana Pratap Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,12
+Sardar Ji Di Hatti,500,"Biryani,Rolls,North Indian,Fast Food",Bhopal,Arera Colony,Food Truck,7pm to 12midnight(Mon-Sun),Average,3.2,4
+CSFC Restaurant,200,North Indian,Bhopal,Peer Gate Area,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,7
+Hotel Shikhar Palace,550,"Chinese,South Indian",Bhopal,Kohefiza,Casual Dining,7am to 11pm(Mon-Sun),Average,2.9,12
+Red Chilli Family Restaurant,300,"Fast Food,North Indian",Bhopal,BHEL,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,7
+Shambys Pizza Cafe,500,"Cafe,Italian,Pizza,Fast Food,Beverages",Bhopal,Aura Mall,Quick Bites,11am to 11pm(Mon-Sun),Average,2.9,11
+Adarsh Ji Bhojnalaya And Fast Food,150,North Indian,Bhopal,Kolar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,4
+Street Food Lounge,200,Fast Food,Bhopal,BHEL,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,7
+Sakshi Restaurant,400,North Indian,Bhopal,Kajlas,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,9
+Chaska Momos,300,"Momos,Fast Food",Bhopal,Habib Ganj,Quick Bites,5pm to 11pm(Mon-Sun),Average,3.2,8
+Al Falah,350,Fast Food,Bhopal,Kohefiza,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,11
+Avadh Foods,300,North Indian,Bhopal,BHEL,Quick Bites,11am to 11pm(Mon-Sun),Average,2.8,10
+10 Downing Street,1000,"North Indian,Chinese,Continental,Biryani,Desserts",Bhopal,DB City-- Maharana Pratap Nagar,Casual Dining,12noon to 1030pm(Mon-Sun),Very Good,4.3,507
+Chai Sutta Bar,250,Cafe,Bhopal,BHEL,Café,830am to 11pm(Mon-Sun),Good,3.6,171
+New Inn Restaurant,500,"North Indian,Chinese,Fast Food,South Indian",Bhopal,TT Nagar,Casual Dining,8am to 11pm(Mon-Sun),Average,3.4,179
+Amita's Delhi Darbar,800,"Mughlai,Chinese,Afghan,North Indian",Bhopal,Arera Colony,Casual Dining,11am to 11pm(Mon-Sun),Good,3.9,178
+Faasos,500,Fast Food,Bhopal,Aura Mall,none,9am to 1am(Mon-Sun),Very Good,4.0,164
+Sanjay Fresh Bake,350,"Bakery,Desserts,Chinese,Burger,Sandwich,Beverages,Fast Food,Pizza",Bhopal,Gulmohar Colony,Bakery,10am to 11pm(Mon-Sun),Good,3.9,111
+Yo Pizzariya,500,Pizza,Bhopal,Gulmohar Colony,Quick Bites,8am to 3am(Mon-Sun),Good,3.8,99
+Hawaii Adda,500,"North Indian,Continental",Bhopal,TT Nagar,Casual Dining,1pm to 11pm(Mon-Sun),Good,3.8,125
+Mayur Hotel,300,North Indian,Bhopal,Arera Colony,Quick Bites,10am to 1030pm(Mon-Sun),Good,3.9,382
+BFF- Bhopal Food Factory,300,Fast Food,Bhopal,JP Nagar,Quick Bites,12noon to 12midnight(Mon-Sun),Very Good,4.2,132
+Tabbakh,700,"Mughlai,North Indian",Bhopal,Kohefiza,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.0,157
+Gujrat Cold Drinks,200,"Beverages,Juices",Bhopal,Peer Gate Area,Beverage Shop,830am to 1015pm(Mon-Sun),Excellent,4.6,331
+Burger King,500,"Burger,Fast Food",Bhopal,DB City-- Maharana Pratap Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,108
+Dosa Fusion,300,"South Indian,Juices,Beverages",Bhopal,Gulmohar Colony,Quick Bites,9am to 10pm(Mon-Sun),Very Good,4.2,255
+Madina Restaurant,700,"North Indian,Chinese,Mughlai",Bhopal,BHEL,Casual Dining,11am to 1130pm(Mon-Sun),Good,3.9,155
+Twister Beik,200,Fast Food,Bhopal,Gulmohar Colony,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,5
+Chingara,300,Fast Food,Bhopal,Maharana Pratap Nagar,none,10am to 11pm(Mon-Sun),Average,3.2,7
+Babajani,300,North Indian,Bhopal,Peer Gate Area,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,5
+New Bhopal Dhaba and Restaurant,450,North Indian,Bhopal,JP Nagar,Casual Dining,11am to 12midnight(Mon-Sun),Average,3.0,5
+Hotel Ganpati,1000,"South Indian,North Indian,Chinese",Bhopal,Maharana Pratap Nagar,Casual Dining,7am to 11pm(Mon-Sun),Average,3.1,7
+The Pearl Cookery,1200,"North Indian,Italian,Chinese",Bhopal,Kohefiza,Casual Dining,11am to 2am(Mon-Sun),Average,3.1,10
+Food At Knight,300,"Chinese,Indian,Rolls,Sandwich",Bhopal,BHEL,none,"5pm to 5am(Mon-Sat),(Sun)",Average,2.8,9
+Oye Kukkad,450,"Kebab,Rolls,North Indian",Bhopal,Arera Colony,none,"11am to 11pm(Mon,Wed,Thu,Sat,Sun),Closed...",Average,3.3,8
+Lhasa Chinese Food Corner,500,Chinese,Bhopal,Maharana Pratap Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,6
+Hotel Bharat Regency Restaurant,900,North Indian,Bhopal,Jhangirabad,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,8
+Hotel Afghan,400,North Indian,Bhopal,Airport Area,Quick Bites,2pm to 12midnight(Mon-Sun),Average,3.0,8
+Sankalp Express,250,South Indian,Bhopal,Maharana Pratap Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.1,4
+Chaiwala Tefé,300,"Tea,Fast Food",Bhopal,Maharana Pratap Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,7
+Golden Lakes Hotel,500,"South Indian,Chinese,North Indian",Bhopal,Airport Area,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,8
+Zaika,0,"North Indian,Biryani",Bhopal,Peer Gate Area,Quick Bites,11am to 11pm(Mon-Sun),Average,2.8,4
+Paan-E-Bhopal,300,Fast Food,Bhopal,BHEL,none,11am to 11pm(Mon-Sun),Average,3.1,5
+J.Laxmi South Indian Dish,150,South Indian,Bhopal,BHEL,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,5
+Public Café,700,Continental,Bhopal,Maharana Pratap Nagar,none,11am to 1130pm(Mon-Sun),Average,3.2,8
+Arya Bhawan Thalis & Combo,200,North Indian,Bhopal,Maharana Pratap Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,5
+Panchwati Restaurant,400,North Indian,Bhopal,Maharana Pratap Nagar,Quick Bites,10am to 11pm(Mon-Sun),Average,2.9,4
+Anandam - A Pure Veg Restaurant,500,North Indian,Bhopal,Jhangirabad,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,7
+Hotel Ocean Pearl,800,North Indian,Bhopal,Hoshangabad Road,Casual Dining,11am to 11pm(Mon-Sun),Average,3.1,6
+Balaji Fast Food,300,"North Indian,Street Food,Chinese",Bhopal,TT Nagar,Quick Bites,830am to 11pm(Mon-Sun),Average,3.0,8
+Hotel Panchwati Pure Veg,400,North Indian,Bhopal,Peer Gate Area,Casual Dining,10am to 2am(Mon-Sun),Average,3.1,6
+Jaya's,400,South Indian,Bhopal,Maharana Pratap Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,2.9,4
+Banjaara The Village,600,"North Indian,Chinese",Bhopal,JP Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.1,8
+RG Fast Food,300,Fast Food,Bhopal,BHEL,Quick Bites,10am to 11pm(Mon-Sun),Average,3.1,4
+V.H Spice Box,250,North Indian,Bhopal,Maharana Pratap Nagar,Quick Bites,8am to 11pm(Mon-Sun),Average,3.2,5
+Shree Garden Restaurant,500,North Indian,Bhopal,Arera Colony,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,6
+Aroma Fast Food,600,"North Indian,South Indian,Chinese",Bhopal,Jhangirabad,Casual Dining,11am to 11pm(Mon-Sun),Average,3.1,4
+Fries Hub & Cafe,300,Fast Food,Bhopal,Peer Gate Area,Quick Bites,2pm to 11pm(Mon-Sun),Average,2.9,4
+Ghar Ka Tiffin,200,North Indian,Bhopal,Gulmohar Colony,none,11am to 11pm(Mon-Sun),Average,3.0,6
+Baba Food Zone,200,"North Indian,Chinese,Fast Food",Bhopal,Jhangirabad,Quick Bites,2pm to 1130pm(Mon-Sun),Average,2.9,4
+Tripti,800,"North Indian,Chinese,Fast Food",Bhopal,Hotel Surendra Vilas-- Maharana Pratap Nagar,Casual Dining,"12noon to 3pm,7pm to 11pm(Mon-Sun)",Average,3.0,4
+Mahakal Indori Patties,150,Fast Food,Bhopal,BHEL,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,4
+Mewad Soda,100,Beverages,Bhopal,TT Nagar,Kiosk,1pm to 11pm(Mon-Sun),Average,3.0,5
+Chahat Sweets House,250,Street Food,Bhopal,BHEL,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,4
+Rehman BBQ,300,"Kebab,BBQ",Bhopal,TT Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,7
+Shree Hari Restaurant,300,North Indian,Bhopal,Airport Area,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,7
+Golden Wings,500,North Indian,Bhopal,Airport Area,Casual Dining,11am to 11pm(Mon-Sun),Average,3.1,5
+Sai Rangoli Icecream Parlour,200,Ice Cream,Bhopal,Peer Gate Area,Dessert Parlor,11am to 11pm(Mon-Sun),Average,2.9,5
+Naan Stop,300,"Chinese,Italian,Fast Food,Rolls,Burger",Bhopal,Arera Colony,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.1,4
+Ramas Cottage,300,North Indian,Bhopal,Maharana Pratap Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,6
+O2 SHAKES,250,Juices,Bhopal,Peer Gate Area,Beverage Shop,2pm to 12midnight(Mon-Sun),Average,3.2,6
+Gupta Ji Burger Center,200,Burger,Bhopal,TT Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,6
+Bistro Eatin,400,Cafe,Bhopal,Arera Colony,Café,11am to 11pm(Mon-Sun),Average,2.9,5
+Bindal's 9 - The Eatery,500,"North Indian,Fast Food",Bhopal,Arera Colony,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,5
+Ji Sardar Ji,600,North Indian,Bhopal,TT Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,4
+Shri Raam Bhojanalya,150,"North Indian,South Indian",Bhopal,Maharana Pratap Nagar,Bhojanalya,11am to 11pm(Mon-Sun),Average,2.7,4
+Black Pepper Fast Food,550,North Indian,Bhopal,Peer Gate Area,Casual Dining,3pm to 11pm(Mon-Sun),Average,3.1,4
+Delhi Chole Bhature,150,Street Food,Bhopal,TT Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,4
+Delicious Time,700,North Indian,Bhopal,Kolar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,4
+Heaters The Bar,1000,"Chinese,North Indian",Bhopal,JP Nagar,Bar,11am to 11pm(Mon-Sun),Average,3.1,4
+Chicken Village,300,Fast Food,Bhopal,Hoshangabad Road,Quick Bites,10am to 11pm(Mon-Sun),Average,2.9,4
+Taj Restaurant,300,"Fast Food,Biryani",Bhopal,Jhangirabad,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,4
+Subway,500,"Healthy Food,Sandwich,Salad",Bhopal,DB City-- Maharana Pratap Nagar,Food Court,11am to 11pm(Mon-Sun),Good,3.8,159
+Hotel Atishay,700,"North Indian,Chinese,Continental,Mexican",Bhopal,Maharana Pratap Nagar,Casual Dining,1130am to 11pm(Mon-Sun),Good,3.9,83
+TFC- Tatpar Food Centre,250,"North Indian,Street Food",Bhopal,JP Nagar,Quick Bites,9am to 11pm(Mon-Sun),Good,3.5,140
+Lams Era,250,"North Indian,Chinese",Bhopal,Maharana Pratap Nagar,Quick Bites,1130am to 1130pm(Mon-Sun),Good,3.9,170
+Angithi Restaurant,500,"North Indian,Chinese,Kebab,BBQ",Bhopal,TT Nagar,Casual Dining,11am to 1130pm(Mon-Sun),Good,3.8,152
+Food Craft Restaurant,500,"North Indian,Fast Food,Chinese",Bhopal,Kolar,Quick Bites,9am to 11pm(Mon-Sun),Very Good,4.1,161
+The Zara's,600,"Biryani,Mughlai,Chinese,Fast Food,North Indian",Bhopal,Jhangirabad,Casual Dining,"12midnight to 245am,123pm to 12midnight...",Very Good,4.1,239
+My Classroom,500,North Indian,Bhopal,Airport Area,Quick Bites,1pm to 11pm(Mon-Sun),Good,3.6,128
+Monty's,500,"North Indian,Chinese",Bhopal,Maharana Pratap Nagar,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.7,108
+TOP N TOWN,200,"Desserts,Ice Cream,Beverages",Bhopal,TT Nagar,Dessert Parlor,9am to 12midnight(Mon-Sun),Very Good,4.4,220
+Caffeine Mug Cafe,150,"Cafe,Sandwich,Fast Food,Beverages",Bhopal,Habib Ganj,Quick Bites,10am to 10pm(Mon-Sun),Very Good,4.2,188
+Pullet House,200,"North Indian,Chinese",Bhopal,BHEL,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.1,120
+Greek Food & Beyond,1000,"Greek,Italian,Lebanese",Bhopal,DB City-- Maharana Pratap Nagar,Casual Dining,12noon to 1030pm(Mon-Sun),Very Good,4.0,226
+Black N White Cafe,200,"Cafe,Chinese,North Indian",Bhopal,Arera Colony,Café,11am to 11pm(Mon-Sun),Average,3.4,96
+Tapree House,200,North Indian,Bhopal,Hoshangabad Road,Quick Bites,"12noon to 1130pm(Mon,Tue,Wed,Thu,Sun),12noon...",Good,3.8,65
+Bread & Better,500,"Sandwich,Burger,Pizza,Bakery",Bhopal,Gulmohar Colony,Café,11am to 11pm(Mon-Sun),Good,3.9,55
+Al-Taj Fast Food,250,"Fast Food,Street Food,Biryani",Bhopal,Peer Gate Area,Quick Bites,3pm to 12midnight(Mon-Sun),Very Good,4.2,133
+Food Adda,350,Fast Food,Bhopal,Maharana Pratap Nagar,Quick Bites,130pm to 1030pm(Mon-Sun),Good,3.8,209
+Bento Kitchen,200,"North Indian,Chinese,Continental",Bhopal,Gulmohar Colony,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.1,61
+MoShik's Homemade Chocolates,250,Desserts,Bhopal,Gulmohar Colony,Dessert Parlor,11am to 10pm(Mon-Sun),Excellent,4.9,202
+Over The Moon Bistro,500,"Chinese,Continental,Beverages,Lucknowi,North Indian,Mughlai",Bhopal,Gulmohar Colony,Casual Dining,12noon to 11pm(Mon-Sun),Good,3.7,103
+E Square,800,North Indian,Bhopal,Arera Colony,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.2,172
+Bhoj Inn,650,North Indian,Bhopal,Airport Area,Casual Dining,1130am to 11pm(Mon-Sun),Good,3.7,122
+Mughlai Khana Khazana,300,Mughlai,Bhopal,Peer Gate Area,Quick Bites,1pm to 12midnight(Mon-Sun),Average,2.7,130
+Baker's Castle,500,"Bakery,Desserts,Cafe,Beverages",Bhopal,Arera Colony,Bakery,11am to 10pm(Mon-Sun),Good,3.8,118
+Mama Fruit Juice Bar,300,"Beverages,Salad,Ice Cream,Juices",Bhopal,Kolar,Beverage Shop,9am to 1045pm(Mon-Sun),Very Good,4.1,85
+Food Station,250,"Chinese,Fast Food,North Indian,Biryani,Burger,Rolls",Bhopal,Habib Ganj,Quick Bites,11am to 1030pm(Mon-Sun),Very Good,4.1,146
+Shahi Haveli,800,"North Indian,Chinese",Bhopal,Maharana Pratap Nagar,Casual Dining,11am to 12midnight(Mon-Sun),Average,3.2,151
+Hideout,700,"North Indian,Chinese,Mughlai,Fast Food",Bhopal,Arera Colony,Casual Dining,1230pm to 1130pm(Mon-Sun),Good,3.6,91
+Sukh Sagar Restaurant,450,North Indian,Bhopal,Arera Colony,Casual Dining,10am to 11pm(Mon-Sun),Good,3.7,139

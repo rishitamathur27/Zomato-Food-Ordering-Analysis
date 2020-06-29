@@ -1,0 +1,62 @@
+Name,Price,Cuisine_Category,City,Region,Cuisine_Type,Timing,Rating_Types,Rating,Votes
+Hotel Aram,500,"North Indian,Chinese,Gujarati,South Indian",Jamnagar,Bedeswar,Casual Dining,"1130am to 3pm,7pm to 11pm(Mon-Sun)",Good,3.9,12
+Hitulal Rajwadi Gola & Icecream,120,Ice Cream,Jamnagar,Rameshwar Nagar,Dessert Parlor,2pm to 11pm(Mon-Sun),Good,3.7,8
+Amul Icecream Parlour,100,"Beverages,Desserts",Jamnagar,Kadiawad,Beverage Shop,11am to 11pm(Mon-Sun),Good,3.9,7
+Tavaa Restaurant,250,North Indian,Jamnagar,Bedeswar,Casual Dining,1130am to 11pm(Mon-Sun),Very Good,4.3,57
+Peter John's Pizza,300,North Indian,Jamnagar,Green City,Casual Dining,11am to 11pm(Mon-Sun),Good,3.8,26
+Mr & Mrs Idly,250,South Indian,Jamnagar,Bedeswar,Casual Dining,"11am to 3pm,6pm to 11pm(Mon-Sun)",Good,3.6,10
+The Masala Darbar,250,"South Indian,North Indian,Chinese,Beverages",Jamnagar,Bedeswar,Fine Dining,11am to 11pm(Mon-Sun),Good,3.9,16
+New Pooja Fast Food,200,Fast Food,Jamnagar,Bedeswar,Casual Dining,"9am to 330pm,5pm to 12midnight(Mon-Sun)",Very Good,4.1,26
+William John's Pizza,300,Italian,Jamnagar,Ajanta Society,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,24
+Bigbite,600,Beverages,Jamnagar,Bedeswar,Casual Dining,10am to 1145pm(Mon-Sun),Very Good,4.0,35
+Taste Factory,250,"Pizza,Burger,Sandwich,Beverages",Jamnagar,Bedeswar,Quick Bites,"11am to 1pm,4pm to 11pm(Mon-Sun)",Good,3.7,20
+Pizzolik Pizza,250,"Fast Food,Pizza",Jamnagar,Bedeswar,Casual Dining,11am to 11pm(Mon-Sun),Good,3.8,11
+Chicken Kuk Du Ku,300,North Indian,Jamnagar,Bedeswar,Quick Bites,"11am to 3pm,7pm to 11pm(Mon-Sun)",Good,3.8,18
+the shake maker,250,Beverages,Jamnagar,Bedeswar,Bakery,"1130am to 1130pm(Mon-Wed),1130am to 12midnight...",Good,3.8,12
+Tirupati Restaurant,200,"North Indian,Fast Food",Jamnagar,Ajanta Society,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,9
+Santushti,400,"Beverages,Gujarati",Jamnagar,Bedeswar,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.3,11
+Sankalp Restaurant The Taste Of South,250,South Indian,Jamnagar,Bedeswar,Quick Bites,"11am to 330pm,7pm to 11pm(Mon-Sat),11am to 4pm...",Good,3.5,11
+Hotel Kalatit International ( Rajbhog Restaurant),400,"Chinese,Salad,Fast Food,Pizza,Sandwich,Continental,Beverages",Jamnagar,Bedeswar,Quick Bites,(Mon-Sun),Good,3.7,17
+Urvee Restaurant,250,"North Indian,Chinese",Jamnagar,Bedeswar,Quick Bites,"12noon to 330pm,8pm to 1130pm(Mon-Sun)",Good,3.6,12
+Domino's Pizza,800,"Pizza,Fast Food",Jamnagar,Bedeswar,Casual Dining,11am to 12midnight(Mon-Sun),Good,3.6,11
+Two Fat Indian Multi Cuisine Restaurant,250,Indian,Jamnagar,Bedeswar,Casual Dining,"12noon to 330pm,7pm to 11pm(Mon-Sun)",Good,3.7,12
+Subway Restaurant,250,"Fast Food,Salad",Jamnagar,Bedeswar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,10
+Flavours Of Punjab,250,"North Indian,Chinese,Biryani",Jamnagar,Bedeswar,Quick Bites,(Mon-Sun),Very Good,4.0,37
+Oyee Teri!,250,North Indian,Jamnagar,Bedeswar,Quick Bites,"11am to 3pm,6pm to 10pm(Mon-Sun)",Good,3.8,13
+Kutchi King,100,"Sandwich,Pizza,Fast Food,Beverages",Jamnagar,Bedeswar,Quick Bites,(Mon-Sun),Good,3.9,32
+Food Champ Parcel Point,350,"North Indian,Fast Food",Jamnagar,Kamdar Colony,Quick Bites,"11am to 230pm,6pm to 11pm(Mon,Tue,Wed,Fri...",Good,3.7,9
+Theism cafez,250,"Pizza,Burger,Sandwich,Beverages",Jamnagar,Bedeswar,Quick Bites,(Mon-Sun),Very Good,4.1,25
+Kalatit Cafesta,450,"Chinese,Fast Food,Pizza,Salad,Sandwich,Desserts,Beverages",Jamnagar,Bedeswar,none,(Mon-Sun),Good,3.6,12
+Samosa Hub,250,"Pizza,Sandwich,Fast Food",Jamnagar,Bedeswar,Café,11am to 930pm(Mon-Sun),Very Good,4.2,29
+Black Pepper Restaurant,500,"North Indian,Chinese,South Indian,Fast Food,Beverages",Jamnagar,Bedeswar,Quick Bites,"1130am to 3pm,7pm to 11pm(Mon),11am to 3pm...",Average,3.3,6
+Wooddy Jhone's Pizza,250,Pizza,Jamnagar,Bedeswar,Quick Bites,"11am to 3pm,630pm to 10pm(Mon-Sun)",Good,3.8,20
+Punjabi Zayka,250,"Fast Food,Gujarati,Indian",Jamnagar,Bedeswar,Casual Dining,6pm to 1030pm(Mon-Sun),Good,3.8,9
+Cibaro,250,Bakery,Jamnagar,Bedeswar,none,(Mon-Sun),Good,3.9,13
+JMR Sri Balaji Bhawan,500,"North Indian,South Indian,Chinese,Gujarati",Jamnagar,Kadiawad,Quick Bites,10am to 11pm(Mon-Sun),Good,3.7,7
+Zayka Restaurant,200,"North Indian,South Indian,Chinese",Jamnagar,Jawahar Nagar,Quick Bites,1130am to 4pm(Mon-Sun),Very Good,4.0,10
+New Shri Ram Dairy Restaurant,150,"North Indian,South Indian,Chinese,Beverages",Jamnagar,Kadiawad,Quick Bites,"11am to 3pm,7pm to 11pm(Mon-Sun)",Good,3.7,8
+Patel Restaurant,200,"North Indian,South Indian,Beverages",Jamnagar,Gulab Nagar,Quick Bites,"830am to 3pm,6pm to 12midnight(Mon-Sun)",Good,3.7,7
+Pizza da dhaba,250,Bakery,Jamnagar,Bedeswar,none,"11am to 3pm,5pm to 10pm(Mon-Sun)",Good,3.7,12
+Bharat Restaurant,250,"Hyderabadi,Lucknowi,Mughlai",Jamnagar,Kadiawad,Casual Dining,"121AM to 1am,630pm to 12midnight(Mon-Sun)",Good,3.9,5
+Cafe Paradise Restaurant,200,Fast Food,Jamnagar,Bedeswar,Quick Bites,10am to 10pm(Mon-Sun),Good,3.6,9
+The London Shakes,250,Belgian,Jamnagar,Bedeswar,none,(Mon-Sun),Good,3.6,8
+Rajlaxmi Bakers,400,"Bakery,Fast Food",Jamnagar,Rameshwar Nagar,Bakery,"930am to 2pm,430pm to 10pm(Mon-Sun)",Very Good,4.0,6
+Mexican Rodeo,250,"Mexican,Italian",Jamnagar,Bedeswar,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,5
+Foodie Buddies,250,"Pizza,Sandwich,Fast Food",Jamnagar,Bedeswar,Quick Bites,(Mon-Sun),Good,3.8,5
+Pizza Mania,250,"North Indian,Chinese",Jamnagar,Bedeswar,Quick Bites,"11am to 3pm,6pm to 10pm(Mon-Sun)",Good,3.5,5
+Shiv Icecream Parlour,250,Desserts,Jamnagar,Bedeswar,Dessert Parlor,(Mon-Sun),Good,3.6,6
+Shikhand Samrat,400,"Mithai,Fast Food",Jamnagar,Bedeswar,Sweet Shop,(Mon-Sun),Good,3.6,4
+Mandvi Dabelivala,80,Fast Food,Jamnagar,Kadiawad,Quick Bites,5pm to 10pm(Mon-Sun),Average,3.4,6
+Ashok Bakery,250,Bakery,Jamnagar,Bedeswar,Bakery,10am to 10pm(Mon-Sun),Average,3.4,4
+Amidhara Restaurant,150,"North Indian,Gujarati,Chinese",Jamnagar,Kamdar Colony,Casual Dining,"11am to 3pm,630pm to 11pm(Mon-Sun)",Good,3.8,7
+Apna Adda Cafe And Restaurant,200,North Indian,Jamnagar,Bedeswar,Quick Bites,530pm to 11pm(Mon-Sun),Good,3.5,4
+Cafestaan,250,"Fast Food,Pizza,Beverages",Jamnagar,Bedeswar,Café,(Mon-Sun),Good,3.6,4
+Jawahar Pan House,100,Paan,Jamnagar,Kadiawad,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,4
+Kishorbhai Ragdawala,100,Fast Food,Jamnagar,Kamdar Colony,Quick Bites,"2pm to 1030pm(Mon,Tue,Wed,Thu,Sat,Sun),2pm...",Very Good,4.0,4
+Kutchi Snacks,100,"Fast Food,Beverages",Jamnagar,Kamdar Colony,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.0,4
+Red Chilli Parcel Point,150,"North Indian,Chinese",Jamnagar,Bedeswar,none,"11am to 230pm,6pm to 11pm(Mon-Sun)",Good,3.8,4
+Manubhai Panwala,100,Paan,Jamnagar,Bedeswar,Paan Shop,"11am to 11pm(Mon,Tue,Thu,Fri,Sat,Sun),Closed...",Average,3.3,6
+US Pizza,250,Pizza,Jamnagar,Bedeswar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,4
+La Pino'z Pizza,250,"Pizza,Fast Food",Jamnagar,Bedeswar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,4
+Sams Pizza,250,"Pizza,Fast Food",Jamnagar,Bedeswar,Quick Bites,"11am to 4pm,7pm to 11pm(Mon-Sun)",Average,3.4,4
+Hot Stuff,150,North Indian,Jamnagar,Kamdar Colony,Quick Bites,630am to 1030pm(Mon-Sun),Good,3.7,5

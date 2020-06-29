@@ -1,0 +1,181 @@
+Name,Price,Cuisine_Category,City,Region,Cuisine_Type,Timing,Rating_Types,Rating,Votes
+Gangaur Pizza Point,600,"Fast Food,Pizza",Ajmer,Ana Sagar Lake,Quick Bites,9am to 11pm(Mon-Sun),Good,3.9,373
+Mango Masala Restaurant,600,"Continental,Beverages,South Indian,Fast Food,Italian,North Indian,Chinese",Ajmer,Ana Sagar Lake,Casual Dining,9am to 11pm(Mon-Sun),Very Good,4.1,593
+Rasoi,800,"North Indian,South Indian,Continental,Italian,Chinese,Beverages",Ajmer,Ana Sagar Lake,Casual Dining,9am to 11pm(Mon-Sun),Very Good,4,468
+Bansi Wala,150,"Beverages,Fast Food,North Indian,Chinese,Rajasthani",Ajmer,Railway Quarters,Quick Bites,12noon to 12midnight(Mon-Sun),Good,3.8,165
+The Burger Street,650,Fast Food,Ajmer,Ana Sagar Lake,Quick Bites,10am to 1130pm(Mon-Sun),Good,3.7,216
+Domino's Pizza,400,"Fast Food,Pizza",Ajmer,Ana Sagar Lake,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,258
+7 Spices,500,"North Indian,Roast Chicken,BBQ,Mughlai,Charcoal Chicken,Kebab",Ajmer,Dhola Bhata Colony,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,115
+Mahadev Ka Dhaba,250,"North Indian,Rajasthani",Ajmer,Panchsheel Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,175
+WTF What's The Food,100,"Fast Food,North Indian",Ajmer,Ana Sagar Lake,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.5,103
+Foodies,150,Chinese,Ajmer,Adarsh Nagar,Quick Bites,10am to 11pm(Mon-Sun),Average,3.4,81
+Roll Street,200,Rolls,Ajmer,Ana Sagar Lake,Quick Bites,9am to 1130pm(Mon-Sun),Good,3.8,115
+Guddan Ka Dhaba,300,North Indian,Ajmer,Ana Sagar Lake,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,119
+Mango Curry,1000,"South Indian,Fast Food,Italian,North Indian,Chinese,BBQ,Kebab",Ajmer,Ana Sagar Lake,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,263
+Inbox,250,"Thai,Mexican,Italian",Ajmer,Pal Bhichala,Café,11am to 11pm(Mon-Sun),Average,3.4,57
+Burger King,500,"Burger,Fast Food",Ajmer,City Square Mall-- Panchsheel Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,73
+Royal Bakers,200,Bakery,Ajmer,Ana Sagar Lake,Bakery,1030am to 1030pm(Mon-Sun),Good,3.7,27
+Masala Basket,250,"Beverages,Desserts,North Indian,Chinese,Rajasthani",Ajmer,Railway Quarters,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,29
+Daurani Jethani Ki Rasoi,250,"Fast Food,Sandwich,Pizza,North Indian,Chinese",Ajmer,Ana Sagar Lake,Quick Bites,530pm to 11pm(Mon-Sun),Average,3.4,38
+Simple Lounge & Family Restaurant,300,"Fast Food,North Indian",Ajmer,Adarsh Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,38
+Thakurani Da Dhaba,350,North Indian,Ajmer,Ana Sagar Lake,Quick Bites,9am to 11pm(Mon-Sun),Good,3.5,23
+Meet Heights,500,Fast Food,Ajmer,Hathi Khera,Quick Bites,930am to 1130pm(Mon-Sun),Average,3.3,15
+The Big Bunny,300,North Indian,Ajmer,Adarsh Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,32
+baawarchi brothers,350,"Rajasthani,Biryani,Sandwich,Fast Food,Beverages,Burger",Ajmer,Ana Sagar Lake,Casual Dining,10am to 11pm(Mon-Sun),Good,3.7,24
+Bhola Restaurant,200,North Indian,Ajmer,Ana Sagar Lake,Quick Bites,10am to 1045pm(Mon-Sun),Average,3.4,20
+TRM Restaurant,400,"Fast Food,Desserts,Italian,North Indian,Chinese,Rajasthani",Ajmer,Ana Sagar Lake,Casual Dining,7am to 11pm(Mon-Sun),Average,3.4,24
+The Country & Town Cafe,550,"Ice Cream,Chinese,Cafe,Sandwich,Fast Food,Beverages,Coffee,Desserts",Ajmer,Kundan Nagar,Café,12noon to 11pm(Mon-Sun),Average,3.4,27
+Mamta Sweets  and bakes,200,"South Indian,Fast Food,Desserts,Chinese,Bakery,Mithai",Ajmer,Kotra,Quick Bites,7am to 1030pm(Mon-Sun),Average,3.4,32
+The Barrack,400,North Indian,Ajmer,Adarsh Nagar,Casual Dining,9am to 11pm(Mon-Sun),Average,3.1,22
+Laltain Restaurant,400,"North Indian,Chinese",Ajmer,Kotra,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,23
+The Belgian Waffle Co,300,"Ice Cream,Coffee,Desserts",Ajmer,Panchsheel Nagar,Dessert Parlor,12noon to 1130pm(Mon-Sun),Good,3.5,31
+Cafe Coffee Time,250,"BBQ,Chinese,Cafe,Roast Chicken,Beverages,North Indian,Burger,Pizza",Ajmer,Ana Sagar Lake,Café,11am to 1030pm(Mon-Sun),Good,3.5,17
+Chat Chatore,250,Street Food,Ajmer,Ana Sagar Lake,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,21
+Mamta Sweets And Bakes,100,"Mithai,Bakery,Fast Food",Ajmer,Ana Sagar Lake,Sweet Shop,11am to 11pm(Mon-Sun),Average,3.4,17
+Shiv Shankar Bakery,100,"Bakery,Fast Food",Ajmer,Adarsh Nagar,Bakery,8am to 11pm(Mon-Sun),Average,3.3,11
+yummy Food Corner,400,"Fast Food,North Indian",Ajmer,Adarsh Nagar,Quick Bites,10am to 11pm(Mon-Sun),Average,3.3,19
+Royal Spice,600,North Indian,Ajmer,Ana Sagar Lake,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,29
+Swami Foods & Bakers,300,Bakery,Ajmer,Ana Sagar Lake,Bakery,11am to 11pm(Mon-Sun),Average,3.4,17
+Cafe Cave,350,Cafe,Ajmer,Kotra,Café,10am to 11pm(Mon-Sun),Average,3.3,29
+Hotel Star and Restaurant,300,"Street Food,Tea,Beverages,North Indian,Chinese,Salad,Coffee",Ajmer,Boraj Kazipura,Quick Bites,7am to 2am(Mon-Sun),Good,3.6,16
+Kha lo (Non -Veg),150,"Fast Food,North Indian,Chinese,Mughlai",Ajmer,Ana Sagar Lake,Quick Bites,3pm to 11pm(Mon-Sun),Average,3.4,23
+Annapurna Veg Restaurant,250,North Indian,Ajmer,Dhola Bhata Colony,Quick Bites,7am to 12midnight(Mon-Sun),Average,3.4,17
+Swad Restaurant,500,"North Indian,Chinese",Ajmer,Railway Quarters,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,18
+The London Shakes,300,"Beverages,Fast Food",Ajmer,Ana Sagar Lake,Quick Bites,1130am to 1030pm(Mon-Sun),Good,3.5,21
+L R Venus Cafe,250,Fast Food,Ajmer,Dhola Bhata Colony,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,9
+7th Heaven,250,"North Indian,Desserts,Burger",Ajmer,Ana Sagar Lake,Quick Bites,10am to 11pm(Mon-Sun),Average,3.3,11
+Jai Hind Restaurant,300,"South Indian,Chinese",Ajmer,Railway Quarters,Quick Bites,8am to 11pm(Mon-Sun),Average,3.4,20
+Maharaja's Restaurant,300,North Indian,Ajmer,Adarsh Nagar,Quick Bites,1030am to 1030pm(Mon-Sun),Average,3.3,16
+Hotel Anurag,250,"Fast Food,Cafe,Desserts,Sandwich,North Indian,Chinese,Ice Cream",Ajmer,Pal Bhichala,Quick Bites,9am to 11pm(Mon-Sun),Average,3.3,12
+Royal Bakers,200,Bakery,Ajmer,Ram Ganj,Bakery,1030am to 1030pm(Mon-Sun),Average,3.3,16
+Chat Chatore,100,Fast Food,Ajmer,Panchsheel Nagar,Quick Bites,1130am to 11pm(Mon-Sun),Average,3.3,19
+Foodways,150,"Fast Food,North Indian,Chinese,Mughlai,Rolls",Ajmer,Kotra,Café,11am to 11pm(Mon-Sun),Good,3.5,13
+Mamta Cake and Bakes,300,Bakery,Ajmer,Railway Quarters,Bakery,930am to 1030pm(Mon-Sun),Average,3.2,17
+Baskin Robbins,300,Ice Cream,Ajmer,Pal Bhichala,Dessert Parlor,12noon to 11pm(Mon-Sun),Average,3.3,9
+Kesar Sweets,250,"Beverages,Fast Food,Desserts,Bakery,Mithai",Ajmer,Kotra,Dessert Parlor,11am to 11pm(Mon-Sun),Average,3.4,10
+Burger Express,200,"Burger,Momos,Roast Chicken,BBQ,Afghan",Ajmer,Ana Sagar Lake,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,15
+Mamta Cakes & Bakes,400,"Fast Food,Bakery",Ajmer,Panchsheel Nagar,Bakery,930am to 1030pm(Mon-Sun),Good,3.5,15
+Mamta Cakes & Bakes,400,"Fast Food,Bakery",Ajmer,Panchsheel Nagar,Bakery,930am to 1030pm(Mon-Sun),Good,3.5,15
+Fun N Food Restaurant,500,"South Indian,Fast Food,Desserts,Italian,North Indian,Chinese",Ajmer,Dhola Bhata Colony,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,10
+The Curry & Spices,300,North Indian,Ajmer,Panchsheel Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,20
+Elite Family Restaurant,750,"North Indian,Pizza,South Indian",Ajmer,Boraj Kazipura,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,5
+Hotel Cross Lane,1500,"North Indian,Continental",Ajmer,Ana Sagar Lake,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,10
+Un-Curry By Data Inn,700,"Biryani,North Indian,Afghan",Ajmer,Dhola Bhata Colony,Casual Dining,7am to 11pm(Mon-Sun),Average,3.2,10
+Dana Pani Kebab Restaurant,250,North Indian,Ajmer,Railway Quarters,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,4
+The Kebab Village By New Majestic,250,North Indian,Ajmer,Railway Quarters,Quick Bites,9am to 11pm(Mon-Sun),Average,3.3,8
+Surya Shakti Bhojanalaya,200,North Indian,Ajmer,Railway Quarters,Quick Bites,10am to 12midnight(Mon-Sun),Good,3.5,8
+Vaishnav Dhaba,150,North Indian,Ajmer,Pal Bhichala,Quick Bites,10am to 11pm(Mon-Sun),Average,3.2,8
+Real Chinese,200,Fast Food,Ajmer,Kotra,Quick Bites,4pm to 11pm(Mon-Sun),Average,3.3,8
+Raj Thali,150,North Indian,Ajmer,Adarsh Nagar,Quick Bites,8am to 11pm(Mon-Sun),Average,3.2,22
+Mamta Misthan Bhandar,300,"Fast Food,Desserts,Bakery,Mithai",Ajmer,Ana Sagar Lake,Sweet Shop,7am to 1030pm(Mon-Sun),Average,3.3,10
+Manoj Fast Food,300,"Fast Food,North Indian",Ajmer,Adarsh Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,5
+Mamta Bakes Pvt Ltd,100,"Bakery,Fast Food",Ajmer,Ana Sagar Lake,Bakery,930am to 1030pm(Mon-Sun),Average,3.2,14
+Hoko Fast Food Corner,150,"Chinese,Fast Food,Pizza,Burger,Sandwich,Beverages",Ajmer,Pal Bhichala,Quick Bites,1130am to 1030pm(Mon-Sun),Average,3.3,4
+The Roll Junction,200,"Rolls,Fast Food",Ajmer,Ana Sagar Lake,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,5
+Foody Cart,300,"North Indian,Fast Food",Ajmer,Dhola Bhata Colony,none,1pm to 11pm(Mon-Sun),Average,3.2,6
+Deepak Restaurant,400,"Fast Food,North Indian,Chinese",Ajmer,Ana Sagar Lake,Quick Bites,8am to 12midnight(Mon-Sun),Average,3.2,9
+Chatkaraa,300,North Indian,Ajmer,Adarsh Nagar,Quick Bites,6pm to 1030pm(Mon-Sun),Average,3.2,6
+Mast Mahadev Dhaba,200,North Indian,Ajmer,Adarsh Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,16
+Kitchen Magic,400,Fast Food,Ajmer,Dhola Bhata Colony,none,"1130am to 1030pm(Mon,Wed,Thu,Fri,Sat,Sun)...",Average,3.2,7
+Samy Restaurant,150,"Fast Food,North Indian,Chinese,Rolls",Ajmer,Pal Bhichala,Quick Bites,930am to 11pm(Mon-Sun),Average,3.3,6
+Courtyard Kitchen,1000,"North Indian,Chinese",Ajmer,Police Lines,Casual Dining,7am to 11pm(Mon-Sun),Average,3.2,7
+Sunrise Bakers,150,"Bakery,Desserts",Ajmer,Ana Sagar Lake,Bakery,9am to 1030pm(Mon-Sun),Average,3.4,4
+Arora's  Mobile Restaurant,400,North Indian,Ajmer,Ana Sagar Lake,Quick Bites,1130am to 11pm(Mon-Sun),Average,3.2,12
+Lemon Balm,200,North Indian,Ajmer,Panchsheel Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,6
+KC Inn Restaurant,600,"Continental,South Indian,Desserts,North Indian,Chinese",Ajmer,Ana Sagar Lake,Casual Dining,11am to 1030pm(Mon-Sun),Average,3.2,7
+Brown Bake,200,"Fast Food,Bakery",Ajmer,Ana Sagar Lake,Bakery,830am to 1030pm(Mon-Sun),Average,3.2,6
+Krishna Family Dhaba,500,"Fast Food,North Indian,Chinese,Rajasthani",Ajmer,Ram Ganj,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,9
+T- Mos,550,North Indian,Ajmer,Ana Sagar Lake,Casual Dining,11am to 1030pm(Mon-Sun),Average,3.2,9
+Mad About Food,500,"North Indian,South Indian,Chinese",Ajmer,Ana Sagar Lake,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,5
+Shiv Shankar Juice,100,"Juices,Beverages",Ajmer,Ana Sagar Lake,Beverage Shop,830am to 1230AM(Mon-Sun),Average,3.2,7
+Omni Restaurant,400,"North Indian,South Indian,Fast Food",Ajmer,Police Lines,Quick Bites,9am to 11pm(Mon-Sun),Average,3.2,5
+Laxmi Bhojanalaya,300,"North Indian,Salad",Ajmer,Railway Quarters,Quick Bites,9am to 1130pm(Mon-Sun),Average,3.2,5
+Shri Ambika Bhojanalaya,150,"Street Food,Beverages,North Indian,Rajasthani",Ajmer,Railway Quarters,Quick Bites,6am to 11pm(Mon-Sun),Average,3.2,5
+Roll Express,300,"Momos,Roast Chicken,BBQ,Rolls,Afghan",Ajmer,Ana Sagar Lake,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,130
+Kebabs & Curries Company,750,"North Indian,Chinese,Mughlai,Rolls",Ajmer,Ana Sagar Lake,Casual Dining,12noon to 11pm(Mon-Sun),Good,3.7,118
+Paapi पेट The Restaurant,200,"Biryani,Roast Chicken,North Indian,Mughlai",Ajmer,Ana Sagar Lake,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,121
+Old Mahadev Ka Dhaba,300,"North Indian,Rajasthani",Ajmer,Ana Sagar Lake,Dhaba,11am to 11pm(Mon-Sun),Good,3.6,102
+Pizza Hut,600,Pizza,Ajmer,Ana Sagar Lake,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,179
+Kha Lo,150,"Burger,Beverages,Fast Food,Sandwich,Italian,Pizza,Chinese",Ajmer,Ana Sagar Lake,Quick Bites,11am to 1030pm(Mon-Sun),Good,3.7,109
+Khokha,600,Cafe,Ajmer,Ana Sagar Lake,Café,1030am to 1030pm(Mon-Sun),Average,3.3,117
+Mamta Sweets,400,"South Indian,Fast Food,Italian,Chinese,Bakery,Mithai",Ajmer,Ana Sagar Lake,Sweet Shop,11am to 11pm(Mon-Sun),Good,3.9,86
+Mr Beans Pizza,400,Pizza,Ajmer,Ana Sagar Lake,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,99
+Mamta Ice Breaker,400,"South Indian,Fast Food,Italian,Chinese",Ajmer,Ana Sagar Lake,Dessert Parlor,1130am to 1230AM(Mon-Sun),Good,3.7,50
+Ambrosia Restaurant,600,North Indian,Ajmer,Ana Sagar Lake,Casual Dining,7am to 11pm(Mon-Sun),Good,3.5,102
+Cake Craft By Mango Masala,470,"Desserts,Bakery",Ajmer,Ana Sagar Lake,Dessert Parlor,11am to 11pm(Mon-Sun),Good,3.7,90
+Subway,500,"Healthy Food,Sandwich,Salad",Ajmer,Ana Sagar Lake,Quick Bites,10am to 11pm(Mon-Sun),Good,3.6,93
+Mamaji's Chicken Point,450,"North Indian,Roast Chicken,BBQ,Mughlai,Kebab,Awadhi",Ajmer,Ana Sagar Lake,Quick Bites,1pm to 11pm(Mon-Sun),Good,3.5,87
+Sunny Di Hatti Amritsari,400,"Beverages,Fast Food,North Indian,Chinese",Ajmer,Ana Sagar Lake,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.6,89
+Chick'n express,200,"North Indian,Biryani,Chinese,Kebab,BBQ",Ajmer,Ana Sagar Lake,Casual Dining,(Mon-Sun),Good,3.8,174
+Tea Connect,400,Cafe,Ajmer,Ana Sagar Lake,Café,10am to 11pm(Mon-Sun),Good,3.5,101
+Crazy Tales,500,"Salad,Chinese,Sandwich,Beverages,North Indian,Burger,Desserts,Pizza",Ajmer,Ana Sagar Lake,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,75
+Manoj's Kake Di Hatti,200,North Indian,Ajmer,Railway Quarters,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,64
+Manoj's Kake De Hatti,400,North Indian,Ajmer,Ana Sagar Lake,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,45
+Roti Boti,300,North Indian,Ajmer,Adarsh Nagar,Quick Bites,12noon to 1130pm(Mon-Sun),Good,3.5,42
+Cafe Ate Pm,300,"Chinese,Cafe,Sandwich,Fast Food,North Indian,Coffee,Desserts,Pizza",Ajmer,Dhola Bhata Colony,Quick Bites,1030am to 10pm(Mon-Sun),Good,3.7,116
+Pizzeria By Mango Masala,500,"Italian,Pizza",Ajmer,Ana Sagar Lake,Casual Dining,9am to 11pm(Mon-Sun),Good,3.6,93
+Honeydew,700,"Continental,South Indian,Fast Food,North Indian,Chinese,Mughlai",Ajmer,Railway Quarters,Casual Dining,9am to 11pm(Mon-Sun),Good,3.7,92
+Pandit Restaurant,250,"Biryani,North Indian",Ajmer,Ana Sagar Lake,Casual Dining,"10am to 5pm,6pm to 11pm(Mon-Sun)",Good,3.7,48
+Kesar,500,"Mexican,South Indian,Fast Food,Desserts,Italian,North Indian,Chinese,Rajasthani",Ajmer,Kotra,Casual Dining,8am to 1030pm(Mon-Sun),Good,3.5,56
+Arora's Restaurant,400,"BBQ,Chinese,Roast Chicken,North Indian,Kebab,Afghan,Mughlai",Ajmer,Ana Sagar Lake,Quick Bites,11am to 12noon(Mon-Sun),Good,3.7,47
+The Tandoor Restaurant,300,"North Indian,Biryani,Chinese",Ajmer,Ana Sagar Lake,Quick Bites,11am to 12midnight(Mon-Sun),Good,3.6,41
+Romy's Fine Dine,800,"Chinese,North Indian,Pizza,Biryani",Ajmer,Ana Sagar Lake,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,48
+Punjabi Tadka,250,Mughlai,Ajmer,Ana Sagar Lake,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,50
+Balaji Juice,100,Beverages,Ajmer,Ana Sagar Lake,Beverage Shop,9am to 11pm(Mon-Sun),Good,3.5,33
+Bake My Day,500,"Bakery,Fast Food",Ajmer,Adarsh Nagar,Bakery,930am to 11pm(Mon-Sun),Average,3.3,28
+Coffo Holic,600,"South Indian,Fast Food,Cafe,Italian,North Indian,Bakery,BBQ,Afghan",Ajmer,Ana Sagar Lake,Café,9am to 11pm(Mon-Sun),Good,3.5,85
+Striker,250,"Fast Food,North Indian",Ajmer,Panchsheel Nagar,Quick Bites,1130am to 1030pm(Mon-Sun),Good,3.5,75
+chaat chatore,100,"Fast Food,Cafe,Indian,Pizza,Street Food",Ajmer,Ana Sagar Lake,Café,(Mon-Sun),Average,3.4,46
+Shankar's Chaat,60,Street Food,Ajmer,Ana Sagar Lake,Quick Bites,7am to 9pm(Mon-Sun),Good,3.5,44
+Love Cafetaria,100,"Beverages,South Indian,Fast Food,Sandwich,Pizza,Chinese",Ajmer,Ana Sagar Lake,Quick Bites,11am to 10pm(Mon-Sun),Good,3.5,67
+Havmor,800,"North Indian,Pizza,Biryani",Ajmer,Ana Sagar Lake,Casual Dining,"1145am to 1030pm(Mon),1146am to 1030pm...",Average,3.3,60
+Karim's Restaurant,500,Mughlai,Ajmer,Pal Bhichala,Casual Dining,"12noon to 4pm,7pm to 11pm(Mon-Sun)",Good,3.6,51
+Don Tomato,150,"Chinese,Sandwich,Fast Food,North Indian,Burger,Rolls,Pizza,South Indian",Ajmer,Ana Sagar Lake,Quick Bites,4pm to 11pm(Mon-Sun),Good,3.6,48
+Midtown Grill,600,"North Indian,Chinese",Ajmer,Ana Sagar Lake,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,34
+Manoj's Kake Di Hatti,400,"Fast Food,North Indian,Rajasthani",Ajmer,Dhola Bhata Colony,Quick Bites,11am to 10pm(Mon-Sun),Average,3.3,36
+Vapor Cafe and Restaurant,500,North Indian,Ajmer,Panchsheel Nagar,Café,11am to 11pm(Mon-Sun),Average,3.4,64
+Shamby's Cafe,200,"South Indian,Fast Food,Cafe,Pizza,Chinese,Coffee",Ajmer,Ana Sagar Lake,Quick Bites,11am to 1030pm(Mon-Sun),Average,3.4,40
+Jain Namkeen,150,Mithai,Ajmer,Hathi Khera,Sweet Shop,"1130am to 930pm(Mon,Tue,Thu,Fri,Sat,Sun)...",Good,3.5,25
+Sindh Punjab Dhaba,400,"North Indian,Rajasthani",Ajmer,Ana Sagar Lake,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,39
+FYI,200,Fast Food,Ajmer,Ana Sagar Lake,Quick Bites,"1125am to 1030pm(Mon),11am to 1030pm(Tue-Sun)",Average,3.4,51
+A-One Fast Food &Pizza Point,150,"Street Food,Fast Food,Sandwich,Pizza,Chinese,Momos,Coffee",Ajmer,Ana Sagar Lake,Quick Bites,(Mon-Sun),Average,3.4,35
+Menu Restaurant,550,North Indian,Ajmer,Kotra,Casual Dining,10am to 11pm(Mon-Sun),Average,3.2,27
+Laxmi Confectioners,150,Mithai,Ajmer,Railway Quarters,Confectionery,8am to 10pm(Mon-Sun),Average,3.4,48
+Baba Soya chaap,150,Fast Food,Ajmer,Ana Sagar Lake,Food Truck,(Mon-Sun),Average,3.3,15
+Burger Street,300,"Ice Cream,Sandwich,Fast Food,Burger,Wraps,Coffee,Desserts",Ajmer,Panchsheel Nagar,Quick Bites,10am to 10pm(Mon-Sun),Average,3.3,21
+Dhanna Kachori,20,North Indian,Ajmer,Panchsheel Nagar,Quick Bites,8am to 7pm(Mon-Sun),Average,3.4,15
+Rajdeep Family Restaurant,300,"Fast Food,North Indian",Ajmer,Railway Quarters,Quick Bites,8am to 12midnight(Mon-Sun),Good,3.6,21
+Spiceum,200,"Ice Cream,Fast Food",Ajmer,Panchsheel Nagar,Quick Bites,(Mon-Sun),Average,3.3,14
+Riviera Restaurant,500,"Biryani,North Indian,Chinese",Ajmer,Boraj Kazipura,Casual Dining,7am to 11pm(Mon-Sun),Average,3.3,31
+2 Roti 2 Boti,150,North Indian,Ajmer,Panchsheel Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,53
+Shree Bhomji Misthan Bhandar,150,"Mithai,Street Food",Ajmer,Ana Sagar Lake,Sweet Shop,7am to 10pm(Mon-Sun),Average,3.3,11
+Royal recepies,250,Fast Food,Ajmer,Ana Sagar Lake,Food Truck,(Mon-Sun),Average,3.4,10
+Twist on wheels,200,Fast Food,Ajmer,Ana Sagar Lake,Food Truck,(Mon-Sun),Average,3.2,12
+Mast Mahadev Dhaba,300,"Fast Food,North Indian",Ajmer,Ana Sagar Lake,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,44
+Pizza Point,250,"Pizza,Fast Food",Ajmer,Railway Quarters,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,70
+Shree Jodhpur Sweets,100,"Fast Food,Mithai",Ajmer,Ana Sagar Lake,Sweet Shop,830am to 930pm(Mon-Sun),Average,3.3,9
+Brijwasi,200,"Chinese,Fast Food",Ajmer,Kotra,Quick Bites,4pm to 11pm(Mon-Sun),Good,3.5,46
+Shree Maan Ji Chaat Bhandar,100,Fast Food,Ajmer,Panchsheel Nagar,Quick Bites,8am to 10pm(Mon-Sun),Average,3.3,4
+Olive Kitchen,700,"Biryani,Italian,North Indian,Salad,Afghan,Kebab",Ajmer,Ana Sagar Lake,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,40
+Deshi tadka,150,"North Indian,Fast Food",Ajmer,Ana Sagar Lake,Food Truck,(Mon-Sun),Average,3.2,8
+Pehli Manzil,300,"Continental,Biryani,Beverages,South Indian,Italian,North Indian,Chinese,Rajasthani",Ajmer,Railway Quarters,Casual Dining,7am to 11pm(Mon-Sun),Average,3.3,46
+Bunty fast food,150,Fast Food,Ajmer,Kotra,Quick Bites,4pm to 1015pm(Mon-Sun),Average,3.2,13
+The Royal Thadi,100,Fast Food,Ajmer,Kotra,Quick Bites,(Mon-Sun),Average,3.2,8
+Yummy Tummy (The Food Zone),100,Fast Food,Ajmer,Ana Sagar Lake,Quick Bites,(Mon-Sun),Average,3.2,6
+Jaipur Jungle,600,"Continental,Burger,Beverages,Fast Food,Italian,North Indian,Chinese,Rajasthani",Ajmer,Ana Sagar Lake,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,37
+Mast Punjabi Tadka,300,North Indian,Ajmer,Ram Ganj,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,28
+Shakes Pi Yaar,100,"Beverages,Desserts",Ajmer,Railway Quarters,Quick Bites,11am to 9pm(Mon-Sun),Average,3.2,5
+Status By Silver Leaf,600,North Indian,Ajmer,Ana Sagar Lake,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,45
+Vijay Bakery,200,"Fast Food,Desserts,Bakery",Ajmer,Ana Sagar Lake,Bakery,10am to 10pm(Mon-Sun),Average,3.3,8
+Kitchen One Fast Food,300,Fast Food,Ajmer,Adarsh Nagar,Quick Bites,11am to 10pm(Mon-Sun),Average,3.2,13
+Hotel Atlantica,300,"North Indian,Fast Food",Ajmer,Kotra,Fine Dining,(Mon-Sun),Average,3.2,4
+Shri Devnarayan Sweets,100,"Indian,Mithai",Ajmer,Adarsh Nagar,Sweet Shop,10am to 7pm(Mon-Sun),Average,3.2,6
+Anmol Fast Food Corner,100,Fast Food,Ajmer,Adarsh Nagar,Quick Bites,10am to 10pm(Mon-Sun),Average,3.2,7
+Cafe CSM,300,"South Indian,Fast Food,Italian,North Indian,Chinese,Coffee",Ajmer,Panchsheel Nagar,Food Court,1030am to 1030pm(Mon-Sun),Average,3.3,42
+Chandumal Gagumal  Restaurant and Sweet store,150,"Bakery,Mithai,North Indian",Ajmer,Railway Quarters,Fine Dining,(Mon-Sun),Average,3.2,4
+Brown Bake,350,"Mexican,Beverages,Fast Food,Cafe,Italian,North Indian,Chinese,Bakery",Ajmer,Kotra,Café,930am to 1030pm(Mon-Sun),Average,3.4,50
+The Box Office Cafe & Restro,350,"Cafe,North Indian",Ajmer,Ana Sagar Lake,Café,11am to 11pm(Mon-Sun),Good,3.6,33
+Malgudi Day's,150,North Indian,Ajmer,Panchsheel Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,28
+Lassi Shop,150,"Fast Food,Beverages",Ajmer,Hathi Khera,Quick Bites,12noon to 1130pm(Mon-Sun),Good,3.5,15
+Goyal Fast Food,200,"Fast Food,Pizza,Chinese",Ajmer,Ram Ganj,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.7,23
+Chawla's,300,North Indian,Ajmer,Ana Sagar Lake,Quick Bites,"11am to 4pm,7pm to 11pm(Mon-Sun)",Average,3.3,43

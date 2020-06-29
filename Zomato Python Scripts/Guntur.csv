@@ -1,0 +1,174 @@
+Name,Price,Cuisine_Category,City,Region,Cuisine_Type,Timing,Rating_Types,Rating,Votes
+Babu Biryani Point,250,Biryani,Guntur,Srinivasarao Pet,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,186
+Sri Anjaneya Restaurant,350,"Biryani,North Indian,Chinese",Guntur,Brodipet,Casual Dining,1030am to 11pm(Mon-Sun),Good,3.6,903
+KFC,400,"Burger,Fast Food",Guntur,Brodipet,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,873
+Pizza World,350,"Pizza,Chinese,North Indian,Biryani,Burger,Desserts,Beverages",Guntur,Brodipet,Casual Dining,10am to 11pm(Mon-Sun),Good,3.8,353
+Sri Sankara Vilas,400,"South Indian,Andhra",Guntur,Brodipet,Quick Bites,630am to 1030pm(Mon-Sun),Good,3.8,351
+Paradise,800,"Biryani,North Indian",Guntur,Brodipet,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,811
+Tomatoes,350,"South Indian,North Indian,Chinese,Biryani,Andhra",Guntur,Brodipet,Casual Dining,"1130am to 3pm,7pm to 1030pm(Mon-Sun)",Good,3.7,251
+Viceroy Biryani Point,350,"South Indian,North Indian",Guntur,Brodipet,Casual Dining,"12noon to 330pm,7pm to 1030pm(Mon-Sun)",Good,3.9,600
+Chennai Thalapakatti Biryani,550,Biryani,Guntur,Old Guntur,Quick Bites,1130am to 1030pm(Mon-Sun),Good,3.6,424
+V Royal Park,500,"Chinese,Indian",Guntur,Brodipet,Casual Dining,11am to 11pm(Mon-Sun),Good,3.8,351
+Bowl & Barbeque,550,"North Indian,Chinese,Seafood,Rolls,BBQ",Guntur,Brodipet,Casual Dining,"11am to 11pm(Mon),1115am to 11pm(Tue-Sun)",Good,3.8,275
+Varalakshmi Tiffins,200,South Indian,Guntur,Srinivasa Nagar Colony,Quick Bites,"630am to 11am,530pm to 11pm(Mon-Sun)",Very Good,4.1,416
+S R Grand,500,"South Indian,North Indian,Chinese,Biryani,Andhra",Guntur,Brodipet,Casual Dining,11am to 11pm(Mon-Sun),Good,3.7,447
+Domino's Pizza,750,"Pizza,Fast Food",Guntur,Brodipet,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,371
+Pizza World,350,"Pizza,Chinese,Burger,Desserts,Beverages,Bakery",Guntur,Brodipet,Casual Dining,10am to 11pm(Mon-Sun),Very Good,4.0,216
+Amigos Foods,200,Fast Food,Guntur,Srinivasa Nagar Colony,Quick Bites,8am to 11pm(Mon-Sun),Average,3.4,17
+Amaravathi Multi Cusinie Family Restaurant,350,"North Indian,South Indian,Chinese",Guntur,Brodipet,Quick Bites,7am to 11pm(Mon-Sun),Average,3.4,14
+Kartikeya Grande,300,North Indian,Guntur,Brodipet,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,38
+The Best Natural Foods,300,"Fast Food,Chinese",Guntur,Agatha Varappadu,Quick Bites,11am to 1030pm(Mon-Sun),Good,3.5,46
+Magic Thick Shakes,350,Beverages,Guntur,Brodipet,Beverage Shop,11am to 11pm(Mon-Sun),Good,3.7,11
+Hyderabadi Chicken Dum Biryani,150,Biryani,Guntur,Srinivasa Nagar Colony,Quick Bites,"12noon to 4pm,7pm to 1030pm(Mon-Sun)",Average,3.2,53
+Hotel Jaya Grand,350,"South Indian,North Indian,Chinese",Guntur,Brodipet,Casual Dining,"12noon to 4pm,7pm to 11pm(Mon-Sun)",Good,3.5,21
+Baskin Robbins,300,"Ice Cream,Desserts",Guntur,Brodipet,Dessert Parlor,1030am to 1030pm(Mon-Sun),Average,3.3,22
+Bismillah Khan Chicken Pakodi,150,Street Food,Guntur,Brodipet,Kiosk,6pm to 1030pm(Mon-Sun),Average,3.3,41
+Hotel New Spice In Restaurant,500,"South Indian,North Indian",Guntur,Brodipet,Casual Dining,7am to 11pm(Mon-Sun),Good,3.5,15
+Grand Red Cherry Family Restaurant,650,"South Indian,North Indian,Chinese",Guntur,Agatha Varappadu,Casual Dining,1130am to 1130pm(Mon-Sun),Average,3.3,33
+Sri Naveena Sweets & Bakery,300,"Mithai,Bakery",Guntur,Brodipet,Sweet Shop,12noon to 1030pm(Mon-Sun),Average,3.4,19
+Dhaba Cafe,200,"Indian,South Indian",Guntur,Brodipet,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,16
+The Vintage Kitchen-The Capital Hotel,1000,"South Indian,North Indian,Chinese",Guntur,The Capital Hotel-- Brodipet,Casual Dining,"12noon to 4pm,7pm to 1030pm(Mon-Sun)",Average,3.4,20
+The Hangout,400,"Seafood,North Indian,Fast Food,Italian",Guntur,Brodipet,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,12
+Cream Chemistry,300,"Ice Cream,Beverages",Guntur,Brodipet,Dessert Parlor,11am to 12midnight(Mon-Sun),Average,3.3,19
+Falooda House,300,Ice Cream,Guntur,Srinivasarao Pet,Dessert Parlor,11am to 11pm(Mon-Sun),Average,3.3,10
+Ale House Restaurant,1200,"North Indian,Chinese",Guntur,Srinivasa Nagar Colony,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,12
+Eatmor Multicuisine Restaurant,650,"South Indian,North Indian,Chinese",Guntur,Srinivasa Nagar Colony,Casual Dining,"12noon to 4pm,7pm to 1030pm(Mon-Sun)",Average,3.2,17
+Raaga's Family Restaurant,500,"South Indian,North Indian",Guntur,Gorantla,Casual Dining,6am to 1030pm(Mon-Sun),Average,3.3,9
+Bake Feast Sweets Hub,350,"Desserts,Bakery",Guntur,Old Guntur,Bakery,9am to 1030pm(Mon-Sun),Average,3.4,5
+Lelu Darwin's Food Court,550,"South Indian,North Indian,Chinese",Guntur,AT Agraharam,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,28
+New Madras Bilal Hotel,400,"South Indian,North Indian",Guntur,Old Guntur,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,12
+Hot Pot - The Nellore Style,300,South Indian,Guntur,Srinivasa Nagar Colony,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,16
+Kishore Garden Restaurant,350,"South Indian,North Indian,Chinese",Guntur,Srinivasa Nagar Colony,Casual Dining,"12noon to 4pm,7pm to 11pm(Mon-Sun)",Average,3.2,16
+The Shawarma Co,250,Rolls,Guntur,Brodipet,Quick Bites,4pm to 11pm(Mon-Sun),Average,3.4,8
+Guntur Gongura,800,"Continental,Chinese,North Indian",Guntur,Brodipet,Casual Dining,12noon to 11pm(Mon-Sun),Average,3.2,13
+Sai Ram Foods,300,"Bakery,Mithai",Guntur,Brodipet,Bakery,8am to 11pm(Mon-Sun),Average,3.2,18
+Manju Restaurant,350,North Indian,Guntur,Old Guntur,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,4
+Hangout Hub,300,Chinese,Guntur,Brodipet,Quick Bites,12noon to 1030pm(Mon-Sun),Average,3.2,12
+The Bean Bag-The Capital Hotel,600,South Indian,Guntur,The Capital Hotel-- Brodipet,Casual Dining,"8am to 1030am,12noon to 4pm,7pm to 1030pm...",Average,3.2,10
+Anand Juice & Chat,400,"Street Food,Beverages",Guntur,Brodipet,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,12
+Lazziz Pizza,0,Pizza,Guntur,Brodipet,Quick Bites,10am to 11pm(Mon-Sun),Average,3.2,12
+Ice Magic by Sweet Magic,300,Desserts,Guntur,Brodipet,Dessert Parlor,630am to 1030pm(Mon-Sun),Good,3.5,9
+Sai Vilas,250,"South Indian,Chinese",Guntur,Brodipet,Quick Bites,6am to 11pm(Mon-Sun),Average,3.2,8
+Sky Restaurant,700,"Continental,Chinese",Guntur,Brodipet,Casual Dining,11am to 1030pm(Mon-Sun),Average,3.2,5
+Leelavathi Deluxe Mess,200,"South Indian,Biryani",Guntur,Brodipet,Mess,"11am to 4pm,630pm to 11pm(Mon-Sun)",Average,3.2,5
+High Spirit Bar & Restaurant,1000,"Continental,Chinese",Guntur,Brodipet,Bar,11am to 1030pm(Mon-Sun),Average,3.2,5
+Eat Bud Food Court,250,"Chinese,North Indian",Guntur,Agatha Varappadu,Quick Bites,1pm to 1130pm(Mon-Sun),Average,3.2,9
+Royal Bilal Hotel,300,"Chinese,Biryani,Andhra",Guntur,Agatha Varappadu,Quick Bites,10am to 1030pm(Mon-Sun),Average,3.2,8
+Raj Noodels,300,"Chinese,North Indian",Guntur,Srinivasarao Pet,Quick Bites,1pm to 11pm(Mon-Sun),Average,3.2,5
+Sri Ganesh Fast Food Center,200,Street Food,Guntur,Brodipet,Quick Bites,11am to 1030pm(Mon-Sun),Average,3.2,7
+Society Bar & Restaurant,500,"Chinese,North Indian,South Indian",Guntur,Brodipet,Bar,11am to 11pm(Mon-Sun),Average,3.2,4
+Mirchi Family Restaurant,550,"South Indian,North Indian,Chinese",Guntur,Agatha Varappadu,Casual Dining,"11am to 5pm,6pm to 11pm(Mon-Sun)",Average,3.2,6
+Sri Sanjivi Family Restaurant,350,"North Indian,Chinese,Biryani,Andhra",Guntur,Srinivasa Nagar Colony,Casual Dining,"11am to 4pm,630pm to 11pm(Mon-Sun)",Average,3.2,6
+Delhi Chaat Bhandar,200,Street Food,Guntur,Srinivasa Nagar Colony,Quick Bites,430pm to 1030pm(Mon-Sun),Average,3.2,4
+Lelu Dharwin's,400,"South Indian,North Indian",Guntur,Brodipet,Quick Bites,11am to 1030pm(Mon-Sun),Average,3.2,4
+Biryani Palace Restaurant,650,"South Indian,Lebanese,Chinese,North Indian",Guntur,Old Guntur,Casual Dining,745am to 11pm(Mon-Sun),Good,3.7,338
+Gismat Arabic Restaurant,400,Arabian,Guntur,Gorantla,Casual Dining,"1230pm to 430pm,730pm to 1130pm(Mon-Sun)",Good,3.6,259
+Sweet Magic,350,"Mithai,Biryani,North Indian,Ice Cream,Desserts,Bakery,Chinese",Guntur,Brodipet,Casual Dining,630am to 11pm(Mon-Sun),Good,3.8,273
+Sweet Magic,600,"Beverages,Biryani,Bakery,North Indian,Chinese,Ice Cream",Guntur,Brodipet,Casual Dining,630am to 11pm(Mon-Sun),Good,3.8,218
+Venkatesh Grand,550,"South Indian,North Indian,Chinese,Seafood",Guntur,Srinivasa Nagar Colony,Casual Dining,"12noon to 4pm,7pm to 11pm(Mon-Sun)",Good,3.8,188
+Dawat Biryani House,500,"South Indian,North Indian",Guntur,Old Guntur,Casual Dining,8am to 1150pm(Mon-Sun),Good,3.7,269
+Amaravathi Food Court,600,"Chinese,Biryani",Guntur,Srinivasa Nagar Colony,Casual Dining,"1230pm to 1030pm(Mon-Sat),12noon to 1030pm(Sun)",Good,3.8,268
+MOURYA TASTY FOODS,300,"South Indian,North Indian,Chinese,Ice Cream,Beverages",Guntur,Srinivasa Nagar Colony,Quick Bites,630am to 1030pm(Mon-Sun),Good,3.9,230
+Hotel Sindoori,700,"North Indian,Chinese,South Indian",Guntur,Brodipet,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,276
+Flameingoes,350,"South Indian,North Indian,Chinese,Biryani,Andhra",Guntur,Brodipet,Casual Dining,1130am to 1030pm(Mon-Sun),Good,3.7,249
+Sri Mayura,550,"South Indian,Andhra,Chinese,Biryani,Seafood",Guntur,Brodipet,Casual Dining,"1130am to 4pm,6pm to 1030pm(Mon-Sun)",Good,3.7,175
+Teneega Family Restaurant,600,"South Indian,North Indian,Chinese,Biryani",Guntur,Brodipet,Casual Dining,12noon to 11pm(Mon-Sun),Good,3.8,193
+Modern Pizza World,400,"Pizza,Sandwich,Chinese,Burger,North Indian,Desserts",Guntur,Srinivasa Nagar Colony,Casual Dining,10am to 1030pm(Mon-Sun),Good,3.7,231
+Vishnu Priya New Hotel,200,South Indian,Guntur,Old Guntur,Quick Bites,6am to 1030pm(Mon-Sun),Good,3.6,28
+Ice N Spice Shawarma Corner,350,"North Indian,Lebanese",Guntur,Old Guntur,Quick Bites,"11am to 330pm,7pm to 1030pm(Mon-Sun)",Good,3.5,165
+Vara Lakshmi Tiffins,200,South Indian,Guntur,Srinivasarao Pet,Quick Bites,"630am to 11am,530pm to 11pm(Mon-Sun)",Good,3.8,193
+Flash Kafei Dian,700,"Cafe,Continental",Guntur,Brodipet,Café,5am to 11pm(Mon-Sun),Average,3.3,179
+Mourya Biryani Point,750,Biryani,Guntur,Brodipet,Casual Dining,"12noon to 4pm,7pm to 1030pm(Mon-Sun)",Good,3.5,174
+Bakers Shoppe,250,"Chinese,Bakery",Guntur,Brodipet,Bakery,9am to 1030pm(Mon-Sun),Average,3.3,143
+Hotel Subani Biryani Point,600,Andhra,Guntur,Srinivasarao Pet,Casual Dining,630am to 10pm(Mon-Sun),Good,3.8,1071
+Hotel Kartikeya Grande,300,North Indian,Guntur,Brodipet,Casual Dining,11am to 11pm(Mon-Sun),Good,3.7,56
+Cinnamon Fine Dine,700,"Continental,Biryani,Chinese,Seafood",Guntur,Brodipet,Casual Dining,"1130am to 4pm,7pm to 11pm(Mon-Sun)",Good,3.7,145
+Ravi Tasty Foods,250,"North Indian,South Indian",Guntur,Brodipet,Quick Bites,1130am to 11pm(Mon-Sun),Good,3.7,177
+7th Heaven,300,Desserts,Guntur,Brodipet,Dessert Parlor,"11am to 1030pm(Mon),11am to 10pm(Tue-Sun)",Good,3.5,117
+Sri Lakshmi Foods,200,Street Food,Guntur,Brodipet,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.8,109
+Bakers Fun,400,"Fast Food,Andhra,Biryani",Guntur,Srinivasa Nagar Colony,Quick Bites,10am to 1030pm(Mon-Sun),Average,3.4,144
+Venkatesh Grand,350,"South Indian,North Indian,Chinese,Biryani,Andhra",Guntur,Brodipet,Casual Dining,"12noon to 4pm,630pm to 10pm(Mon-Sun)",Good,3.9,503
+Eat Bud Food Court,250,"Chinese,North Indian,Rolls",Guntur,Brodipet,Quick Bites,"1pm to 12midnight(Mon),1pm to 1130pm(Tue-Sun)",Good,3.6,144
+Nagasai Tasty Foods,400,"South Indian,Biryani,Chinese,Andhra",Guntur,Brodipet,Quick Bites,8am to 11pm(Mon-Sun),Good,3.8,104
+Hotel Geetha Regency,300,"North Indian,Chinese,South Indian",Guntur,Brodipet,Casual Dining,"11am to 3pm,7pm to 11pm(Mon-Sun)",Good,3.6,91
+Saffron,600,"South Indian,North Indian,Chinese",Guntur,Brodipet,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,110
+Gongura @New Isha's,400,"North Indian,Indian,Chinese",Guntur,Brodipet,Casual Dining,12noon to 11pm(Mon-Sun),Average,3.4,154
+Garlic Multicuisine Restaurant,600,"South Indian,North Indian,Chinese,Biryani",Guntur,Srinivasa Nagar Colony,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,172
+Lassi Shop,150,"Juices,Ice Cream",Guntur,Brodipet,Beverage Shop,11am to 1130pm(Mon-Sun),Good,3.7,93
+Sahaja Family Restaurant,800,"South Indian,Andhra,Biryani",Guntur,Brodipet,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,141
+Ajmeer Maharaj Hotel,550,North Indian,Guntur,Old Guntur,Quick Bites,7am to 11pm(Mon-Sun),Average,3.4,82
+Vijaya Cool Drinks,200,"Juices,Ice Cream",Guntur,Brodipet,Beverage Shop,1030am to 1030pm(Mon-Sun),Good,3.9,96
+Ice Berg,750,Bakery,Guntur,Brodipet,Casual Dining,10am to 10pm(Mon-Sun),Good,3.6,121
+Modern Pizza World,350,"Sandwich,Pizza,Chinese,Burger",Guntur,Brodipet,Quick Bites,10am to 10pm(Mon-Sun),Good,3.6,140
+Guntur Gongura@Newishas,500,"Arabian,Hyderabadi",Guntur,Brodipet,Casual Dining,12noon to 11pm(Mon-Sun),Good,3.6,89
+Mourya Restaurant,500,"South Indian,North Indian,Chinese,Biryani",Guntur,Brodipet,Casual Dining,8am to 11pm(Mon-Sun),Average,3.4,101
+Hotel Viceroy Grand,450,"South Indian,North Indian,Chinese",Guntur,Brodipet,Casual Dining,"12noon to 4pm,7pm to 11pm(Mon-Sun)",Average,3.4,106
+Bakers Fun,300,"Chinese,Fast Food,Bakery",Guntur,Brodipet,Quick Bites,9am to 10pm(Mon-Sun),Good,3.6,103
+Ice Berg,250,Bakery,Guntur,Brodipet,Bakery,10am to 10pm(Mon-Sun),Good,3.6,76
+Laziz Pizza,500,"Pizza,Burger,Sandwich,Desserts",Guntur,Brodipet,Quick Bites,10am to 10pm(Mon-Sun),Good,3.5,48
+Myz-Uno Brew Pub,250,"North Indian,Chinese",Guntur,Brodipet,Casual Dining,1130am to 12midnight(Mon-Sun),Average,3.4,28
+ibaco,250,Ice Cream,Guntur,Brodipet,Dessert Parlor,11am to 11pm(Mon-Sun),Good,3.5,77
+The London Shakes,200,"Beverages,Sandwich",Guntur,Brodipet,Beverage Shop,"9am to 12midnight(Mon-Fri),7am to 12midnight...",Good,3.6,57
+Sweet Magic Sweet's & Baker's,350,"Mithai,Bakery",Guntur,Brodipet,Sweet Shop,11am to 11pm(Mon-Sun),Average,3.2,83
+Subway,500,"Healthy Food,Sandwich,Salad",Guntur,Srinivasa Nagar Colony,Quick Bites,10am to 11pm(Mon-Sun),Average,3.4,86
+Marvadi Bhojanalaya,200,North Indian,Guntur,Brodipet,Bhojanalya,"11am to 3pm,7pm to 10pm(Mon-Sun)",Average,3.4,76
+Bombay Chaat,200,Street Food,Guntur,Brodipet,none,2pm to 10pm(Mon-Sun),Good,3.5,50
+Ice Park,350,"Sandwich,Pizza,Ice Cream,Burger",Guntur,Brodipet,Casual Dining,10am to 1030pm(Mon-Sun),Average,3.4,67
+Barista,400,"Cafe,Fast Food",Guntur,Brodipet,Café,11am to 11pm(Mon-Sun),Average,3.3,41
+A Cafe,300,Cafe,Guntur,Brodipet,Café,10am to 10pm(Mon-Sun),Average,3.2,66
+Family Fast food,350,"Fast Food,North Indian",Guntur,Old Guntur,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,37
+Sai Temptations,150,"Fast Food,Bakery,Juices",Guntur,AT Agraharam,Quick Bites,830am to 10pm(Mon-Sun),Good,3.6,21
+Sri Naveena Fast Food,350,"Chinese,Fast Food",Guntur,Brodipet,Quick Bites,12noon to 10pm(Mon-Sun),Good,3.7,22
+Simply Samosa,150,Street Food,Guntur,Brodipet,Kiosk,11am to 10pm(Mon-Sun),Average,3.4,30
+Hotel Kartikeya Grande,800,"South Indian,North Indian,Chinese",Guntur,Brodipet,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,87
+The Shawarma Co,150,"Fast Food,Rolls",Guntur,Brodipet,Quick Bites,430pm to 10pm(Mon-Sun),Good,3.5,33
+Dwarka Fruit Juice,200,"Juices,Beverages",Guntur,Brodipet,Beverage Shop,10am to 10pm(Mon-Sun),Good,3.6,28
+Chill Stone,550,"Chinese,Fast Food,North Indian,Desserts",Guntur,Brodipet,Casual Dining,1030am to 1030pm(Mon-Sun),Average,3.3,82
+Thalis Multi Cuisine Family Restaurant,400,"North Indian,South Indian",Guntur,Brodipet,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.6,49
+Drunken Monkey,400,"Juices,Healthy Food",Guntur,Brodipet,Beverage Shop,930am to 1130pm(Mon-Sun),Average,3.4,55
+Zaitoon Juice Center,150,Juices,Guntur,Old Guntur,Cocktail Bar,(Mon-Sun),Average,3.4,20
+Kona Students  Mess,150,Andhra,Guntur,Brodipet,Mess,930am to 930pm(Mon-Sun),Good,3.5,30
+Siri Sweet World,300,Mithai,Guntur,Brodipet,Sweet Shop,9am to 10pm(Mon-Sun),Average,3.3,38
+Sree Manasa Vegetarian Restaurant,300,North Indian,Guntur,Srinivasarao Pet,Casual Dining,"12noon to 4pm,7pm to 9pm(Mon-Sun)",Average,3.3,15
+Sri Lakshmi Juice N Spicee,350,"Juices,Chinese",Guntur,Old Guntur,Quick Bites,1130am to 10pm(Mon-Sun),Average,3.2,25
+Delhi Durbar,200,Lebanese,Guntur,Old Guntur,Quick Bites,11am to 10pm(Mon-Sun),Average,3.3,16
+Sai Brundavan Tiffins,200,"Fast Food,North Indian",Guntur,Brodipet,none,11am to 10pm(Mon-Sun),Average,3.4,4
+Siva Tiffins And Fast Foods,150,"North Indian,South Indian",Guntur,Srinivasa Nagar Colony,Quick Bites,11am to 10pm(Mon-Sun),Good,3.6,6
+Cream & Fudge,250,"Desserts,Ice Cream",Guntur,Srinivasa Nagar Colony,Dessert Parlor,10am to 11pm(Mon-Sun),Good,3.5,61
+Guru Tiffins,200,"South Indian,North Indian",Guntur,Old Guntur,Quick Bites,7am to 3pm(Mon-Sun),Average,3.4,6
+Chick Blast,450,Fast Food,Guntur,Brodipet,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,34
+Sri Sankara Vilas Restaurant A/C Vegetarian,350,"South Indian,North Indian",Guntur,Brodipet,Quick Bites,11am to 10pm(Mon-Sun),Average,3.2,14
+Pizza Castle,250,Italian,Guntur,Brodipet,Quick Bites,11am to 10pm(Mon-Sun),Average,3.3,8
+Sri Naveena Sweets & Fast Food,300,"Fast Food,Chinese",Guntur,Srinivasa Nagar Colony,Quick Bites,12noon to 10pm(Mon-Sun),Average,3.2,11
+Sri Vilas,300,South Indian,Guntur,Srinivasa Nagar Colony,Quick Bites,1130am to 10pm(Mon-Sun),Average,3.2,6
+Kona Fruit Juice Bar,150,Juices,Guntur,Brodipet,Kiosk,11am to 10pm(Mon-Sun),Average,3.3,9
+Bombay Chat & Juice,200,"Street Food,Sandwich,Pizza,Beverages",Guntur,Brodipet,Quick Bites,10am to 1030pm(Mon-Sun),Good,3.5,60
+Bakers Fun,300,Bakery,Guntur,Brodipet,Bakery,11am to 10pm(Mon-Sun),Average,3.2,7
+China Cafe,300,Chinese,Guntur,Old Guntur,Quick Bites,11am to 10pm(Mon-Sun),Average,3.2,8
+Swarna Foods,150,Street Food,Guntur,Srinivasa Nagar Colony,Quick Bites,5pm to 10pm(Mon-Sun),Average,3.3,4
+Rotis Lunch Box,150,South Indian,Guntur,Brodipet,Quick Bites,11am to 4pm(Mon-Sun),Average,3.2,8
+Food Paradise,200,South Indian,Guntur,Brodipet,Quick Bites,11am to 10pm(Mon-Sun),Average,3.2,6
+Sri Kaveri Tiffins & Meals,200,South Indian,Guntur,Agatha Varappadu,none,10am to 10pm(Mon-Sun),Average,3.2,7
+Sri Kaveri Tasty Foods,250,"South Indian,Fast Food",Guntur,Gorantla,Quick Bites,10am to 10pm(Mon-Sun),Average,3.2,7
+Shanti Sweets and Bakery,150,Bakery,Guntur,Brodipet,Bakery,11am to 10pm(Mon-Sun),Average,3.3,6
+New Taj Family Restaurant And Juice,150,"Fast Food,Juices",Guntur,Brodipet,Kiosk,11am to 10pm(Mon-Sun),Average,3.4,5
+Shawarma Corner,400,"Lebanese,Rolls,Fast Food",Guntur,Brodipet,Quick Bites,4pm to 11pm(Mon-Sun),Good,3.6,53
+Spice N Spice,550,"South Indian,North Indian,Chinese",Guntur,Brodipet,Casual Dining,8am to 1030pm(Mon-Sun),Good,3.5,55
+Classic Fast Food,300,Fast Food,Guntur,Brodipet,Quick Bites,1pm to 11pm(Mon-Sun),Good,3.8,45
+Cream Stone,400,"Ice Cream,Desserts",Guntur,Brodipet,Dessert Parlor,1130am to 12midnight(Mon-Sun),Average,3.4,43
+Meat & Eat,450,"Burger,Fast Food",Guntur,Brodipet,Quick Bites,11am to 1130pm(Mon-Sun),Good,3.6,33
+The Milkshakes Factory,250,"Beverages,Ice Cream",Guntur,Brodipet,Beverage Shop,11am to 1130pm(Mon-Sun),Good,3.6,61
+Makers Of Milkshakes,300,Beverages,Guntur,Srinivasa Nagar Colony,Beverage Shop,1030am to 1130pm(Mon-Sun),Good,3.5,52
+Bombay Kulfi,200,"Desserts,Ice Cream",Guntur,Brodipet,Dessert Parlor,1030am to 12midnight(Mon-Sun),Good,3.5,39
+Mahabodhi Tiffins,350,South Indian,Guntur,Brodipet,Quick Bites,630am to 11pm(Mon-Sun),Average,3.4,81
+New Geetha Star Canteen,150,South Indian,Guntur,Old Guntur,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,20
+The Ocean Spice,600,"Seafood,Chinese,North Indian,South Indian",Guntur,Srinivasa Nagar Colony,Casual Dining,"12noon to 4pm,7pm to 1030pm(Mon-Sun)",Average,3.3,72
+House Of Thickshakes,500,Beverages,Guntur,Srinivasa Nagar Colony,Beverage Shop,10am to 11pm(Mon-Sun),Good,3.5,8
+Cousin's Cusine,350,"South Indian,Seafood,North Indian,Chinese",Guntur,Srinivasa Nagar Colony,Casual Dining,"1130am to 330pm,630pm to 1030pm(Mon-Sun)",Good,3.5,39
+Pizza Hub - Spice Of Guntur,300,Pizza,Guntur,Srinivasa Nagar Colony,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,18
+The Shawarma Co,200,Lebanese,Guntur,Brodipet,Quick Bites,4pm to 11pm(Mon-Sun),Good,3.6,53
+Havmor Ice Cream,300,Ice Cream,Guntur,Srinivasa Nagar Colony,Dessert Parlor,10am to 11pm(Mon-Sun),Average,3.4,27
+Just Bake,350,Bakery,Guntur,Brodipet,Bakery,10am to 1030pm(Mon-Sun),Average,3.2,49
+Apsara Chicken Pakodi,200,Street Food,Guntur,Old Guntur,Quick Bites,4pm to 11pm(Mon-Sun),Average,3.3,29
+Mahee Tiffins,150,"Chinese,South Indian",Guntur,Brodipet,Quick Bites,7am to 1030pm(Mon-Sun),Good,3.7,15
+Raghava's Food Cult,100,"Street Food,South Indian",Guntur,Srinivasa Nagar Colony,Food Truck,530pm to 1030pm(Mon-Sun),Good,3.6,32

@@ -1,0 +1,737 @@
+Name,Price,Cuisine_Category,City,Region,Cuisine_Type,Timing,Rating_Types,Rating,Votes
+Ifthar,350,Kerala,Kochi,Edappally,Casual Dining,8am to 2am(Mon-Sun),Very Good,4.1,771
+Ali Baba & 41 Dishes,500,"Kerala,South Indian,Chinese,Biryani",Kochi,Panampilly Nagar,Casual Dining,12noon to 1130pm(Mon-Sun),Good,3.8,560
+Dhe Puttu,600,Kerala,Kochi,Edappally,Casual Dining,12noon to 1130pm(Mon-Sun),Very Good,4.3,1161
+Cafe d' arabia,500,"Arabian,Lebanese",Kochi,Edappally,Casual Dining,10am to 12midnight(Mon-Sun),Very Good,4.1,542
+Real Arabia,300,"Arabian,Chinese,North Indian",Kochi,Ravipuram,Quick Bites,1230pm to 12midnight(Mon-Sun),Very Good,4.0,382
+Thaal Kitchen,300,"Kerala,Arabian",Kochi,Kakkanad,Casual Dining,"12midnight to 1am,8am to 12midnight(Mon-Sun)",Good,3.7,640
+Hotel Paradise - Karukappilly,400,"Biryani,Mughlai",Kochi,Kaloor,Casual Dining,6am to 12midnight(Mon-Sun),Very Good,4.1,275
+Tonico Cafe,400,Cafe,Kochi,Kakkanad,Café,11am to 2am(Mon-Sun),Very Good,4.3,935
+Haji Ebrahim Restaurant,300,"Desserts,Arabian",Kochi,Edappally,Casual Dining,10am to 3am(Mon-Sun),Very Good,4.3,277
+Chiyang,450,"Chinese,Continental",Kochi,Kacheripady,Casual Dining,11am to 1130pm(Mon-Sun),Very Good,4.0,622
+Aangan - Downtown Multicuisine Restaurant,650,"Seafood,Biryani,South Indian,North Indian,Chinese,Kerala",Kochi,Palarivattom,Casual Dining,12noon to 12midnight(Mon-Sun),Good,3.9,471
+The Burger Junction,950,"Cafe,Fast Food,Burger",Kochi,Panampilly Nagar,Café,12noon to 12midnight(Mon-Sun),Excellent,4.5,715
+ChaiCofi,750,"Continental,Burger,Cafe,Italian,Pizza,Steak",Kochi,Kaloor,Café,"12midnight to 1230AM,8am to 12midnight(Mon-Sun)",Very Good,4.3,523
+Zaatar Arabic Restaurant,300,"Arabian,North Indian,Chinese",Kochi,Palarivattom,Quick Bites,12noon to 12midnight(Mon-Sun),Very Good,4.2,306
+Mash Resto Cafe,600,"Continental,Chinese,Burger,Sandwich,Italian,Steak",Kochi,Panampilly Nagar,Casual Dining,11am to 3am(Mon-Sun),Good,3.8,444
+Lil' America,1000,"Burger,American,Beverages,Fast Food,Desserts,Italian,Salad,Steak",Kochi,Kakkanad,Casual Dining,12noon to 12midnight(Mon-Sun),Average,3.0,112
+Upstairs,1200,"Italian,European",Kochi,Fort Kochi,Casual Dining,10am to 1030pm(Mon-Sun),Good,3.8,134
+Star Malabar,300,Kerala,Kochi,Edappally,Quick Bites,8am to 10pm(Mon-Sun),Good,3.9,102
+Sarovaram,500,"Kerala,South Indian,North Indian",Kochi,BTH Sarovaram-- Marad,Quick Bites,"12noon to 3pm,7pm to 11pm(Mon-Sun)",Very Good,4.1,198
+Cochin Majlis,400,"Arabian,North Indian,Kerala,Chinese",Kochi,Edappally,Casual Dining,11am to 10pm(Mon-Sun),Good,3.5,192
+Cane Home,250,Juices,Kochi,Palarivattom,Beverage Shop,10am to 2am(Mon-Sun),Very Good,4.3,122
+Nandanam Pure Vegetarian Restaurant,250,"Biryani,Beverages,South Indian,Chinese",Kochi,Kakkanad,Casual Dining,7am to 1030pm(Mon-Sun),Good,3.7,160
+Vaishnavi 39 Variety Dosa,1000,South Indian,Kochi,Kakkanad,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,129
+Hotel Al-Ameen,200,Kerala,Kochi,Kakkanad,Casual Dining,10am to 10pm(Mon-Sun),Good,3.7,206
+Rappai's Restaurant,250,"Kerala,Chinese",Kochi,Palarivattom,Casual Dining,5am to 11pm(Mon-Sun),Good,3.7,195
+Mel-b's,300,"Fast Food,Burger,Beverages",Kochi,Vyttila,Quick Bites,11am to 12midnight(Mon-Sun),Very Good,4.0,155
+Ambiswamy's,400,South Indian,Kochi,Elamkulam,Casual Dining,8am to 1030pm(Mon-Sun),Very Good,4.0,163
+Frozen Bottle,400,"Beverages,Desserts,Ice Cream",Kochi,Ravipuram,Beverage Shop,11am to 11pm(Mon-Sun),Very Good,4.0,77
+Grill N Chill - Marine Drive,300,"Arabian,Fast Food",Kochi,Marine Drive,Quick Bites,10am to 11pm(Mon-Sun),Very Good,4.0,51
+Cafe Stories,500,Cafe,Kochi,Kalamassery,Café,11am to 11pm(Mon-Sun),Good,3.9,90
+Farm Kitchen,400,"Kerala,Chinese,North Indian,South Indian",Kochi,Kakkanad,Casual Dining,8am to 10pm(Mon-Sun),Average,3.4,212
+Momoz Corner,350,"Continental,Chinese,Momos",Kochi,Elamkulam,Quick Bites,1pm to 1030pm(Mon-Sun),Good,3.8,192
+New Dragon - The Chinese Restaurant,600,"Chinese,Thai",Kochi,Elamkulam,Casual Dining,"11am to 4pm,7pm to 11pm(Mon-Sun)",Good,3.9,126
+Mubaraq Cafeteria,300,"Kerala,South Indian,North Indian",Kochi,Kaloor,Quick Bites,8am to 11pm(Mon-Sun),Very Good,4.1,175
+Bab Arabia,500,"Arabian,Middle Eastern",Kochi,Panampilly Nagar,Casual Dining,10am to 10pm(Mon-Sun),Good,3.9,63
+Hungry Birds Restaurant,200,"Fast Food,Salad,Desserts",Kochi,Kalamassery,Quick Bites,8am to 11pm(Mon-Sun),Average,3.4,154
+Talented Kadai,200,North Indian,Kochi,Kakkanad,Quick Bites,"10am to 4pm,71pm to 10pm(Mon-Tue),10am to 4pm...",Good,3.7,85
+Al Burj Family Restaurant,500,"Arabian,North Indian,Chinese",Kochi,Kakkanad,Casual Dining,12noon to 11pm(Mon-Sun),Average,3.2,150
+The Springs - The Avenue Regent,1200,"Continental,Seafood,Juices,South Indian,Desserts,North Indian,Kerala",Kochi,The Avenue Regent-- MG Road,Casual Dining,"7am to 10am,12noon to 3pm,730pm to 11pm(Mon-Sun)",Very Good,4.1,129
+Gokul Oottupura,400,"Chinese,North Indian",Kochi,Kadavanthra,Casual Dining,7am to 10pm(Mon-Sun),Good,3.9,145
+Nadiya Bake and More,300,"Bakery,Fast Food,Juices,Desserts",Kochi,Palarivattom,Bakery,10am to 10pm(Mon-Sun),Good,3.5,160
+Momo Streat,350,"South Indian,Tibetan,Momos",Kochi,Kalamassery,Quick Bites,NA,Very Good,4.0,133
+Pandari's Biriyani,500,Biryani,Kochi,Kakkanad,Quick Bites,"1130am to 330pm,630pm to 1030pm(Mon-Sun)",Good,3.9,167
+Baycholin Restaurant,200,"Biryani,South Indian,Arabian",Kochi,Kakkanad,Casual Dining,11am to 10pm(Mon-Sun),Average,3.0,196
+Cake Hut,150,"Bakery,Desserts",Kochi,Kaloor,Bakery,11am to 10pm(Mon-Sun),Very Good,4.2,138
+Hotel Anugraha,400,South Indian,Kochi,Vyttila,Casual Dining,730am to 1030pm(Mon-Sun),Good,3.8,145
+Mubaraq Restaurant,300,North Indian,Kochi,Kaloor,Casual Dining,8am to 1115pm(Mon-Sun),Very Good,4.0,168
+Burger Nest,450,"Fast Food,Beverages,Burger,Sandwich",Kochi,Edappally,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,114
+Malabar Food Court,300,"South Indian,Chinese,Arabian,Kerala",Kochi,Edappally,Quick Bites,8am to 12midnight(Mon-Sun),Good,3.6,75
+Frys Restaurant,400,Kerala,Kochi,Ravipuram,Casual Dining,"12noon to 330pm,7pm to 10pm(Mon-Sun)",Very Good,4.0,145
+Kismath Restaurant,400,"Biryani,Chinese",Kochi,Kalamassery,Casual Dining,10am to 11pm(Mon-Sun),Good,3.7,162
+Chicking,500,Fast Food,Kochi,Aluva,Quick Bites,11am to 9pm(Mon-Sun),Good,3.7,151
+The Oven,250,"Bakery,Desserts,Fast Food",Kochi,Marine Drive,Quick Bites,10am to 830pm(Mon-Sun),Very Good,4.1,146
+Dwaraka Hotel,250,South Indian,Kochi,Pallimukku,Quick Bites,"730am to 959pm(Mon),7am to 959pm(Tue-Sun)",Very Good,4.0,123
+Jeff Biriyani,300,Biryani,Kochi,Thopumpady,Quick Bites,12noon to 3pm(Mon-Sun),Very Good,4.4,99
+Pizza Italia,1000,"Cafe,Italian",Kochi,Fort Kochi,Café,9am to 1030pm(Mon-Sun),Very Good,4.1,99
+Hidden Fork,500,Continental,Kochi,Kalamassery,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.6,103
+Barbeque Nights,450,"North Indian,Chinese",Kochi,Kakkanad,Casual Dining,"12midnight to 2am,5pm to 12midnight(Mon-Sun)",Average,3.3,135
+Kebabistan,500,North Indian,Kochi,Ravipuram,Casual Dining,"12noon to 3pm,6pm to 11pm(Mon-Sun)",Good,3.9,143
+Chaat Street,150,Street Food,Kochi,Palarivattom,Quick Bites,"1230pm to 1030pm(Mon-Fri),1230pm to 1130pm...",Good,3.7,95
+Subway,500,"Healthy Food,Salad,Sandwich",Kochi,Panampilly Nagar,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.0,135
+Chedathees Kitchen,600,Seafood,Kochi,Palarivattom,Quick Bites,8am to 12midnight(Mon-Sun),Average,2.8,178
+Dasanum Vijayanum,350,South Indian,Kochi,Kalamassery,Quick Bites,8am to 11pm(Mon-Sun),Good,3.6,122
+Bread World,600,"Fast Food,North Indian,Chinese,Bakery",Kochi,Kakkanad,Casual Dining,9am to 10pm(Mon-Sun),Good,3.6,112
+Mamma Restaurant,450,"Kerala,Chinese",Kochi,Tripunithura,Quick Bites,7am to 1030pm(Mon-Sun),Good,3.6,129
+Sky Grill Lounge Bar & Restaurant By Crowne Plaza Kochi,1600,"Finger Food,Salad,Drinks Only,Steak",Kochi,Crowne Plaza Kochi-- Marad,Bar,6pm to 11pm(Mon-Sun),Very Good,4.0,76
+Eat 'N' Park,250,"Kerala,Chinese",Kochi,Kaloor,Quick Bites,"9am to 11pm(Mon-Sat),Closed(Sun)",Good,3.9,114
+Volga Restaurant,400,"Kerala,Chinese,North Indian",Kochi,Volga Tourist Home,Casual Dining,12noon to 11pm(Mon-Sun),Good,3.8,146
+Adaminte Chayakkada,500,"South Indian,Kerala,North Indian,Chinese",Kochi,Aluva,Casual Dining,7am to 11pm(Mon-Sun),Average,2.9,105
+Alikkas Hotel,300,"South Indian,Kerala",Kochi,Kalamassery,Casual Dining,6am to 11pm(Mon-Sun),Average,3.1,122
+Sulaimani Bakers and Food Court,250,"Bakery,South Indian",Kochi,Kakkanad,Quick Bites,9am to 1030pm(Mon-Sun),Good,3.8,53
+Golden Fork Restaurant,750,"Fast Food,South Indian,North Indian,Chinese",Kochi,Tripunithura,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,145
+Taco Bell,550,"Mexican,Fast Food",Kochi,LuLu Mall-- Edappally,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,66
+Hotel Arya,300,"South Indian,Chinese",Kochi,Kakkanad,Casual Dining,7am to 10pm(Mon-Sun),Good,3.7,67
+Ojeen,450,"Kerala,Chinese,North Indian",Kochi,Marine Drive,Casual Dining,9am to 930pm(Mon-Sun),Good,3.9,90
+Biriyani Hut,400,"North Indian,Biryani",Kochi,Kakkanad,Casual Dining,12noon to 11pm(Mon-Sun),Average,2.6,122
+Curry Tree Diner,500,"North Indian,South Indian,Chinese",Kochi,Kadavanthra,Casual Dining,10am to 11pm(Mon-Sun),Good,3.8,65
+Rochas Cafe & Bistro,500,Cafe,Kochi,Kakkanad,Café,11am to 1030pm(Mon-Sun),Average,2.9,78
+Nila,500,"Kerala,South Indian,North Indian,Chinese",Kochi,Edappally,Casual Dining,11am to 11pm(Mon-Sun),Average,2.8,138
+The Big Falooda,200,"Beverages,Desserts",Kochi,Kacheripady,Dessert Parlor,11am to 12midnight(Mon-Sun),Very Good,4.0,107
+Canopy,400,Fast Food,Kochi,Abad Plaza-- Kacheripady,Quick Bites,24,Good,3.9,105
+Kadambra Restaurant,300,Kerala,Kochi,Kakkanad,Casual Dining,8am to 9pm(Mon-Sun),Good,3.9,107
+"Pandhal Cake Shop, Panampilly Nagar",200,"Desserts,Bakery",Kochi,Panampilly Nagar,Dessert Parlor,9am to 930pm(Mon-Sun),Very Good,4.1,116
+Pathumma's Kitchen,350,"Kerala,South Indian",Kochi,Marine Drive,Quick Bites,11am to 11pm(Mon-Sun),Average,2.7,119
+Food Magic,300,"South Indian,Biryani",Kochi,Chittoor Road,Casual Dining,7am to 1030pm(Mon-Sun),Good,3.8,117
+Hotel Shree Aryas,200,"North Indian,South Indian,Chinese",Kochi,Kakkanad,Casual Dining,7am to 10pm(Mon-Sun),Average,3.1,99
+Surya Restaurant,500,"Chinese,North Indian,Seafood,Kerala,Biryani",Kochi,Aluva,Casual Dining,9am to 11pm(Mon-Sun),Good,3.6,86
+Feast,900,"Kerala,Mughlai,Chinese,Continental",Kochi,Travancore Court by Spree-- Pallimukku,Casual Dining,"730am to 10am,1230pm to 3pm,4pm to 11pm...",Very Good,4.1,62
+Kitchen Tellicherry,650,"Kerala,South Indian",Kochi,GCDA Shopping Complex-- Panampily Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,2.9,117
+Carrots,150,"Cafe,Bakery",Kochi,Pallimukku,Café,930am to 930pm(Mon-Sun),Good,3.9,53
+Burger Hutz,400,Fast Food,Kochi,Kakkanad,Quick Bites,10am to 11pm(Mon-Sun),Average,2.9,133
+Street Menu,400,"Kerala,Chinese,Arabian",Kochi,MG Road,Casual Dining,12noon to 2am(Mon-Sun),Good,3.6,132
+Ambiswamy's,300,"South Indian,Biryani,Fast Food",Kochi,Pallimukku,Quick Bites,8am to 1030pm(Mon-Sun),Good,3.6,95
+Uruli,500,"Kerala,North Indian,Biryani,Chinese,Arabian",Kochi,MG Road,Casual Dining,630pm to 11pm(Mon-Sun),Very Good,4.0,64
+Masafi Restaurant,400,South Indian,Kochi,Kadavanthra,Casual Dining,12noon to 1030pm(Mon-Sun),Good,3.5,111
+Dindigul Biriyani,400,Biryani,Kochi,Panampilly Nagar,Casual Dining,1130am to 930pm(Mon-Sun),Average,2.7,94
+Hotel Paris,450,"North Indian,Seafood,Chinese",Kochi,Kacheripady,Casual Dining,11am to 11pm(Mon-Sun),Good,3.8,69
+Bharya Veedu,400,"South Indian,Chinese",Kochi,Edappally,Casual Dining,9am to 11pm(Mon-Sun),Good,3.8,45
+Bread World,450,"Bakery,Fast Food",Kochi,Elamkulam,Bakery,9am to 830pm(Mon-Sun),Good,3.9,103
+Chinese Bowl,300,"Chinese,Momos",Kochi,Edappally,Casual Dining,6am to 1am(Mon-Sun),Average,3.2,155
+Arena Cafe,1000,Fast Food,Kochi,Olive Downtown,Casual Dining,10am to 11pm(Mon-Sun),Good,3.9,52
+Blue Elephant,500,"Cafe,Goan",Kochi,Kadavanthra,Café,"Closed(Mon),12noon to 10pm(Tue-Sun)",Very Good,4.0,45
+Burger hut,300,Fast Food,Kochi,Ravipuram,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,87
+Sree Muruga cafe,200,Kerala,Kochi,Marad,Casual Dining,"5am to 8pm(Mon-Sat),5am to 12noon(Sun)",Good,3.9,79
+Kopi Luwak,500,Cafe,Kochi,Panampilly Nagar,Café,12noon to 10pm(Mon-Sun),Good,3.8,46
+Pai Brothers 36 Varities of Dosa,400,"Street Food,South Indian",Kochi,Kadavanthra,Casual Dining,8am to 1230AM(Mon-Sun),Good,3.8,111
+Ashok bhavan,400,"South Indian,North Indian,Chinese",Kochi,Thevera,Casual Dining,7am to 10pm(Mon-Sun),Good,3.9,82
+Eat Street,600,"Cafe,Burger,Sandwich",Kochi,Kakkanad,Café,"11am to 11pm(Mon-Sat),Closed(Sun)",Average,3.0,73
+Trilogi By Crowne Plaza Kochi,1600,Kerala,Kochi,Crowne Plaza Kochi-- Marad,Fine Dining,7pm to 11pm(Mon-Sun),Very Good,4.1,54
+BBQ Square,800,Turkish,Kochi,Palarivattom,Casual Dining,11am to 1am(Mon-Sun),Good,3.6,126
+Bombay Kulfi,150,"Ice Cream,Desserts",Kochi,Kaloor,Dessert Parlor,11am to 11pm(Mon-Sun),Very Good,4.1,67
+Jhivras Restaurant,400,"South Indian,North Indian",Kochi,Kakkanad,Casual Dining,7am to 1030pm(Mon-Sun),Good,3.8,75
+Hong Kong Restaurant,500,Chinese,Kochi,Kakkanad,Casual Dining,10am to 11pm(Mon-Sun),Poor,2.4,93
+Kaasa Basi,600,North Indian,Kochi,Panampilly Nagar,Casual Dining,12noon to 11pm(Mon-Sun),Average,2.8,84
+Hotel Mezban,350,"South Indian,Chinese",Kochi,Kalamassery,Quick Bites,7am to 11pm(Mon-Sun),Good,3.5,102
+Timur Kachi Biriyani,300,Biryani,Kochi,Palarivattom,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.5,83
+Ming's Dumpling House,250,"Chinese,Momos",Kochi,Marine Drive,Quick Bites,"1230pm to 9pm(Mon-Sat),Closed(Sun)",Good,3.8,49
+Teamo Club,350,"Cafe,Beverages",Kochi,Panampilly Nagar,Café,11am to 11pm(Mon-Sun),Good,3.8,62
+Cusiny,400,"Cafe,Fast Food,Momos",Kochi,Aluva,Café,12noon to 11pm(Mon-Sun),Good,3.8,78
+Malabar Plaza,500,"Kerala,North Indian,Chinese",Kochi,Kakkanad,Casual Dining,11am to 12midnight(Mon-Sun),Average,2.8,125
+Cafe LatLong,1000,Cafe,Kochi,Edappally,Café,11am to 1130pm(Mon-Sun),Good,3.6,78
+Malaya Restaurant,500,Chinese,Kochi,Kaloor,Casual Dining,11am to 11pm(Mon-Sun),Good,3.7,75
+Njettilla Vattayila,400,"South Indian,Kerala",Kochi,MG Road,Casual Dining,"8am to 8pm(Mon-Sat),Closed(Sun)",Good,3.6,89
+12 to 12 BBQ,500,Indian,Kochi,Panampilly Nagar,Casual Dining,11am to 11pm(Mon-Sun),Good,3.8,46
+NM Idli Kada,100,"South Indian,Juices,Kerala",Kochi,Tripunithura,Quick Bites,7am to 1030pm(Mon-Sun),Good,3.7,62
+Trivandrum Chicken Corner,300,"Kerala,Fast Food",Kochi,Pallimukku,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,68
+Rollz And Grillz,300,"Rolls,Chinese",Kochi,Palarivattom,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,78
+Chick Blast,400,Fast Food,Kochi,Edappally,Quick Bites,1pm to 11pm(Mon-Sun),Average,3.0,79
+Brown's Restaurant,450,"North Indian,Chinese",Kochi,Kacheripady,Quick Bites,11am to 11pm(Mon-Sun),Average,2.8,59
+Trivium Restaurant,800,"North Indian,Continental,Thai,Italian,Chinese,Cafe Food,Seafood,South Indian",Kochi,Marine Drive,Casual Dining,12noon to 11pm(Mon-Sun),Average,3.4,53
+Aswin Restaurant,350,Kerala,Kochi,Kakkanad,Casual Dining,9am to 10pm(Mon-Sun),Good,3.6,52
+Hotel Ceylon,400,"Kerala,North Indian,Chinese,Seafood,Biryani",Kochi,Kakkanad,Casual Dining,12noon to 11pm(Mon-Sun),Average,2.9,85
+Beith Hotel,800,"Kerala,Chinese,Arabian",Kochi,Kalamassery,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,79
+Veettile Oonu,200,South Indian,Kochi,Kakkanad,Quick Bites,10am to 10pm(Mon-Sun),Good,3.6,42
+Hotel Karthika,300,"Kerala,Biryani,Chinese",Kochi,Palarivattom,Casual Dining,7am to 10pm(Mon-Sun),Average,3.4,76
+Amma's Pastries,200,"Bakery,Desserts",Kochi,Kakkanad,Bakery,830am to 10pm(Mon-Sun),Good,3.8,62
+Royal Bakers & Restaurant,450,"Kerala,Chinese,Bakery",Kochi,Tripunithura,Casual Dining,10am to 1030pm(Mon-Sun),Good,3.6,82
+Shantilal S. Mithaiwala,150,Mithai,Kochi,Mattancherry,Sweet Shop,NA,Very Good,4.2,62
+Coffee Cube,400,Cafe,Kochi,Marine Drive,Café,9am to 9pm(Mon-Sun),Good,3.7,59
+Oru Pothichoru,150,Kerala,Kochi,Kakkanad,Quick Bites,"1130am to 930pm(Mon-Sat),Closed(Sun)",Good,3.7,60
+Bharat Coffee House,150,South Indian,Kochi,Marine Drive,Casual Dining,8am to 9pm(Mon-Sun),Good,3.9,65
+Suburban Restaurant,400,"Chinese,North Indian",Kochi,Palarivattom,Casual Dining,12noon to 10pm(Mon-Sun),Good,3.8,84
+Tibet Kitchen,400,"Tibetan,Chinese,Momos",Kochi,Fort Kochi,Quick Bites,8am to 11pm(Mon-Sun),Good,3.7,39
+Chai Nation,150,Cafe,Kochi,Kakkanad,Café,"9am to 11pm(Mon-Fri),Closed(Sat-Sun)",Good,3.9,44
+Aha! Biryani,200,Biryani,Kochi,Pallimukku,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,74
+Hotel Colombo,450,"North Indian,Beverages",Kochi,Marine Drive,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,60
+Foodie Chinese Restaurant,400,"Fast Food,Chinese,Momos",Kochi,Aluva,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,59
+Ambiswamy's,300,"South Indian,Biryani,Fast Food",Kochi,Edappally,Casual Dining,7am to 10pm(Mon-Sun),Good,3.6,64
+KL14 Majilis Bakery & Restaurant,350,"Kerala,Fast Food,Street Food,Bakery",Kochi,Kalamassery,Bakery,11am to 11pm(Mon-Sun),Average,3.3,39
+Iringalakada,100,"South Indian,Fast Food",Kochi,MG Road,Quick Bites,8am to 1030pm(Mon-Sun),Average,2.7,68
+Shap Food Restaurant,400,South Indian,Kochi,Vyttila,Quick Bites,11am to 830pm(Mon-Sun),Good,3.6,54
+Bimbis Fast Food,200,"Street Food,South Indian,North Indian,Desserts,Bakery",Kochi,Pallimukku,Casual Dining,7am to 11pm(Mon-Sun),Average,2.9,77
+Hibas Restaurant,150,"Biryani,Seafood,Chinese",Kochi,Kalamassery,Quick Bites,8am to 11pm(Mon-Sun),Good,3.5,56
+Munthirikothu,300,"North Indian,South Indian",Kochi,Kaloor,Quick Bites,"10am to 9pm(Mon-Sat),3pm to 930pm(Sun)",Good,3.6,42
+Eleven to Eleven Kitchen,300,South Indian,Kochi,Kaloor,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,59
+Hotel Aryaas Park,400,"South Indian,North Indian",Kochi,Panampilly Nagar,Casual Dining,NA,Good,3.8,53
+Smoki Ice The Bubble Tea Shop,250,"Desserts,Ice Cream,Beverages",Kochi,Kakkanad,Dessert Parlor,11am to 11pm(Mon-Sun),Good,3.8,31
+Snoosh Ice Cream Palour,100,Ice Cream,Kochi,Panampilly Nagar,Dessert Parlor,930am to 1030pm(Mon-Sun),Very Good,4.0,70
+Afters Bake House,200,Bakery,Kochi,Vyttila,Bakery,930am to 930pm(Mon-Sun),Good,3.6,28
+The Egg Stop,400,Fast Food,Kochi,Palarivattom,Quick Bites,11am to 11pm(Mon-Sun),Poor,2.3,55
+Palace Food Court,0,"North Indian,Seafood,Kerala,Chinese",Kochi,Nedumbassery,Casual Dining,730am to 11pm(Mon-Sun),Good,3.7,41
+Kappem Puttum,200,"Kerala,South Indian",Kochi,Kadavanthra,Quick Bites,11am to 10pm(Mon-Sun),Good,3.5,33
+Malabar Junction,1000,"Kerala,Italian,Mediterranean",Kochi,The Malabar House-- Fort Kochi,Casual Dining,"12noon to 3pm,7pm to 11pm(Mon-Sun)",Average,3.4,43
+Lettuce,400,Fast Food,Kochi,Aluva,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.6,61
+Cafe Coffee Day,650,"Cafe,Fast Food",Kochi,Fort Kochi,Café,10am to 10pm(Mon-Sun),Good,3.5,35
+Food Daddy,300,"Cafe Food,Burger,Sandwich,Fast Food",Kochi,Kaloor,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.8,37
+Hotel Captain Fisher,600,"Kerala,South Indian,North Indian,Chinese",Kochi,Vyttila,Casual Dining,730am to 11pm(Mon-Sun),Good,3.6,46
+Chinese Garden,800,Chinese,Kochi,Pallimukku,Casual Dining,11am to 11pm(Mon-Sun),Poor,2.2,50
+Kebab Hutz,250,Kebab,Kochi,Kakkanad,none,11am to 11pm(Mon-Sun),Good,3.7,54
+Ithappiris,400,"Cafe,South Indian",Kochi,Kakkanad,Café,11am to 11pm(Mon-Sun),Good,3.6,40
+Coffee Beanz Traditionz,400,"Cafe,Kerala",Kochi,Chittoor Road,Café,12noon to 1030pm(Mon-Sun),Good,3.7,48
+Hotel Jaybees,600,"Kerala,Seafood,North Indian,Chinese",Kochi,Palarivattom,Casual Dining,7am to 11pm(Mon-Sun),Average,3.4,66
+Pallath Restaurant,400,South Indian,Kochi,Kalamassery,Casual Dining,8am to 12midnight(Mon-Sun),Good,3.9,108
+Scoops,250,"Ice Cream,Juices,Desserts,Fast Food",Kochi,Edappally,Dessert Parlor,12noon to 1am(Mon-Sun),Good,3.8,83
+The Southern Kitchen - Dosa Lounge,350,South Indian,Kochi,Kakkanad,Casual Dining,8am to 11pm(Mon-Sun),Average,3.2,61
+Hotel New Metro Palace,700,"North Indian,Kerala,Chinese",Kochi,Marine Drive,Casual Dining,11am to 11pm(Mon-Sun),Good,3.7,48
+Drunken Panda,200,"Beverages,Juices",Kochi,LuLu Mall-- Edappally,Beverage Shop,11am to 10pm(Mon-Sun),Good,3.8,15
+Thara Restaurant,400,South Indian,Kochi,Kacheripady,none,7am to 10pm(Mon-Sun),Good,3.5,67
+Baskin Robbins,300,"Ice Cream,Desserts",Kochi,Elamkulam,Dessert Parlor,11am to 11pm(Mon-Sun),Good,3.9,44
+Naadan Unnum Meen Ruchiyum,450,"Biryani,Seafood,Kerala",Kochi,Chittoor Road,Quick Bites,"8am to 11am,1130am to 4pm(Mon-Sun)",Average,3.4,50
+Enter The Dragon,200,Chinese,Kochi,Kakkanad,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,49
+Punjabi Dhaba,250,North Indian,Kochi,Pallimukku,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,40
+New Persian Durbar,600,"Chinese,South Indian,North Indian",Kochi,Kakkanad,Casual Dining,10am to 12midnight(Mon-Sun),Average,2.6,119
+Zaina Bakes & Food Court,400,"Chinese,Arabian,Indian",Kochi,Aluva,Casual Dining,11am to 8pm(Mon-Sun),Average,3.4,46
+NM Food World,400,"South Indian,Kerala",Kochi,Tripunithura,Quick Bites,11am to 11pm(Mon-Sun),Poor,2.3,60
+Ila Restaurant,300,South Indian,Kochi,Edappally,Quick Bites,12noon to 10pm(Mon-Sun),Average,3.4,18
+Rangoli,400,"Chinese,South Indian,Mangalorean,North Indian",Kochi,Woodlands Hotel-- MG Road,Casual Dining,730am to 10pm(Mon-Sun),Poor,2.4,43
+Hoggers Gourmet Kitchen- The Food Truck,400,"Mexican,Lebanese,Chinese,Wraps,Rolls",Kochi,Kakkanad,Food Truck,6pm to 11pm(Mon-Sun),Good,3.8,50
+Grillz Cafe,250,"North Indian,Arabian,Chinese,Italian,Biryani,BBQ,Mexican",Kochi,Panampilly Nagar,Casual Dining,"11am to 330pm,530pm to 11pm(Mon-Sun)",Average,3.3,12
+Spice Villa,900,"North Indian,South Indian,Chinese,Continental",Kochi,Panampilly Nagar,Fine Dining,11am to 11pm(Mon-Sun),Good,3.7,38
+Snacko,300,Fast Food,Kochi,Kadavanthra,Quick Bites,1130am to 1030pm(Mon-Sun),Very Good,4.0,38
+Malabar Hotel Live Kitchen,400,"Kerala,South Indian,Chinese",Kochi,Kaloor,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,40
+Olive Eva Hotel-Seven Spices Restaurant,500,"Chinese,South Indian,North Indian",Kochi,Kakkanad,Casual Dining,730am to 10pm(Mon-Sun),Average,3.4,28
+K.R. Bakes,550,"South Indian,North Indian,Chinese,Bakery",Kochi,Palarivattom,Quick Bites,"8am to 10pm(Mon,Sun),9am to 10pm(Tue-Sat)",Average,3.2,36
+Hotel Sree Ganapathy,250,"South Indian,North Indian",Kochi,Edappally,Casual Dining,730am to 10pm(Mon-Sun),Average,2.6,41
+Shawarma Street,200,"Lebanese,Rolls",Kochi,Edappally,Quick Bites,3pm to 11pm(Mon-Sun),Good,3.8,50
+Hotel Sree Abhirami,150,South Indian,Kochi,Kaloor,Quick Bites,7am to 10pm(Mon-Sun),Good,3.7,58
+Bayleaf,350,North Indian,Kochi,Kakkanad,Quick Bites,NA,Good,3.5,42
+Imperial Restaurant,300,"Kerala,Chinese",Kochi,Kaloor,Casual Dining,11am to 10pm(Mon-Sun),Average,3.1,9
+Hotel Malabar Biriyani House,250,Biryani,Kochi,Kacheripady,Casual Dining,11am to 10pm(Mon-Sun),Good,3.5,51
+Uncle John Icecreams Delivery,200,"Ice Cream,Desserts",Kochi,Kadavanthra,none,9am to 11pm(Mon-Sun),Good,3.6,44
+Sardarji Ka Dhaba Pure Veg,550,"North Indian,Indian",Kochi,Kacheripady,Quick Bites,"11am to 11pm(Mon-Sat),8am to 11pm(Sun)",Good,3.8,40
+Raintree Restaurant,1000,"North Indian,Chinese",Kochi,Fort Kochi,Casual Dining,7am to 11pm(Mon-Sun),Average,2.7,41
+Hot Breads,300,"Bakery,Fast Food",Kochi,Pallimukku,Quick Bites,11am to 9pm(Mon-Sun),Good,3.7,38
+Kottaram Fast Food & Restaurant,250,"Arabian,North Indian,Chinese",Kochi,Marad,none,8am to 10pm(Mon-Sun),Good,3.9,22
+Aysha Restaurant,300,"Kerala,Chinese",Kochi,Elamakkara,Casual Dining,730am to 1030pm(Mon-Sun),Good,3.7,49
+Febina Family Restaurant,400,"Kerala,South Indian",Kochi,Thopumpady,Casual Dining,930am to 9pm(Mon-Sun),Average,3.4,35
+De Classico Cafe,0,"Cafe,Bakery",Kochi,Kakkanad,Café,9am to 10pm(Mon-Sun),Average,3.1,29
+Teabook Cafe,500,"Tea,Fast Food",Kochi,Kalamassery,Quick Bites,"12midnight to 1230AM,11am to 12midnight...",Good,3.5,105
+Swaadh Multi Cuisine Restaurant,400,"Kerala,Arabian,Biryani",Kochi,Chullickal,Casual Dining,11am to 10pm(Mon-Sun),Good,3.6,29
+Juice Line,150,"Beverages,Juices",Kochi,Pallimukku,Beverage Shop,"1030am to 930pm(Mon-Sat),1030am to 630pm(Sun)",Very Good,4.0,23
+Hotel Sree Ganapathy,250,"Bakery,Beverages",Kochi,Edappally,Bakery,7am to 11pm(Mon-Sun),Average,3.4,33
+Seapark,600,"North Indian,Chinese,Seafood",Kochi,Kalamassery,Quick Bites,1130am to 11pm(Mon-Sun),Average,3.3,52
+Eatino Arabia,300,"Arabian,Indian,Chinese",Kochi,Kalamassery,Quick Bites,10am to 10pm(Mon-Sun),Average,3.4,37
+The CocoCane Juicery,100,"Juices,Beverages",Kochi,Tripunithura,Beverage Shop,11am to 1030pm(Mon-Sun),Good,3.9,35
+Hotel Punjabi Tadka,200,North Indian,Kochi,Ravipuram,Quick Bites,"11am to 3pm,5pm to 1030pm(Mon-Sun)",Good,3.5,38
+Omelette Parakkatte,150,Fast Food,Kochi,Kacheripady,Quick Bites,"1130am to 9pm(Mon-Sat),Closed(Sun)",Average,3.3,31
+Director's Special,500,"South Indian,North Indian,Arabian,Kerala",Kochi,Kadavanthra,Casual Dining,"11am to 11pm(Mon,Tue,Wed,Thu,Fri,Sun),130pm...",Good,3.5,35
+Marhaba Food Court,500,"Kerala,Biryani",Kochi,Kaloor,Casual Dining,730am to 11pm(Mon-Sun),Good,3.8,46
+Hotel Sehiyon Ootushala,200,Kerala,Kochi,Chittoor Road,Casual Dining,"9am to 1030pm(Mon-Fri),Closed(Sat-Sun)",Good,3.8,35
+Thommoos Family Restaurant,500,"Chinese,Seafood",Kochi,Marine Drive,Quick Bites,11am to 11am(Mon-Sun),Good,3.5,44
+Vasantha Vihar Pure Veg Restaurant,200,South Indian,Kochi,MG Road,Casual Dining,630am to 1030pm(Mon-Sun),Good,3.8,43
+Courtyard - The Classik Fort,950,"North Indian,South Indian,Chinese",Kochi,Marad,Casual Dining,7am to 11pm(Mon-Sun),Good,3.9,28
+Sharma Restaurant,250,"South Indian,North Indian",Kochi,Marine Drive,Casual Dining,"9am to 4pm,6pm to 1145pm(Mon-Sun)",Good,3.8,79
+Max Fun Multi Cuisine Restaurant,500,"North Indian,Chinese",Kochi,Tripunithura,Casual Dining,930am to 11pm(Mon-Sun),Average,2.5,43
+Regency,800,"Chinese,Mughlai",Kochi,Abad Plaza-- Kacheripady,Casual Dining,"7am to 10am,12noon to 3pm,7pm to 11pm(Mon-Sun)",Good,3.5,19
+Kadayil Oru Thattukada,400,"South Indian,Arabian,Beverages",Kochi,MG Road,Casual Dining,"10am to 10pm(Mon-Sat),Closed(Sun)",Average,3.2,41
+Kunju's JamRolls,200,Bakery,Kochi,Kakkanad,Bakery,9am to 830pm(Mon-Sun),Good,3.6,28
+Lilliput Multi Cuisine Restaurant,800,"Kerala,South Indian",Kochi,Vypin,Casual Dining,11am to 11pm(Mon-Sun),Good,3.7,22
+Hot Wok,500,"Chinese,South Indian,Kerala",Kochi,Aluva,Casual Dining,830am to 11pm(Mon-Sun),Average,3.3,28
+Raw Squeezed,400,Juices,Kochi,Vyttila,Quick Bites,8am to 8pm(Mon-Sun),Good,3.8,20
+Pizzeria,500,"Pizza,Italian",Kochi,MG Road,Quick Bites,11am to 9pm(Mon-Sun),Average,2.6,35
+Sugar Craft,500,"Bakery,Desserts",Kochi,Tripunithura,Bakery,8am to 9pm(Mon-Sun),Average,3.4,10
+Ze Darbar,350,"Arabian,Kerala,Biryani",Kochi,Kaloor,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,9
+Ice Berg Coffee Lounge,200,"Biryani,South Indian,North Indian,Coffee,Kerala,Arabian",Kochi,Kalamassery,Quick Bites,11am to 10pm(Mon-Sun),Good,3.6,43
+Thalassery Kissa,300,South Indian,Kochi,Vennala,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,34
+Tea O' Clock,500,Cafe,Kochi,Marine Drive,Café,1130am to 10pm(Mon-Sun),Average,3.3,27
+Master Chef,100,"Chinese,Beverages",Kochi,Kadavanthra,Kiosk,12noon to 10pm(Mon-Sun),Good,3.5,39
+Hotel Salkara,400,Kerala,Kochi,Thopumpady,Casual Dining,8am to 11pm(Mon-Sun),İyi,3.5,24
+Coffee Lounge,250,Cafe,Kochi,Centre Square Mall-- Kacheripady,Café,10am to 10pm(Mon-Sun),Average,2.8,23
+Shenoy's Pure Veg,300,South Indian,Kochi,Aluva,Casual Dining,730am to 930pm(Mon-Sun),Good,3.5,36
+Blue Sea Restaurant,500,"South Indian,Arabian,Chinese,North Indian",Kochi,Edappally,Casual Dining,1130am to 1145pm(Mon-Sun),Good,3.8,105
+Papa Milano's,550,"Pizza,Fast Food",Kochi,Oberon Mall-- Edappally,Food Court,10am to 10pm(Mon-Sun),Average,2.9,31
+Sugar Beans,0,"Bakery,Desserts",Kochi,MG Road,Bakery,11am to 11pm(Mon-Sun),Good,3.6,16
+O.JI.KA,300,"Kerala,Chinese",Kochi,Kaloor,Quick Bites,7am to 10pm(Mon-Sun),Good,3.8,44
+Anns Restaurant,200,"Kerala,Chinese,South Indian",Kochi,Edappally,Quick Bites,730am to 10pm(Mon-Sun),Average,3.4,18
+Cane Cabana,200,"Juices,Beverages",Kochi,Edappally,Beverage Shop,11am to 11pm(Mon-Sun),Good,3.7,30
+Adambayil Restaurant,250,"North Indian,Kerala,Chinese",Kochi,Kalamassery,Quick Bites,8am to 11pm(Mon-Sun),Good,3.6,24
+Chaithram Food Court,250,"South Indian,North Indian",Kochi,Kakkanad,Quick Bites,7am to 11pm(Mon-Sun),Average,3.1,17
+Yum BItes,250,Fast Food,Kochi,Tripunithura,Quick Bites,10am to 930pm(Mon-Sun),Average,3.3,13
+Downtown Cafe,800,"Cafe,Italian,Continental,Burger,Desserts,Beverages",Kochi,Panampilly Nagar,Café,"11am to 11pm(Mon-Thu),11am to 12midnight(Fri-Sun)",Very Good,4.1,30
+Pavillion- Hotel Abad,800,"Chinese,North Indian,Continental,Fast Food",Kochi,Hotel Abad-- Mattancherry,Casual Dining,"12noon to 3pm,7pm to 11pm(Mon-Sun)",Good,3.8,28
+Freeze Inn,200,"Desserts,Beverages",Kochi,Edappally,Dessert Parlor,10am to 11pm(Mon-Sun),Good,3.6,20
+Hotel Saffron,400,South Indian,Kochi,Ravipuram,Casual Dining,7am to 10pm(Mon-Sun),Average,3.4,32
+The Food Company Naalukettu Reastaurant,650,"Kerala,North Indian",Kochi,Vyttila,Casual Dining,7am to 10pm(Mon-Sun),Average,3.4,39
+Dosa World,400,South Indian,Kochi,Kacheripady,Casual Dining,8am to 11pm(Mon-Sun),Good,3.8,23
+Incredible Art - Artisan Cake Boutique,500,"Bakery,Desserts",Kochi,Kaloor,Bakery,11am to 7pm(Mon-Sun),Good,3.6,19
+Hotel Arafa,200,Kerala,Kochi,Chullickal,Quick Bites,6am to 11pm(Mon-Sun),Good,3.8,29
+Evolution Restaurant,400,North Indian,Kochi,Kakkanad,Quick Bites,11am to 10pm(Mon-Sun),Good,3.5,15
+Pick AND Mix Ice Creams,150,Ice Cream,Kochi,Kaloor,Dessert Parlor,11am to 11pm(Mon-Sun),Good,3.9,25
+Kithakkery Biriyanipura,300,"Biryani,North Indian,South Indian",Kochi,Kaloor,Casual Dining,1130am to 830pm(Mon-Sun),Average,3.0,34
+The Juice Shop,300,"Juices,Beverages,South Indian",Kochi,Kalamassery,Beverage Shop,"1130am to 945pm(Mon-Sat),Closed(Sun)",Good,3.5,24
+Green Chillies Food Park,250,"South Indian,North Indian,Chinese",Kochi,Tripunithura,Quick Bites,8am to 11pm(Mon-Sun),Good,3.8,14
+Ambiswamy's,300,South Indian,Kochi,Kaloor,Quick Bites,7am to 10pm(Mon-Sun),Average,3.4,31
+Kai-Shek,450,"Chinese,Continental",Kochi,Kacheripady,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,37
+Charminar Restaurant,250,Hyderabadi,Kochi,Cheranalloor,Casual Dining,11am to 11pm(Mon-Sun),Good,3.7,23
+Krispy Chic'n,500,Fast Food,Kochi,Oberon Mall-- Edappally,Food Court,10am to 10pm(Mon-Sun),Poor,2.4,32
+Touchings,200,Kerala,Kochi,Kaloor,Quick Bites,10am to 11pm(Mon-Sun),Good,3.5,16
+Shifu's Kitchen,200,Chinese,Kochi,Palarivattom,Quick Bites,3pm to 10pm(Mon-Sun),Good,3.9,23
+Ummi's Kitchen,350,Kerala,Kochi,Chittoor Road,Casual Dining,8am to 1230AM(Mon-Sun),Average,3.4,86
+Melto Creamery,150,"Desserts,Beverages,Ice Cream",Kochi,Kakkanad,Dessert Parlor,NA,Good,3.7,19
+Marrybrown Express,350,Fast Food,Kochi,Abad Nucleus Mall-- Marad,Quick Bites,11am to 10pm(Mon-Sun),Average,2.6,27
+Udipi Anantha Bhavan,250,"North Indian,South Indian",Kochi,MG Road,Quick Bites,630am to 1030pm(Mon-Sun),Good,3.5,28
+Hotel Anandaas,300,"South Indian,Chinese,North Indian",Kochi,Kaloor,Casual Dining,630am to 1015pm(Mon-Sun),Average,3.4,31
+SHAAN E PUNJAB,300,North Indian,Kochi,Kalamassery,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,22
+Arabian Food Court,400,"Arabian,Lebanese",Kochi,Kacheripady,Quick Bites,11am to 11pm(Mon-Sun),Average,2.9,20
+Aavi,400,Kerala,Kochi,Palarivattom,Quick Bites,11am to 3pm(Mon-Sun),Good,3.5,15
+Khaleefa Restaurant,200,"Biryani,Kerala,Chinese",Kochi,Chittoor Road,Quick Bites,11am to 1030pm(Mon-Sun),Average,2.6,29
+Meenus Family Restaurant,450,"Kerala,South Indian,Chinese,Continental",Kochi,Kaloor,Casual Dining,7am to 1030pm(Mon-Sun),Average,3.4,33
+Orotti,400,"South Indian,North Indian,Chinese",Kochi,Vyttila,Casual Dining,11am to 11pm(Mon-Sun),Average,3.1,21
+Pizza Xpress,400,"Pizza,Fast Food",Kochi,Abad Nucleus Mall-- Marad,Casual Dining,11am to 11pm(Mon-Sun),Average,2.8,31
+Keerikadans Restaurant,500,"Fast Food,Kerala,Seafood",Kochi,Panampilly Nagar,Quick Bites,8am to 3pm(Mon-Sun),Good,3.6,21
+Falafil Dubai,200,Indian,Kochi,Edappally,Quick Bites,6pm to 11pm(Mon-Sun),Good,3.5,36
+Jaya Bakery,150,"Bakery,Juices,Ice Cream,Desserts",Kochi,Palarivattom,Dessert Parlor,8am to 10pm(Mon-Sun),Good,3.7,30
+JJ's Restaurant,450,"South Indian,Chinese,North Indian,Seafood",Kochi,Kadavanthra,Casual Dining,8am to 1030pm(Mon-Sun),Good,3.5,37
+Arabian Treat,400,Arabian,Kochi,Oberon Mall-- Edappally,Food Court,11am to 10pm(Mon-Sun),Average,3.3,27
+Cafe Al Arab,400,Arabian,Kochi,Thopumpady,Quick Bites,4pm to 11pm(Mon-Sun),Good,3.5,17
+Temptations,300,"Bakery,Desserts,Fast Food",Kochi,Fort Kochi,Dessert Parlor,"9am to 9pm(Mon-Sat),9am to 1pm(Sun)",Good,3.6,17
+Diet Eat,250,"Healthy Food,Beverages,North Indian,Salad",Kochi,Kakkanad,Quick Bites,"8am to 10pm(Mon-Sat),Closed(Sun)",Good,3.7,20
+The Ice Cream Factory,200,Ice Cream,Kochi,Kakkanad,Dessert Parlor,11am to 11pm(Mon-Sun),Average,3.3,19
+Hotel Sree Abhirami,150,"South Indian,North Indian,Kerala",Kochi,Palarivattom,Casual Dining,7am to 1030pm(Mon-Sun),Average,2.7,26
+Dhe Chef,200,"North Indian,South Indian,Chinese",Kochi,Angamali,Casual Dining,6am to 11pm(Mon-Sun),Good,3.6,22
+Appavum Chickenum Oru Naadan Ruchikkoottu (App Chick...,400,Fast Food,Kochi,Edappally,Casual Dining,7am to 11pm(Mon-Sun),Average,3.4,23
+Hotel Sree Abhirami,400,South Indian,Kochi,Edappally,Casual Dining,7am to 11pm(Mon-Sun),Good,3.5,29
+The Grand Hotel,600,"North Indian,Chinese,Kerala,Biryani",Kochi,Aluva,Casual Dining,7am to 8pm(Mon-Sun),Good,3.6,17
+Zesti Arabia,400,South Indian,Kochi,Thopumpady,Casual Dining,1030am to 11pm(Mon-Sun),Good,3.6,18
+Momo Point,200,Chinese,Kochi,Kakkanad,Quick Bites,10am to 11pm(Mon-Sun),Average,3.1,22
+B for Biryani,300,"Biryani,South Indian",Kochi,Mattancherry,Casual Dining,11am to 330pm(Mon-Sun),Good,3.8,27
+Kuttanadan by TSK,300,South Indian,Kochi,Kakkanad,Food Court,8am to 11pm(Mon-Sun),Average,3.2,27
+Thavi,200,"South Indian,Kerala",Kochi,Kaloor,Quick Bites,11am to 10pm(Mon-Sun),Good,3.6,23
+UBQ by Barbeque Nation,450,"North Indian,BBQ,Kebab,Biryani",Kochi,Kacheripady,none,"12noon to 330pm,7pm to 1030pm(Mon-Sun)",Average,3.4,10
+Usman's Hotel,200,"Kerala,Indian",Kochi,Kalamassery,Quick Bites,10am to 11pm(Mon-Sun),Good,3.5,22
+Kahawa,400,"Cafe,Italian,American,Fast Food",Kochi,Ravipuram,Café,24,Good,3.8,355
+Dubai Restaurant,600,"Arabian,South Indian,Chinese",Kochi,Edappally,Casual Dining,"12noon to 1am(Mon,Tue,Wed,Thu,Sat,Sun)...",Average,2.7,368
+The Chocolate Room,500,"Cafe,Desserts",Kochi,Panampilly Nagar,Café,"10am to 11pm(Mon-Thu),10am to 1155pm(Fri-Sun)",Very Good,4.1,133
+Haji Ali,300,"Juices,Ice Cream,Fast Food,Desserts",Kochi,Edappally,Beverage Shop,11am to 1am(Mon-Sun),Very Good,4.0,276
+Marrakesh,700,"North Indian,Lebanese",Kochi,Kakkanad,Casual Dining,1130am to 12midnight(Mon-Sun),Good,3.7,418
+Tandoor,650,"North Indian,Chinese",Kochi,Pallimukku,Casual Dining,12noon to 1130pm(Mon-Sun),Very Good,4.0,301
+Mallus Dhaba,400,"North Indian,Fast Food",Kochi,Edappally,Quick Bites,12noon to 1230AM(Mon-Sun),Very Good,4.1,274
+District 7 Restro Cafe,450,Continental,Kochi,Vyttila,Casual Dining,"12midnight to 3am,12noon to 12midnight(Mon-Sun)",Very Good,4.2,208
+Biriyani Chembu,300,"Biryani,Arabian",Kochi,Kalamassery,Casual Dining,11am to 1am(Mon-Sun),Very Good,4.1,213
+Hoja Mukku,250,"Arabian,Fast Food",Kochi,Kakkanad,Quick Bites,12noon to 1am(Mon-Sun),Average,3.0,411
+Awaany Bakers,300,"South Indian,Chinese,Bakery,Seafood,Arabian,North Indian,BBQ",Kochi,Kakkanad,Casual Dining,1130am to 1145pm(Mon-Sun),Good,3.6,207
+Monqo,700,"Beverages,Fast Food",Kochi,Edappally,Quick Bites,11am to 230am(Mon-Sun),Good,3.8,225
+Naturals,150,"Ice Cream,Desserts",Kochi,Pallimukku,Dessert Parlor,11am to 12midnight(Mon-Sun),Excellent,4.7,205
+Arabian Fiesta,300,"Arabian,Indian",Kochi,Elamkulam,Casual Dining,12noon to 1145pm(Mon-Sun),Average,3.4,324
+Ashok Bhavan,200,"South Indian,Fast Food",Kochi,Kacheripady,Quick Bites,630am to 1030pm(Mon-Sun),Average,2.7,21
+Aladdin's,250,"Arabian,Chinese,Fast Food",Kochi,Kadavanthra,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,12
+Sri Krishna Sweets,100,Mithai,Kochi,Vyttila,Sweet Shop,830am to 830pm(Mon-Sun),Good,3.6,19
+Chariot Beach Restaurant,500,"South Indian,North Indian,Chinese,Seafood",Kochi,Fort Kochi,Quick Bites,8am to 11pm(Mon-Sun),Average,2.7,20
+Timur Kachi Biriyani,300,Biryani,Kochi,Edappally,Quick Bites,12noon to 11pm(Mon-Sun),Average,2.8,24
+Nova Cuisine by Bread World,500,"Biryani,South Indian,North Indian,Kerala",Kochi,Elamkulam,Casual Dining,9am to 9pm(Mon-Sun),Good,3.7,19
+Al-Saj Restaurant,300,"Arabian,Chinese",Kochi,Aluva,Quick Bites,7am to 10pm(Mon-Sun),Average,2.9,29
+Goli Vada Pav No. 1,150,Street Food,Kochi,Elamkulam,Quick Bites,11am to 10pm(Mon-Sun),Average,3.3,22
+The Royal Gourmet,900,"Continental,Chinese,South Indian,North Indian",Kochi,Cochin Palace-- Kadavanthra,Casual Dining,7am to 1030pm(Mon-Sun),Average,3.4,5
+Salt N Pepper,700,"Kerala,French,European,Seafood",Kochi,Fort Kochi,Casual Dining,10am to 11pm(Mon-Sun),Good,3.5,16
+Aussies Cafe,300,Cafe,Kochi,Vyttila,Café,10am to 10pm(Mon-Sun),Average,2.8,9
+Yellow Chips,150,Kerala,Kochi,Elamakkara,none,930am to 9pm(Mon-Sun),Good,3.5,22
+Kulukis,250,Beverages,Kochi,Kakkanad,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,10
+Royal Food Park,350,"Kerala,Chinese,North Indian",Kochi,Marad,Casual Dining,930am to 10pm(Mon-Sun),Average,3.4,28
+Breeze Hotel,400,Kerala,Kochi,MG Road,Casual Dining,10am to 11pm(Mon-Sun),Average,2.7,23
+Ifthar,400,Kerala,Kochi,Thopumpady,Casual Dining,8am to 1130pm(Mon-Sun),Good,3.7,91
+Thalassery Restaurant,300,"South Indian,Kerala",Kochi,Kaloor,Casual Dining,11am to 11pm(Mon-Sun),Average,2.7,23
+Avocado Organic Juice & Ice Creams,150,"Beverages,Juices,Desserts",Kochi,Edappally,Beverage Shop,9am to 10pm(Mon-Sun),Average,3.4,7
+Cheenavala,600,"North Indian,Chinese,Continental",Kochi,Yuvarani Residency-- Jose Junction,Casual Dining,"7am to 1030am,12noon to 3pm,7pm to 11pm(Mon-Sun)",Average,2.7,23
+De Paris,300,"North Indian,Arabian,Chinese",Kochi,Chullickal,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.1,15
+Bake tree,150,"Bakery,Tea",Kochi,Vyttila,Bakery,NA,Average,3.1,16
+Kettuvallam Seafood Restaurant,300,"South Indian,Kerala",Kochi,Vyttila,Casual Dining,8am to 10pm(Mon-Sun),Average,3.3,16
+Bakery B by Best Bakers,200,Bakery,Kochi,Aluva,Bakery,9am to 930pm(Mon-Sun),Good,3.5,15
+Cafe Watheen,700,"Cafe,European,Continental,Beverages",Kochi,Kaloor,Café,11am to 11pm(Mon-Sun),Average,3.4,12
+Al - Jafna,200,South Indian,Kochi,Chittoor Road,Casual Dining,8am to 1015pm(Mon-Sun),Good,3.5,20
+Cinema Cafe,250,"Kerala,South Indian,Biryani",Kochi,Kacheripady,Casual Dining,"730am to 830pm(Mon-Sat),Closed(Sun)",Average,3.3,23
+Kitchen Zaika,300,"Kerala,Chinese,Indian",Kochi,Panampilly Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,16
+Noodle King,450,Chinese,Kochi,Oberon Mall-- Edappally,Quick Bites,1130am to 10pm(Mon-Sun),Poor,2.4,21
+Cassia,300,Fast Food,Kochi,Thopumpady,Quick Bites,2pm to 11pm(Mon-Sun),Average,3.4,6
+Marina The Sea Face Restaurant,500,"Kerala,Chinese,Seafood",Kochi,Fort Kochi,Casual Dining,9am to 9pm(Mon-Sun),Average,3.3,13
+The Heavenly Burger Blends,200,"Burger,Fast Food",Kochi,Thevera,Quick Bites,10am to 10pm(Mon-Sun),Good,3.5,27
+Khalliwalli,600,"North Indian,Biryani,Arabian,South Indian",Kochi,Panampilly Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,20
+Beurre De Vanille Bakery,300,"Bakery,Desserts",Kochi,Tripunithura,Bakery,10am to 11pm(Mon-Sun),Good,3.6,15
+1 'O' Clock Homely Food,150,South Indian,Kochi,Edappally,none,1030am to 3pm(Mon-Sun),Average,3.4,23
+Rolls Mania,300,"Rolls,Fast Food",Kochi,Kaloor,Quick Bites,"1pm to 12midnight(Mon,Tue,Wed,Thu,Sat,Sun)...",Good,3.7,18
+Jass' Foods,300,North Indian,Kochi,Tripunithura,Quick Bites,8am to 10pm(Mon-Sun),Average,2.6,19
+Paputtys Valsa Cafe,350,Cafe,Kochi,Kacheripady,Café,830am to 1030pm(Mon-Sun),Good,3.5,25
+Sandwich Walas,400,"Fast Food,Sandwich",Kochi,Kakkanad,Quick Bites,11am to 11pm(Mon-Sun),Average,2.9,14
+Chimney,400,"Kerala,Chinese,Beverages",Kochi,Edappally,Casual Dining,11am to 10pm(Mon-Sun),Average,2.5,20
+Thaal Restaurant,250,"South Indian,Biryani",Kochi,Edappally,Casual Dining,11am to 10pm(Mon-Sun),Average,3.4,18
+Laziz Pizza,300,Pizza,Kochi,Tripunithura,Quick Bites,11am to 10pm(Mon-Sun),Average,3.4,14
+Hotel New Aryas,150,"South Indian,North Indian",Kochi,Kakkanad,Quick Bites,630am to 930pm(Mon-Sun),Average,2.8,16
+Swad,250,"North Indian,South Indian",Kochi,Kacheripady,Quick Bites,1230pm to 2am(Mon-Sun),Good,3.6,68
+Hotel Anandhaas - Kalamassery,400,South Indian,Kochi,Kalamassery,Casual Dining,7am to 1030pm(Mon-Sun),Average,3.3,19
+China Town,550,Chinese,Kochi,Abad Nucleus Mall-- Marad,Casual Dining,11am to 10pm(Mon-Sun),Average,3.4,14
+Five Star Chicken,300,Fast Food,Kochi,Kaloor,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,17
+Lunchbox,200,"Kerala,South Indian",Kochi,Edappally,Casual Dining,11am to 10pm(Mon-Sun),Average,3.3,18
+Arabian Delicacy,300,Arabian,Kochi,Kadavanthra,Casual Dining,12noon to 12midnight(Mon-Sun),Average,3.1,14
+Cabana Grill and Cafe,250,Arabian,Kochi,Angamali,Quick Bites,12noon to 10pm(Mon-Sun),Average,3.1,6
+Secret Sauce,400,Continental,Kochi,Thevera,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,9
+Oasis Burger Point,450,"Fast Food,Ice Cream,Juices",Kochi,Kakkanad,Quick Bites,10am to 10pm(Mon-Sun),Average,3.4,14
+Treat,500,Cafe,Kochi,Travancore Court by Spree-- Pallimukku,Café,930am to 1030pm(Mon-Sun),Average,3.4,20
+Hotel Saraswathy Bhavan,250,"Biryani,Fast Food",Kochi,Marine Drive,Quick Bites,730am to 10pm(Mon-Sun),Average,3.3,17
+Shawarma Hut,300,Arabian,Kochi,Elamkulam,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,19
+Hotel Arafa - Mattancherry,200,Arabian,Kochi,Mattancherry,Casual Dining,11am to 10pm(Mon-Sun),Good,3.5,13
+Lakshmi Nivas Udupi Vegetarian Hotel,300,South Indian,Kochi,Tripunithura,Casual Dining,630am to 930pm(Mon-Sun),Average,2.9,14
+Hotel Rifaeyya,250,"Kerala,Seafood,North Indian",Kochi,Kalamassery,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,9
+Cream & Fudge,200,"Desserts,Ice Cream",Kochi,Kakkanad,none,11am to 11pm(Mon-Sun),Average,2.9,8
+Tasty Dum Biryani,250,Biryani,Kochi,Kakkanad,Quick Bites,12noon to 11pm(Mon-Sun),Average,2.9,9
+Chak De,400,"North Indian,Fast Food",Kochi,MG Road,Casual Dining,11am to 10pm(Mon-Sun),Average,3.0,16
+Veg Bhavan,200,South Indian,Kochi,Pallimukku,Quick Bites,7am to 1030pm(Mon-Sun),Average,3.4,12
+Cakes N Flakes,300,Desserts,Kochi,Kadavanthra,Dessert Parlor,"10am to 10pm(Mon-Sat),Closed(Sun)",Average,3.1,12
+Lagoona by The Dunes Cochin,1100,"Kerala,North Indian,Chinese,Seafood,Continental",Kochi,MG Road,Casual Dining,NA,Average,2.8,15
+Potpourri,400,"Kerala,South Indian,Fast Food,Street Food",Kochi,Abad Nucleus Mall-- Marad,Food Court,10am to 1030pm(Mon-Sun),Average,2.9,12
+Shere Punjab By Punjabi Tadka,250,"Mughlai,North Indian",Kochi,Thevera,Quick Bites,"1130am to 3pm,5pm to 1030pm(Mon-Sun)",Good,3.5,19
+The Chatpata Affair,300,Street Food,Kochi,Kakkanad,none,10am to 10pm(Mon-Sun),Average,3.4,8
+Planet Popcorn,200,Fast Food,Kochi,LuLu Mall-- Edappally,Kiosk,10am to 11pm(Mon-Sun),Good,3.6,21
+Kamath's  Inn,200,South Indian,Kochi,Aluva,Casual Dining,730am to 730pm(Mon-Sun),Average,3.1,12
+Khul Ja Sim Sim,300,"North Indian,Fast Food",Kochi,Kacheripady,Quick Bites,730am to 11pm(Mon-Sun),Good,3.5,16
+Cilantro - Sugar Business Hotel,800,"North Indian,Chinese,Continental,South Indian",Kochi,Marad,Casual Dining,7am to 10pm(Mon-Sun),Good,3.5,11
+Fulfill Cafe,150,"Beverages,Ice Cream",Kochi,MG Road,Beverage Shop,930am to 11pm(Mon-Sun),Average,3.4,16
+Hotel Anandas,200,"Kerala,South Indian",Kochi,Edappally,Quick Bites,530pm to 1030pm(Mon-Sun),Good,3.6,7
+Chillies,400,Andhra,Kochi,Pallimukku,Quick Bites,"1130am to 330pm,7pm to 1130pm(Mon-Sun)",Good,3.9,90
+Burger Hutz,300,Burger,Kochi,Chittoor Road,Quick Bites,10am to 11pm(Mon-Sun),Average,3.2,15
+Arafa Malabar Hotel,200,North Indian,Kochi,Kalamassery,Quick Bites,1pm to 10pm(Mon-Sun),Average,3.3,12
+Seafood Harbour,800,"South Indian,North Indian,Seafood",Kochi,Fort Kochi,Casual Dining,930am to 930pm(Mon-Sun),Average,3.1,7
+Zaika Restaurant,500,"South Indian,North Indian",Kochi,Marine Drive,Casual Dining,10am to 10pm(Mon-Sun),Average,2.9,13
+Krishna Kripa Seafood Restaurant,800,"Kerala,Chinese,Seafood",Kochi,Fort Kochi,Casual Dining,730am to 11pm(Mon-Sun),Average,2.6,13
+Hotel Your Choice,350,"Kerala,North Indian,Chinese",Kochi,Palarivattom,Casual Dining,"730am to 930pm(Mon-Sat),Closed(Sun)",Average,2.9,14
+Almas Homemades,500,"Biryani,Fast Food,Bakery",Kochi,Vennala,Quick Bites,10am to 1030pm(Mon-Sun),Average,3.2,7
+Eatery! Your Second Home,400,"Kerala,South Indian",Kochi,Kacheripady,Quick Bites,"7am to 7pm(Mon-Sat),Closed(Sun)",Average,3.2,11
+Super Bakers,150,Bakery,Kochi,Kaloor,Dessert Parlor,8am to 10pm(Mon-Sun),Average,3.3,8
+Manjali Biriyani,400,Biryani,Kochi,Palarivattom,Quick Bites,11am to 11pm(Mon-Sun),Average,2.9,9
+Kofta Cafe,250,"North Indian,Arabian,Beverages",Kochi,Kakkanad,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,15
+Alba Restaurant,400,"North Indian,South Indian",Kochi,Vennala,Casual Dining,8am to 8pm(Mon-Sun),Average,3.0,10
+Nooriya Hotel,300,"Biryani,Kerala",Kochi,Mattancherry,Quick Bites,1230pm to 3pm(Mon-Sun),Good,3.5,11
+Rolls N Fries,200,"Rolls,Fast Food",Kochi,Chullickal,Quick Bites,5pm to 11pm(Mon-Sun),Good,3.5,8
+Rich D Bakers,200,Bakery,Kochi,Fort Kochi,Bakery,7am to 11pm(Mon-Sun),Average,3.0,11
+Filter Cup,200,"Cafe,Burger,Juices,Sandwich",Kochi,Vennala,Café,8am to 1130pm(Mon-Sun),Good,3.5,54
+Santha's Mess,400,Kerala,Kochi,Kaloor,Quick Bites,12noon to 330pm(Mon-Sun),Average,3.3,10
+Hotel Hill View,500,"North Indian,South Indian,Continental",Kochi,Kakkanad,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,10
+Afters Bake House,200,"Bakery,Mithai,Desserts,Fast Food",Kochi,Palarivattom,Bakery,930am to 930pm(Mon-Sun),Average,3.3,11
+AL-Rayan,250,Biryani,Kochi,Angamali,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,5
+Jade - Lotus 8 Hotel,500,"Kerala,North Indian,Continental,Chinese",Kochi,Nedumbassery,Casual Dining,"7am to 1030am,12noon to 3pm,7pm to 1030pm...",Average,3.4,10
+Chick 'N' Serve,250,"Continental,North Indian,Mughlai,Kerala",Kochi,Kaloor,Quick Bites,(Mon-Sun),Average,2.9,13
+Indian Coffee House Kakkanad,300,"South Indian,Coffee",Kochi,Kakkanad,Quick Bites,(Mon-Sun),Average,3.1,11
+Chillout,150,"Juices,Beverages,Ice Cream,Desserts",Kochi,Marine Drive,Beverage Shop,10am to 8pm(Mon-Sun),Average,3.2,4
+Kerala Cafe,500,"Kerala,Seafood",Kochi,Fort Kochi,Quick Bites,930am to 11pm(Mon-Sun),Average,2.7,10
+Exotica,400,"North Indian,Chinese,Continental",Kochi,Pallimukku,Quick Bites,"630am to 1030am,1215pm to 1pm,7pm to 11pm...",Average,3.0,6
+Juice Time,200,Juices,Kochi,Palarivattom,Beverage Shop,11am to 11pm(Mon-Sun),Average,3.0,4
+Hotel Sana,400,"South Indian,Chinese",Kochi,Kakkanad,Quick Bites,9am to 11pm(Mon-Sun),Average,3.2,8
+Sarada Green Food,250,North Indian,Kochi,Vyttila,Quick Bites,10am to 6pm(Mon-Sun),Average,3.3,5
+Febina,350,"Kerala,Chinese",Kochi,Fort Kochi,Casual Dining,830am to 1030pm(Mon-Sun),Average,3.0,8
+ibaco,300,"Ice Cream,Desserts",Kochi,LuLu Mall-- Edappally,Dessert Parlor,11am to 11pm(Mon-Sun),Good,3.6,10
+Kamalia Foodies,300,"Kerala,North Indian,Chinese,Seafood",Kochi,Aluva,Casual Dining,11am to 11pm(Mon-Sun),Average,2.8,12
+Vaishali Dhaba,150,"North Indian,Chinese",Kochi,Thevera,Quick Bites,7am to 1030pm(Mon-Sun),Average,2.9,15
+Hotel Anandhaas - Edappally,250,South Indian,Kochi,Edappally,Casual Dining,7am to 8pm(Mon-Sun),Average,3.3,7
+Royal Malabar,400,"Kerala,South Indian",Kochi,Thopumpady,Casual Dining,11am to 11pm(Mon-Sun),Average,3.0,9
+Amul Ice Cream Parlour,200,"Ice Cream,Desserts",Kochi,Kacheripady,Dessert Parlor,"11am to 11pm(Mon),11am to 10pm(Tue-Sun)",Average,2.9,10
+China Green By Freeze Inn,250,Chinese,Kochi,Edappally,Quick Bites,12noon to 10pm(Mon-Sun),Average,3.4,13
+Kebabs & Curries,500,Mughlai,Kochi,Abad Nucleus Mall-- Marad,Quick Bites,11am to 10pm(Mon-Sun),Average,3.3,10
+K.R. Restaurant & Bakes,200,"Bakery,Arabian,Biryani",Kochi,Palarivattom,Quick Bites,9am to 9pm(Mon-Sun),Average,3.1,15
+Bloomsberry by The Blooms,700,"North Indian,South Indian,Chinese",Kochi,Kakkanad,Casual Dining,11am to 10pm(Mon-Sun),Average,3.2,12
+Rice n Grillz,250,"Arabian,Burger",Kochi,Elamkulam,Quick Bites,3pm to 10pm(Mon-Sun),Good,3.5,14
+Awaany Bakes,400,"South Indian,Chinese",Kochi,Aluva,Quick Bites,10am to 11pm(Mon-Sun),Average,2.9,13
+Diana Heights Multicuisine Restaurant,900,"Kerala,Continental,Chinese,North Indian,South Indian",Kochi,Nedumbassery,Casual Dining,"730am to 1030am,12noon to 330pm,7pm to 8pm...",Good,3.5,12
+Hotel Emirates,250,"South Indian,Kerala",Kochi,Nedumbassery,Quick Bites,"11am to 11pm(Mon-Sat),6am to 230pm(Sun)",Average,3.2,4
+Hotel Aryaas Pure Vegetarian Restaurant,200,"North Indian,South Indian",Kochi,Edappally,Quick Bites,830am to 9pm(Mon-Sun),Average,3.1,8
+Puttu Kada,200,Kerala,Kochi,Thevera,Quick Bites,8am to 11pm(Mon-Sun),Average,3.1,8
+Gokul Tiffin Junction,200,"Kerala,South Indian",Kochi,Tripunithura,Quick Bites,11am to 10pm(Mon-Sun),Average,3.4,9
+Sweethsmith,300,Desserts,Kochi,Elamakkara,Quick Bites,8am to 9pm(Mon-Sun),Average,3.4,15
+Cochin Restaurant,500,"Kerala,Chinese,Indian",Kochi,MG Road,Casual Dining,11am to 11pm(Mon-Sun),Average,2.8,9
+Lantern,300,"Kerala,Seafood",Kochi,Fort Kochi,Quick Bites,"1030am to 1030pm(Mon-Sat),4pm to 1030pm(Sun)",Average,3.2,5
+Drink N Momo,300,Chinese,Kochi,Tripunithura,Quick Bites,11am to 10pm(Mon-Sun),Average,2.7,6
+Flip Out,200,"Beverages,Desserts",Kochi,Kalamassery,Beverage Shop,10am to 10pm(Mon-Sun),Average,2.9,7
+The Country Cafe,500,Cafe,Kochi,Kaloor,Café,9am to 11pm(Mon-Sun),Average,3.4,12
+Nana's Restaurant,350,"Kerala,North Indian,Chinese",Kochi,Kaloor,Casual Dining,10am to 11pm(Mon-Sun),Average,3.0,10
+Mesra Cafe by The Dunes Continental,400,"North Indian,South Indian,Chinese",Kochi,Kaloor,Casual Dining,730am to 1030pm(Mon-Sun),Average,3.1,9
+Elaf Snack Kitchen,300,"Fast Food,Rolls,Lebanese",Kochi,Aluva,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,9
+FoodFusion by Nila,600,"North Indian,Chinese",Kochi,Palarivattom,Casual Dining,"730am to 1030am,730pm to 1030pm(Mon-Sun)",Average,2.9,10
+Pappan's Kitchen,400,Kerala,Kochi,Kaloor,Casual Dining,1230pm to 11pm(Mon-Sun),Average,3.1,10
+Hotel Regal,300,Kerala,Kochi,Chullickal,Casual Dining,7am to 1030pm(Mon-Sun),Average,3.1,8
+Sanjoe Restaurant And Cake Shop,500,"Chettinad,Chinese,Kerala,North Indian",Kochi,Kacheripady,Casual Dining,10am to 10pm(Mon-Sun),Average,3.4,10
+Dakshbhojan,200,"North Indian,Maharashtrian",Kochi,Vennala,Quick Bites,1130am to 430pm(Mon-Sun),Average,3.0,7
+Alif Bakers,250,"Bakery,Fast Food",Kochi,Edappally,Bakery,10am to 10pm(Mon-Sun),Good,3.5,9
+Noodles Corner,300,Fast Food,Kochi,Kadavanthra,Quick Bites,10am to 10pm(Mon-Sun),Average,3.2,10
+Kettuvallam,500,"Kerala,Arabian,Seafood",Kochi,Kakkanad,Casual Dining,7am to 1130pm(Mon-Sun),Average,3.0,275
+Tamr Cafe,200,"Kerala,Beverages",Kochi,MG Road,Quick Bites,12noon to 12midnight(Mon-Sun),Good,3.8,204
+Info Thattu,500,"North Indian,Chinese,South Indian",Kochi,Kakkanad,Quick Bites,8am to 1130pm(Mon-Sun),Good,3.6,225
+Royal Bakery and Food Court,200,"Kerala,Chettinad,Chinese,Arabian,South Indian,North Indian",Kochi,Kakkanad,Quick Bites,11am to 12midnight(Mon-Sun),Good,3.7,228
+Bikash Babu Sweets,250,"Mithai,Fast Food",Kochi,Kaloor,Sweet Shop,"830am to 1030pm(Mon-Sat),10am to 10pm(Sun)",Excellent,4.5,231
+Hotel New Metro Palace,450,"Kerala,Chinese",Kochi,Kakkanad,Quick Bites,12noon to 1130pm(Mon-Sun),Good,3.6,188
+Arabian Palace,0,Arabian,Kochi,Edappally,Casual Dining,12noon to 12midnight(Mon-Sun),Very Good,4.2,221
+Kothambari By Thakkaram,500,"South Indian,Kerala",Kochi,Palarivattom,Casual Dining,1130am to 1130pm(Mon-Sun),Good,3.9,169
+Sheba Kuzhimandhi,400,Arabian,Kochi,Kakkanad,Quick Bites,"1230pm to 10pm(Mon,Tue,Wed,Thu,Sat,Sun)...",Very Good,4.2,520
+KFC,500,"Burger,Fast Food",Kochi,Kakkanad,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,508
+Paragon,900,"Kerala,South Indian,Continental,North Indian,Seafood,Chinese",Kochi,LuLu Mall-- Edappally,Food Court,"11am to 11pm(Mon-Sat),9am to 11pm(Sun)",Excellent,4.5,1476
+Nasi And Mee,1000,"Malaysian,Thai,Singaporean,Asian,Chinese",Kochi,MG Road,Casual Dining,"12noon to 330pm,7pm to 11pm(Mon-Thu),12noon to ...",Excellent,4.8,236
+Ceylon Bake House,500,"Kerala,South Indian,North Indian,Chinese",Kochi,Kakkanad,Casual Dining,9am to 12midnight(Mon-Sun),Good,3.6,259
+Westleys Restocafe (Formerly Burgeria),500,"Fast Food,Ice Cream",Kochi,Palarivattom,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.1,262
+Ikka's Restaurant,600,"Kerala,Arabian",Kochi,MG Road,Casual Dining,11am to 12midnight(Mon-Sun),Good,3.6,137
+Gokul Tiffin Junction,300,"South Indian,North Indian",Kochi,Pallimukku,Quick Bites,7am to 10pm(Mon-Sun),Average,3.2,8
+Just Fresh,200,Fast Food,Kochi,Nedumbassery,none,11am to 11pm(Mon-Sun),Average,3.4,9
+Get Baked,300,"Cafe,Biryani,Fast Food",Kochi,Panampilly Nagar,Café,12noon to 930pm(Mon-Sun),Average,3.3,13
+Continental Golden Grill,800,Fast Food,Kochi,Tripunithura,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,12
+CAFFEINOZ,300,"Chinese,North Indian,South Indian",Kochi,Kakkanad,Quick Bites,10am to 11pm(Mon-Sun),Average,3.3,6
+The Monsoon,450,Kerala,Kochi,Oberon Mall-- Edappally,Quick Bites,NA,Average,3.0,5
+Harvest Restaurant,500,"North Indian,South Indian",Kochi,Vyttila,Quick Bites,"730am to 1030am,1230pm to 3pm,7pm to 1030pm...",Average,2.9,8
+Cake Hut,299,"Bakery,Desserts",Kochi,Palarivattom,Bakery,NA,Average,3.2,9
+Rahmaniya Food Court,313,South Indian,Kochi,Aluva,Quick Bites,(Mon-Sun),Average,3.3,6
+Thara Hotel,200,South Indian,Kochi,Chittoor Road,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,14
+Chill Maadi,250,"Sandwich,Burger,Continental",Kochi,Edappally,Quick Bites,10am to 11pm(Mon-Sun),Average,3.4,11
+The Curry Shop,350,"Kerala,South Indian,North Indian,Chinese",Kochi,Kadavanthra,Quick Bites,11am to 11pm(Mon-Sun),Average,2.9,9
+Best Bakers,300,"Bakery,Desserts,Juices",Kochi,Vyttila,Bakery,9am to 9pm(Mon-Sun),Average,3.1,10
+Palace Food Court,200,Arabian,Kochi,Tripunithura,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,8
+Down Town,700,"South Indian,North Indian,Chinese,Continental",Kochi,Abad Metro,Casual Dining,"1230pm to 3pm,7pm to 10pm(Mon-Sun)",Average,2.9,5
+Match Point,300,"Chinese,South Indian,North Indian,Fast Food",Kochi,Elamkulam,Quick Bites,7am to 1030pm(Mon-Sun),Average,2.9,7
+Kanai Retaurant,400,South Indian,Kochi,Marine Drive,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,5
+Cream Land,450,Chinese,Kochi,Marine Drive,Casual Dining,"11am to 4pm,7pm to 11pm(Mon-Sun)",Average,3.2,10
+Sukumar Food Court,200,"Chinese,Kerala,North Indian",Kochi,Tripunithura,Quick Bites,5am to 1030pm(Mon-Sun),Average,3.2,9
+Achayans,300,South Indian,Kochi,Kalamassery,Quick Bites,730am to 1130pm(Mon-Sun),Good,3.9,86
+Al Maa edah,500,"South Indian,Kerala",Kochi,Nedumbassery,Quick Bites,10am to 10pm(Mon-Sun),Average,3.1,6
+Scoops & Cream,300,"Ice Cream,Desserts",Kochi,Kakkanad,Dessert Parlor,11am to 11pm(Mon-Sun),Average,3.2,6
+Ceecee,200,"Bakery,Cafe",Kochi,Edappally,Dessert Parlor,930am to 930pm(Mon-Sun),Average,3.0,8
+Hotel Ram Nivas,200,South Indian,Kochi,Kacheripady,Quick Bites,630am to 1030pm(Mon-Sun),Average,3.3,8
+Metro Kulfi & Lassi,150,Desserts,Kochi,Edappally,Dessert Parlor,11am to 11pm(Mon-Sun),Average,3.3,7
+Hotel Geo,400,South Indian,Kochi,Thopumpady,Casual Dining,NA,Average,3.4,6
+Thahoor Hotel,200,South Indian,Kochi,Aluva,Quick Bites,8am to 1030pm(Mon-Sun),Average,3.3,4
+Aladin's Kitchen,400,Fast Food,Kochi,Kakkanad,Quick Bites,9am to 10pm(Mon-Sun),Average,3.2,4
+Hotel Vishal,200,"North Indian,Chinese",Kochi,Chittoor Road,Quick Bites,8am to 11pm(Mon-Sun),Average,3.0,9
+Kulfilic,100,Desserts,Kochi,Palarivattom,Dessert Parlor,10am to 11pm(Mon-Sun),Average,3.2,8
+Biza Foods,200,"Kerala,South Indian",Kochi,Elamakkara,Quick Bites,10am to 11pm(Mon-Sun),Average,3.1,4
+Hotel Kismath,200,"Burger,Continental,Desserts,Beverages",Kochi,Marine Drive,Quick Bites,10am to 11pm(Mon-Sun),Average,3.2,4
+Hotel Broadway Tower,250,South Indian,Kochi,Marine Drive,Quick Bites,7am to 10pm(Mon-Sun),Average,3.3,7
+Pee Pee Hotel,200,Kerala,Kochi,Chullickal,Quick Bites,6am to 1030pm(Mon-Sun),Average,3.2,5
+Hot Plate,300,"Chinese,Kerala",Kochi,Kadavanthra,Quick Bites,1230pm to 930pm(Mon-Sun),Average,3.3,8
+Schokolade,400,Mithai,Kochi,Kakkanad,Sweet Shop,11am to 11pm(Mon-Sun),Average,3.1,5
+Burger Spot,400,"Burger,Fast Food",Kochi,Palarivattom,Quick Bites,10am to 11pm(Mon-Sun),Average,3.3,9
+Mr Idli Xpress,400,"South Indian,North Indian,Chinese",Kochi,Chittoor Road,Quick Bites,7am to 1030pm(Mon-Sun),Average,3.2,8
+Hotel Savour,400,"Kerala,Chinese",Kochi,MG Road,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,10
+Oi Cafe,300,"Cafe,Burger,Kerala",Kochi,MG Road,Café,10am to 10pm(Mon-Sun),Average,3.2,8
+Kurians Taste Buds,450,"Chinese,North Indian,Fast Food",Kochi,Kacheripady,Casual Dining,11am to 10pm(Mon-Sun),Average,2.8,9
+The Lassi Lounge,400,"Beverages,Ice Cream",Kochi,Tripunithura,Beverage Shop,1130am to 9pm(Mon-Sun),Average,3.2,8
+Sreedurga Vegetarian Hotel,100,South Indian,Kochi,Vyttila,Quick Bites,6am to 730pm(Mon-Sun),Average,3.1,5
+Thanco's Natural Icecream,150,Ice Cream,Kochi,Kakkanad,Dessert Parlor,10am to 10pm(Mon-Sun),Average,3.3,5
+Anjappar Chettinad Restaurant,500,"South Indian,Chettinad,North Indian",Kochi,Vyttila,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,8
+Cochin Bakers,200,Bakery,Kochi,Thopumpady,Bakery,930am to 930pm(Mon-Sun),Average,3.3,7
+Dum Biryani by Abad,200,"South Indian,Biryani,North Indian",Kochi,Marad,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,8
+Spice Affair,300,"Arabian,Kerala",Kochi,Elamkulam,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,6
+A2 Caffe,250,"North Indian,Fast Food",Kochi,Edappally,Casual Dining,9am to 9pm(Mon-Sun),Average,3.2,7
+Tasty Hut,500,"Kerala,Arabian",Kochi,Palarivattom,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,7
+Zaika Malabar Restaurant,500,"Chinese,North Indian,Arabian",Kochi,Palarivattom,Quick Bites,"9pm to 1030pm(Mon),8am to 10pm(Tue-Sun)",Average,3.2,7
+Gramam Restaurant,250,North Indian,Kochi,Kacheripady,Quick Bites,9am to 8pm(Mon-Sun),Average,3.1,4
+Hotel Salala,300,"Kerala,Arabian",Kochi,Kadavanthra,Casual Dining,12noon to 10pm(Mon-Sun),Average,3.0,6
+Cafe Kiwano,250,"Burger,Fast Food,Beverages,Coffee,Tea",Kochi,Kakkanad,Café,10am to 8pm(Mon-Sun),Average,3.1,4
+Kichoos Restaurant,250,South Indian,Kochi,Kaloor,Quick Bites,10am to 11pm(Mon-Sun),Average,3.0,7
+Banaras Restaurant,300,"Kerala,Chinese,North Indian",Kochi,Pallimukku,Casual Dining,730am to 10pm(Mon-Sun),Average,3.2,4
+Macaron Patisserie,500,"Bakery,Desserts",Kochi,Kakkanad,Bakery,8am to 10pm(Mon-Sun),Average,3.1,4
+Sri Annapurna Sweets,300,Mithai,Kochi,Elamkulam,Sweet Shop,1030am to 930pm(Mon-Sun),Average,3.3,6
+Zest Kitchen,300,Fast Food,Kochi,Vennala,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,4
+Fujian Express,450,Chinese,Kochi,MG Road,Quick Bites,1130am to 930pm(Mon-Sun),Average,2.9,5
+Café Buns And Beans,450,"Sandwich,Beverages,Pizza,Burger,Desserts,Rolls",Kochi,Tripunithura,Quick Bites,11am to 10pm(Mon-Sun),Average,3.2,4
+Abudhabi Restaurant,400,"Chinese,Arabian",Kochi,Edappally,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,6
+Leaves,900,"Chinese,North Indian,Continental",Kochi,MG Road,Casual Dining,"730am to 1030am,1230pm to 3pm,730pm to ...",Average,3.0,6
+Cafe Walkin,600,"Cafe,American,Fast Food",Kochi,Kadavanthra,Café,"8am to 10pm(Mon-Sat),Closed(Sun)",Average,3.2,4
+CK's Bakery,250,"Bakery,Fast Food",Kochi,Aluva,Bakery,11am to 10pm(Mon-Sun),Average,3.1,6
+Thalassery Alakkadan Biriyani,400,"South Indian,Chinese",Kochi,Vyttila,Quick Bites,11am to 10pm(Mon-Sun),Average,3.1,4
+Queens Restaurant,250,"North Indian,Chinese",Kochi,Kakkanad,Casual Dining,11am to 11pm(Mon-Sun),Average,3.0,6
+Maritime,150,"Ice Cream,Juices,Desserts",Kochi,Marine Drive,Dessert Parlor,9am to 9pm(Mon-Sun),Average,3.2,4
+Hotel Kerala House,250,Chinese,Kochi,Vyttila,Casual Dining,930am to 11pm(Mon-Sun),Average,3.2,5
+Star Fried Chicken & Restaurant,300,Fast Food,Kochi,Thopumpady,Quick Bites,11am to 10pm(Mon-Sun),Average,3.3,7
+Hotel Manakkil,450,"South Indian,Chettinad",Kochi,Panampilly Nagar,Casual Dining,7am to 10pm(Mon-Sun),Average,3.2,6
+The Table Story,350,"Beverages,Ice Cream",Kochi,Thevera,Beverage Shop,10am to 11pm(Mon-Sun),Average,3.2,6
+Vinayaka Restaurant,250,"Kerala,South Indian",Kochi,Thevera,Casual Dining,12noon to 1030pm(Mon-Sun),Average,3.0,4
+Supriya Homely Food,300,Kerala,Kochi,Kaloor,Quick Bites,11am to 10pm(Mon-Sun),Average,3.2,6
+Aswathy,200,"Kerala,South Indian,Singaporean",Kochi,Elamakkara,Casual Dining,530am to 9pm(Mon-Sun),Average,2.9,6
+Al hala,500,South Indian,Kochi,Fort Kochi,Casual Dining,7am to 10pm(Mon-Sun),Average,3.1,5
+Millenium Continental,1000,"Continental,South Indian",Kochi,MG Road,Casual Dining,8am to 1030pm(Mon-Sun),Average,3.0,4
+Hotel Mishwar,200,"South Indian,Kerala",Kochi,Tripunithura,Quick Bites,8am to 11pm(Mon-Sun),Average,3.2,5
+Cafe Thellicherry,300,"Cafe,South Indian",Kochi,Novotel Kochi Infopark-- Kakkanad,Café,11am to 11pm(Mon-Sun),Average,3.2,4
+Maria Hotel,250,"South Indian,North Indian",Kochi,Palarivattom,Casual Dining,7am to 10pm(Mon-Sun),Average,3.1,4
+Kalavarayil Restaurant,350,Kerala,Kochi,Vyttila,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,5
+K.R Bakes,400,"Fast Food,Bakery",Kochi,Pallimukku,Quick Bites,830am to 9pm(Mon-Sun),Average,3.0,4
+Cochin Majlis Foodmall,400,Arabian,Kochi,Elamkulam,Quick Bites,11am to 10pm(Mon-Sun),Average,3.1,4
+Paal Ice,300,"Ice Cream,Desserts",Kochi,Kaloor,Dessert Parlor,11am to 12midnight(Mon-Sun),Good,3.8,138
+The Grill Lab,700,"Cafe,Continental,Pizza,Burger,Fast Food",Kochi,Palarivattom,Café,NA,Very Good,4.2,639
+Chillax,400,"Cafe,Arabian,Chinese,Continental,American",Kochi,Vennala,Café,24,Average,3.3,233
+Cafe 17,700,"Cafe,Continental,Italian",Kochi,Kaloor,Café,11am to 11pm(Mon-Sun),Excellent,4.6,900
+Double Roti,700,"Cafe,American,Burger,Fast Food",Kochi,Elamkulam,Café,12noon to 1045pm(Mon-Sun),Very Good,4.2,345
+Hotel Harsh Dhaba,250,"North Indian,South Indian,Fast Food",Kochi,Kakkanad,Dhaba,"1130am to 3pm,6pm to 11pm(Mon-Sun)",Very Good,4.1,622
+Mustake Multicuisine Restaurant,1000,"Chinese,Thai,North Indian,South Indian",Kochi,Kakkanad,Casual Dining,11am to 11pm(Mon-Sun),Good,3.9,584
+Kerala Flood Relief,100,Indian,Kochi,Angamali,Quick Bites,24,Excellent,4.9,302
+Dr. Juice,300,Beverages,Kochi,Chittoor Road,Beverage Shop,12noon to 12midnight(Mon-Sun),Good,3.7,120
+Mocha Art Cafe,700,"Cafe,Continental,European,Italian,Seafood",Kochi,Mattancherry,Café,930am to 9pm(Mon-Sun),Excellent,4.7,602
+Zaatar Arabic Restaurant,500,"Arabian,Chinese,Rolls,North Indian",Kochi,Panampilly Nagar,Casual Dining,1230pm to 12midnight(Mon-Sun),Very Good,4.1,421
+Rice N Fish,700,"Seafood,North Indian,Chinese",Kochi,Kakkanad,Casual Dining,12noon to 11pm(Mon-Sun),Very Good,4.1,684
+Galito's,900,"African,Burger,Desserts,Beverages,Fast Food,Salad",Kochi,LuLu Mall-- Edappally,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.2,470
+Brindhavan Vegetarian Restaurant,300,"South Indian,North Indian,Chinese",Kochi,Palarivattom,Casual Dining,7am to 1030pm(Mon-Sun),Very Good,4.3,548
+Aavi,500,Kerala,Kochi,Itty's-- Panampily Nagar,Casual Dining,"1pm to 11pm(Mon-Sat),8am to 11pm(Sun)",Good,3.8,214
+Taste Arabia,200,South Indian,Kochi,Edappally,Quick Bites,5pm to 12midnight(Mon-Sun),Good,3.8,95
+Bloomsbury's Global Kitchen & Bakehouse,650,"Cafe,Salad,Italian,American,Bakery,Beverages",Kochi,LuLu Mall-- Edappally,Café,11am to 11pm(Mon-Sun),Very Good,4.4,891
+Ming's Wok,550,Chinese,Kochi,Panampilly Nagar,Casual Dining,1130am to 11pm(Mon-Sun),Very Good,4.1,513
+French Toast,700,"Cafe,Burger,Continental,Desserts,Sandwich,Pizza,Bakery,Salad",Kochi,Panampilly Nagar,Café,"9am to 10pm(Mon-Fri),8am to 10pm(Sat-Sun)",Excellent,4.5,588
+McDonald's,500,"Burger,Fast Food",Kochi,MG Road,Quick Bites,10am to 1am(Mon-Sun),Good,3.7,168
+Palaaram,550,"Kerala,Fast Food",Kochi,Kakkanad,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.1,388
+Sardarji Ka Dhaba,750,"Juices,Desserts,North Indian",Kochi,Kacheripady,Casual Dining,"11am to 11pm(Mon-Sat),8am to 11pm(Sun)",Very Good,4.1,522
+The Asian Kitchen by Tokyo Bay,1100,"Thai,Japanese,Chinese,Asian",Kochi,Fort Kochi,Casual Dining,"1230pm to 330pm,7pm to 11pm(Mon-Sat),12noon...",Excellent,4.5,339
+NH47 Thykoodam Bridge Restaurant,300,"North Indian,South Indian",Kochi,Vyttila,Casual Dining,12noon to 12midnight(Mon-Sun),Average,3.4,205
+Punjab Grill,1500,North Indian,Kochi,Edappally,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.4,264
+Sree Krishna Inn,500,"North Indian,South Indian,Street Food",Kochi,Pallimukku,Quick Bites,"8am to 1045pm(Mon-Thu),8am to 7pm(Fri-Sun)",Very Good,4.1,382
+360 Degrees Pizzeria,1500,"Italian,Pizza",Kochi,Panampilly Nagar,Casual Dining,"12noon to 3pm,7pm to 1030pm(Mon-Sun)",Very Good,4.3,445
+Burger King,500,"Burger,Fast Food",Kochi,MG Road,Quick Bites,11am to 10pm(Mon-Sun),Good,3.7,456
+Hotel Aryaas,250,"South Indian,Fast Food",Kochi,Kakkanad,Casual Dining,7am to 1030pm(Mon-Sun),Good,3.9,258
+Chakkarapanthal,300,Kerala,Kochi,Kakkanad,Casual Dining,NA,Good,3.7,277
+Tamam Kuzhimandhi,300,Arabian,Kochi,Kakkanad,Casual Dining,1230pm to 1130pm(Mon-Sun),Very Good,4.0,123
+Hotel Patna Bihar Express,400,"South Indian,North Indian",Kochi,Thevera,Quick Bites,7am to 1130pm(Mon-Sun),Average,3.0,80
+Grand Vattekkad Restaurant,500,"South Indian,North Indian",Kochi,Kakkanad,Casual Dining,6am to 12midnight(Mon-Sun),Average,3.3,72
+Oregano Resto Cafe 24,600,"Continental,Italian,North Indian,Chinese",Kochi,Pallimukku,Casual Dining,"12midnight to 3am,730am to 12midnight...",Good,3.5,57
+Aaharam,200,"South Indian,Kerala,Seafood",Kochi,Kaloor,Quick Bites,8am to 1am(Mon-Sun),Good,3.5,46
+Caravan,250,"Ice Cream,Desserts",Kochi,Marine Drive,Dessert Parlor,11am to 12midnight(Mon-Sun),Good,3.8,54
+Beirut Cafe,250,Arabian,Kochi,Aluva,Quick Bites,12noon to 12midnight(Mon-Sun),Very Good,4.3,53
+Cafe Dubai,400,"Arabian,Biryani,Chinese",Kochi,Kaloor,Casual Dining,12noon to 1130pm(Mon-Sun),Good,3.7,75
+Doner Kabab,400,"Arabian,Turkish",Kochi,Panampilly Nagar,Quick Bites,12noon to 1130pm(Mon-Sun),Good,3.7,74
+Dhippo,200,"Burger,Sandwich,Beverages",Kochi,Kakkanad,Quick Bites,12noon to 12midnight(Mon-Sun),Good,3.8,63
+Hotel Malabar,500,"Kerala,South Indian,North Indian,Chinese",Kochi,Nedumbassery,Casual Dining,7am to 12midnight(Mon-Sun),Good,3.7,64
+Marhaba Restaurant - Karukappilly,200,"South Indian,Chinese,Kerala",Kochi,Kaloor,Quick Bites,8am to 12midnight(Mon-Sun),Good,3.6,18
+Hotel Sapphire,300,"Kerala,South Indian,North Indian,Chinese,Seafood",Kochi,Edappally,Casual Dining,8am to 12midnight(Mon-Sun),Average,2.9,60
+Stone Creations,300,"Desserts,Ice Cream",Kochi,Kakkanad,Quick Bites,"12midnight to 1am,1130am to 12midnight(Mon-Sun)",Good,3.6,36
+Street Fusion,400,"Fast Food,Street Food",Kochi,Palarivattom,Quick Bites,12noon to 12midnight(Mon-Sun),Good,3.6,57
+The Chef's Art Restaurant,300,"South Indian,Kerala,Italian",Kochi,Thevera,Casual Dining,730am to 12midnight(Mon-Sun),Good,3.7,48
+Mirchi Dhaba,300,South Indian,Kochi,Kalamassery,Dhaba,"12noon to 11pm(Mon),1155am to 12midnight...",Average,2.8,53
+Hotel Ceylon,400,"Kerala,North Indian,Chinese,Seafood,Biryani",Kochi,MG Road,Casual Dining,8am to 12midnight(Mon-Sun),Good,3.5,47
+RJ's Cafe,300,"Chinese,South Indian,North Indian,Fast Food",Kochi,Vyttila,Quick Bites,24,Good,3.7,56
+Charcoal Kitchen,1200,"Arabian,South Indian",Kochi,Kakkanad,Casual Dining,3pm to 1am(Mon-Sun),Average,3.0,20
+Empire Plaza,450,"Seafood,South Indian,Kerala",Kochi,Marad,Quick Bites,1030am to 12midnight(Mon-Sun),Good,3.5,45
+Monqo,200,"Continental,Beverages,Rolls,Burger",Kochi,Kakkanad,Quick Bites,11am to 2am(Mon-Sun),Good,3.6,45
+Calicut Kalanthans Raw Juice & Ice Cream,150,Juices,Kochi,Palarivattom,Beverage Shop,12noon to 130am(Mon-Sun),Good,3.6,47
+Red Bubble Cafe,400,Cafe,Kochi,Kakkanad,Café,1pm to 12midnight(Mon-Sun),Good,3.6,27
+Kulfi Cafe,250,Desserts,Kochi,Palarivattom,Quick Bites,11am to 12midnight(Mon-Sun),Average,3.0,21
+Adukkala Family Restaurant,200,"South Indian,Chinese,Arabian,Kerala",Kochi,Tripunithura,Quick Bites,"Closed(Mon),857am to 12midnight(Tue),815am to ...",Average,3.2,36
+Arabian Fil Fil,250,"Chinese,North Indian,Continental,Arabian",Kochi,Edappally,Quick Bites,4pm to 12midnight(Mon-Sun),Good,3.5,50
+Shawarma Spot,300,"Arabian,Biryani",Kochi,Edappally,Quick Bites,12noon to 12midnight(Mon-Sun),Good,3.8,24
+Arabian Palace,250,Lebanese,Kochi,Kakkanad,Quick Bites,4pm to 1230AM(Mon-Sun),Average,3.2,32
+Mash Restocafe,200,Continental,Kochi,Panampilly Nagar,Quick Bites,11am to 3am(Mon-Sun),Average,3.1,11
+SI Th Joy Dine & Cafe,200,Arabian,Kochi,Vyttila,Quick Bites,7am to 1130pm(Mon-Sun),Average,3.1,32
+In Out Burger,400,"Burger,Fast Food",Kochi,Ravipuram,Quick Bites,12noon to 12midnight(Mon-Sun),Good,3.5,43
+Wah Ustad!,500,Kerala,Kochi,Vyttila,Quick Bites,1145am to 1130pm(Mon-Sun),Good,3.6,43
+Chaya Peediya,300,"Fast Food,Tea",Kochi,MG Road,Quick Bites,"9am to 930pm(Mon,Wed),12midnight to 9pm...",Good,3.8,27
+Red Sauce,400,"Fast Food,American",Kochi,Thevera,Casual Dining,11am to 12midnight(Mon-Sun),Good,3.5,43
+Haji Ali Fresh Fruit Juices,300,"Juices,Beverages",Kochi,Fort Kochi,Beverage Shop,11am to 2am(Mon-Sun),Good,3.5,20
+Al Khayma,400,"Arabian,North Indian,Chinese",Kochi,Kakkanad,Casual Dining,12noon to 12midnight(Mon-Sun),Average,2.8,39
+Avalon Resto Cafe,200,"Fast Food,Desserts,Wraps,Tea,Beverages,Burger,Sandwich",Kochi,Edappally,Quick Bites,12noon to 12midnight(Mon-Sun),Good,3.5,38
+Al Har Restaurant,350,"South Indian,Kerala",Kochi,Vennala,Casual Dining,"8am to 12midnight(Mon-Sat),8am to 9pm(Sun)",Average,3.2,26
+Arabian Azka,500,"Arabian,North Indian",Kochi,Vennala,Quick Bites,11am to 12midnight(Mon-Sun),Average,3.3,20
+Masafi Restaurant,350,"South Indian,Kerala,Juices",Kochi,Kakkanad,Quick Bites,11am to 2am(Mon-Sun),Good,3.5,41
+Cane Home,300,"Cafe,Healthy Food",Kochi,Mattancherry,Café,10am to 12midnight(Mon-Sun),Good,3.8,43
+Biriyani Mahal,150,"South Indian,North Indian",Kochi,Aluva,Quick Bites,11am to 12midnight(Mon-Sun),Good,3.5,45
+Bob Daniel's Artisan Pizzeria,400,"Cafe,Fast Food,Grill,Steak,French,Italian,BBQ,Pizza",Kochi,Vyttila,Café,11am to 12midnight(Mon-Sun),Average,3.3,31
+Rose Garden Restaurant,800,"Seafood,Italian",Kochi,Fort Kochi,Casual Dining,830am to 12midnight(Mon-Sun),Average,2.9,13
+Fort Kitchen,350,"Kerala,Seafood",Kochi,Kakkanad,Casual Dining,8am to 1130pm(Mon-Sun),Average,2.5,22
+Arabian Dreams,400,"Arabian,Juices",Kochi,Palarivattom,Casual Dining,4pm to 12midnight(Mon-Sun),Average,3.3,28
+Al Chef Malabari,300,"Arabian,North Indian",Kochi,Aluva,Quick Bites,11am to 12midnight(Mon-Sun),Very Good,4.1,17
+Thamburans,250,"Kerala,Arabian,Chinese,South Indian",Kochi,Kalamassery,Quick Bites,10am to 12midnight(Mon-Sun),Good,3.5,33
+Food Stop Diner,300,"North Indian,South Indian,Biryani",Kochi,Pallimukku,Casual Dining,24,Good,3.8,22
+Hotel Sona,400,"Seafood,North Indian,Chinese",Kochi,MG Road,Quick Bites,7am to 12midnight(Mon-Sun),Average,3.4,34
+Burger Hutz,400,Fast Food,Kochi,Edappally,Quick Bites,1130am to 1230AM(Mon-Sun),Average,3.0,30
+Silverspoon,400,"Indian,Arabian",Kochi,Edappally,Quick Bites,12noon to 12midnight(Mon-Sun),Good,3.6,21
+Yaseen Cafeteria And Coolbar,500,Arabian,Kochi,Kakkanad,Casual Dining,4pm to 1am(Mon-Sun),Average,3.3,24
+The Kettle,350,Cafe,Kochi,Kaloor,Café,1pm to 12midnight(Mon-Sun),Average,3.0,26
+Mariya's Curry House Restuarant,400,"Kerala,North Indian,Seafood",Kochi,Thevera,Casual Dining,7am to 1130pm(Mon-Sun),Good,3.7,29
+Nadan Thattu by Awaany Bakers,150,North Indian,Kochi,Kakkanad,Quick Bites,"8am to 1130am,4pm to 12midnight(Mon-Sun)",Average,3.4,4
+Malabar Grills,800,"Kerala,Mediterranean,Italian",Kochi,Fort Kochi,Casual Dining,9am to 1130pm(Mon-Sun),Average,3.0,21
+Kadaloram,600,"Kerala,South Indian",Kochi,Abad Plaza-- Kacheripady,Casual Dining,"12noon to 330pm,7pm to 1230AM(Mon-Sun)",Good,3.6,23
+Blue Star,250,"North Indian,South Indian,Chinese,Biryani",Kochi,Kacheripady,Quick Bites,6am to 1230AM(Mon-Sun),Average,2.8,16
+Cafe Callisto,250,"Continental,Beverages",Kochi,Kakkanad,Quick Bites,11am to 12midnight(Mon-Sun),Average,3.3,8
+White House Arabian & Malabar Cafe,500,"Cafe,Fast Food",Kochi,Kaloor,Café,1pm to 12midnight(Mon-Sun),Good,3.6,26
+Mughal Restaurant,350,"North Indian,Chinese,South Indian",Kochi,Pallimukku,Quick Bites,530am to 1130pm(Mon-Sun),Average,2.9,25
+Kalavara Biriyani Veedu,300,Biryani,Kochi,Palarivattom,Quick Bites,11am to 1215AM(Mon-Sun),Average,2.9,29
+Aroma Lounge & Deli By Crowne Plaza Kochi,1000,Continental,Kochi,Crowne Plaza Kochi-- Marad,Casual Dining,24,Average,3.4,21
+The Taapioca Restaurant,500,Kerala,Kochi,Kaloor,Casual Dining,12noon to 12midnight(Mon-Sun),Average,3.3,21
+Karama Food Court,600,"North Indian,Chinese,Arabian",Kochi,Edappally,Casual Dining,11am to 2am(Mon-Sun),Average,3.3,19
+Hungers Stop,250,North Indian,Kochi,Palarivattom,Quick Bites,7am to 4am(Mon-Sun),Average,3.1,7
+The Big Falooda,300,"Desserts,Ice Cream",Kochi,Edappally,Dessert Parlor,12noon to 12midnight(Mon-Sun),Good,3.6,23
+Pizza Shop,300,"Pizza,Fast Food",Kochi,Thopumpady,Quick Bites,130pm to 1130pm(Mon-Sun),Average,3.4,15
+Cafe Dubai,450,Biryani,Kochi,Kaloor,Quick Bites,1130am to 12midnight(Mon-Sun),Average,3.2,26
+Kaippillil Firdhous - The Persia,350,Kerala,Kochi,Kaloor,Casual Dining,8am to 1am(Mon-Sun),Average,3.4,18
+Cafe Moz,250,"Desserts,Beverages",Kochi,Kakkanad,Dessert Parlor,12noon to 12midnight(Mon-Sun),Average,3.2,11
+Khyber Fast Food,200,Kerala,Kochi,Edappally,Quick Bites,12noon to 12midnight(Mon-Sun),Good,3.6,21
+Beithal Mandi Arabian Restaurant,300,Arabian,Kochi,Aluva,Quick Bites,1130am to 12midnight(Mon-Sun),Good,3.5,25
+Minha Restaurant,400,"Indian,Arabian",Kochi,Aluva,Quick Bites,8am to 1145pm(Mon-Sun),Average,3.4,17
+Hotel Sagar,250,North Indian,Kochi,Aluva,Quick Bites,7am to 12midnight(Mon-Sun),Very Good,4.2,10
+Arabian Dreams,500,Arabian,Kochi,Kakkanad,Casual Dining,4pm to 1am(Mon-Sun),Good,3.5,19
+Aroos Arabia,250,Arabian,Kochi,Edappally,Casual Dining,1pm to 1130pm(Mon-Sun),Average,3.4,9
+No. 777 Cafe,200,Cafe,Kochi,Edappally,Café,"12midnight to 2am,1130am to 12midnight(Mon...",Good,3.6,16
+Thaam Arabia,400,Arabian,Kochi,Edappally,Quick Bites,4pm to 12midnight(Mon-Sun),Good,3.7,24
+Chai Corner,300,"Cafe,Bakery",Kochi,MG Road,Café,1130am to 1130pm(Mon-Sun),Average,3.0,12
+Cafe Cuba,700,"Kerala,Chinese,North Indian,Seafood",Kochi,Fort Kochi,Casual Dining,9am to 12midnight(Mon-Sun),Average,2.6,17
+Hala Restaurant,300,"Arabian,South Indian,North Indian,Chinese,Biryani",Kochi,Kacheripady,Casual Dining,7am to 1130pm(Mon-Sun),Average,3.3,17
+Sip & Choo,200,"Juices,Fast Food",Kochi,Elamakkara,Beverage Shop,11am to 12midnight(Mon-Sun),Good,3.5,12
+Hotel Chanus,600,"Kerala,South Indian",Kochi,Pallimukku,Casual Dining,5am to 12midnight(Mon-Sun),Average,2.9,14
+The Patisserie,250,Bakery,Kochi,Abad Plaza-- Kacheripady,Bakery,12midnight to 1130pm(Mon-Sun),Average,3.1,8
+Rahath Restaurant,500,"Arabian,Chinese,South Indian",Kochi,Vyttila,Casual Dining,24,Average,2.8,14
+Thamam,500,"South Indian,Chinese,North Indian",Kochi,Edappally,Casual Dining,1230pm to 12midnight(Mon-Sun),Good,3.5,16
+The Container Cafe,500,"Chinese,Kerala",Kochi,Edappally,Casual Dining,"12midnight to 2am,11am to 12midnight(Mon-Sun)",Average,2.9,16
+Cafe Diaries,300,"Cafe,Sandwich,Burger,Beverages",Kochi,Kalamassery,Café,1pm to 1am(Mon-Sun),Average,3.3,10
+Star Fried Chicken,200,Fast Food,Kochi,Chullickal,Quick Bites,12noon to 12midnight(Mon-Sun),Average,3.4,6
+Fuell TastySpot,200,Fast Food,Kochi,Edappally,Quick Bites,"12midnight to 3am,3pm to 12midnight(Mon-Sun)",Average,3.1,9
+Hotel New Buhari,200,"Fast Food,Kerala",Kochi,MG Road,Quick Bites,6am to 12midnight(Mon-Sun),Average,2.9,15
+Aahar Global,150,"Kerala,South Indian",Kochi,Palarivattom,Quick Bites,"7am to 1130pm(Mon-Sat),Closed(Sun)",Average,3.4,13
+Cafe Kapio,450,"Cafe,Italian,Chinese,American",Kochi,Kaloor,Café,10am to 12midnight(Mon-Sun),Average,3.4,7
+Juice Point,200,"Fast Food,Juices",Kochi,Kaloor,Quick Bites,9am to 1130pm(Mon-Sun),Average,3.2,4
+Pathiri Restaurant,600,Arabian,Kochi,Aluva,Casual Dining,12noon to 12midnight(Mon-Sun),Average,3.3,12
+OVA Restaurant,200,"North Indian,South Indian,Kerala",Kochi,Nedumbassery,Quick Bites,10am to 12midnight(Mon-Sun),Average,3.1,4
+Tamr Chinese and Arabic Restaurant,300,"Chinese,Fast Food",Kochi,Kaloor,Quick Bites,1pm to 12midnight(Mon-Sun),Average,3.1,6
+Opk Cafe,500,"Cafe,Beverages",Kochi,Kalamassery,Café,1pm to 1am(Mon-Sun),Average,3.2,8
+Creme Studio,250,"Desserts,Ice Cream,Beverages",Kochi,MG Road,Dessert Parlor,12noon to 12midnight(Mon-Sun),Average,3.3,7
+Pure Squeeze,150,Juices,Kochi,Elamkulam,Beverage Shop,11am to 12midnight(Mon-Sun),Average,3.2,8
+Red Oven,300,"North Indian,Mediterranean",Kochi,Elamakkara,Quick Bites,5pm to 1130pm(Mon-Sun),Average,3.3,8
+The Tiffinbox,200,"North Indian,South Indian",Kochi,Edappally,none,8am to 12midnight(Mon-Sun),Average,3.4,11
+Juice whichever,200,Juices,Kochi,Kacheripady,Beverage Shop,11am to 12midnight(Mon-Sun),Average,3.3,4
+Mom'z Bakes & Restaurant,300,"Kerala,Arabian",Kochi,Kacheripady,Quick Bites,7am to 130am(Mon-Sun),Average,3.2,10
+It's Turkey Time,300,Arabian,Kochi,Palarivattom,Quick Bites,4pm to 12midnight(Mon-Sun),Average,3.3,7
+FOOD BOWL,400,Healthy Food,Kochi,Panampilly Nagar,Quick Bites,11am to 12midnight(Mon-Sun),Average,3.1,5
+Roosters Big Fried Chicken,300,"Fast Food,Burger,Roast Chicken",Kochi,Kaloor,Quick Bites,12noon to 12midnight(Mon-Sun),Average,3.1,4
+Rolls n Kababz,200,"Rolls,Biryani,North Indian",Kochi,Kaloor,Quick Bites,2pm to 12midnight(Mon-Sun),Average,3.1,4
+Thakkaaram,600,"Kerala,South Indian",Kochi,Vyttila,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,624
+Pizza Hut,600,"Mexican,Beverages,Fast Food,Desserts,Italian,Pizza,Salad,Ice Cream",Kochi,Edappally,Casual Dining,11am to 11pm(Mon-Sun),Good,3.9,457
+Dessi Cuppa,200,"Beverages,Juices",Kochi,Kakkanad,Beverage Shop,11am to 1130pm(Mon-Sun),Very Good,4.0,115
+Shifu's Momos,200,"Fast Food,Chinese,Momos",Kochi,GCDA Shopping Complex-- Panampily Nagar,Quick Bites,"230pm to 830pm(Mon-Sat),Closed(Sun)",Excellent,4.6,487
+De Cafe Canopy,400,"Arabian,Chinese,Biryani",Kochi,Aluva,Quick Bites,9am to 12midnight(Mon-Sun),Very Good,4.2,167
+Fusion Bay,600,"Kerala,Seafood",Kochi,Fort Kochi,Quick Bites,12noon to 10pm(Mon-Sun),Very Good,4.4,303
+Lokah Restaurant & Café,800,"Continental,Asian,American,Mexican,Italian,French,Turkish,North Indian",Kochi,Vyttila,Casual Dining,11am to 11pm(Mon-Sun),Good,3.8,358
+Masafi Restaurant,350,"Kerala,South Indian,Chinese,Juices",Kochi,Vyttila,Quick Bites,11am to 2am(Mon-Sun),Good,3.7,169
+Hotel Paradise - Palarivattom,200,"Kerala,South Indian,North Indian",Kochi,Palarivattom,Casual Dining,7am to 12noon(Mon-Sun),Good,3.7,370
+Cheenavala,900,Seafood,Kochi,Edappally,Casual Dining,12noon to 11pm(Mon-Sun),Very Good,4.0,239
+Donut Factory,500,"Cafe,Desserts,Steak",Kochi,Panampilly Nagar,Café,10am to 11pm(Mon-Sun),Very Good,4.0,359
+Urban Paratha,200,North Indian,Kochi,Kakkanad,Quick Bites,"12noon to 330pm,7pm to 1030pm(Mon-Sun)",Very Good,4.1,319
+Indian Biriyani House,400,"Biryani,North Indian",Kochi,Kakkanad,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.8,375
+Oceanos,1000,"Kerala,Portuguese,Seafood",Kochi,Elphinstone Residency-- Fort Kochi,Casual Dining,130pm to 1030pm(Mon-Sun),Very Good,4.4,218
+Brindhavan Vegetarian Restaurant,300,"South Indian,North Indian,Chinese",Kochi,Palarivattom,Quick Bites,7am to 10pm(Mon-Sun),Very Good,4.4,260
+Hotel Saravana Bhavan,400,"South Indian,Chinese",Kochi,Edappally,Casual Dining,7am to 11pm(Mon-Sun),Very Good,4.2,208
+Wok & Grill,1100,"Chinese,Arabian,Thai,Seafood,North Indian",Kochi,Vyttila,Casual Dining,"12noon to 330pm,7pm to 11pm(Mon-Sun)",Very Good,4.1,313
+The Soup Shop,500,"Cafe,Continental",Kochi,Kaloor,none,12noon to 11pm(Mon-Sun),Very Good,4.2,253
+David Hall Gallery Cafe,600,"Cafe,Pizza",Kochi,Fort Kochi,Café,12noon to 9pm(Mon-Sun),Very Good,4.3,183
+Cofi Club,500,Cafe,Kochi,Kakkanad,Café,24,Good,3.7,135
+Maharaja Bhog,850,North Indian,Kochi,LuLu Mall-- Edappally,Food Court,"12noon to 330pm,7pm to 11pm(Mon-Thu),12noon to ...",Very Good,4.3,278
+Diwan's Durbar,400,Kerala,Kochi,Kakkanad,Casual Dining,1130am to 1045pm(Mon-Sun),Good,3.7,285
+Cold Stone Creamery,350,"Ice Cream,Desserts",Kochi,LuLu Mall-- Edappally,Dessert Parlor,11am to 11pm(Mon-Sun),Very Good,4.3,241
+Cocoacraft Chocolate Factory,350,"Cafe,Desserts,Ice Cream",Kochi,Kacheripady,Café,11am to 11pm(Mon-Sun),Very Good,4.2,234
+Hotel Erivum Puliyum,250,Kerala,Kochi,Marine Drive,Casual Dining,7am to 11pm(Mon-Sun),Good,3.8,206
+Anjappar Chettinad Restaurant,700,"Chettinad,South Indian,Kerala",Kochi,LuLu Mall-- Edappally,Casual Dining,11am to 11pm(Mon-Sun),Good,3.9,201
+Just Tiffin's,250,North Indian,Kochi,Kakkanad,Casual Dining,"12noon to 3pm,7pm to 1030pm(Mon-Sun)",Very Good,4.1,186
+Chopstix,800,"Chinese,Thai",Kochi,Kakkanad,Casual Dining,"12noon to 315pm,630pm to 1045pm(Mon-Sun)",Very Good,4.1,272
+Tellicherry Kitchen,500,"Continental,Chinese,Arabian,Turkish,Italian",Kochi,Kadavanthra,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.0,92
+The LMN,500,"Cafe,South Indian,North Indian,Chinese,Continental",Kochi,Tripunithura,Café,11am to 11pm(Mon-Sun),Good,3.7,210
+Timur Kachi Biriyani,350,Biryani,Kochi,Pallimukku,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.8,201
+Rolexio,250,"Kerala,Arabian",Kochi,Edappally,Casual Dining,12noon to 12midnight(Mon-Sun),Good,3.8,136
+SFC Plus,500,"American,Pizza",Kochi,Kakkanad,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,254
+The Yellow Chilli,1000,North Indian,Kochi,LuLu Mall-- Edappally,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.0,175
+WaffleBae,250,"Desserts,Beverages",Kochi,Panampilly Nagar,Dessert Parlor,"11am to 11pm(Mon,Tue,Wed,Thu,Sat,Sun),2pm...",Very Good,4.4,165
+Khawali,300,Arabian,Kochi,Kakkanad,Quick Bites,"(Mon,Tue,Thu,Fri,Sat,Sun),125AM to ...",Good,3.9,276
+Hotel Zaithoon,500,Indian,Kochi,MG Road,Casual Dining,12noon to 11pm(Mon-Sun),Average,3.3,260
+Golden Dragon,600,Chinese,Kochi,Ravipuram,Casual Dining,"12noon to 4pm,7pm to 11pm(Mon-Sun)",Good,3.9,233
+Canosa,450,"Italian,American,Fast Food",Kochi,Kakkanad,Casual Dining,"11am to 1030pm(Mon-Sat),12noon to 1030pm(Sun)",Good,3.9,200
+Malaya Restaurant,500,Chinese,Kochi,Palarivattom,Quick Bites,"1130am to 11pm(Mon,Tue,Wed,Thu,Fri,Sun)...",Good,3.9,227
+Rasoi,1000,North Indian,Kochi,Fort Kochi,Casual Dining,"12noon to 3pm,6pm to 10pm(Mon-Sun)",Very Good,4.2,101
+BPC Grill & Chill,550,"Fast Food,Chinese,North Indian,Momos,Arabian",Kochi,Kakkanad,Quick Bites,(Mon-Sun),Average,3.4,253
+Malabar Canteen,200,"South Indian,Biryani,Kerala",Kochi,Kaloor,Casual Dining,730am to 11pm(Mon-Sun),Good,3.9,131
+City Restaurant,200,Kerala,Kochi,Palarivattom,Quick Bites,10am to 1115pm(Mon-Sun),Average,3.4,123
+Arabian Night,800,"Arabian,North Indian,South Indian",Kochi,Kaloor,Casual Dining,12noon to 12midnight(Mon-Sun),Good,3.8,146

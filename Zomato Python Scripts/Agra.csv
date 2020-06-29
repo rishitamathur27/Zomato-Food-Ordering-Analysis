@@ -1,0 +1,577 @@
+Name,Price,Cuisine_Category,City,Region,Cuisine_Type,Timing,Rating_Types,Rating,Votes
+The Salt Cafe Kitchen & Bar,1000,"North Indian,Continental,Italian",Agra,Tajganj,Casual Dining,1130am to 1130pm(Mon-Sun),Excellent,4.8,273
+Bhagat Halwai,300,"Desserts,Bakery,Fast Food,South Indian",Agra,Civil Lines,Quick Bites,730am to 11pm(Mon-Sun),Very Good,4.3,554
+Bikanervala,700,"North Indian,South Indian,Mithai,Street Food,Desserts",Agra,Khandari,Quick Bites,8am to 11pm(Mon-Sun),Very Good,4.4,645
+Mama Chicken Mama Franky House,600,"North Indian,Mughlai,Rolls,Chinese,Fast Food,Street Food",Agra,Agra Cantt,Quick Bites,"1230pm to 12midnight(Mon,Wed,Thu,Fri,Sat...",Very Good,4.3,894
+Honeydew Restaurant,500,"North Indian,Fast Food,Chinese,South Indian",Agra,Dayal Bagh,Quick Bites,"11am to 1035pm(Mon,Tue,Wed,Fri,Sat),11am to ...",Very Good,4.1,489
+Cafe Turquoise Cottage,1600,"North Indian,Chinese,Continental,Italian,Pizza",Agra,Tajganj,Casual Dining,12noon to 1155pm(Mon-Sun),Excellent,4.7,294
+Hichkee,1200,"Continental,North Indian,Chinese",Agra,Civil Lines,Casual Dining,4pm to 1am(Mon-Sun),Very Good,4.4,581
+Domino's Pizza,700,"Pizza,Fast Food",Agra,Civil Lines,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,583
+Urban Deck,1000,"Mexican,Italian,North Indian",Agra,Khandari,Casual Dining,1pm to 12midnight(Mon-Sun),Very Good,4.3,608
+Pinch Of Spice,1600,"North Indian,Chinese,Mughlai",Agra,Civil Lines,Casual Dining,"12noon to 4pm,7pm to 1130pm(Mon-Sun)",Excellent,4.5,863
+Pizza Hut,700,"Italian,Pizza",Agra,Tajganj,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.0,547
+Aahar,700,"North Indian,South Indian,Chinese,Bakery,Momos",Agra,Civil Lines,Casual Dining,10am to 11pm(Mon-Sun),Very Good,4.0,368
+Tea'se Me - Rooftop Tea Boutique,1000,"Chinese,Italian,Continental,North Indian",Agra,Tajganj,Casual Dining,12noon to 1130pm(Mon-Sun),Excellent,4.7,676
+Shree Balaji Family Restaurant,400,"North Indian,South Indian,Fast Food",Agra,Sikandra,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,254
+GMB - Gopika Sweets & Restaurant,400,"Desserts,North Indian,South Indian,Chinese,Fast Food,Street Food",Agra,Tajganj,Casual Dining,8am to 11pm(Mon-Sun),Very Good,4.1,279
+Kings Pizza And Burger,200,Fast Food,Agra,Kamla Nagar,Quick Bites,1130am to 10pm(Mon-Sun),Good,3.5,40
+RS Sweets & Restaurant,650,"North Indian,South Indian",Agra,Dayal Bagh,Casual Dining,9am to 1030pm(Mon-Sun),Good,3.7,79
+Cake D'or,1600,"Bakery,Desserts",Agra,Civil Lines,Bakery,12noon to 10pm(Mon-Sun),Very Good,4.1,53
+Mirch  Lagi,100,North Indian,Agra,Civil Lines,Quick Bites,10am to 9pm(Mon-Sun),Good,3.7,50
+Lakshmi Vilas,400,South Indian,Agra,Agra Cantt,Casual Dining,"11am to 1030pm(Mon,Wed,Thu,Fri,Sat,Sun)...",Good,3.7,65
+Mughal Spice,1150,"North Indian,Chinese,Continental",Agra,Tajganj,Casual Dining,"830am to 930pm(Mon,Tue,Wed,Thu,Sat,Sun)...",Very Good,4.0,49
+Cake House,300,Bakery,Agra,Kamla Nagar,Quick Bites,9am to 10pm(Mon-Sun),Good,3.7,26
+Chai Garam,200,"Tea,Street Food",Agra,Civil Lines,Quick Bites,12noon to 1030pm(Mon-Sun),Average,3.4,54
+The Global Savour,600,North Indian,Agra,Tajganj,Casual Dining,7am to 10pm(Mon-Sun),Good,3.8,51
+Preetam,100,Bakery,Agra,Dayal Bagh,Quick Bites,11am to 10pm(Mon-Sun),Good,3.6,56
+Golden China Restaurant,800,Chinese,Agra,Tajganj,Casual Dining,11am to 10pm(Mon-Sun),Good,3.5,45
+Delhi Darbar Restaurant,800,"North Indian,Chinese",Agra,Rakabganj,Casual Dining,9am to 930pm(Mon-Sun),Poor,2.4,45
+Sadar Wala,100,"Fast Food,Rolls",Agra,Shahganj,none,5pm to 11pm(Mon-Sun),Good,3.7,120
+Jeetu Dhaba,300,North Indian,Agra,Kamla Nagar,Dhaba,11am to 11pm(Mon-Sun),Average,2.8,114
+Pradeep Store,150,Fast Food,Agra,Kamla Nagar,Quick Bites,"Closed(Mon-Tue),11am to 10pm(Wed-Sun)",Good,3.5,68
+The Star Diner,300,"North Indian,South Indian,Chinese",Agra,Agra Cantt,Casual Dining,12noon to 1030pm(Mon-Sun),Good,3.6,54
+Restaurant Nukkar,200,North Indian,Agra,Civil Lines,Casual Dining,"9am to 530pm(Mon-Sat),Closed(Sun)",Good,3.7,59
+D's Family Restaurant,600,"North Indian,Chinese",Agra,Sikandra,Casual Dining,12noon to 1030pm(Mon-Sun),Good,3.8,51
+Desire Bakers,100,Bakery,Agra,Kamla Nagar,Bakery,10am to 930pm(Mon-Sun),Good,3.8,48
+New Agra Fast Food & Restaurant,250,North Indian,Agra,Agra Cantt,Quick Bites,11am to 1030pm(Mon-Sun),Good,3.7,42
+Sips And Bites,250,"Fast Food,Beverages,Italian",Agra,Shahganj,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,51
+Chota Mama Chicken & Mama Veg,700,North Indian,Agra,Sikandra,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,111
+Brijwasi  Sweets & Restaurant,300,"Mithai,North Indian",Agra,Civil Lines,Quick Bites,"9am to 10pm(Mon-Sat),7am to 824pm(Sun)",Average,3.4,37
+Agarwal Sweets & Dairy,300,Desserts,Agra,Shahganj,Dessert Parlor,8am to 10pm(Mon-Sun),Good,3.8,15
+Taj Mahal Family Restaurant,1000,"North Indian,Mughlai",Agra,Tajganj,Casual Dining,8am to 10pm(Mon-Sun),Average,3.4,42
+Sai Khandelaa Restaurant,1000,"North Indian,Chinese,Continental,Mughlai",Agra,Agra Cantt,Casual Dining,"11am to 3pm,630pm to 1030pm(Mon-Sun)",Good,3.9,46
+Pind Balluchi,1000,"Mughlai,North Indian",Agra,Sikandra,Casual Dining,12noon to 1130pm(Mon-Sun),Good,3.6,52
+Biryani King,300,Biryani,Agra,Kamla Nagar,Quick Bites,9am to 10pm(Mon-Sun),Good,3.6,47
+Taj Terrace - Hotel Taj Resorts,1000,"North Indian,Continental,Chinese",Agra,Tajganj,Casual Dining,"12noon to 4pm,630pm to 1030pm(Mon-Sun)",Good,3.9,24
+Millenium Motors and Cafe,220,Cafe,Agra,Dayal Bagh,Café,"11am to 830pm(Mon-Sat),Closed(Sun)",Good,3.6,24
+Amritsari Tandoori Kulcha Wa Choor Choor Naan,250,North Indian,Agra,Civil Lines,Quick Bites,11am to 10pm(Mon-Sun),Good,3.7,29
+Tongue Twister,150,Chinese,Agra,Kamla Nagar,none,4pm to 1030pm(Mon-Sun),Good,3.7,29
+Ambey Bakers,300,Bakery,Agra,Civil Lines,Bakery,10am to 10pm(Mon-Sun),Good,3.8,40
+Udupi Shri Krishna Vilas,500,"South Indian,North Indian",Agra,Tajganj,Casual Dining,8am to 10pm(Mon-Sun),Good,3.7,26
+Bake'O'Fy,300,"Fast Food,Desserts",Agra,Dayal Bagh,Quick Bites,(Mon-Sun),Good,3.7,31
+Chickenwala.com,300,North Indian,Agra,Sikandra,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,57
+Red Caffino,200,"Pizza,Burger,Beverages,Desserts",Agra,Tajganj,Quick Bites,12noon to 10pm(Mon-Sun),Good,3.5,29
+Jackson Egg Corner,100,Fast Food,Agra,Civil Lines,Quick Bites,12noon to 10pm(Mon-Sun),Average,3.1,32
+Sagar Ratna,600,"South Indian,North Indian,Chinese",Agra,Khandari,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,86
+Ajanta Sweets,200,Mithai,Agra,Kamla Nagar,Sweet Shop,11am to 9pm(Mon-Sun),Good,3.7,38
+Guru Kripa Bhojnalaya,300,North Indian,Agra,Kamla Nagar,Quick Bites,6pm to 11pm(Mon-Sun),Very Good,4.0,79
+Manohar Lal Daulat Ram Garg Gajak Wale,150,Mithai,Agra,Sikandra,Sweet Shop,8am to 1030pm(Mon-Sun),Good,3.5,57
+The Delicious Restaurant,500,Fast Food,Agra,Shahganj,Quick Bites,10am to 10pm(Mon-Sun),Average,3.2,34
+Jab We Meet,500,"North Indian,Mughlai",Agra,Civil Lines,Quick Bites,"1030am to 10pm(Mon,Wed,Thu,Fri,Sat,Sun)...",Good,3.6,44
+Chai Ka Adda,100,Tea,Agra,Sikandra,Beverage Shop,8am to 9pm(Mon-Sun),Good,3.7,29
+Kushwah Lassi Corner,100,Beverages,Agra,Shahganj,Beverage Shop,10am to 10pm(Mon-Sun),Average,3.4,15
+Agra Bana,800,"North Indian,Chinese,Continental,South Indian",Agra,Kuberpur,Casual Dining,10am to 10pm(Mon-Sun),Good,3.5,44
+24*7 Hunger Solutions,200,"North Indian,Chinese,Continental",Agra,Agra Cantt,none,NA,Good,3.5,38
+Neelam Restaurant,400,North Indian,Agra,Dayal Bagh,Casual Dining,1030am to 1030pm(Mon-Sun),Average,3.4,36
+Sheesh Mahal - Mansingh Palace,1800,"North Indian,Chinese,Continental",Agra,Mansingh Palace-- Tajganj,Fine Dining,12noon to 1030pm(Mon-Sun),Good,3.6,19
+Anil Gajak Palace,300,Mithai,Agra,Civil Lines,Sweet Shop,8am to 10pm(Mon-Sun),Good,3.8,47
+Kesar Restaurant,1200,"North Indian,Chinese,Continental",Agra,Tajganj,Casual Dining,9am to 1030pm(Mon-Sun),Average,3.3,24
+FNP Cakes ‘n’ More,200,"Bakery,Desserts",Agra,Rakabganj,Bakery,10am to 10pm(Mon-Sun),Good,3.5,13
+Healthy & Tasty Food,300,Fast Food,Agra,Shahganj,Quick Bites,"12noon to 3pm,7pm to 9pm(Mon-Sun)",Good,3.5,14
+Kings Pizza And Burger,200,"Pizza,Burger",Agra,Rakabganj,Quick Bites,1130am to 1030pm(Mon-Sun),Good,3.5,15
+Bob Marley Restaurant,600,North Indian,Agra,Tajganj,Casual Dining,7am to 10pm(Mon-Sun),Average,3.2,24
+Crazy Burger,100,Burger,Agra,Sikandra,Quick Bites,1030am to 1030pm(Mon-Sun),Good,3.6,18
+Shri Dauji Sweets,200,"Mithai,Street Food",Agra,Shahganj,Sweet Shop,8am to 8pm(Mon-Sun),Average,3.0,33
+Om Restaurant,250,North Indian,Agra,Civil Lines,Quick Bites,"11am to 1130pm(Mon,Tue,Wed,Thu,Sat),11am to ...",Good,3.7,97
+Bhaagya Shree Studio & Bakers,250,Bakery,Agra,Kamla Nagar,Bakery,11am to 10pm(Mon-Sun),Good,3.6,19
+Brijwasi Bhojnalaya,200,North Indian,Agra,Rakabganj,Bhojanalya,9am to 930pm(Mon-Sun),Average,3.4,23
+Food & Fight,200,Fast Food,Agra,Sikandra,Quick Bites,4pm to 10pm(Mon-Sun),Good,3.5,20
+Jenith Fast Food,300,"North Indian,South Indian,Continental",Agra,Mantola,Quick Bites,11am to 1030pm(Mon-Sun),Average,3.4,15
+Chef Signature,900,"Fast Food,Continental,Indian",Agra,Tajganj,Quick Bites,11am to 10pm(Mon-Sun),Average,3.0,20
+Food Treasure,200,"Bakery,Fast Food",Agra,Sikandra,Bakery,10am to 10pm(Mon-Sun),Good,3.5,15
+Iccha Veg Biryani,100,Biryani,Agra,Sikandra,Kiosk,11am to 6pm(Mon-Sun),Good,3.5,22
+The Park Restaurant,1000,"North Indian,Chinese,Continental,Mughlai",Agra,Agra Cantt,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,77
+Agarsen Sweet,600,"Mithai,Fast Food",Agra,Sikandra,Sweet Shop,915am to 9pm(Mon-Sun),Average,3.4,14
+Chhabra Bakers and Confectioners,200,"Bakery,Fast Food",Agra,Shahganj,Confectionery,10am to 10pm(Mon-Sun),Average,3.2,21
+Laxman Momo's Corner,100,Momos,Agra,Tajganj,Quick Bites,6pm to 10pm(Mon-Sun),Good,3.5,23
+Bansal Sweets,100,"Mithai,Street Food",Agra,Shahganj,Sweet Shop,9am to 10pm(Mon-Sun),Average,2.7,30
+AFC Kitchen,300,Fast Food,Agra,Tajganj,Quick Bites,10am to 10pm(Mon-Sun),Average,3.3,23
+The Crispy Treat,150,Fast Food,Agra,Sikandra,Quick Bites,11am to 9pm(Mon-Sun),Average,3.3,8
+Pranjal Food Court,300,Fast Food,Agra,Sikandra,Quick Bites,11am to 1030pm(Mon-Sun),Average,3.0,21
+Goli Vada Paav No.1,100,Street Food,Agra,Shahganj,Quick Bites,10am to 1030pm(Mon-Sun),Average,3.2,20
+Giani,300,"Beverages,Desserts,Ice Cream",Agra,Civil Lines,Dessert Parlor,12noon to 10pm(Mon-Sun),Average,2.5,18
+Laxman Momo's Corner,100,Street Food,Agra,Agra Cantt,Quick Bites,6pm to 10pm(Mon-Sun),Good,3.8,20
+Shagun Cafe,100,"Bakery,Cafe",Agra,Khandari,Quick Bites,10am to 930pm(Mon-Sun),Average,3.4,12
+Cake & More,500,Bakery,Agra,Kamla Nagar,Quick Bites,1030am to 1030pm(Mon-Sun),Average,3.0,16
+Panchhi Petha Store,400,Mithai,Agra,Mantola,Sweet Shop,(Mon-Sun),Average,3.4,12
+Mor Mukut Misthan Bhandar,400,"Mithai,Desserts,Street Food",Agra,Kamla Nagar,Sweet Shop,9am to 9pm(Mon-Sun),Average,3.3,14
+Garg Dairy,200,"Bakery,Fast Food",Agra,Kamla Nagar,Bakery,"11am to 930pm(Mon,Wed,Thu,Fri,Sat,Sun),2pm...",Average,3.3,12
+Fauzi Dhaba,650,"North Indian,Chinese,Continental",Agra,Tajganj,Casual Dining,7am to 10pm(Mon-Sun),Average,3.0,17
+Hungernomia,300,"Wraps,Sandwich,Burger,Fast Food",Agra,Civil Lines,Quick Bites,11am to 10pm(Mon-Sun),Average,3.3,16
+Jugalbandi,250,"North Indian,Chinese",Agra,Sikandra,Quick Bites,1pm to 10pm(Mon-Sun),Average,3.4,22
+Maya Restaurant,900,"North Indian,Chinese,Continental",Agra,Tajganj,Casual Dining,7am to 10pm(Mon-Sun),Average,2.7,17
+Little N Chef,200,"Chinese,Fast Food",Agra,Shahganj,Quick Bites,10am to 1030pm(Mon-Sun),Good,3.5,33
+Little Maggi Point,150,Fast Food,Agra,Kamla Nagar,Quick Bites,"12noon to 1030pm(Mon,Wed,Thu,Fri,Sat,Sun)...",Average,3.2,11
+Cafe Coffee Day,500,"Cafe,Fast Food",Agra,Civil Lines,Café,9am to 11pm(Mon-Sun),Good,3.9,96
+Yes Restaurant,300,"North Indian,South Indian",Agra,Tajganj,none,8am to 8pm(Mon-Sun),Average,3.4,13
+Hiralal Misthan Bhandar,250,Mithai,Agra,Civil Lines,Sweet Shop,8am to 9pm(Mon-Sun),Average,3.2,4
+Biryaniwala,200,Biryani,Agra,Mantola,none,11am to 10pm(Mon-Sun),Average,3.4,15
+Chinu Bakers,150,Fast Food,Agra,Kamla Nagar,none,10am to 10pm(Mon-Sun),Good,3.5,10
+Thor The Party World,500,"North Indian,Chinese,Italian",Agra,Tajganj,Lounge,12noon to 12midnight(Mon-Sun),Very Good,4.0,44
+Jai Jhulelal Patties Corner,100,Fast Food,Agra,Shahganj,Quick Bites,11am to 10pm(Mon-Sun),Good,3.6,24
+Shubham Restaurant,500,"North Indian,Chinese,South Indian,Fast Food",Agra,Arjun Nagar,Casual Dining,11am to 1030pm(Mon-Sun),Average,2.8,29
+Pizza Pasta Corner,250,Pizza,Agra,Shahganj,Quick Bites,12noon to 10pm(Mon-Sun),Average,3.3,9
+Brownee,100,Fast Food,Agra,Kamla Nagar,Quick Bites,9am to 10pm(Mon-Sun),Average,3.3,25
+Vaishno Bhalla House,200,Fast Food,Agra,Rakabganj,Quick Bites,9am to 10pm(Mon-Sun),Average,3.4,20
+Aastha Family Dhaba,350,North Indian,Agra,Tajganj,Quick Bites,8am to 10pm(Mon-Sun),Average,3.2,7
+Me & My Choice,500,Fast Food,Agra,Shahganj,Quick Bites,10am to 10pm(Mon-Sun),Average,3.4,11
+AJ's Cafe & Bakery,300,Cafe,Agra,Agra Cantt,Café,9am to 10pm(Mon-Sun),Average,2.8,21
+Moti Mahal Restaurant,800,"North Indian,Chinese,Continental",Agra,Tajganj,Casual Dining,730am to 1030pm(Mon-Sun),Average,3.0,15
+Bazaar Cafe,400,Cafe,Agra,Sikandra,Café,12noon to 11pm(Mon-Sun),Average,3.4,7
+Royals Cafe Corner Restaurant,700,"Cafe,North Indian,Chinese,Continental",Agra,Tajganj,Café,7am to 1030pm(Mon-Sun),Average,3.2,22
+Choki Dhani - Rajasthani Bhojnalya,200,"Rajasthani,North Indian",Agra,Sikandra,Quick Bites,12noon to 10pm(Mon-Sun),Average,3.1,8
+Ravi Fast Food,200,Fast Food,Agra,Civil Lines,Quick Bites,11am to 9pm(Mon-Sun),Good,3.6,21
+Freshop,200,Fast Food,Agra,Civil Lines,Quick Bites,11am to 10pm(Mon-Sun),Average,3.4,12
+Ceezak Food Corner,350,"Chinese,Fast Food",Agra,Arjun Nagar,Quick Bites,10am to 930pm(Mon-Sun),Average,3.3,17
+China Town,200,Fast Food,Agra,Shahganj,Quick Bites,6pm to 10pm(Mon-Sun),Average,3.3,8
+New Chetna Store Patties Hub,100,Fast Food,Agra,Civil Lines,Quick Bites,11am to 10pm(Mon-Sun),Average,3.4,16
+Burgero,400,"Burger,Fast Food",Agra,Shahganj,Quick Bites,1130am to 10pm(Mon-Sun),Average,2.8,18
+Sri Balaji Restaurant,500,"South Indian,North Indian,Beverages",Agra,Tajganj,Casual Dining,8am to 1030pm(Mon-Sun),Average,3.4,14
+Freaky Burger,200,Burger,Agra,Rakabganj,Quick Bites,1130am to 1030pm(Mon-Sun),Average,3.1,9
+Sanjay Food Corner,100,North Indian,Agra,Sikandra,Quick Bites,7am to 10pm(Mon-Sun),Average,3.2,6
+Punjabi Tadka,100,"Fast Food,North Indian",Agra,Sikandra,Quick Bites,9am to 9pm(Mon-Sun),Average,3.3,8
+Thug Truck,150,"Fast Food,Chinese",Agra,Khandari,Food Truck,530pm to 10pm(Mon-Sun),Average,3.4,13
+Shri Radhay Chaat Bhandar,150,Fast Food,Agra,Kamla Nagar,none,6pm to 10pm(Mon-Sun),Average,3.4,11
+the bollywood fries,200,Fast Food,Agra,Kamla Nagar,Quick Bites,5pm to 10pm(Mon-Sun),Average,3.2,5
+Wow Vada Pav,200,"Street Food,Wraps,Burger",Agra,Sikandra,Quick Bites,1030am to 1030pm(Mon-Sun),Average,3.3,4
+Speise Restaurant,500,"Biryani,Chinese,Mughlai,Indian",Agra,Tajganj,Casual Dining,930am to 1030pm(Mon-Sun),Average,3.3,9
+Sagra,200,Fast Food,Agra,Agra Cantt,Quick Bites,7am to 1030pm(Mon-Sun),Average,3.4,13
+Dr Cake And Confectionery,150,Fast Food,Agra,Kamla Nagar,Quick Bites,10am to 10pm(Mon-Sun),Average,3.3,9
+Isha Food Plaza,150,"Fast Food,Bakery",Agra,Dayal Bagh,Quick Bites,1030am to 10pm(Mon-Sun),Average,3.3,9
+Food Paradise,200,"Bakery,Desserts",Agra,Sikandra,Bakery,9am to 9pm(Mon-Sun),Average,3.1,4
+Club 2100,300,Fast Food,Agra,Kamla Nagar,Quick Bites,2pm to 10pm(Mon-Sun),Average,3.3,12
+FCB Fast Food Corner,300,Fast Food,Agra,Tajganj,Quick Bites,11am to 10pm(Mon-Sun),Average,3.2,9
+Habova's BL Food Plaza,350,"Chinese,Indian,North Indian",Agra,Sikandra,Quick Bites,10am to 1030pm(Mon-Sun),Average,3.2,14
+Rola Wala,400,"Rolls,Chinese,Momos",Agra,Khandari,Quick Bites,"5pm to 11pm(Mon,Wed,Thu,Fri,Sat,Sun),Closed...",Good,3.6,96
+Amartsari Naan Thali,200,North Indian,Agra,Civil Lines,Quick Bites,11am to 5pm(Mon-Sun),Average,3.0,6
+Chinu Restaurant,400,North Indian,Agra,Kamla Nagar,Casual Dining,12noon to 10pm(Mon-Sun),Average,3.1,6
+Riya dairy & fast food,100,Fast Food,Agra,Dayal Bagh,Quick Bites,11am to 10pm(Mon-Sun),Average,3.3,12
+Tasty Bite Restaurant,800,"North Indian,Chinese",Agra,Tajganj,Casual Dining,7am to 9pm(Mon-Sun),Average,2.9,5
+Indo American Foods,150,"Fast Food,Italian",Agra,Dayal Bagh,Quick Bites,1130am to 10pm(Mon-Sun),Average,3.3,13
+JMB Bakery,350,"Bakery,Fast Food",Agra,Sikandra,Quick Bites,10am to 10pm(Mon-Sun),Average,3.1,13
+Anokhe Paratha,150,North Indian,Agra,Tajganj,Quick Bites,7am to 10pm(Mon-Sun),Average,3.3,10
+Yadav Dhaba Purana,300,North Indian,Agra,Civil Lines,Dhaba,1030am to 1130pm(Mon-Sun),Good,3.9,225
+Mocha,1500,"Cafe,Italian,Chinese,Continental,North Indian",Agra,Tajganj,Café,11am to 12midnight(Mon-Sun),Very Good,4.3,441
+Jahanpanah,850,"North Indian,Mughlai",Agra,Agra Cantt,Casual Dining,"1240pm to 1145pm(Mon,Wed,Thu,Fri,Sat,Sun)...",Good,3.9,270
+Subway,500,"Healthy Food,Sandwich,Salad",Agra,Khandari,Quick Bites,24,Very Good,4.1,253
+Papa Ji Da Dhaba,250,North Indian,Agra,Civil Lines,Dhaba,1030am to 11pm(Mon-Sun),Very Good,4.0,341
+Pind Balluchi,1000,"North Indian,Mughlai",Agra,Tajganj,Casual Dining,12noon to 12midnight(Mon-Sun),Very Good,4.2,494
+Chapter 1 Cafe,1000,"Cafe,Italian,Mexican,North Indian,Continental",Agra,Tajganj,Café,1230pm to 11pm(Mon-Sun),Very Good,4.2,263
+Sugar N Thyme,1000,"Cafe,Chinese,Thai,Continental,Italian,Bakery,Desserts",Agra,Tajganj,Café,7am to 12midnight(Mon-Sun),Very Good,4.3,261
+Amritsari Kulcha Junction,600,North Indian,Agra,Civil Lines,Quick Bites,15pm to 1050pm(Mon-Sun),Very Good,4.1,321
+G Thal,900,"Rajasthani,Gujarati,Mughlai",Agra,Khandari,Casual Dining,"1130am to 3pm,7pm to 11pm(Mon-Sun)",Good,3.7,240
+D'Delicia,1600,"North Indian,Chinese,Mexican,Italian",Agra,Tajganj,Fine Dining,12noon to 1130pm(Mon-Sun),Excellent,4.6,224
+Jain Restaurant,500,North Indian,Agra,Shahganj,Quick Bites,10am to 11pm(Mon-Sun),Very Good,4.2,262
+Bhadawar Hotel,200,North Indian,Agra,Mantola,Quick Bites,11am to 12midnight(Mon-Sun),Very Good,4.0,138
+Thaaliwala,700,"North Indian,Fast Food",Agra,Tajganj,Casual Dining,8am to 11pm(Mon-Sun),Very Good,4.0,316
+The Forest,800,Indian,Agra,Sikandra,Casual Dining,1230pm to 1045pm(Mon-Sun),Good,3.7,250
+Burger Panda,250,"Burger,Fast Food",Agra,Shahganj,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,82
+Apollo Foods,400,Bakery,Agra,Civil Lines,Quick Bites,9am to 9pm(Mon-Sun),Average,3.1,4
+Dear Shoppy,200,Fast Food,Agra,Khandari,Quick Bites,9am to 9pm(Mon-Sun),Average,3.3,8
+Shri Mahaveer Bakery And Confectionery,150,"Desserts,Bakery",Agra,Sikandra,Bakery,11am to 9pm(Mon-Sun),Average,3.1,4
+Foodie Bites,250,"North Indian,Fast Food",Agra,Sikandra,none,12noon to 10pm(Mon-Sun),Average,3.1,6
+S.R Restaurant & Fast food,500,"North Indian,Fast Food",Agra,Tajganj,Casual Dining,9am to 10pm(Mon-Sun),Average,2.9,7
+Gravy Spicy Tasty,400,North Indian,Agra,Sikandra,none,"630pm to 1030pm(Mon-Sat),5pm to 1056pm(Sun)",Average,3.2,11
+Lick N Bite Bakers,300,Bakery,Agra,Sikandra,Bakery,11am to 10pm(Mon-Sun),Average,2.9,6
+Prince Bakers,250,"Bakery,Fast Food",Agra,Civil Lines,Bakery,1030am to 1030pm(Mon-Sun),Average,3.2,10
+Cakeshh,800,Bakery,Agra,Dayal Bagh,Bakery,9am to 9pm(Mon-Sun),Average,3.2,6
+K.D Bakers,200,Bakery,Agra,Sikandra,Dessert Parlor,6am to 10pm(Mon-Sun),Average,3.0,4
+Indian Spice,450,"North Indian,South Indian,Chinese",Agra,Sikandra,Casual Dining,7am to 1030pm(Mon-Sun),Average,2.8,9
+Shivam Restaurant,250,"North Indian,Chinese,Fast Food",Agra,Tajganj,Quick Bites,11am to 10pm(Mon-Sun),Average,3.1,4
+Vintage House,900,"North Indian,Continental",Agra,Tajganj,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.1,27
+Rajmahal Restaurant,1000,"North Indian,Chinese",Agra,Tajganj,Casual Dining,7am to 1030pm(Mon-Sun),Average,2.8,7
+Naturelo,400,"Ice Cream,Desserts,Beverages",Agra,Civil Lines,Dessert Parlor,11am to 11pm(Mon-Sun),Very Good,4.0,50
+Maruti Restaurant,700,"North Indian,South Indian,Chinese",Agra,Khandari,Casual Dining,12noon to 1030pm(Mon-Sun),Average,3.2,7
+Unique Foodz & Bakez,300,Fast Food,Agra,Kamla Nagar,Quick Bites,9am to 10pm(Mon-Sun),Average,3.2,5
+Shri Jagdamba Bakers,200,"Fast Food,Bakery",Agra,Kamla Nagar,Bakery,8am to 10pm(Mon-Sun),Average,3.2,7
+Agarsen Sweets,400,Mithai,Agra,Civil Lines,Sweet Shop,930am to 9pm(Mon-Sun),Average,3.2,5
+Indo Italian Street,200,Street Food,Agra,Kamla Nagar,Quick Bites,4pm to 10pm(Mon-Sun),Average,3.3,8
+Jain Food Court,300,North Indian,Agra,Khandari,Quick Bites,11am to 10pm(Mon-Sun),Average,3.1,4
+Imran Hot Roll Centre,100,Rolls,Agra,Shahganj,Kiosk,6pm to 10pm(Mon-Sun),Average,3.2,8
+Veg Express,300,North Indian,Agra,Civil Lines,none,10am to 8pm(Mon-Sun),Average,3.1,5
+Top'n'treat,150,Fast Food,Agra,Khandari,Quick Bites,11am to 10pm(Mon-Sun),Average,3.1,4
+Brothers Bistro,500,Cafe,Agra,Kamla Nagar,Café,1230pm to 11pm(Mon-Sun),Good,3.5,55
+The Golden Grilled,400,"North Indian,Fast Food",Agra,Khandari,Casual Dining,5pm to 10pm(Mon-Sun),Average,3.2,5
+Novelty Restaurant,1000,"North Indian,Mughlai",Agra,Rakabganj,Casual Dining,8am to 10pm(Mon-Sun),Average,2.8,5
+Prasadam,100,North Indian,Agra,Khandari,Quick Bites,9am to 8pm(Mon-Sun),Average,3.2,6
+Punjabi Van,250,"North Indian,Fast Food",Agra,Kamla Nagar,Quick Bites,7am to 1030pm(Mon-Sun),Average,2.9,4
+Gaurav Sweets,250,Mithai,Agra,Sikandra,Sweet Shop,7am to 10pm(Mon-Sun),Average,3.1,5
+Ichchha Veg Briyani & Fast Food,200,"Biryani,Fast Food",Agra,Sikandra,Quick Bites,11am to 6pm(Mon-Sun),Average,3.2,4
+G Baba Francky Corner,200,Fast Food,Agra,Sikandra,Quick Bites,5pm to 10pm(Mon-Sun),Average,3.1,6
+New Riao Restaurant,1000,"North Indian,Chinese,Mughlai,Continental",Agra,Agra Cantt,Casual Dining,830am to 10pm(Mon-Sun),Average,2.8,4
+Desi Masala,200,North Indian,Agra,Civil Lines,Quick Bites,11am to 10pm(Mon-Sun),Average,3.2,5
+Bedweiser Cafe,350,"North Indian,Fast Food",Agra,Tajganj,Quick Bites,"9am to 3pm,7pm to 10pm(Mon-Sun)",Average,3.2,5
+Karan Restaurant,1000,"Chinese,North Indian,Fast Food",Agra,Hotel Ganga Ratan-- Tajganj,Casual Dining,630am to 1030pm(Mon-Sun),Average,3.1,4
+Bullet Adda,500,"Cafe,Continental,Italian",Agra,Sikandra,Café,1030am to 11pm(Mon-Sun),Very Good,4.1,216
+Aromatic Nosh,700,Fast Food,Agra,Kamla Nagar,Quick Bites,1130am to 11pm(Mon-Sun),Very Good,4.1,100
+MKOP,200,"Bakery,Fast Food",Agra,Civil Lines,Dessert Parlor,10am to 11pm(Mon-Sun),Very Good,4.4,228
+Pari Family Restaurant,400,"North Indian,Fast Food,South Indian",Agra,Sikandra,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,231
+Social Attitude,600,"Cafe,Chinese,Finger Food,North Indian",Agra,Shahganj,Café,9am to 11pm(Mon-Sun),Good,3.8,178
+Bercos,1000,"Chinese,Thai",Agra,Civil Lines,Casual Dining,1230pm to 11pm(Mon-Sun),Very Good,4.1,196
+Ram Babu Parathe Wale,700,Fast Food,Agra,Sikandra,Quick Bites,9am to 11pm(Mon-Sun),Average,3.1,235
+Anant Restaurant,350,South Indian,Agra,Kamla Nagar,Casual Dining,12noon to 11pm(Mon-Sun),Very Good,4.1,223
+The Momo Corner,200,"Chinese,Momos,Wraps,Burger",Agra,Kamla Nagar,Quick Bites,12noon to 1130pm(Mon-Sun),Very Good,4.2,147
+Grey House Cafe,1500,Cafe,Agra,Tajganj,Café,"1pm to 1130pm(Mon-Thu),1pm to 1230AM(Fri-Sun)",Very Good,4.1,197
+Dasaprakash Restaurant,550,"South Indian,Desserts",Agra,Rakabganj,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.1,211
+KFC,500,"Burger,Fast Food",Agra,Tajganj,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.0,224
+Capri Restaurant,850,"North Indian,Mughlai",Agra,Civil Lines,Casual Dining,12noon to 1130pm(Mon-Sun),Good,3.5,200
+Campus Bakers,300,"Fast Food,Bakery",Agra,Sikandra,Quick Bites,10am to 11pm(Mon-Sun),Very Good,4.1,142
+The Rollings,700,"North Indian,Chinese,Continental",Agra,Khandari,Lounge,"12noon to 11pm(Mon-Fri),12midnight to 11pm...",Good,3.9,146
+Giani Ice Cream,200,Ice Cream,Agra,Agra Cantt,Dessert Parlor,12noon to 12midnight(Mon-Sun),Very Good,4.1,33
+Ultimate Pizza,400,Fast Food,Agra,Arjun Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,62
+Marleys  The Milkshake,350,Beverages,Agra,Tajganj,Beverage Shop,10am to 12midnight(Mon-Sun),Good,3.7,43
+Culinary Junction By Udupi,800,"North Indian,South Indian,European,Chinese,Italian",Agra,Tajganj,Casual Dining,12noon to 11pm(Mon-Sun),Very Good,4.3,24
+Punjabi Swag,350,North Indian,Agra,Dayal Bagh,Quick Bites,5pm to 11pm(Mon-Sun),Good,3.8,83
+Hari Chatni Restaurant,650,"North Indian,Chinese",Agra,Civil Lines,Casual Dining,11am to 11pm(Mon-Sun),Good,3.7,82
+Pandit Bhojhnalaya,200,North Indian,Agra,Sikandra,Bhojanalya,9am to 12midnight(Mon-Sun),Good,3.5,56
+Bhole Kona Grill,450,"North Indian,Fast Food",Agra,Shahganj,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,81
+Indian Chicken Express,700,"Mughlai,North Indian",Agra,Shahganj,Quick Bites,"4pm to 11pm(Mon,Wed,Thu,Fri,Sat,Sun),Closed...",Good,3.8,82
+Lovely Restaurant,400,North Indian,Agra,Tajganj,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,17
+The Greens Restaurant & Herbal Cafe,500,"North Indian,South Indian,Chinese,Continental",Agra,Rakabganj,Casual Dining,730am to 11pm(Mon-Sun),Good,3.9,50
+Club Rush,1100,"North Indian,Chinese,Continental",Agra,Tajganj,Lounge,11am to 12midnight(Mon-Sun),Good,3.8,71
+Blue Coriander,800,"North Indian,Continental,Cafe",Agra,Civil Lines,Casual Dining,8am to 12midnight(Mon-Sun),Good,3.9,63
+Mama's Vegetarian Food Corner,200,"Fast Food,South Indian",Agra,Agra Cantt,Quick Bites,1pm to 11pm(Mon-Sun),Good,3.6,62
+Shere Punjab Restaurant,500,"North Indian,South Indian,Continental",Agra,Kamla Nagar,Casual Dining,"1pm to 11pm(Mon,Wed,Thu,Fri,Sat,Sun),6pm to ...",Good,3.8,57
+Sri Dauji's Chatpataa,500,"North Indian,South Indian",Agra,Kamla Nagar,Casual Dining,12noon to 11pm(Mon-Sun),Good,3.8,41
+Ashoka Bar,1000,North Indian,Agra,Civil Lines,Bar,11am to 11pm(Mon-Sun),Good,3.7,51
+Spice Kitchen - The Sizzling Multi-Cuisine Restaurant,600,"North Indian,South Indian,Chinese",Agra,Rakabganj,Casual Dining,730am to 1130pm(Mon-Sun),Good,3.5,35
+Shri Thakur Ji Bhojanalaya,150,North Indian,Agra,Civil Lines,Casual Dining,9am to 11pm(Mon-Sun),Good,3.9,39
+Mercury Cafe,250,Beverages,Agra,Tajganj,Quick Bites,930am to 1130pm(Mon-Sun),Good,3.6,39
+Chhabra's Chicken Corner,300,"North Indian,Biryani,Chinese,Rolls",Agra,Shahganj,Quick Bites,"3pm to 1130pm(Mon,Wed,Thu,Fri,Sat,Sun)...",Good,3.7,64
+Satkar Pastries,500,"Fast Food,Desserts",Agra,Kamla Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,32
+Labbaik Chicken Corner,600,Biryani,Agra,Mantola,Casual Dining,12noon to 1am(Mon-Sun),Good,3.7,55
+Roadies,550,Mughlai,Agra,Sikandra,Quick Bites,"5pm to 11pm(Mon,Wed,Thu,Fri,Sat),Closed...",Good,3.5,67
+The London Bakery,500,Bakery,Agra,Kamla Nagar,Bakery,11am to 12midnight(Mon-Sun),Good,3.9,59
+Cafe Godfather,500,"North Indian,Chinese,Italian,Continental",Agra,Tajganj,Café,12noon to 12midnight(Mon-Sun),Good,3.7,19
+Indian By Nature,1200,North Indian,Agra,Civil Lines,Casual Dining,7am to 11pm(Mon-Sun),Average,2.5,51
+Pankhuri Restaurant,1000,"North Indian,Chinese,Continental,South Indian",Agra,Rakabganj,Casual Dining,8am to 11pm(Mon-Sun),Good,3.9,66
+Karims,1200,"Mughlai,Kebab",Agra,Tajganj,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.8,57
+Vaishno Bakery,300,"Fast Food,Bakery",Agra,Lohamandi,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,27
+Gobhi.com,250,"North Indian,Chinese",Agra,Arjun Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,56
+Aleem,500,"Biryani,Mughlai,Kebab",Agra,Tajganj,Quick Bites,9am to 12midnight(Mon-Sun),Good,3.8,69
+WOS Cafe - World of Spices,800,"North Indian,Chinese",Agra,Tajganj,Casual Dining,11am to 11pm(Mon-Sun),Good,3.9,34
+Hungrill Cafe & Restaurant,200,Fast Food,Agra,Sikandra,Quick Bites,"1pm to 11pm(Mon,Wed,Thu,Fri,Sat,Sun),Closed...",Good,3.6,57
+Shri Dharamraj Yadav Dhaba,200,North Indian,Agra,Civil Lines,Dhaba,1130am to 1130pm(Mon-Sun),Good,3.6,65
+Hotel Solitaire,600,"North Indian,South Indian,Chinese",Agra,Civil Lines,Casual Dining,"8am to 12noon,1pm to 4pm,7pm to 11pm(Mon-Sun)",Good,3.7,58
+Om Restaurant,400,"North Indian,South Indian",Agra,Agra Cantt,Quick Bites,10am to 11pm(Mon-Sun),Good,3.6,52
+Spicy Spoon,550,"South Indian,Chinese,North Indian",Agra,Kamla Nagar,Casual Dining,4pm to 11pm(Mon-Sun),Good,3.6,59
+Pushpak Misthan Bhandar and Sweet,200,"Mithai,Fast Food",Agra,Mantola,Sweet Shop,7am to 11pm(Mon-Sun),Good,3.8,31
+Hotel Amar - Noorjahan Restaurant,900,"North Indian,Chinese,Continental,South Indian",Agra,Hotel Amar-- Tajganj,Casual Dining,6am to 11pm(Mon-Sun),Good,3.7,42
+Gupta Ji Dhaba & Veg Briyani,150,North Indian,Agra,Sikandra,Dhaba,10am to 11pm(Mon-Sun),Good,3.7,36
+Green Veg Thali,300,North Indian,Agra,Tajganj,Quick Bites,7am to 11pm(Mon-Sun),Average,2.9,44
+Dilli Darbar,300,North Indian,Agra,Civil Lines,Quick Bites,10am to 11pm(Mon-Sun),Good,3.6,30
+Mama Franky House,200,Fast Food,Agra,Shahganj,Kiosk,5pm to 11pm(Mon-Sun),Average,3.4,42
+Agra Zayka Family Restaurant,400,"North Indian,Chinese,Continental",Agra,Kamla Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,55
+Kings,600,"Bakery,Continental",Agra,Kamla Nagar,Quick Bites,"11am to 11pm(Mon,Wed,Thu,Fri,Sat,Sun),11am...",Good,3.6,56
+Sanjay Bakers & Confectioner,300,"Bakery,Desserts",Agra,Kamla Nagar,Bakery,10am to 11pm(Mon-Sun),Good,3.6,41
+Pandit Bhojnalaya,200,North Indian,Agra,Sikandra,Bhojanalya,9am to 12midnight(Mon-Sun),Average,3.1,16
+Dreams Bakers Paradise,200,Bakery,Agra,Civil Lines,Bakery,11am to 11pm(Mon-Sun),Good,3.6,66
+Glassy,1500,"Cafe,Chinese,Continental,Indian",Agra,Tajganj,Café,"6pm to 1230AM(Mon-Fri),1pm to 1230AM(Sat-Sun)",Good,3.7,45
+Baba Chicken Mutton,300,"Mughlai,Afghan",Agra,Sikandra,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.3,27
+Hunger Point Cafe and Bakers,400,"Cafe,Chinese,Continental",Agra,Tajganj,Quick Bites,9am to 1130pm(Mon-Sun),Average,2.8,57
+Masterchef,400,"Italian,North Indian",Agra,Sikandra,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,45
+Cafe De Fusion,250,Cafe,Agra,Agra Cantt,Café,"11am to 11pm(Mon,Wed,Thu,Fri,Sat,Sun),4pm...",Good,3.9,36
+Balaji Dosa Factory,250,"South Indian,Street Food",Agra,Khandari,Food Truck,5pm to 11pm(Mon-Sun),Average,3.3,56
+Sizzling Lounge,300,Fast Food,Agra,Khandari,Quick Bites,930am to 11pm(Mon-Sun),Average,3.0,26
+Selfie Restaurant,400,North Indian,Agra,Lohamandi,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.5,55
+Bhagat Food Court,500,"Chinese,Street Food",Agra,Civil Lines,Quick Bites,1230pm to 1045pm(Mon-Sun),Good,3.5,60
+Ohh..foodies,300,"American,Beverages,Biryani,Continental,Indian,North Indian,Pizza",Agra,Mantola,Quick Bites,10am to 11pm(Mon-Sun),Good,3.5,37
+European Bakery,300,"Bakery,Desserts,Fast Food",Agra,Civil Lines,Bakery,10am to 11pm(Mon-Sun),Good,3.5,30
+Cafe Chilam,750,"Cafe,Fast Food,Chinese",Agra,Tajganj,Café,12noon to 11pm(Mon-Sun),Good,3.5,48
+Chatpati Rasoi,350,North Indian,Agra,Tajganj,Dhaba,3pm to 1130pm(Mon-Sun),Good,3.5,47
+Ravi Patties & Mocktail Point,100,Street Food,Agra,Shahganj,Quick Bites,"11am to 10pm(Mon-Wed),12midnight to 121AM,11am...",Good,3.8,38
+Mama Momos,400,"Fast Food,Momos",Agra,Agra Cantt,Quick Bites,4pm to 11pm(Mon-Sun),Good,3.5,53
+Munchies,500,"Chinese,Fast Food",Agra,Agra Cantt,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.6,41
+Rasam,500,North Indian,Agra,Tajganj,Casual Dining,7am to 11pm(Mon-Sun),Good,3.6,41
+DR Food Plaza,200,North Indian,Agra,Kamla Nagar,Quick Bites,6pm to 11pm(Mon-Sun),Good,3.7,54
+Kings Spoon,500,"North Indian,Chinese,Continental",Agra,Sikandra,Casual Dining,7am to 11pm(Mon-Sun),Average,3.4,33
+Shyam Ji Restaurant,300,North Indian,Agra,Agra Cantt,Quick Bites,9am to 11pm(Mon-Sun),Good,3.8,30
+Bhagwati Dhaba & Thali,200,North Indian,Agra,Kamla Nagar,Quick Bites,10am to 11pm(Mon-Sun),Average,3.3,13
+V & S Maggie Point,150,"Fast Food,Italian",Agra,Shahganj,Quick Bites,"1030am to 10pm(Mon-Wed),10am to 11pm(Thu-Sun)",Good,3.7,32
+C-9 Restaurant,700,"Chinese,Continental,Desserts,North Indian,Pizza,Rolls,Sandwich,South Indian",Agra,Civil Lines,Quick Bites,10am to 11pm(Mon-Sun),Good,3.5,46
+Tunda Kababi,500,"North Indian,Mughlai",Agra,Civil Lines,Casual Dining,11am to 11pm(Mon-Sun),Average,3.0,24
+Flavours Restaurant,850,"North Indian,Chinese,Fast Food,South Indian",Agra,Civil Lines,Casual Dining,11am to 11pm(Mon-Sun),Good,3.9,52
+Sri Dauji Restaurant,100,Desserts,Agra,Kamla Nagar,Dessert Parlor,7am to 11pm(Mon-Sun),Average,3.3,36
+Labbaik Chicken Corner,600,"Mughlai,North Indian",Agra,Civil Lines,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,37
+Saket Restaurant,750,"North Indian,Chinese,South Indian",Agra,Khandari,Casual Dining,9am to 11pm(Mon-Sun),Average,3.1,41
+Chef On Wheels,200,"Chinese,Continental,North Indian",Agra,Tajganj,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,39
+Prem Bhalla Restaurant,650,"North Indian,Chinese,Fast Food",Agra,Arjun Nagar,Casual Dining,8am to 11pm(Mon-Sun),Good,3.6,35
+Nandani Red Crystal Restaurant,250,"South Indian,Pizza,Chinese,Desserts",Agra,Sikandra,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,28
+The Master Chef Restaurant,400,"Fast Food,Italian,Chinese",Agra,Agra Cantt,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,33
+Bhagwan Corner Cakes And Pastries,200,Bakery,Agra,Mantola,Bakery,1030am to 12midnight(Mon-Sun),Average,3.3,15
+The Tounge,400,"North Indian,South Indian,Chinese",Agra,Kamla Nagar,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,32
+Panchratan Restaurant,900,"North Indian,South Indian",Agra,Civil Lines,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,42
+Shri Ambika Restaurant,850,"North Indian,South Indian,Chinese",Agra,Kamla Nagar,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,46
+Punjabi Hut,400,"Indian,North Indian",Agra,Shahganj,Quick Bites,12noon to 11pm(Mon-Sun),Average,2.8,37
+Sauma,1400,"Chinese,North Indian",Agra,Tajganj,Casual Dining,11am to 1130pm(Mon-Sun),Good,3.8,26
+Dhaba Dictionary,200,North Indian,Agra,Tajganj,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,6
+Twisters,500,"Chinese,Fast Food,Mughlai,North Indian,Rolls",Agra,Civil Lines,Quick Bites,10am to 11pm(Mon-Sun),Good,3.7,44
+Faluda Corner,200,Ice Cream,Agra,Agra Cantt,Dessert Parlor,11am to 11pm(Mon-Sun),Average,3.3,18
+Zam Zam Chicken Corner,300,Fast Food,Agra,Sikandra,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,45
+Punjabi Grill,700,"Mughlai,North Indian",Agra,Tajganj,Quick Bites,4pm to 11pm(Mon-Sun),Good,3.6,27
+Ambience Restaurant,800,"North Indian,Continental",Agra,Kamla Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,38
+Foyer Restaurant and Cafe,800,Cafe,Agra,Tajganj,Quick Bites,10am to 1130pm(Mon-Sun),Average,2.9,15
+G Chakna- G Hotel,1000,"Chinese,Continental,North Indian",Agra,Kamla Nagar,Casual Dining,12noon to 1130pm(Mon-Sun),Good,3.6,28
+Thakur Ji Thaliwala,200,Indian,Agra,Kamla Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,15
+Dasaprakash Restaurant,650,South Indian,Agra,Tajganj,Casual Dining,8am to 11pm(Mon-Sun),Good,3.8,22
+Jain Bhojnalya,300,North Indian,Agra,Sikandra,Bhojanalya,10am to 12midnight(Mon-Sun),Good,3.5,29
+Shivam Restaurant,200,"Fast Food,Desserts",Agra,Agra Cantt,Quick Bites,"9am to 11pm(Mon,Wed,Thu,Sat,Sun),9pm to 11pm...",Average,2.8,28
+Food Stock Xchange,500,"North Indian,Chinese,Fast Food",Agra,Tajganj,Quick Bites,2pm to 11pm(Mon-Sun),Good,3.6,24
+The Culture Of Spices- Kitchen & Lounge,900,"North Indian,Continental",Agra,Sikandra,Casual Dining,11am to 11pm(Mon-Sun),Average,3.1,18
+Waffled,200,Desserts,Agra,Tajganj,Dessert Parlor,12noon to 11pm(Mon-Sun),Average,3.4,20
+Login Restaurant & Rooftop Cafe,400,"North Indian,Chinese,Continental",Agra,Tajganj,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,26
+The Silk Route Restaurant,1000,"North Indian,Chinese,Continental",Agra,Tajganj,Casual Dining,9am to 11pm(Mon-Sun),Average,3.4,29
+Jawahar Bhojnalay,400,North Indian,Agra,Dayal Bagh,Dhaba,9am to 11pm(Mon-Sun),Good,3.6,29
+Abhishek Dhaba,350,North Indian,Agra,Tajganj,Dhaba,4pm to 1130pm(Mon-Sun),Average,3.2,37
+Khanaa Khazanaa,400,"North Indian,Continental,Fast Food",Agra,Dayal Bagh,Quick Bites,1230pm to 1045pm(Mon-Sun),Average,3.4,22
+Navratan Fast Food & Restaurant,500,"North Indian,South Indian,Fast Food",Agra,Dayal Bagh,Quick Bites,10am to 1130pm(Mon-Sun),Good,3.6,39
+Lal Tadka Restaurant,500,North Indian,Agra,Lohamandi,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,29
+The Chef's Club,600,"North Indian,Chinese",Agra,Tajganj,Casual Dining,10am to 11pm(Mon-Sun),Good,3.5,26
+Anjali Restaurant,500,"North Indian,Chinese,Continental,South Indian",Agra,Shahganj,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,34
+Eating Meeting Restaurant,600,"North Indian,Chinese,Continental",Agra,Tajganj,Casual Dining,7am to 11pm(Mon-Sun),Poor,2.3,25
+Merry Go Round,1250,"North Indian,Chinese,Continental",Agra,Hotel Pushp Villa-- Tajganj,Casual Dining,630am to 1130pm(Mon-Sun),Average,2.7,24
+Shake Adda,250,Beverages,Agra,Kamla Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,33
+Lazeez Restaurant,600,North Indian,Agra,Tajganj,Casual Dining,8am to 11pm(Mon-Sun),Average,3.2,9
+Mulla Ji Briyani Restaurant,200,Biryani,Agra,Sikandra,none,11am to 11pm(Mon-Sun),Average,3.4,9
+Hotel Poonam Plaza,700,"North Indian,Chinese",Agra,Dayal Bagh,Casual Dining,10am to 11pm(Mon-Sun),Good,3.5,24
+Goverdhan Bakery,300,"Bakery,Fast Food",Agra,Shahganj,Bakery,8am to 12midnight(Mon-Sun),Good,3.7,22
+Orange Restaurant,1500,"Chinese,Continental,Fast Food,Finger Food,North Indian",Agra,Rakabganj,Casual Dining,"7am to 10am,12noon to 3pm,7pm to 11pm(Mon-Sun)",Good,3.6,18
+Gyani Dhaba,150,North Indian,Agra,Dayal Bagh,Dhaba,8am to 12midnight(Mon-Sun),Good,3.6,26
+Panchhi Petha Bhandar,200,Mithai,Agra,Sikandra,Sweet Shop,10am to 11pm(Mon-Sun),Good,3.5,21
+Family Zaika,1000,"North Indian,South Indian",Agra,Sikandra,Casual Dining,11am to 11pm(Mon-Sun),Average,3.1,30
+What The Food,400,Fast Food,Agra,Civil Lines,Quick Bites,5pm to 11pm(Mon-Sun),Good,3.8,217
+Atlantic Foods,400,"Bakery,Desserts,Sandwich,Burger,Pizza,Fast Food",Agra,Civil Lines,Dessert Parlor,11am to 11pm(Mon-Sun),Very Good,4.0,134
+The Masterchef Restaurant,600,"Cafe,Italian",Agra,Kamla Nagar,Café,1pm to 11pm(Mon-Sun),Good,3.9,206
+Udupi Brindavan,600,"South Indian,North Indian,Chinese",Agra,Khandari,Casual Dining,12noon to 1045pm(Mon-Sun),Very Good,4.1,193
+Agra Chat House,150,Street Food,Agra,Agra Cantt,Quick Bites,2pm to 11pm(Mon-Sun),Very Good,4.2,161
+Dosa Plaza,300,"South Indian,North Indian,Chinese",Agra,Khandari,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,192
+The Chocolate Room,400,"Desserts,Mexican,Italian,Fast Food",Agra,Tajganj,Dessert Parlor,10am to 12midnight(Mon-Sun),Very Good,4.3,124
+CHHAT - Over The Top,800,"North Indian,Chinese,Lebanese,Continental,Mediterranean,Mexican",Agra,Tajganj,Quick Bites,3pm to 12midnight(Mon-Sun),Very Good,4.0,51
+Jux Pux,300,"Beverages,Juices,Fast Food",Agra,Agra Cantt,Beverage Shop,11am to 11pm(Mon-Sun),Very Good,4.1,151
+Achman Cafe,700,"Cafe,Fast Food",Agra,Civil Lines,Café,12noon to 11pm(Mon-Sun),Very Good,4.1,228
+The Greener Side,300,Fast Food,Agra,Civil Lines,Quick Bites,1pm to 10pm(Mon-Sun),Very Good,4.4,410
+Sardarji Da Dhaba,400,North Indian,Agra,Agra Cantt,Casual Dining,"12midnight to 330am,11am to 12midnight(Mon-Sun)",Good,3.8,140
+Chopstix,600,Chinese,Agra,Civil Lines,Quick Bites,"1230pm to 1030pm(Mon-Thu),1230pm to 1045pm...",Good,3.8,169
+Cafe Kulhad,400,Fast Food,Agra,Civil Lines,Quick Bites,12noon to 1130pm(Mon-Sun),Very Good,4.0,121
+Fruck,400,Street Food,Agra,Khandari,Food Truck,5pm to 11pm(Mon-Sun),Very Good,4.0,116
+Bhai bhai,200,"Chinese,North Indian",Agra,Civil Lines,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,27
+Janta Khana Khazana,300,"Fast Food,Bakery",Agra,Shahganj,Quick Bites,830am to 11pm(Mon-Sun),Good,3.5,25
+Crush Cafe,400,"Chinese,Desserts,Fast Food,Sandwich",Agra,Agra Cantt,Café,11am to 11pm(Mon-Sun),Average,2.6,25
+Tandoori Hut,400,North Indian,Agra,Tajganj,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,24
+The Taste of Taj City,500,"North Indian,Chinese",Agra,Sikandra,Casual Dining,12noon to 11pm(Mon-Sun),Average,2.9,15
+Foodnary,300,"North Indian,South Indian,Chinese",Agra,Shahganj,Quick Bites,9am to 11pm(Mon-Sun),Average,3.3,10
+Om Sai Food Court,200,Fast Food,Agra,Dayal Bagh,Quick Bites,10am to 11pm(Mon-Sun),Good,3.5,21
+Spice Treat Dhaba,350,"North Indian,Chinese",Agra,Tajganj,Quick Bites,11am to 11pm(Mon-Sun),Poor,2.4,26
+Ohh.. Biryani,400,Biryani,Agra,Tajganj,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,7
+Shree Ganesh South Indian Restaurant,200,South Indian,Agra,Sikandra,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,28
+Dosa Kitchen,250,South Indian,Agra,Sikandra,Food Truck,6pm to 11pm(Mon-Sun),Good,3.5,17
+Chinese Dhaba,150,Chinese,Agra,Sikandra,Food Truck,6pm to 11pm(Mon-Sun),Average,3.0,23
+Chawla's Chic-Inn,400,"Mughlai,North Indian",Agra,Civil Lines,Quick Bites,6pm to 11pm(Mon-Sun),Good,3.6,38
+Tandoori Night,200,"North Indian,Fast Food",Agra,Sikandra,Quick Bites,2pm to 11pm(Mon-Sun),Average,3.3,10
+Punjabi Junction,600,"North Indian,Chinese",Agra,Sikandra,Casual Dining,"730am to 1030am,1230pm to 330pm,730pm to ...",Average,2.7,21
+Chanchal Hotel,400,North Indian,Agra,Agra Cantt,Dhaba,9am to 3am(Mon-Sun),Average,3.4,19
+Chowpaty By Captain,200,"Fast Food,South Indian,Street Food",Agra,Sikandra,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.4,12
+Pizza Delight Cafe,500,"Italian,Fast Food",Agra,Sikandra,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,13
+Maan Singh Egg Corner,150,Street Food,Agra,Kamla Nagar,Quick Bites,2pm to 12midnight(Mon-Sun),Average,3.3,23
+Tuk Tuk The Food Express,200,Fast Food,Agra,Agra Cantt,Quick Bites,11am to 11pm(Mon-Sun),Average,2.9,22
+Maharaja Restaurant,800,"North Indian,Chinese,Continental",Agra,Tajganj,Casual Dining,6am to 11pm(Mon-Sun),Average,2.8,14
+Maa Gayatri Bhojnalya,200,North Indian,Agra,Kamla Nagar,Quick Bites,8am to 11pm(Mon-Sun),Average,3.3,7
+Pandit Ji Bhojhnalaya,150,North Indian,Agra,Sikandra,Bhojanalya,8am to 11pm(Mon-Sun),Good,3.6,23
+Skyline Lounge & Rooftop,500,North Indian,Agra,Kamla Nagar,Casual Dining,1pm to 11pm(Mon-Sun),Average,3.3,16
+Agra Darbar,750,North Indian,Agra,Rakabganj,Casual Dining,7am to 11pm(Mon-Sun),Poor,2.4,19
+Awadhi Foods,400,North Indian,Agra,Civil Lines,Quick Bites,10am to 11pm(Mon-Sun),Good,3.6,24
+New Chinese King,300,"Chinese,Momos",Agra,Sikandra,Quick Bites,1pm to 12midnight(Mon-Sun),Average,2.8,22
+Fry Cafe,250,"Cafe,Fast Food,Beverages",Agra,Kamla Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,2.8,5
+Haveli Restaurant,1000,"North Indian,Chinese,Continental",Agra,Tajganj,Casual Dining,8am to 11pm(Mon-Sun),Poor,2.4,16
+Dasaprakash Xpress,800,"North Indian,Chinese",Agra,Tajganj,Casual Dining,8am to 11pm(Mon-Sun),Average,2.8,15
+Babu Non Veg Punjabi Tadka,200,North Indian,Agra,Kamla Nagar,none,5pm to 11pm(Mon-Sun),Average,3.3,9
+Celebrations Foods,200,"Fast Food,Bakery",Agra,Sikandra,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,8
+Happy Hours Restaurant,1000,"North Indian,South Indian,Chinese",Agra,Tajganj,Casual Dining,"9am to 12midnight(Mon-Fri),24",Average,3.3,16
+Tikka Town Restaurant,300,"Chinese,North Indian",Agra,Civil Lines,Quick Bites,6pm to 11pm(Mon-Sun),Average,3.3,23
+Vrindavan Pan Bhandar,100,Paan,Agra,Kamla Nagar,Paan Shop,10am to 12midnight(Mon-Sun),Good,3.5,21
+Quality Restaurant,800,"North Indian,Chinese",Agra,Tajganj,Casual Dining,8am to 11pm(Mon-Sun),Poor,2.3,18
+Dreams Bakers Paradise,250,"Fast Food,Bakery",Agra,Sikandra,Bakery,11am to 11pm(Mon-Sun),Average,2.9,26
+Brijwasi Sweet House,200,Mithai,Agra,Lohamandi,Sweet Shop,730am to 11pm(Mon-Sun),Average,3.3,21
+Panchhi Petha Dalmoth,200,Mithai,Agra,Khandari,Sweet Shop,10am to 11pm(Mon-Sun),Average,3.3,9
+The Mughal Darbar,800,"North Indian,Chinese,Mughlai,Continental",Agra,Tajganj,Casual Dining,8am to 11pm(Mon-Sun),Average,3.3,15
+Vaishno Balaji Dhaba,200,North Indian,Agra,Agra Cantt,Dhaba,9am to 3am(Mon-Sun),Average,2.8,20
+Bindhadi Ki Rasoi,500,"Rajasthani,North Indian",Agra,Kamla Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,17
+South Indian Corner,200,South Indian,Agra,Lohamandi,Quick Bites,5pm to 1130pm(Mon-Sun),Average,3.0,9
+Seven Hills Rooftop Restaurant,1500,"North Indian,Chinese,Continental",Agra,Tajganj,Casual Dining,"12noon to 3pm,7pm to 12midnight(Mon-Sun)",Average,3.4,18
+Gramma Food Zone,200,South Indian,Agra,Arjun Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,15
+Bhawna Palace Hotel,600,"North Indian,Chinese,South Indian",Agra,Khandari,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,12
+Krishna Sweet House,200,"Mithai,Fast Food",Agra,Khandari,Sweet Shop,6am to 11pm(Mon-Sun),Average,3.3,9
+Manoj Bhojnalay,250,North Indian,Agra,Agra Cantt,Dhaba,8am to 12midnight(Mon-Sun),Average,3.0,7
+Paris Bakery,350,"Bakery,Desserts",Agra,Sikandra,Bakery,11am to 11pm(Mon-Sun),Average,3.1,11
+Bushra KFB,200,North Indian,Agra,Khandari,Quick Bites,4pm to 11pm(Mon-Sun),Average,3.1,7
+Raj Darbar Restaurant,750,North Indian,Agra,Rakabganj,Casual Dining,7am to 11pm(Mon-Sun),Average,2.6,13
+Sandeep Egg Centre,150,Street Food,Agra,Sikandra,Quick Bites,4pm to 11pm(Mon-Sun),Good,3.5,19
+Spicy Tongue,700,"North Indian,Chinese",Agra,Sikandra,Casual Dining,11am to 11pm(Mon-Sun),Average,3.0,12
+Salt - Pepper Restaurant,1100,"North Indian,Chinese,Continental",Agra,Hotel Royale Residency-- Tajganj,Casual Dining,6am to 1130pm(Mon-Sun),Average,3.4,10
+Patyali Tadka,500,"North Indian,Rolls",Agra,Kamla Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,21
+Beloved Bakers,300,Bakery,Agra,Khandari,Bakery,11am to 11pm(Mon-Sun),Average,3.3,8
+Zam Zam Chicken Corner,150,North Indian,Agra,Tajganj,Quick Bites,12noon to 12midnight(Mon-Sun),Average,3.1,11
+Jordan Restaurant,400,North Indian,Agra,Tajganj,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,9
+Kumaun Dhaba,400,North Indian,Agra,Tajganj,Dhaba,3pm to 1130pm(Mon-Sun),Good,3.5,18
+Meals On Wheels,200,"Fast Food,North Indian,Chinese",Agra,Tajganj,Quick Bites,5pm to 1130pm(Mon-Sun),Average,3.1,16
+U & Me Cafe Family Restaurant,400,"North Indian,Chinese,Continental",Agra,Tajganj,Casual Dining,11am to 11pm(Mon-Sun),Average,2.9,15
+New Pushpak Misthan Bhandar,400,Mithai,Agra,Rakabganj,Sweet Shop,6am to 11pm(Mon-Sun),Average,3.4,11
+Shanti Sweets,600,Mithai,Agra,Kamla Nagar,Sweet Shop,11am to 11pm(Mon-Sun),Average,3.2,15
+Gup-Shup Food Point,200,"Fast Food,Chinese",Agra,Shahganj,Quick Bites,5pm to 11pm(Mon-Sun),Average,3.1,6
+Delicious Food Plaza,200,"Fast Food,Bakery",Agra,Shahganj,Confectionery,11am to 11pm(Mon-Sun),Average,3.1,8
+Agarwal Food Corner,400,North Eastern,Agra,Tajganj,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,12
+Qaisar Bagh Restaurant,800,"North Indian,Mughlai,Chinese,Continental",Agra,Tajganj,Casual Dining,7am to 1130pm(Mon-Sun),Average,2.8,12
+Same Place Food Court & Hukka Corner,750,"North Indian,Chinese,South Indian",Agra,Dayal Bagh,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,19
+Kashish Restaurant,750,"North Indian,Mughlai",Agra,Tajganj,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,10
+Agra Mutton Chicken House,650,North Indian,Agra,Civil Lines,Casual Dining,9am to 12midnight(Mon-Sun),Average,2.6,20
+Tiwari Bombay Style Bhel and Panipuri,100,Street Food,Agra,Agra Cantt,Quick Bites,3pm to 11pm(Mon-Sun),Average,3.4,15
+King of Spice,700,"North Indian,Chinese",Agra,Tajganj,Casual Dining,8am to 11pm(Mon-Sun),Average,2.8,13
+Chatori Gali,300,"Chinese,North Indian,South Indian",Agra,Kamla Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,2.7,20
+Shree Ganesh Chowemin and Fast Food,200,Fast Food,Agra,Sikandra,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,5
+Thali Master,400,North Indian,Agra,Agra Cantt,Quick Bites,11am to 11pm(Mon-Sun),Average,2.9,8
+Sikander Restaurant,300,North Indian,Agra,Sikandra,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,9
+Jalsa Restaurant,400,"North Indian,Italian",Agra,Sikandra,Casual Dining,11am to 12midnight(Mon-Sun),Good,3.5,14
+Kohinoor Bar & Restaurant,800,"North Indian,Continental,Chinese",Agra,Civil Lines,Casual Dining,12noon to 12midnight(Mon-Sun),Average,2.9,11
+Deep Corner,300,Bakery,Agra,Shahganj,Bakery,10am to 11pm(Mon-Sun),Average,3.3,11
+Baskin Robin,500,"Desserts,Ice Cream",Agra,Civil Lines,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,14
+Good Friend Cafe,400,Fast Food,Agra,Tajganj,Quick Bites,24,Average,2.9,16
+Taj Juice And Ice- Cream Parlour,200,"Juices,Ice Cream",Agra,Shahganj,Beverage Shop,11am to 11pm(Mon-Sun),Average,3.1,10
+Spice Darbar Family Restaurant,500,"North Indian,Chinese,Fast Food",Agra,Tajganj,Quick Bites,12noon to 1130pm(Mon-Sun),Average,3.3,7
+Thikana,800,"Cafe,Italian,Mexican,Continental,North Indian",Agra,Kuberpur,Casual Dining,3pm to 11pm(Mon-Sun),Average,3.0,7
+Ravi Dosa Corner,150,South Indian,Agra,Arjun Nagar,Quick Bites,5pm to 11pm(Mon-Sun),Average,3.3,16
+Shri Krishna Vaishno Bhojanalaya,350,North Indian,Agra,Civil Lines,Casual Dining,9am to 12midnight(Mon-Sun),Average,3.4,13
+Kela Devi Patties,250,"Fast Food,Desserts",Agra,Kamla Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,6
+Zero Degree - Pio,150,"Beverages,Desserts",Agra,Tajganj,Beverage Shop,6pm to 12midnight(Mon-Sun),Good,3.5,12
+Mama's Egg Corner,200,Lebanese,Agra,Agra Cantt,Quick Bites,2pm to 11pm(Mon-Sun),Average,3.1,7
+B.G foods,300,"Rolls,Sandwich,Burger,Pizza,Bakery",Agra,Mantola,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,5
+Shanti Food Court,400,"North Indian,South Indian,Continental,Fast Food",Agra,Sikandra,Quick Bites,10am to 11pm(Mon-Sun),Average,2.8,12
+Shri Giriraj Bhojanalaya,400,"North Indian,Fast Food",Agra,Tajganj,Bhojanalya,11am to 11pm(Mon-Sun),Average,3.2,6
+Sagar Chowmein,100,Chinese,Agra,Kamla Nagar,none,3pm to 11pm(Mon-Sun),Average,3.3,7
+Shanti Sweets,400,Mithai,Agra,Sikandra,Sweet Shop,7am to 11pm(Mon-Sun),Average,3.0,10
+Punjabi Grill,500,"North Indian,Fast Food",Agra,Sikandra,Kiosk,6pm to 11pm(Mon-Sun),Average,3.4,11
+Tiwari Bombay Food Court,100,Street Food,Agra,Sikandra,Quick Bites,4pm to 11pm(Mon-Sun),Average,3.2,7
+Chef On Call,300,Fast Food,Agra,Tajganj,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.0,10
+Avalon Taj,450,"North Indian,Chinese",Agra,Agra Cantt,Casual Dining,24,Average,2.9,10
+Darbar,600,"North Indian,Chinese",Agra,Tajganj,Casual Dining,8am to 11pm(Mon-Sun),Average,3.2,8
+Apollo Restaurant,300,"North Indian,South Indian,Chinese",Agra,Tajganj,Casual Dining,10am to 11pm(Mon-Sun),Average,2.7,10
+Agra Food Court,200,North Indian,Agra,Arjun Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,2.8,11
+Bambino cafe,250,"North Indian,Beverages,Italian",Agra,Tajganj,Quick Bites,11am to 11pm(Mon-Sun),Average,2.8,8
+Fireside,300,"North Indian,Chinese,Italian",Agra,Agra Cantt,Quick Bites,3pm to 11pm(Mon-Sun),Average,3.3,9
+Gazal Bar,1000,North Indian,Agra,Shahganj,Bar,12noon to 12midnight(Mon-Sun),Average,3.2,8
+Roots Cafe,200,"North Indian,Fast Food",Agra,Khandari,none,11am to 11pm(Mon-Sun),Average,3.0,6
+Sethi Ji Hotel,250,North Indian,Agra,Agra Cantt,Dhaba,24,Average,2.8,9
+Chilly Chatkara,850,"North Indian,Chinese,Continental",Agra,Tajganj,Casual Dining,"7am to 1030am,1230pm to 3pm,7pm to 11pm...",Average,3.3,12
+Brij Bakers,150,"Bakery,Desserts",Agra,Kamla Nagar,Bakery,930am to 1130pm(Mon-Sun),Average,2.9,7
+Pehalwan Biryani Food Truck,350,Biryani,Agra,Tajganj,Food Truck,12noon to 11pm(Mon-Sun),Average,3.3,8
+Moti Palace Restaurant and Bar,1000,"North Indian,Chinese",Agra,Rakabganj,Casual Dining,8am to 11pm(Mon-Sun),Average,3.0,10
+Hunger Grill,700,"North Indian,Chinese,Fast Food",Agra,Sikandra,Casual Dining,130pm to 1130pm(Mon-Sun),Average,3.4,12
+FCB Fast Food Corner,300,Fast Food,Agra,Kamla Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,6
+Shri Bikaner Sweets,200,"Fast Food,Mithai",Agra,Khandari,Quick Bites,8am to 11pm(Mon-Sun),Average,3.2,7
+Dana Pani restaurant,350,"North Indian,Fast Food",Agra,Kamla Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,4
+Apna Dhabha,150,North Indian,Agra,Sikandra,Dhaba,8am to 12midnight(Mon-Sun),Average,2.9,7
+Relish Restaurant,1000,"Chinese,Continental,North Indian",Agra,Tajganj,Casual Dining,9am to 11pm(Mon-Sun),Average,3.1,7
+Dauji Chaat Bhandar,150,Street Food,Agra,Sikandra,Quick Bites,4pm to 11pm(Mon-Sun),Average,3.2,4
+Milan Restaurant,700,"North Indian,Finger Food",Agra,Sikandra,Casual Dining,11am to 11pm(Mon-Sun),Average,3.0,4
+Elleven To 11,300,"North Indian,Chinese",Agra,Kamla Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,5
+Ratan Pizza,500,"Pizza,Fast Food,Bakery",Agra,Civil Lines,Quick Bites,9am to 11pm(Mon-Sun),Good,3.8,94
+Captain's Cafe,500,"Cafe,North Indian,Mughlai,Italian,Chinese",Agra,Sikandra,Café,11am to 11pm(Mon-Sun),Very Good,4.0,156
+Chokho Jeeman Marwari Jain Bhojanalya,400,Rajasthani,Agra,Civil Lines,Casual Dining,"11am to 315pm,7pm to 10pm(Mon-Sun)",Very Good,4.2,447
+Shri Tirupati No.1 Family Restaurant,300,"North Indian,Fast Food",Agra,Sikandra,Quick Bites,"1pm to 11pm(Mon,Tue,Thu,Sat,Sun),1pm to ...",Good,3.8,121
+Chaat Chowpaati,150,Street Food,Agra,Kamla Nagar,Quick Bites,1pm to 11pm(Mon-Sun),Good,3.8,137
+Sattolala Food Court,200,"North Indian,Desserts",Agra,Shahganj,Quick Bites,8am to 11pm(Mon-Sun),Good,3.5,158
+Q'sinn,1000,North Indian,Agra,Civil Lines,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.1,115
+Chimmanlal Puri Wale,150,"North Indian,Street Food,Mithai",Agra,Mantola,Quick Bites,7am to 10pm(Mon-Sun),Very Good,4.0,155
+Sizzling Salt,800,North Indian,Agra,Khandari,Casual Dining,11am to 1120pm(Mon-Sun),Very Good,4.1,138
+Chainess,200,"Tea,Fast Food",Agra,Civil Lines,Quick Bites,"11am to 10pm(Mon-Sat),10am to 10pm(Sun)",Very Good,4.2,105
+The Big Bun,250,"Burger,Sandwich,Fast Food,Pizza,Rolls,Bakery",Agra,Civil Lines,Quick Bites,1030am to 10pm(Mon-Sun),Very Good,4.4,155
+Family Zaika Restro & Lounge,800,"North Indian,South Indian,Chinese",Agra,Kamla Nagar,Casual Dining,11am to 11pm(Mon-Sun),Good,3.7,110
+Sheroes Hangout,200,"Cafe,North Indian,Chinese",Agra,Tajganj,Café,10am to 9pm(Mon-Sun),Excellent,4.9,253
+The Grand Gopika Thaal By GMB,800,"North Indian,Rajasthani,Gujarati",Agra,Tajganj,Casual Dining,"12noon to 4pm,7pm to 12midnight(Mon-Sun)",Very Good,4.2,27
+New Moon Light Restaurant,350,North Indian,Agra,Civil Lines,Dhaba,11am to 11pm(Mon-Sun),Good,3.7,115
+Gulab Snacks Parlour,200,Fast Food,Agra,Khandari,Quick Bites,10am to 11pm(Mon-Sun),Average,3.2,6
+Chunar Chicken,500,Mughlai,Agra,Mantola,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,6
+Four Seasons Fun & Food Village,500,"Chinese,North Indian",Agra,Dayal Bagh,Quick Bites,4pm to 11pm(Mon-Sun),Average,3.2,8
+Jack N Jill,200,Fast Food,Agra,Arjun Nagar,Quick Bites,10am to 11pm(Mon-Sun),Average,3.0,4
+RS Crazy Bites,100,"Sandwich,Burger",Agra,Civil Lines,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,5
+Anjana Restaurant,500,"Chinese,Fast Food,North Indian",Agra,Tajganj,Quick Bites,7am to 1130pm(Mon-Sun),Average,3.1,8
+Hangout- The Lounge Bar,600,Finger Food,Agra,Lohamandi,Bar,11am to 11pm(Mon-Sun),Average,3.1,4
+Jawahar Bhojnalya,200,North Indian,Agra,Dayal Bagh,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,4
+Hashim Restaurant,250,"Biryani,North Indian",Agra,Shahganj,Quick Bites,10am to 11pm(Mon-Sun),Average,3.1,4
+The Chamber,1500,"North Indian,Mughlai,Continental,Chinese",Agra,Tajganj,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.1,4
+Cottage Cafe,100,Fast Food,Agra,Civil Lines,Quick Bites,12noon to 12midnight(Mon-Sun),Average,3.1,4
+Hotel Ganpati,250,"North Indian,Chinese",Agra,Tajganj,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,4
+Ganpati Hotel and Restaurant,350,North Indian,Agra,Sikandra,Quick Bites,11am to 12midnight(Mon-Sun),Average,3.0,4
+Desi Tadka Restaurant,800,"North Indian,Italian",Agra,Lohamandi,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,6
+Chick Chick Corner,500,Mughlai,Agra,Kamla Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,2.8,8
+Devil Disc & Restaurant,600,North Indian,Agra,Sikandra,Casual Dining,11am to 11pm(Mon-Sun),Average,3.1,4
+Prince Of Spice,750,"North Indian,Mughlai,Chinese",Agra,Tajganj,Casual Dining,10am to 11pm(Mon-Sun),Average,3.1,7
+Al Baik Restaurant,350,North Indian,Agra,Civil Lines,Quick Bites,9am to 11pm(Mon-Sun),Average,3.0,4
+Aggarwal Fast Food & Restaurant,200,Fast Food,Agra,Mantola,Quick Bites,8am to 11pm(Mon-Sun),Average,3.1,6
+Chatkara Restaurant,400,"Chinese,Indian,North Indian",Agra,Tajganj,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,6
+Kulfiano,200,Ice Cream,Agra,Agra Cantt,Dessert Parlor,12noon to 11pm(Mon-Sun),Average,3.1,5
+Saffron Restaurant,800,"Beverages,Chinese,Continental,North Indian,South Indian",Agra,Rakabganj,Casual Dining,7am to 11pm(Mon-Sun),Average,3.1,5
+Shree Shayam Ji Bhojnalaya,200,North Indian,Agra,Sikandra,Bhojanalya,12noon to 1130pm(Mon-Sun),Average,3.0,6
+R.D. Food Centre,200,"North Indian,Chinese",Agra,Dayal Bagh,none,"1pm to 12midnight(Mon-Thu),2pm to 1am(Fri),1pm...",Average,3.2,5
+A.V Food Court,400,"Mithai,North Indian,South Indian,Fast Food",Agra,Sikandra,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,4
+Gyani's Snacks Corner,300,Fast Food,Agra,Kamla Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,5
+Gyani's Snacks Corner,300,Fast Food,Agra,Kamla Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,5
+Golden Street Restaurant,800,"North Indian,South Indian",Agra,Tajganj,Casual Dining,11am to 11pm(Mon-Sun),Average,3.1,4
+Shri Anand  Sakahari Bhojan,350,North Indian,Agra,Civil Lines,Dhaba,1030am to 11pm(Mon-Sun),Average,3.1,4
+Deviram Food Circle,200,"Mithai,Fast Food,Street Food",Agra,Lohamandi,Sweet Shop,8am to 10pm(Mon-Sun),Very Good,4.0,207
+D Jail House- Hungry Slurp,300,"Awadhi,Chinese,Mughlai,North Indian",Agra,Sikandra,none,"12noon to 11pm(Mon-Fri),12noon to 1130pm(Sat-Sun)",Very Good,4.0,146
+Rohit Cakes And Bakes,350,Bakery,Agra,Kamla Nagar,Bakery,11am to 10pm(Mon-Sun),Very Good,4.0,349
+The Ccharcoal Chimney,1500,"North Indian,Chinese,Continental,Mughlai",Agra,Tajganj,Casual Dining,"730am to 1030am,12noon to 430pm,7pm to 11pm...",Good,3.9,117
+New Punjabi Dhaba,450,North Indian,Agra,Khandari,Dhaba,11am to 11pm(Mon-Sun),Average,3.3,145
+Unlimited Pizza,400,"Ice Cream,Desserts,Fast Food",Agra,Civil Lines,Dessert Parlor,10am to 11pm(Mon-Sun),Good,3.6,55
+Shan E Hind,450,North Indian,Agra,Agra Cantt,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,91
+Cake House,500,"Bakery,Fast Food",Agra,Civil Lines,Bakery,9am to 9pm(Mon-Sun),Good,3.7,127
+Mothers Milkshakes,220,"Italian,Fast Food,Beverages",Agra,Civil Lines,Quick Bites,1130am to 1130pm(Mon-Sun),Good,3.7,140
+Agarwal Restaurant Sweets And Dairy,300,"North Indian,Beverages,South Indian,Fast Food,Pizza",Agra,Shahganj,Quick Bites,8am to 10pm(Mon-Sun),Good,3.8,96
+Shree Bankey Bihari Misthan Bhandar,300,"Mithai,Street Food,South Indian,Chinese",Agra,Sikandra,Sweet Shop,12noon to 1030pm(Mon-Sun),Very Good,4.3,93
+Chef at Home Bakery,150,"Bakery,Fast Food",Agra,Civil Lines,Bakery,10am to 10pm(Mon-Sun),Average,3.2,97
+Annjal Restaurant,600,"North Indian,Rajasthani",Agra,Civil Lines,Casual Dining,"12noon to 4pm,630pm to 1030pm(Mon-Sun)",Excellent,4.5,51
+Daddy's Burger Bar (Hungernomia),300,"Beverages,Burger,Fast Food,Pizza,Sandwich,Wraps",Agra,Civil Lines,Quick Bites,"1030am to 1030pm(Mon-Tue),10am to 1030pm...",Good,3.9,161
+Guru Kripa Yadav Dhaba,150,North Indian,Agra,Civil Lines,Dhaba,12noon to 11pm(Mon-Sun),Good,3.9,50
+Bhagwati Dhaba,200,North Indian,Agra,Sikandra,Dhaba,8am to 12midnight(Mon-Sun),Good,3.9,117
+Bhawna Sweets,300,"Mithai,Desserts",Agra,Civil Lines,Sweet Shop,7am to 10pm(Mon-Sun),Good,3.9,86
+Goli Vada Pav No. 1,150,Street Food,Agra,Sikandra,Quick Bites,11am to 1030pm(Mon-Sun),Very Good,4.1,159
+Chaska Restaurant,800,"North Indian,Chinese,South Indian",Agra,Kamla Nagar,Casual Dining,12noon to 11pm(Mon-Sun),Average,3.3,134
+Master Chef Italian Fast Food Corner,400,Fast Food,Agra,Khandari,Quick Bites,130pm to 10pm(Mon-Sun),Average,2.8,147
+Gurgaonwala,300,Fast Food,Agra,Shahganj,Quick Bites,530pm to 1030pm(Mon-Sun),Very Good,4.0,192
+Yo Yo Foods,300,"Chinese,South Indian",Agra,Khandari,Quick Bites,11am to 1030pm(Mon-Sun),Good,3.8,124
+Dosa Factory,500,South Indian,Agra,Sikandra,Quick Bites,6pm to 11pm(Mon-Sun),Good,3.8,97
+The Indian Chaska,600,North Indian,Agra,Civil Lines,Casual Dining,12noon to 1030pm(Mon-Sun),Good,3.6,103
+Jux Pux,200,Cafe,Agra,Khandari,Café,11am to 10pm(Mon-Sun),Good,3.9,95
+Tealogy,250,"Sandwich,Beverages,Continental",Agra,Civil Lines,Quick Bites,1030am to 10pm(Mon-Sun),Very Good,4.3,41
+Filmy Zayka - Hotel Alleviate,700,"Chinese,North Indian",Agra,Civil Lines,Casual Dining,NA,Very Good,4.1,86
+Dasaprakash Restaurant,700,"South Indian,North Indian",Agra,Hotel Dasaprakash-- Tajganj,Casual Dining,8am to 1030pm(Mon-Sun),Very Good,4.0,140
+Pizza Inn,500,"Fast Food,Pizza",Agra,Sikandra,Quick Bites,11am to 1030pm(Mon-Sun),Good,3.6,107
+Grill Inn,500,Fast Food,Agra,Dayal Bagh,Casual Dining,1030am to 1015pm(Mon-Sun),Good,3.9,75
+Om Bhojanalaya,500,North Indian,Agra,Agra Cantt,Casual Dining,10am to 10pm(Mon-Sun),Good,3.7,145
+Tirupati's Dosa Factory,200,South Indian,Agra,Civil Lines,Quick Bites,"12midnight to 1030pm(Mon-Wed),121pm to 1030pm...",Very Good,4.0,69
+DECHEN CAFE LOUNGE,300,"Fast Food,Beverages",Agra,Sikandra,Café,"11am to 930pm(Mon-Fri),11am to 10pm(Sat-Sun)",Good,3.9,78
+Twist and taste,250,"North Indian,Chinese,South Indian",Agra,Kamla Nagar,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.4,67
+Rangrezz Restaurant,700,"North Indian,Mughlai",Agra,Agra Cantt,Casual Dining,1130am to 12midnight(Mon-Sun),Average,3.3,95
+Daddy's Burger Bar,300,Fast Food,Agra,Kamla Nagar,Quick Bites,11am to 10pm(Mon-Sun),Good,3.8,140
+GreeNox,200,"Fast Food,Bakery",Agra,Shahganj,Quick Bites,8am to 10pm(Mon-Sun),Good,3.7,74
+Celebration  Foods,200,"Bakery,Fast Food",Agra,Kamla Nagar,Bakery,9am to 9pm(Mon-Sun),Average,3.4,62
+Wai Wai City,400,"Asian,Chinese,Momos",Agra,Civil Lines,Quick Bites,1130am to 11pm(Mon-Sun),Average,3.4,75
+Master Chef,250,Fast Food,Agra,Shahganj,Quick Bites,5pm to 1030pm(Mon-Sun),Good,3.8,94
+Gopaldas Pethe Wale,400,"Mithai,Street Food",Agra,Civil Lines,Sweet Shop,8am to 10pm(Mon-Sun),Very Good,4.4,40
+Gulati Bar-Be-Que,500,North Indian,Agra,Shahganj,Casual Dining,1pm to 11pm(Mon-Sun),Good,3.7,115
+The Dhaba Cafe,350,"Continental,North Indian,Chinese",Agra,Tajganj,Quick Bites,NA,Very Good,4.0,81
+Love Restaurant,300,"North Indian,Fast Food,Beverages",Agra,Tajganj,Quick Bites,"8am to 11pm(Mon,Tue,Sat),8am to 1130pm...",Good,3.7,36
+WatchMeWhip,250,"Bakery,Desserts",Agra,Mantola,Bakery,"9am to 9pm(Mon-Sat),Closed(Sun)",Good,3.6,44
+UP 80,700,"North Indian,Chinese",Agra,Dayal Bagh,Casual Dining,11am to 1030pm(Mon-Sun),Good,3.7,111
+Potato Planet,400,Fast Food,Agra,Civil Lines,Quick Bites,"12noon to 930pm(Mon-Sat),12noon to 10pm(Sun)",Good,3.8,113
+Anand He Anand Bhojanalaya,300,North Indian,Agra,Civil Lines,Casual Dining,8am to 1am(Mon-Sun),Good,3.7,98
+Brijwasi Sweet House & Restaurant,500,"Desserts,North Indian,South Indian,Chinese,Fast Food,Street Food",Agra,Agra Cantt,Casual Dining,9am to 1045pm(Mon-Sun),Good,3.7,87
+Downtown Cafe & Lounge,800,North Indian,Agra,Rakabganj,Lounge,12noon to 10pm(Mon-Sun),Very Good,4.0,24
+Sri Dauji Mishthan Bhandar,300,"Desserts,Fast Food,Street Food",Agra,Kamla Nagar,Quick Bites,7am to 10pm(Mon-Sun),Good,3.6,89
+New Vishal Restaurant,400,North Indian,Agra,Khandari,Dhaba,8am to 1030pm(Mon-Sun),Good,3.6,84
+Ravi Patties Corner,100,"Fast Food,Desserts",Agra,Dayal Bagh,Confectionery,11am to 8pm(Mon-Sun),Good,3.9,68
+China Town,200,Fast Food,Agra,Shahganj,Quick Bites,11am to 10pm(Mon-Sun),Good,3.9,70
+Hungernomia,500,"Pizza,Burger,Fast Food",Agra,Tajganj,Quick Bites,1130am to 10pm(Mon-Sun),Good,3.9,36
+Healthmafia,100,Healthy Food,Agra,Civil Lines,Quick Bites,10am to 915pm(Mon-Sun),Good,3.9,48
+What The Food,500,"Burger,Chinese,Rolls",Agra,Kamla Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,123
+Cake & More,200,"Desserts,Bakery",Agra,Tajganj,Dessert Parlor,10am to 8pm(Mon-Sun),Good,3.8,55

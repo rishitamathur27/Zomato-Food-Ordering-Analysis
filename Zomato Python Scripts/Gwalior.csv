@@ -1,0 +1,343 @@
+Name,Price,Cuisine_Category,City,Region,Cuisine_Type,Timing,Rating_Types,Rating,Votes
+Boulevard 69,500,"Pizza,Italian,Fast Food,Cafe",Gwalior,City Center,Café,11am to 11pm(Mon-Sun),Good,3.8,119
+Domino's Pizza,500,"Pizza,Italian",Gwalior,Lashkar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,1049
+Param Food Complex,600,"South Indian,North Indian,Italian,Fast Food,Continental,Chinese,Bakery,Desserts",Gwalior,Mahalgaon,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.4,661
+Ashoka Family Restaurant,350,North Indian,Gwalior,Thatipur,Bhojanalya,9am to 11pm(Mon-Sun),Very Good,4.2,332
+Amritsari Naan,300,North Indian,Gwalior,Naya Bazaar,Quick Bites,"1pm to 11pm(Mon,Tue,Wed,Thu,Fri,Sun),1258pm...",Excellent,4.5,389
+Masala Darbar,400,"North Indian,Biryani,Chinese",Gwalior,Naya Bazaar,Quick Bites,1230pm to 11pm(Mon-Sun),Excellent,4.8,524
+Domino's Pizza,500,"Pizza,Italian",Gwalior,Mahalgaon,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,805
+Shake It Baby,400,"Beverages,Fast Food",Gwalior,City Center,Beverage Shop,11am to 11pm(Mon-Sun),Excellent,4.6,371
+Alfanzo,600,"Biryani,Chinese,Mithai,North Indian,Italian,Wraps,Desserts,South Indian",Gwalior,Mahalgaon,Casual Dining,9am to 11pm(Mon-Sun),Very Good,4.2,286
+Cook's,300,"Bakery,Desserts,Burger,Sandwich,Chinese,Pizza,North Indian",Gwalior,Lashkar,Bakery,1030am to 1050pm(Mon-Sun),Very Good,4.1,244
+McDonald's,500,"Fast Food,Burger",Gwalior,Lashkar,Quick Bites,10am to 11pm(Mon-Sun),Very Good,4.4,575
+Burger King,500,"Burger,Fast Food",Gwalior,DB City Mall-- Birla Nagar,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.3,271
+Pizza Hut,600,"Pizza,Italian",Gwalior,Lashkar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,324
+Hangout Cafe,800,"North Indian,Mexican,Lebanese,Italian,German,Chinese,Cafe,British",Gwalior,City Center,Café,10am to 11pm(Mon-Sun),Very Good,4.3,241
+Shere Punjab Restaurant,600,"North Indian,Biryani,Chinese,Desserts",Gwalior,Shinde Ki Chhawani,Casual Dining,10am to 11pm(Mon-Sun),Good,3.7,273
+Taste Of Nature,250,"North Indian,Chinese",Gwalior,City Center,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,31
+Chef Direct,300,"Continental,Chinese",Gwalior,Morar,Quick Bites,12noon to 10pm(Mon-Sun),Good,3.6,21
+Zakir Qureshi Kawab Wale,500,"North Indian,Chinese",Gwalior,Lashkar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,58
+Singh's Chicken 2 Nite,400,North Indian,Gwalior,Lashkar,none,2pm to 11pm(Mon-Sun),Good,3.6,73
+Pandit Zayka,400,"North Indian,Fast Food",Gwalior,Morar,Quick Bites,12noon to 1030pm(Mon-Sun),Good,3.6,49
+Best Bites,350,"Chinese,Fast Food",Gwalior,Naya Bazaar,Quick Bites,4pm to 10pm(Mon-Sun),Good,3.6,33
+Crisp Corner,250,"Bakery,Fast Food",Gwalior,Thatipur,Quick Bites,11am to 9pm(Mon-Sun),Average,3.4,16
+The Bellevue Aroma Restaurant,700,North Indian,Gwalior,City Center,Casual Dining,(Mon-Sun),Good,3.5,26
+Hotel Ambience,1050,"North Indian,Chinese,Continental",Gwalior,Thatipur,Casual Dining,7am to 10pm(Mon-Sun),Average,3.3,23
+Mathura Kachauri Vale,100,Street Food,Gwalior,Thatipur,Quick Bites,8am to 10pm(Mon-Sun),Average,2.8,42
+Baba Restaurant,400,North Indian,Gwalior,Thatipur,Bhojanalya,(Mon-Sun),Average,3.3,23
+Madan Namkeen & Gajak Bhandar,100,Mithai,Gwalior,Lashkar,Sweet Shop,11am to 10pm(Mon-Sun),Good,3.7,19
+T Time,200,"Fast Food,North Indian",Gwalior,Lashkar,Quick Bites,11am to 9pm(Mon-Sun),Average,3.4,10
+MOWGLIZ RESTAURANT,100,Mughlai,Gwalior,City Center,Quick Bites,11am to 10pm(Mon-Sun),Average,3.3,8
+Taujee'S Refreshments,150,Fast Food,Gwalior,Thatipur,Quick Bites,12noon to 9pm(Mon-Sun),Average,3.3,12
+Mezbaan Restaurant - Hotel Sun Beam,600,North Indian,Gwalior,City Center,Casual Dining,(Mon-Sun),Average,2.9,24
+Shri Karchi Kadhai,500,"North Indian,Chinese",Gwalior,Mahalgaon,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,73
+Shri Jodhpur Mishthan Bhandar,400,"Mithai,Fast Food",Gwalior,Lashkar,Sweet Shop,11am to 9pm(Mon-Sun),Average,3.4,24
+Rock & Roll,200,Rolls,Gwalior,Naya Bazaar,Quick Bites,11am to 10pm(Mon-Sun),Average,3.4,20
+Foodz Inn,550,"North Indian,Chinese,Beverages",Gwalior,Mahalgaon,Quick Bites,11am to 10pm(Mon-Sun),Average,3.4,15
+Scooper's,150,"Street Food,Ice Cream",Gwalior,Ghosipura,Quick Bites,10am to 10pm(Mon-Sun),Average,3.3,7
+Shree Ram Sweets And Snacks,400,"Bakery,North Indian",Gwalior,City Center,Bakery,11am to 10pm(Mon-Sun),Average,3.3,8
+Sat Sahib Fast Food Restaurant,100,Fast Food,Gwalior,Deen Dayal Nagar,Quick Bites,12noon to 10pm(Mon-Sun),Average,3.1,5
+Atithi Inn,800,"North Indian,Chinese",Gwalior,Lashkar,Casual Dining,745am to 10pm(Mon-Sun),Average,3.3,17
+Avadh Foods,100,"Lucknowi,Fast Food",Gwalior,Lashkar,Quick Bites,10am to 10pm(Mon-Sun),Average,3.3,10
+Gadnayak Sweets,150,"Street Food,Mithai",Gwalior,Lashkar,Quick Bites,(Mon-Sun),Average,2.6,20
+The Treat Point,200,"North Indian,Fast Food",Gwalior,Deen Dayal Nagar,Quick Bites,11am to 10pm(Mon-Sun),Good,3.5,14
+King Ankal Chinese Stall,250,Chinese,Gwalior,Lashkar,Quick Bites,4pm to 10pm(Mon-Sun),Average,3.1,5
+The Bullet Cafe,400,"Fast Food,Chinese,South Indian,Sandwich,Beverages",Gwalior,Lashkar,Café,12noon to 10pm(Mon-Sun),Average,3.1,9
+OLF STORE,250,North Indian,Gwalior,Thatipur,Quick Bites,"11am to 11pm(Mon,Tue,Wed,Sat,Sun),1030am to ...",Good,3.6,43
+Aashirvaad Restaurant,150,"North Indian,South Indian",Gwalior,Morar,Quick Bites,11am to 930pm(Mon-Sun),Average,3.1,4
+Crisp Corner,200,Fast Food,Gwalior,Ghosipura,Quick Bites,12noon to 10pm(Mon-Sun),Average,3.3,18
+Madhuram Fast Food Corner,150,Fast Food,Gwalior,Lashkar,Quick Bites,1pm to 10pm(Mon-Sun),Average,3.1,5
+Babulal Gupta Restaurant,200,North Indian,Gwalior,Thatipur,Quick Bites,10am to 10pm(Mon-Sun),Average,3.0,14
+Suresh Ji Ke Namkeen,100,Mithai,Gwalior,Lashkar,Sweet Shop,8am to 10pm(Mon-Sun),Average,3.1,4
+Pubg Restra,300,"North Indian,Indian,South Indian,Fast Food",Gwalior,Mahalgaon,Quick Bites,930am to 11am(Mon-Sun),Average,2.9,4
+Sukh Sagar Restaurant,400,"South Indian,North Indian",Gwalior,Ghosipura,Casual Dining,11am to 10pm(Mon-Sun),Average,2.8,13
+Thali va Plate System,360,,Gwalior,Thatipur,Quick Bites,(Mon-Sun),Average,2.9,10
+Soda Hut,50,Beverages,Gwalior,Mahalgaon,Beverage Shop,11am to 10pm(Mon-Sun),Average,3.0,5
+Shri Shanti Mahila Grah Udhyog,100,North Indian,Gwalior,Lashkar,Quick Bites,11am to 10pm(Mon-Sun),Average,3.0,4
+Ganesha  Food's Friend's,200,Fast Food,Gwalior,Deen Dayal Nagar,Quick Bites,10am to 12midnight(Mon-Sun),Average,3.3,33
+Hotel shelter - The Aroma Kitchen,1100,"North Indian,Chinese,Seafood,Beverages,Mughlai,Biryani",Gwalior,Thatipur,Casual Dining,11am to 10pm(Mon-Sun),Average,2.8,5
+Mahakal Juice Bar,180,Beverages,Gwalior,Lashkar,Beverage Shop,10am to 930pm(Mon-Sun),Average,2.9,5
+The Flavour Truck,400,North Indian,Gwalior,Lashkar,Food Truck,5pm to 10pm(Mon-Sun),Average,3.3,6
+Shashi Uncle,150,Chinese,Gwalior,Lashkar,none,1pm to 1030pm(Mon-Sun),Good,3.7,35
+My Kitchen Food Center,250,North Indian,Gwalior,Prasad Nagar,Quick Bites,9am to 10pm(Mon-Sun),Average,3.1,5
+Soda Hut,50,Beverages,Gwalior,Ghosipura,Beverage Shop,11am to 10pm(Mon-Sun),Average,3.2,5
+Jai Mata Di Fast Food Corner,200,Fast Food,Gwalior,Thatipur,Quick Bites,5pm to 9pm(Mon-Sun),Average,3.2,7
+Pet Puja,100,"Street Food,North Indian",Gwalior,Mahalgaon,Quick Bites,(Mon-Sun),Average,3.0,8
+Shri Ram Departmental Store & Bakery,200,Bakery,Gwalior,Prasad Nagar,Bakery,8am to 10pm(Mon-Sun),Average,3.0,6
+Cafe Coffee Day,650,"Cafe,Fast Food",Gwalior,Mahalgaon,Café,930am to 12midnight(Mon-Sun),Good,3.6,69
+Lucky Sweets,250,Mithai,Gwalior,Thatipur,Sweet Shop,9am to 10pm(Mon-Sun),Average,3.1,7
+FL_2 Coffee Bar and Restaurant,350,"Fast Food,Coffee",Gwalior,Thatipur,Quick Bites,12noon to 10pm(Mon-Sun),Average,3.2,6
+Sagar Foods,300,"North Indian,Chinese",Gwalior,Shri Ram Colony,Quick Bites,10am to 10pm(Mon-Sun),Average,3.1,6
+Brijwasi Sweets and Namkeen,300,Bakery,Gwalior,Lashkar,Bakery,10am to 10pm(Mon-Sun),Average,3.1,5
+Chill 'N' Grill,300,"Desserts,Bakery,Continental,Fast Food,Italian",Gwalior,Ghosipura,Quick Bites,9am to 10pm(Mon-Sun),Average,2.8,6
+New Aangan Sweets & Food,200,"Mithai,Fast Food",Gwalior,Mahalgaon,Quick Bites,11am to 10pm(Mon-Sun),Average,3.1,5
+Govardhan Mishtan Bhandar,250,"Street Food,Mithai",Gwalior,Lashkar,Sweet Shop,10am to 10pm(Mon-Sun),Average,3.0,4
+Balaji Restaurant,400,North Indian,Gwalior,Naya Bazaar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,47
+The Mansingh,1000,"North Indian,Mughlai,Biryani",Gwalior,Lashkar,Casual Dining,1pm to 1030pm(Mon-Sun),Average,2.5,98
+Maakhan Bhog Restaurant,350,"North Indian,Chinese",Gwalior,Prasad Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,31
+The Rasoighar,250,North Indian,Gwalior,City Center,none,11am to 11pm(Mon-Sun),Very Good,4.0,59
+Relish Bakers,350,"Bakery,Fast Food",Gwalior,Mahalgaon,Bakery,11am to 11pm(Mon-Sun),Average,3.3,48
+Aangan Restaurant,400,"Street Food,North Indian,Mithai",Gwalior,Prasad Nagar,Quick Bites,9am to 11pm(Mon-Sun),Average,2.9,79
+The Master Chef,300,"North Indian,Italian",Gwalior,Lashkar,Quick Bites,11am to 1030pm(Mon-Sun),Good,3.8,60
+Lovely Fruit Shake,200,"Beverages,Juices",Gwalior,Thatipur,Beverage Shop,9am to 11pm(Mon-Sun),Good,3.8,48
+Pandit Sweets,300,"Mithai,Fast Food",Gwalior,Ghosipura,Quick Bites,10am to 11pm(Mon-Sun),Very Good,4.1,266
+Punjabi Zayka,350,North Indian,Gwalior,City Center,Casual Dining,12noon to 1020pm(Mon-Sun),Good,3.8,287
+Burger Buddy,400,"Italian,Fast Food,Burger",Gwalior,City Center,Quick Bites,11am to 1045pm(Mon-Sun),Very Good,4.2,207
+Momo Adda,200,"Chinese,Momos",Gwalior,Lashkar,Quick Bites,1pm to 11pm(Mon-Sun),Very Good,4.1,280
+Choti Wala,600,"South Indian,North Indian,Chinese",Gwalior,Thatipur,Casual Dining,8am to 1130pm(Mon-Sun),Good,3.9,229
+Bon Pizza,350,Pizza,Gwalior,City Center,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,180
+IAG Food Court (IFC),250,"Biryani,Chinese,Fast Food,Italian,Burger,Rolls,Pizza,South Indian",Gwalior,Thatipur,Quick Bites,11am to 1030pm(Mon-Sun),Very Good,4.1,127
+7 Spice,600,"North Indian,Biryani,Fast Food,Chinese,Pizza,Burger,Sandwich",Gwalior,Lashkar,Casual Dining,10am to 11pm(Mon-Sun),Good,3.6,174
+Anand Restaurant,250,North Indian,Gwalior,Lashkar,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.3,100
+Kwality Restaurant,1000,"North Indian,Chinese",Gwalior,Mahalgaon,Casual Dining,"1130am to 430pm,6pm to 1030pm(Mon-Sun)",Excellent,4.5,295
+Volga Restaurant,700,"North Indian,Chinese,Biryani",Gwalior,Ghosipura,Casual Dining,12noon to 11pm(Mon-Sun),Very Good,4.1,179
+Perk & Puff,750,"Pizza,Italian,Fast Food",Gwalior,Lashkar,Quick Bites,12noon to 11pm(Mon-Sun),Very Good,4.0,124
+Punjab Cafe,300,"South Indian,North Indian,Fast Food,Chinese",Gwalior,City Center,Quick Bites,1pm to 11pm(Mon-Sun),Good,3.8,163
+Param Food Complex,900,North Indian,Gwalior,Lashkar,Casual Dining,10am to 1030pm(Mon-Sun),Very Good,4.1,170
+Maan Family Restaurant,300,North Indian,Gwalior,City Center,Quick Bites,11am to 3am(Mon-Sun),Average,3.3,24
+The Beans Cafe,500,"Chinese,Fast Food,Cafe,Pizza,Italian,Sandwich,Beverages",Gwalior,City Center,Café,11am to 11pm(Mon-Sun),Very Good,4.0,39
+Siddhi Vinayak Restaurant,350,North Indian,Gwalior,Prasad Nagar,Casual Dining,11am to 1130pm(Mon-Sun),Good,3.5,35
+T Time,200,"Beverages,Fast Food",Gwalior,Lashkar,Quick Bites,"1030am to 1030pm(Mon-Sat),1230pm to 1030pm(Sun)",Very Good,4.1,70
+Bollywood Cafe,500,"Cafe,Chinese,Italian,Fast Food",Gwalior,Lashkar,Café,11am to 1030pm(Mon-Sun),Good,3.7,67
+Tikkad Wala,350,North Indian,Gwalior,Lashkar,Quick Bites,1130am to 1030pm(Mon-Sun),Good,3.7,50
+Landmark NX,1200,"North Indian,Mughlai,Chinese",Gwalior,City Center,Fine Dining,7am to 11pm(Mon-Sun),Average,3.2,84
+Food Mood,600,"North Indian,Fast Food",Gwalior,Gulmohar City,Casual Dining,11am to 11pm(Mon-Sun),Good,3.8,69
+Chatkazz,500,"North Indian,Pizza,Burger",Gwalior,Vijaynagar,Quick Bites,1230pm to 1030pm(Mon-Sun),Good,3.9,42
+Victorian Vantage,800,"North Indian,Mughlai,Italian,Continental,Chinese,Afghan",Gwalior,Naya Bazaar,Café,11am to 1130pm(Mon-Sun),Good,3.7,77
+Jai Mahakali Bhojanalaya,500,"North Indian,Chinese",Gwalior,Thatipur,Casual Dining,9am to 1130pm(Mon-Sun),Good,3.5,59
+Cafe Lounge - Clark's Inn Suites,800,"Continental,Cafe",Gwalior,Lashkar,Café,24,Good,3.5,63
+Singh's Burgers,300,"Fast Food,Burger",Gwalior,Naya Bazaar,Quick Bites,3pm to 11pm(Mon-Sun),Good,3.9,38
+The Desi Kitchen,400,"Salad,Biryani,Chinese,Healthy Food,Hyderabadi,North Indian,Afghan",Gwalior,City Center,Quick Bites,11am to 1130pm(Mon-Sun),Good,3.5,32
+The Bridge - Clark's Inn Suites,1500,"Thai,North Indian,Mughlai,Continental,Chinese",Gwalior,Lashkar,Fine Dining,7am to 11pm(Mon-Sun),Good,3.9,45
+F For Fries,250,Fast Food,Gwalior,Birla Nagar,Food Court,1030am to 1130pm(Mon-Sun),Good,3.8,51
+Am To Pm Coffee Shop,150,"Healthy Food,Sandwich,Fast Food,Beverages,Italian,Tea,Burger,Pizza",Gwalior,Lashkar,Beverage Shop,11am to 1030pm(Mon-Sun),Good,3.9,52
+The Chef's Shack,500,"Fast Food,Chinese",Gwalior,City Center,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.3,45
+Cafe Kahani,600,Cafe,Gwalior,Lohamandi,Café,11am to 11pm(Mon-Sun),Average,3.4,55
+Shree Bhukkads - A Food Lounge,400,"South Indian,North Indian,Fast Food,Chinese",Gwalior,Lashkar,Casual Dining,11am to 1030pm(Mon-Sun),Good,3.6,50
+Shri Ram Dabeli  Centre,400,Fast Food,Gwalior,Lashkar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,27
+Rajhans Restaurant,400,"Biryani,Fast Food,Beverages,North Indian",Gwalior,Thatipur,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,15
+Spice 13,150,Fast Food,Gwalior,Lashkar,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.6,14
+Hemu Ji Cheela Chaat Bhandaar,250,"Fast Food,Street Food",Gwalior,Lashkar,Quick Bites,3pm to 1030pm(Mon-Sun),Good,3.5,18
+Mughal Darbar,800,"North Indian,Mughlai",Gwalior,Naya Bazaar,Casual Dining,12noon to 11pm(Mon-Sun),Very Good,4.0,70
+Annapurna Kitchens,200,"North Indian,Fast Food,Chinese",Gwalior,Morar,Quick Bites,8am to 11pm(Mon-Sun),Average,3.3,22
+Blueberry Restaurant,500,North Indian,Gwalior,Morar,Quick Bites,10am to 11pm(Mon-Sun),Good,3.5,31
+Heaven's Gate,600,"Fast Food,Cafe,Continental,Italian",Gwalior,Lashkar,Café,12noon to 11pm(Mon-Sun),Good,3.8,56
+Hotel Ramaya,800,"North Indian,Chinese",Gwalior,Thatipur,Casual Dining,12noon to 11pm(Mon-Sun),Good,3.5,40
+Virasat The Heritage,600,North Indian,Gwalior,Ghosipura,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,42
+Nitin Chicken Center,200,North Indian,Gwalior,Morar,Quick Bites,3pm to 1030pm(Mon-Sun),Good,3.5,29
+Delhi Soya Chaap Wala,200,North Indian,Gwalior,Lashkar,Quick Bites,11am to 1030pm(Mon-Sun),Average,3.2,16
+Handi - Hotel Banjara,700,North Indian,Gwalior,Lashkar,Café,11am to 11pm(Mon-Sun),Good,3.5,42
+The Road Chef's,300,Chinese,Gwalior,Lashkar,Quick Bites,11am to 11pm(Mon-Sun),Average,2.9,48
+Khanekakhazana.Com,200,"North Indian,South Indian",Gwalior,Mahalgaon,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,13
+Sai Bhoj,500,North Indian,Gwalior,Thatipur,Casual Dining,9am to 1130pm(Mon-Sun),Average,3.4,32
+Illusion - Clark's Inn Suites,1000,Finger Food,Gwalior,Lashkar,Bar,11am to 11pm(Mon-Sun),Average,3.4,51
+Prince Of Punjab,300,North Indian,Gwalior,Lashkar,none,4pm to 11pm(Mon-Sun),Good,3.5,32
+Aggarwal Puri Bhandar,100,North Indian,Gwalior,Shinde Ki Chhawani,Bhojanalya,10am to 1030pm(Mon-Sun),Good,3.8,40
+Baskin Robbins,300,"Ice Cream,Desserts",Gwalior,Mahalgaon,Dessert Parlor,11am to 11pm(Mon-Sun),Good,3.7,21
+Rajasthani Bhojanalaya,200,Rajasthani,Gwalior,Lashkar,Bhojanalya,11am to 11pm(Mon-Sun),Average,3.0,25
+Mast Banarasi Paan,100,Paan,Gwalior,Thatipur,Paan Shop,11am to 11pm(Mon-Sun),Good,3.8,39
+Dosa Corner,500,"South Indian,Fast Food",Gwalior,Ghosipura,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,34
+Sri Ram Misthan Bhandar,200,Mithai,Gwalior,Prasad Nagar,Sweet Shop,8am to 1030pm(Mon-Sun),Good,3.5,60
+Prabha International Hotel,700,North Indian,Gwalior,Lashkar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.0,29
+Pleasure Restaurant,800,"South Indian,North Indian,Fast Food",Gwalior,Mahalgaon,Casual Dining,10am to 11pm(Mon-Sun),Good,3.6,36
+Apsara Happy Hours,600,"North Indian,Chinese,Continental,Pizza",Gwalior,Lashkar,Casual Dining,12noon to 11pm(Mon-Sun),Good,3.6,26
+Egg Bar,200,Continental,Gwalior,City Center,Quick Bites,1pm to 11pm(Mon-Sun),Good,3.6,18
+The Ved Mantra,750,"North Indian,Mughlai,Continental,Chinese",Gwalior,Naya Bazaar,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,21
+Relish Bakers,350,"Bakery,Fast Food",Gwalior,Mahalgaon,Bakery,9am to 11pm(Mon-Sun),Average,3.1,19
+Shri Krishna Restaurant,250,North Indian,Gwalior,Lashkar,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.0,18
+Royal Non Veg Corner,400,North Indian,Gwalior,Lashkar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,22
+Anand Bhoj,500,"North Indian,Fast Food,Chinese",Gwalior,Thatipur,Casual Dining,8am to 2am(Mon-Sun),Average,2.8,36
+Icy Spicy Restaurant & Cafe,500,"Chinese,Street Food,Italian,Cafe,Pizza,Ice Cream,North Indian",Gwalior,Anand Nagar,Casual Dining,11am to 1030pm(Mon-Sun),Good,3.8,27
+Mom's Cafe,500,"Fast Food,Cafe",Gwalior,City Center,Café,1030am to 1030pm(Mon-Sun),Good,3.6,26
+Maakhan Bhog,100,"Beverages,Juices",Gwalior,Thatipur,Beverage Shop,9am to 1030pm(Mon-Sun),Average,3.1,10
+The Road Chef's,300,Fast Food,Gwalior,Mahalgaon,Quick Bites,11am to 1030pm(Mon-Sun),Average,3.4,22
+Lucknowee Chicken,300,North Indian,Gwalior,Shinde Ki Chhawani,Quick Bites,5pm to 11pm(Mon-Sun),Good,3.7,23
+Dill's Chawla Restaurant,450,North Indian,Gwalior,Lashkar,Quick Bites,1130am to 1130pm(Mon-Sun),Average,3.4,44
+Cafe Tea Gather,400,Fast Food,Gwalior,Shinde Ki Chhawani,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,33
+Ss Foodz,200,Fast Food,Gwalior,City Center,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,29
+The Golden Village,700,"North Indian,Chinese,Sandwich",Gwalior,Lashkar,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,37
+Mood Alter Punjabi Tadka,300,"North Indian,Chinese",Gwalior,Madhav Ganj,Quick Bites,1130am to 1030pm(Mon-Sun),Good,3.5,24
+Sanjha Chulha,300,Fast Food,Gwalior,Lashkar,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.7,43
+Usha's Pick N Carry,200,"North Indian,Beverages",Gwalior,Morar,Quick Bites,1pm to 1030pm(Mon-Sun),Good,3.5,20
+Roxy Cafe,400,"North Indian,Chinese",Gwalior,Lashkar,Café,11am to 11pm(Mon-Sun),Average,2.9,16
+Lazeez Restaurant & Bakers,800,North Indian,Gwalior,Ghosipura,Bakery,10am to 11pm(Mon-Sun),Average,3.2,42
+Shri Banke Bihari,200,"Street Food,Beverages",Gwalior,Thatipur,Quick Bites,6am to 12midnight(Mon-Sun),Average,3.2,13
+Tolaram Sweets,100,Desserts,Gwalior,Lashkar,Sweet Shop,11am to 11pm(Mon-Sun),Good,3.7,22
+Shree Balaji Maharaj,400,North Indian,Gwalior,Lashkar,none,10am to 11pm(Mon-Sun),Very Good,4.0,38
+Ajanta Restaurant,300,North Indian,Gwalior,Thatipur,Quick Bites,10am to 1130pm(Mon-Sun),Average,2.8,33
+Jain Mishtan Bhandar,200,"Street Food,Mithai",Gwalior,Thatipur,Sweet Shop,6am to 11pm(Mon-Sun),Average,3.3,21
+Anil Family Restaurant,300,"North Indian,Mughlai",Gwalior,Vinay Nagar,Quick Bites,4pm to 11pm(Mon-Sun),Good,3.5,22
+Salt N Pepper,800,"North Indian,Fast Food,Italian,South Indian,Chinese",Gwalior,Lashkar,Casual Dining,10am to 11pm(Mon-Sun),Average,3.1,31
+The Vedas,1000,"North Indian,Chinese",Gwalior,City Center,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,9
+Sweet & Salt Restaurant,650,"South Indian,North Indian,Continental,Chinese",Gwalior,Morar,Casual Dining,11am to 1030pm(Mon-Sun),Average,3.4,41
+Aahar Fast Food,350,"Bakery,Chinese,Desserts",Gwalior,Lashkar,Bakery,930am to 1030pm(Mon-Sun),Good,3.5,15
+Shan-e-Punjab,300,"Fast Food,Chinese,North Indian",Gwalior,Lashkar,Quick Bites,1230pm to 11pm(Mon-Sun),Good,3.6,29
+Food station,150,Fast Food,Gwalior,Lashkar,Quick Bites,6pm to 11pm(Mon-Sun),Good,3.5,15
+Hotel Suruchi,900,North Indian,Gwalior,Morar,Casual Dining,11am to 11pm(Mon-Sun),Average,2.8,23
+Oxford Kathi Rolls_Beans Cafe,250,North Indian,Gwalior,Rajeev Nagar,Quick Bites,10am to 11pm(Mon-Sun),Average,3.3,14
+Suryansh Food Corner,300,"Fast Food,North Indian,Beverages",Gwalior,City Center,Quick Bites,"11am to 4pm,6pm to 1030pm(Mon-Sun)",Good,3.9,28
+The Treat Fast Food,250,Fast Food,Gwalior,Lashkar,Quick Bites,1030am to 11pm(Mon-Sun),Average,3.3,16
+Relish Bakers,300,"Fast Food,Bakery",Gwalior,DB City Mall-- Birla Nagar,none,2pm to 11pm(Mon-Sun),Average,2.9,21
+Keventers,300,"Beverages,Ice Cream,Desserts",Gwalior,DB City Mall-- Birla Nagar,Beverage Shop,11am to 11pm(Mon-Sun),Average,3.3,17
+Food At Night,350,"Street Food,Chinese,Fast Food",Gwalior,Lashkar,Quick Bites,5pm to 11pm(Mon-Sun),Good,3.5,17
+Crisp Corner,200,"Rolls,Fast Food,Desserts",Gwalior,Lashkar,Dessert Parlor,10am to 11pm(Mon-Sun),Average,3.2,17
+Golden food,200,Fast Food,Gwalior,Lashkar,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.8,25
+Shan-Shaukat,400,North Indian,Gwalior,Shinde Ki Chhawani,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,27
+Chicken Chaska,300,"North Indian,Chinese,Continental",Gwalior,Lashkar,Casual Dining,11am to 11pm(Mon-Sun),Average,2.8,7
+The Vinayak,500,"North Indian,Chinese",Gwalior,Lashkar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.0,14
+Trilok Singh Cook & Dhaba,600,North Indian,Gwalior,Lashkar,Dhaba,10am to 11pm(Mon-Sun),Good,3.5,31
+MP07 Restaurant,100,North Indian,Gwalior,City Center,Quick Bites,9am to 11pm(Mon-Sun),Average,3.1,7
+Dairyman's Natural Ice Cream,100,Ice Cream,Gwalior,Naya Bazaar,Dessert Parlor,130pm to 1130pm(Mon-Sun),Average,3.3,10
+Kalp Vriksha- Hotel Vivek Continental,200,"North Indian,Chinese",Gwalior,Lashkar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,19
+Marwadi Bhojnalaya,200,"North Indian,Rajasthani",Gwalior,Lashkar,Bhojanalya,"12noon to 2pm,7pm to 11pm(Mon-Sun)",Average,3.4,13
+Bhopat Nasir Chicken Biryani,300,"Biryani,Mughlai",Gwalior,Lashkar,Quick Bites,9am to 11pm(Mon-Sun),Average,3.1,16
+Shiv Shakti Bhojnalaya,200,North Indian,Gwalior,Morar,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.2,10
+Chatore  Restaurant,500,North Indian,Gwalior,City Center,Quick Bites,1230pm to 1030pm(Mon-Sun),Average,3.4,23
+Hotel Sudarshan AC Restaurant,550,"North Indian,Chinese",Gwalior,Lashkar,Casual Dining,11am to 1030pm(Mon-Sun),Average,3.4,16
+Punjabi Chicken Hub,250,North Indian,Gwalior,Lashkar,none,"3pm to 11pm(Mon,Wed,Thu,Fri,Sat,Sun),Closed...",Average,3.1,6
+Royal Bakery,300,Bakery,Gwalior,Thatipur,Bakery,11am to 1030pm(Mon-Sun),Average,3.2,4
+Cakes n Bakes,300,"Bakery,Fast Food",Gwalior,Lashkar,Bakery,"1230pm to 11pm(Mon,Wed,Thu,Fri,Sat,Sun)...",Average,3.4,9
+The Central Park,400,"Chinese,North Indian",Gwalior,City Center,Quick Bites,1130am to 11pm(Mon-Sun),Average,2.9,7
+Shahi Bhoj,200,North Indian,Gwalior,Vinay Nagar,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.4,18
+Mama Food Home,350,"Burger,Chinese,Fast Food,North Indian",Gwalior,Deen Dayal Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.0,11
+Zaika - Horizon Plaza Hotel,600,North Indian,Gwalior,Lashkar,Casual Dining,11am to 11pm(Mon-Sun),Average,2.9,8
+Clarks Bakers- Clarks Inn Suites,200,Bakery,Gwalior,Lashkar,Bakery,11am to 11pm(Mon-Sun),Average,2.9,4
+Mrignayani FL-2 Restaurant,200,"North Indian,Coffee",Gwalior,Morar,Casual Dining,11am to 11pm(Mon-Sun),Average,2.9,8
+Route 66,500,Fast Food,Gwalior,City Center,Quick Bites,12noon to 1030pm(Mon-Sun),Average,3.3,9
+Chicken Haat,400,"North Indian,Mughlai",Gwalior,Lashkar,none,"11am to 11pm(Mon,Wed,Thu,Fri,Sat,Sun),Closed...",Average,2.9,7
+Mahima Bar and Restro,600,"Chinese,North Indian",Gwalior,Lashkar,Bar,8am to 11pm(Mon-Sun),Average,3.1,7
+Petoo,100,Fast Food,Gwalior,Lashkar,Quick Bites,11am to 1030pm(Mon-Sun),Average,3.2,7
+Amritsari Mehak,250,"Biryani,Roast Chicken,North Indian,Seafood",Gwalior,City Center,Quick Bites,11am to 1030pm(Mon-Sun),Average,3.1,4
+Alok Kitchen Food Truck,250,Chinese,Gwalior,Lashkar,Food Truck,6pm to 11pm(Mon-Sun),Average,3.3,12
+Shri Gurukripa Food Court Parcel,400,North Indian,Gwalior,Gulmohar City,Quick Bites,10am to 11pm(Mon-Sun),Average,2.9,8
+Rasoi Restaurant,500,North Indian,Gwalior,Lashkar,Quick Bites,11am to 11pm(Mon-Sun),Average,2.8,13
+Spicy Indian Cafe & Restaurant,200,"North Indian,South Indian",Gwalior,Lashkar,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.3,7
+Urban Rasoi,550,"North Indian,Chinese",Gwalior,Lashkar,Quick Bites,10am to 11pm(Mon-Sun),Average,3.4,13
+Pakiza Hotel,200,"Mughlai,North Indian",Gwalior,Lashkar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,9
+Vadilal Hangout,150,Ice Cream,Gwalior,Birla Nagar,Food Court,1130am to 11pm(Mon-Sun),Average,3.2,5
+Gwalior Da Punjab Tadka,150,North Indian,Gwalior,Morar,none,11am to 11pm(Mon-Sun),Average,3.1,4
+Shri Bankebihari Food Corner,350,"South Indian,North Indian,Chinese",Gwalior,Mahalgaon,Quick Bites,11am to 1030pm(Mon-Sun),Average,3.3,13
+Gurukripa Restaurant,500,"North Indian,Fast Food,Chinese",Gwalior,Thatipur,Casual Dining,8am to 1130pm(Mon-Sun),Average,3.4,17
+Hotel Yugantar Palace,400,North Indian,Gwalior,Shinde Ki Chhawani,Casual Dining,10am to 11pm(Mon-Sun),Average,2.7,12
+Jain Family Restaurant 2,250,North Indian,Gwalior,Thatipur,Casual Dining,9am to 1130pm(Mon-Sun),Average,3.4,19
+Virendra Namkeen,100,"Mithai,Bakery",Gwalior,Lashkar,Sweet Shop,930am to 1030pm(Mon-Sun),Average,3.3,7
+The Eru Cafe,500,Cafe,Gwalior,Lashkar,Café,11am to 1030pm(Mon-Sun),Average,3.1,9
+KFC,500,"Burger,Fast Food",Gwalior,DB City Mall-- Birla Nagar,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.2,101
+Happiness,350,"North Indian,Fast Food",Gwalior,Lashkar,Quick Bites,11am to 10pm(Mon-Sun),Very Good,4.2,365
+Prince Punjabi Dhaba,300,North Indian,Gwalior,Lashkar,Dhaba,1130am to 11pm(Mon-Sun),Average,3.3,163
+Amritsari Hot Bite,600,"North Indian,Biryani,Fast Food,Seafood",Gwalior,City Center,Quick Bites,12noon to 1030pm(Mon-Sun),Good,3.7,171
+Khana Khajana Family Restaurant,450,North Indian,Gwalior,Lashkar,Quick Bites,"1pm to 11pm(Mon),10am to 11pm(Tue-Sun)",Good,3.8,131
+Snacks & Shakes,500,"North Indian,Beverages,South Indian",Gwalior,DD City Mall-- Lashkar,none,3pm to 1030pm(Mon-Sun),Good,3.7,114
+Subway,500,"Healthy Food,Sandwich,Salad",Gwalior,Mahalgaon,Quick Bites,10am to 1130pm(Mon-Sun),Good,3.9,109
+Chawla Chicken,400,"North Indian,Chinese",Gwalior,City Center,Quick Bites,12noon to 12midnight(Mon-Sun),Average,3.1,151
+Panchvati Gaurav,700,"North Indian,Chinese",Gwalior,City Center,Casual Dining,"1pm to 4pm,7pm to 11pm(Mon-Sun)",Very Good,4.0,165
+Taste Of Punjab,300,North Indian,Gwalior,City Center,Quick Bites,10am to 10pm(Mon-Sun),Very Good,4.3,549
+Hungry Birds,850,"Italian,Cafe",Gwalior,Naya Bazaar,Café,11am to 1030pm(Mon-Sun),Very Good,4.2,130
+Phalsafa - Cafe Fruit Bar,450,"Continental,Chinese",Gwalior,City Center,Café,11am to 11pm(Mon-Sun),Very Good,4.1,109
+Bansiwala,400,North Indian,Gwalior,Thatipur,Casual Dining,"(Mon-Tue),9am to 12midnight(Wed-Sun)",Good,3.6,115
+Shere Punjab Restaurant,350,"North Indian,Chinese,Biryani",Gwalior,Morar,Quick Bites,1230pm to 11pm(Mon-Sun),Good,3.8,90
+Pizza Fuel Cafe,200,Pizza,Gwalior,Lashkar,Quick Bites,12noon to 11pm(Mon-Sun),Very Good,4.0,82
+Hotel Celebration Inn,450,"North Indian,South Indian,Chinese,Continental",Gwalior,Thatipur,Casual Dining,11am to 11pm(Mon-Sun),Average,3.1,5
+Masala Kraft,800,,Gwalior,Lashkar,Casual Dining,10am to 1130pm(Mon-Sun),Average,3.0,8
+Sita Manor Restaurant,550,"North Indian,Chinese",Gwalior,Naya Bazaar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.0,9
+Shere Hind Hotel,300,North Indian,Gwalior,Lashkar,Dhaba,11am to 11pm(Mon-Sun),Average,3.2,7
+JV Eggs,100,"Sandwich,Fast Food",Gwalior,Lashkar,Quick Bites,6pm to 11pm(Mon-Sun),Average,3.3,11
+Braj Ki Rasoi,400,North Indian,Gwalior,Lashkar,Bhojanalya,9am to 11pm(Mon-Sun),Average,3.3,8
+Cook's Home,150,North Indian,Gwalior,City Center,none,1pm to 11pm(Mon-Sun),Average,3.1,4
+Momo Mia,200,Momos,Gwalior,DD City Mall-- Lashkar,none,1pm to 1030pm(Mon-Sun),Average,3.3,10
+The Terrace Garden Restaurant,700,North Indian,Gwalior,Lashkar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,7
+Mirchi 2 - Indian Food,200,"Fast Food,Beverages",Gwalior,Lashkar,none,11am to 11pm(Mon-Sun),Average,3.1,4
+Shri Thakur Ji Ayurveda Paan Bhandar,100,Paan,Gwalior,Naya Bazaar,Paan Shop,12noon to 1130pm(Mon-Sun),Average,3.2,7
+Chawla,450,,Gwalior,Thatipur,Quick Bites,1230pm to 1230pm(Mon-Sun),Average,3.3,13
+Delhi Darbar - Hotel Dessert Palm,500,"North Indian,Chinese",Gwalior,City Center,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,6
+New Ratiram Gajak Bhandar,200,Desserts,Gwalior,Lashkar,Dessert Parlor,9am to 11pm(Mon-Sun),Average,3.0,11
+Neeraj Hotel,300,North Indian,Gwalior,Thatipur,Quick Bites,10am to 11pm(Mon-Sun),Average,3.1,4
+Dev Yadav Restaurant,250,North Indian,Gwalior,Thatipur,Quick Bites,7am to 2am(Mon-Sun),Average,3.2,10
+Radiance Hotel,700,North Indian,Gwalior,Mahalgaon,Casual Dining,11am to 11pm(Mon-Sun),Average,3.0,4
+Natraj Restaurant,500,"North Indian,Mughlai",Gwalior,Thatipur,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,101
+Swaad The Taste,600,"South Indian,Ice Cream,Fast Food,Chinese,North Indian",Gwalior,Morar,Casual Dining,1030am to 1030pm(Mon-Sun),Good,3.5,132
+Delhi Paranthe Wale,250,"North Indian,Fast Food",Gwalior,Naya Bazaar,Quick Bites,11am to 10pm(Mon-Sun),Average,2.6,250
+Raj Restaurant,300,North Indian,Gwalior,Lashkar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,83
+Punjabi Food Factory,400,"North Indian,Chinese",Gwalior,Lashkar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,112
+Raj Bhoj,600,North Indian,Gwalior,City Center,Casual Dining,11am to 11pm(Mon-Sun),Good,3.7,139
+The Tea Time,100,"Tea,Fast Food,Beverages",Gwalior,Naya Bazaar,Beverage Shop,11am to 10pm(Mon-Sun),Very Good,4.3,240
+Cafe Wrapico,500,"North Indian,Italian,Fast Food,Chinese,Cafe",Gwalior,City Center,Café,1130am to 11pm(Mon-Sun),Good,3.6,98
+F & C Ashirwad Bakers,350,"Fast Food,Bakery,Burger,Beverages",Gwalior,Lashkar,Quick Bites,11am to 10pm(Mon-Sun),Very Good,4.0,140
+The Frappe House,700,"Chinese,Fast Food,Beverages,North Indian,Italian,Burger,Mexican,Pizza",Gwalior,City Center,Lounge,11am to 11pm(Mon-Sun),Good,3.6,77
+Cafe 9O2,600,"Italian,Fast Food,Continental",Gwalior,Naya Bazaar,Café,11am to 11pm(Mon-Sun),Good,3.7,86
+Mahalaxmi Restaurant,650,"North Indian,Continental,Chinese",Gwalior,Shinde Ki Chhawani,Casual Dining,9am to 1030pm(Mon-Sun),Very Good,4.0,129
+Shere Punjab Restaurant,700,"South Indian,North Indian,Fast Food,Chinese",Gwalior,Mahalgaon,Casual Dining,9am to 11pm(Mon-Sun),Average,2.8,130
+Food Funda,150,North Indian,Gwalior,City Center,Quick Bites,12noon to 10pm(Mon-Sun),Good,3.9,158
+Punjab Da Tadka,300,"Fast Food,Chinese,North Indian",Gwalior,Shinde Ki Chhawani,none,10am to 1130pm(Mon-Sun),Average,2.9,132
+Maa Pitambra Poha and Lassi Centre,200,Street Food,Gwalior,Lashkar,Quick Bites,9am to 6pm(Mon-Sun),Good,3.8,180
+Ice Kraft,300,Desserts,Gwalior,City Center,Dessert Parlor,(Mon-Sun),Very Good,4.0,95
+Shiv Shakti Pao Bhaji & Snacks Corner,400,Fast Food,Gwalior,City Center,Quick Bites,10am to 10pm(Mon-Sun),Average,2.7,198
+Bhukhaa,300,"North Indian,Chinese,Thai,Cuisine Varies",Gwalior,City Center,Quick Bites,24,Average,3.0,89
+Lama Bakery,300,"Bakery,Desserts",Gwalior,Lashkar,Bakery,9am to 1030pm(Mon-Sun),Good,3.8,91
+Choice Family Restaurant,200,"Street Food,Fast Food,Chinese",Gwalior,Lashkar,Quick Bites,"12midnight to 230am,1056am to 12midnight...",Good,3.7,115
+Pizza Fuel Cafe,200,Pizza,Gwalior,Thatipur,Quick Bites,12noon to 1130pm(Mon-Sun),Very Good,4.0,68
+Parmanand Sweets,250,Mithai,Gwalior,Madhav Ganj,Sweet Shop,7am to 10pm(Mon-Sun),Very Good,4.2,125
+Cafe PRIZON,550,"Pizza,Beverages,Fast Food,Biryani,Sandwich",Gwalior,Vijaynagar,Café,11am to 10pm(Mon-Sun),Good,3.5,115
+Zayka Family Restaurant,750,"South Indian,North Indian,Italian,Fast Food,Chinese",Gwalior,Lashkar,Casual Dining,12noon to 11pm(Mon-Sun),Average,3.4,83
+The Gym Kitchen,600,"Continental,Cafe,Beverages",Gwalior,City Center,Casual Dining,10am to 1130pm(Mon-Sun),Good,3.9,92
+The Road Chef,100,Street Food,Gwalior,Naya Bazaar,Quick Bites,12noon to 10pm(Mon-Sun),Average,3.2,101
+Jain Family Restaurant,500,North Indian,Gwalior,Thatipur,Quick Bites,12midnight to 1130pm(Mon-Sun),Good,3.7,79
+SS Kachori Wala,300,Street Food,Gwalior,Naya Bazaar,Quick Bites,"8am to 1pm,4pm to 8pm(Mon-Sun)",Very Good,4.1,130
+Shere Punjab,400,"North Indian,Chinese,Rolls",Gwalior,Lashkar,Quick Bites,130pm to 11pm(Mon-Sun),Average,3.4,109
+Royal Pizza Hub,400,"Fast Food,Pizza",Gwalior,Thatipur,Quick Bites,10am to 10pm(Mon-Sun),Good,3.8,70
+Delhi - 6,300,"North Indian,Chinese,Fast Food",Gwalior,Lashkar,none,11am to 10pm(Mon-Sun),Average,2.6,129
+7-Eleven Restaurant,800,"South Indian,North Indian,Mughlai,Chinese",Gwalior,Mahalgaon,Casual Dining,(Mon-Sun),Very Good,4.0,82
+Parth Juice Cafe Centre,350,"Fast Food,Beverages,Pizza",Gwalior,Morar,Quick Bites,11am to 10pm(Mon-Sun),Good,3.8,69
+Ashok Hotel,300,North Indian,Gwalior,Lashkar,Quick Bites,8am to 11pm(Mon-Sun),Good,3.6,58
+Shankar Kulfi,100,Ice Cream,Gwalior,Naya Bazaar,none,11am to 10pm(Mon-Sun),Good,3.8,89
+Punjabi Chicken Mangu Chicken,350,North Indian,Gwalior,Shinde Ki Chhawani,Quick Bites,1230pm to 1030pm(Mon-Sun),Good,3.9,71
+Grace Foods,400,"North Indian,South Indian,Chinese,Continental",Gwalior,City Center,Quick Bites,8am to 12midnight(Mon-Sun),Good,3.9,40
+Mayaaz Foodzone,300,"North Indian,Chinese,Beverages",Gwalior,Thatipur,Quick Bites,11am to 10pm(Mon-Sun),Average,2.6,67
+Pizza Bite's,300,"Fast Food,Pizza",Gwalior,Lashkar,Quick Bites,12noon to 10pm(Mon-Sun),Good,3.6,57
+Chawla Chicken,700,"Fast Food,Chinese",Gwalior,Prasad Nagar,Quick Bites,12noon to 11pm(Mon-Sun),Average,2.9,78
+Laziz Pizza,600,"Pizza,Italian,Fast Food",Gwalior,Gulmohar City,Quick Bites,930am to 11pm(Mon-Sun),Good,3.7,92
+Punjab Di Mehak,400,"North Indian,Continental",Gwalior,City Center,Quick Bites,8am to 11pm(Mon-Sun),Good,3.5,66
+Uzbekk,400,"North Indian,Italian,Fast Food,Chinese",Gwalior,City Center,Quick Bites,10am to 10pm(Mon-Sun),Good,3.9,106
+Instant Rasoi,400,North Indian,Gwalior,City Center,none,11am to 10pm(Mon-Sun),Very Good,4.0,50
+Kabooz,600,Cafe,Gwalior,City Center,Café,12noon to 10pm(Mon-Sun),Average,2.5,79
+Nirankari Bakery,200,Bakery,Gwalior,Mahalgaon,Bakery,11am to 930pm(Mon-Sun),Good,3.9,76
+Shri Jodhpur Mishtan Bhandar,250,Mithai,Gwalior,Thatipur,Sweet Shop,11am to 930pm(Mon-Sun),Good,3.9,49
+Best Namkeen & Bakers,200,"Bakery,Mithai",Gwalior,Lashkar,Bakery,11am to 930pm(Mon-Sun),Good,3.6,92
+The Food Mood,200,"Fast Food,Chinese,North Indian",Gwalior,Deen Dayal Nagar,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.7,50
+The Road Food Truck,250,Fast Food,Gwalior,Lashkar,Food Truck,"4pm to 11pm(Mon,Tue,Wed,Thu,Fri,Sun),6pm to ...",Good,3.7,74
+Kwality Restaurant,750,"North Indian,Italian,Fast Food,Continental,Chinese",Gwalior,Lashkar,Casual Dining,11am to 11pm(Mon-Sun),Good,3.8,85
+Bamboo Restaurant,700,"North Indian,Fast Food,Chinese",Gwalior,Lashkar,Casual Dining,11am to 11pm(Mon-Sun),Average,2.9,130
+Moti Mahal,500,"North Indian,Indian",Gwalior,Birla Nagar,Fine Dining,"10am to 10pm(Mon-Sat),10am to 11pm(Sun)",Good,3.6,55
+Tandoori Chai,100,"Tea,Coffee",Gwalior,City Center,Beverage Shop,10am to 10pm(Mon-Sun),Very Good,4.1,52
+Hunger's Snacks,350,Fast Food,Gwalior,Lashkar,Quick Bites,11am to 1030pm(Mon-Sun),Good,3.9,61
+Blu Lounge,1200,North Indian,Gwalior,Lashkar,Lounge,1pm to 10pm(Mon-Sun),Average,2.6,81
+Mumbai Vada Pav,100,"Street Food,Fast Food",Gwalior,City Center,Quick Bites,11am to 9pm(Mon-Sun),Good,3.6,46
+King Uncle,200,"Chinese,Fast Food",Gwalior,Lashkar,none,5pm to 1030pm(Mon-Sun),Good,3.6,82
+Pizza Hub,300,Pizza,Gwalior,Deen Dayal Nagar,Quick Bites,1pm to 9pm(Mon-Sun),Good,3.5,25
+Rakesh Juice and Snacks Parlour,200,"Street Food,Beverages",Gwalior,Shinde Ki Chhawani,Quick Bites,10am to 10pm(Mon-Sun),Good,3.6,54
+Yummiee Tummiee,200,Fast Food,Gwalior,Lashkar,Quick Bites,5pm to 11pm(Mon-Sun),Good,3.6,64
+Paarivar Cafeteria & Bakery,250,"Fast Food,Pizza,Burger,Italian,Sandwich",Gwalior,Naya Bazaar,Quick Bites,"12noon to 1120pm(Mon),12noon to 10pm...",Good,3.9,67
+Red Chilli Chinese Korner,150,Chinese,Gwalior,Thatipur,none,330pm to 10pm(Mon-Sun),Good,3.8,55
+Punjabi Dhaba,250,"North Indian,Chinese,Street Food",Gwalior,Lashkar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,54
+Shivam Pav Bhaji And Pulav Centre,150,South Indian,Gwalior,Lashkar,Quick Bites,230pm to 1130pm(Mon-Sun),Good,3.7,48
+On The Way Outlet,250,Indian,Gwalior,Thatipur,Quick Bites,1pm to 10pm(Mon-Sun),Average,3.3,17
+Satvik Restaurant,600,"South Indian,North Indian,Continental,Chinese",Gwalior,Shinde Ki Chhawani,Casual Dining,9am to 11pm(Mon-Sun),Good,3.6,102
+Hakeem's Restaurant,800,"North Indian,Chinese",Gwalior,City Center,Casual Dining,11am to 11pm(Mon-Sun),Average,3.1,92
+Food Mafia,500,"North Indian,Fast Food",Gwalior,Madhav Ganj,Quick Bites,10am to 10pm(Mon-Sun),Good,3.6,40
+Original-The Road Chef's- Chinese Fast Food and Chat...,100,"Chinese,Street Food",Gwalior,Naya Bazaar,none,4pm to 10pm(Mon-Sun),Average,3.3,36
+Secret Recipes,300,Fast Food,Gwalior,Morar,Quick Bites,4pm to 10pm(Mon-Sun),Good,3.9,42
+Double Hathras Sweets,200,"Street Food,South Indian,Chinese",Gwalior,Thatipur,Quick Bites,9am to 930pm(Mon-Sun),Good,3.6,36
+Crisp Corner,200,Fast Food,Gwalior,Prasad Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,2.7,106
+Maa Vaishno Food Corner,300,"North Indian,Chinese",Gwalior,Shinde Ki Chhawani,Quick Bites,11am to 10pm(Mon-Sun),Average,3.4,39
+Punjab Da Tadka,250,North Indian,Gwalior,Madhav Ganj,Quick Bites,10am to 10pm(Mon-Sun),Average,2.8,44
+The Shake Art,200,Beverages,Gwalior,Lashkar,Beverage Shop,12noon to 10pm(Mon-Sun),Good,3.9,32
+The Taste Of Punjab,300,North Indian,Gwalior,Mahalgaon,none,11am to 10pm(Mon-Sun),Good,3.7,41
+The Sigdi Food Hub,250,"Chinese,Sandwich,Fast Food,Beverages,North Indian,Burger,Coffee,Pizza",Gwalior,Vijaynagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,39
+Nirankari Bakery,250,"Bakery,Street Food",Gwalior,Madhav Ganj,Bakery,11am to 10pm(Mon-Sun),Good,3.6,36
+Rock & Roll express,200,"Chinese,Fast Food",Gwalior,City Center,none,2pm to 10pm(Mon-Sun),Good,3.7,27
+Indian Fried Chicken,500,"North Indian,BBQ,Biryani,Fast Food",Gwalior,Lashkar,Quick Bites,12noon to 1030pm(Mon-Sun),Good,3.9,56
+Xoing Cafe,450,"Cafe,Beverages,Italian,Sandwich",Gwalior,City Center,Café,1130am to 830pm(Mon-Sun),Good,3.5,33
+Drupe Hive,300,"Juices,Sandwich,Ice Cream",Gwalior,Lashkar,Beverage Shop,12noon to 10pm(Mon-Sun),Good,3.5,16
+The Tea Time,100,"Tea,Fast Food",Gwalior,City Center,Quick Bites,1030am to 10pm(Mon-Sun),Good,3.6,27
+Shri Ji Awadh  Food,150,Fast Food,Gwalior,City Center,none,"12noon to 945pm(Mon-Tue),12noon to 10pm(Wed-Sun)",Good,3.5,21
+Agra Chaat Bhandar,100,Street Food,Gwalior,Thatipur,Quick Bites,8am to 10pm(Mon-Sun),Average,3.2,9

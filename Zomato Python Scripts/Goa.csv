@@ -1,0 +1,573 @@
+Name,Price,Cuisine_Category,City,Region,Cuisine_Type,Timing,Rating_Types,Rating,Votes
+Copperleaf,1200,"Mughlai,Seafood,North Indian,Chinese",Goa,Penha de Franca,Casual Dining,"1130am to 4pm,7pm to 1145pm(Mon-Sun)",Excellent,4.5,695
+Cafe Cotinga,1200,"Continental,North Indian,Bakery",Goa,Anjuna,Casual Dining,8am to 12midnight(Mon-Sun),Very Good,4.4,517
+The Fisherman's Wharf,1100,"Seafood,Goan,North Indian,Continental,Asian",Goa,Panaji,Casual Dining,"12noon to 12midnight(Mon-Sat),124pm to ...",Excellent,4.5,1197
+Route 66,1250,"American,BBQ,Burger",Goa,Panaji,Casual Dining,12noon to 1130pm(Mon-Sun),Very Good,4.3,763
+Tio Tilly's Bar & Kitchen,800,"Continental,Finger Food,Burger,Pizza",Goa,Calangute,Bar,1130am to 12midnight(Mon-Sun),Very Good,4.4,560
+OCoqueiro,1000,"Goan,Seafood",Goa,Penha de Franca,Casual Dining,12noon to 4am(Mon-Sun),Ottimo,4.1,297
+Tao,1200,"Asian,Chinese,Thai",Goa,Panaji,Casual Dining,12noon to 1130pm(Mon-Sun),Very Good,4.1,375
+Earthen Oven,1200,"North Indian,Mughlai",Goa,Candolim,Casual Dining,10am to 12midnight(Mon-Sun),Very Good,4.1,275
+Delhi Darbar,1000,"North Indian,Mughlai,Chinese,Goan",Goa,Calangute,Casual Dining,8am to 1115pm(Mon-Sun),Very Good,4.3,270
+Down The Road,600,"Chinese,Continental",Goa,Panaji,Casual Dining,11am to 1am(Mon-Sun),Buono,3.9,281
+Spicy Family Restaurant & Bar,1300,"South Indian,Asian",Goa,Margao,Casual Dining,"1130am to 330pm,730pm to 1130pm(Mon-Sun)",Very Good,4.1,270
+Southi,700,South Indian,Goa,Candolim,Casual Dining,8am to 1145pm(Mon-Sun),Very Good,4.3,346
+Morgan’s Place,900,"Italian,Pizza",Goa,Penha de Franca,Casual Dining,930am to 1130pm(Mon-Sun),Very Good,4.3,244
+Palms n Sands,900,"Continental,Seafood,Goan,North Indian,Chinese",Goa,Candolim,Casual Dining,9am to 12midnight(Mon-Sun),Very Good,4.0,332
+Koi Asian Dining,1200,"Asian,Thai,Japanese,Chinese,Burmese,Vietnamese,Singaporean,Malaysian",Goa,Calangute,Casual Dining,12noon to 1am(Mon-Sun),Very Good,4.3,335
+Godinho Bar And Restaurant,600,"Goan,Seafood",Goa,Panaji,Casual Dining,11am to 11pm(Mon-Sun),Good,3.7,70
+Brewbakes,300,"Fast Food,Italian",Goa,Margao,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,26
+Dunkin' Donuts,550,"Desserts,Cafe,Burger,Fast Food,Beverages",Goa,Penha de Franca,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,46
+Amancio Classic Bar and Family Restaurant,650,"Continental,Goan,North Indian",Goa,Siolim,Casual Dining,"1130am to 3pm,630pm to 11pm(Mon-Sun)",Good,3.9,57
+Hotel Royal Darbar,700,"North Indian,Mughlai",Goa,Margao,Casual Dining,"11am to 3pm,7pm to 11pm(Mon-Sun)",Good,3.7,44
+Basseraa,500,"Sindhi,North Indian",Goa,Panaji,Casual Dining,830am to 10pm(Mon-Sun),Average,2.8,47
+Prime Rose,700,"Continental,Goan,Finger Food,Italian",Goa,Penha de Franca,Casual Dining,1230pm to 2am(Mon-Sun),Good,3.9,108
+Cool Spice,600,"Seafood,North Indian,Chinese",Goa,Ponda,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,54
+Krossroads,500,Chinese,Goa,Margao,Casual Dining,"1130am to 3pm,630pm to 11pm(Mon-Sun)",Good,3.5,48
+Frolique,350,"Salad,Fast Food,Goan",Goa,Margao,Casual Dining,"Closed(Mon),8am to 9pm(Tue-Sun)",Good,3.7,37
+Bawarchi-The Royal Chef,200,Biryani,Goa,Panaji,none,11am to 11pm(Mon-Sun),Average,2.9,23
+Embers,1200,British,Goa,Panaji,Casual Dining,"8am to 11pm(Mon),Closed(Tue-Sun)",Good,3.7,43
+Charlie Chang's,500,"Chinese,Thai,Momos",Goa,Panaji,Quick Bites,"Closed(Mon),12noon to 3pm,7pm to 11pm(Tue-Sun)",Very Good,4.0,78
+Filomena's Kitchen,600,"Goan,Italian,North Indian,Chinese,Seafood,Beverages",Goa,Chicalim,Casual Dining,"11am to 330pm,6pm to 11pm(Mon-Sun)",Average,3.4,37
+Razzberry,300,"Ice Cream,Fast Food,Desserts",Goa,Margao,Dessert Parlor,930am to 9pm(Mon-Sun),Average,3.2,23
+Shree Sagar,450,"South Indian,North Indian,Chinese,Fast Food",Goa,Calangute,Casual Dining,8am to 11pm(Mon-Sun),Average,3.4,52
+Food Court,450,"South Indian,North Indian,Chinese,Fast Food",Goa,Dempo Towers-- Panaji,Quick Bites,8am to 10pm(Mon-Sun),Good,3.5,32
+Confeitaria 31 De Janeiro,500,"Cafe,Portuguese,Goan,Bakery",Goa,Panaji,Café,8am to 8pm(Mon-Sun),Good,3.8,51
+Sanyog,700,"North Indian,Chinese",Goa,Panaji,Casual Dining,730am to 10pm(Mon-Sun),Good,3.7,58
+Chicken Food Court,400,"Fast Food,Biryani",Goa,Panaji,Quick Bites,11am to 11pm(Mon-Sun),Average,2.9,50
+Casa Moderna,500,"Goan,Seafood",Goa,Panaji,Casual Dining,"1130am to 330pm,630pm to 11pm(Mon-Sun)",Good,3.7,47
+Ruchira,800,"North Indian,Continental,Chinese,Goan,Seafood",Goa,Mapusa,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,54
+Sitara,400,"North Indian,South Indian,Chinese,Goan,Street Food",Goa,Panaji,Casual Dining,730am to 1030pm(Mon-Sun),Good,3.6,29
+Heera Classic Kitchen & Bar,600,"North Indian,Chinese,Afghan",Goa,Mapusa,Casual Dining,"11am to 3pm,7pm to 11pm(Mon-Sun)",Good,3.7,26
+Goodyland - La Paz,250,"Fast Food,Desserts,Bakery",Goa,La Paz-- Vasco,Quick Bites,930am to 915pm(Mon-Sun),Average,3.4,30
+Plantain Leaf,800,"North Indian,Chinese,Goan,Continental",Goa,Calangute,Casual Dining,8am to 11pm(Mon-Sun),Average,2.7,44
+Kudos Pizzeria,500,"Goan,Italian,Pizza",Goa,Panaji,Quick Bites,11am to 1045pm(Mon-Sun),Good,3.7,50
+Gujarat Lodge,300,Gujarati,Goa,Panaji,Casual Dining,11am to 930pm(Mon-Sun),Good,3.5,34
+Bismarckia - The Project Café,1500,"Asian,European",Goa,Assagao,Casual Dining,8am to 11pm(Mon-Sun),Good,3.7,13
+Ice Cream Factory,300,"Ice Cream,Desserts",Goa,Margao,Dessert Parlor,12noon to 130am(Mon-Sun),Average,3.3,62
+Alcoves Restaurant & Bar,600,"North Indian,Chinese,Seafood",Goa,Margao,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,37
+Tapri,150,Fast Food,Goa,Margao,Quick Bites,"9am to 3pm,530pm to 1030pm(Mon-Sun)",Good,3.7,33
+KFC,500,"American,Fast Food",Goa,Mall De Goa-- Penha De Franca,Food Court,11am to 11pm(Mon-Sun),Average,2.7,22
+Three Kisses,800,"Goan,Seafood,North Indian,Chinese",Goa,Benaulim,Casual Dining,9am to 11pm(Mon-Sun),Good,3.9,53
+Vicksunn Food Point,400,"Goan,Chinese,North Indian",Goa,Benaulim,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,50
+Cafe Coffee Day,400,"Cafe,Fast Food",Goa,Candolim,Café,9am to 11pm(Mon-Sun),Good,3.8,29
+Anandam Ice Creams & More,250,"Ice Cream,Beverages,Fast Food",Goa,Panaji,Dessert Parlor,"10am to 330pm,530pm to 11pm(Mon-Sun)",Good,3.6,28
+Riverfront,1200,"Chinese,North Indian,Goan,Continental",Goa,Panaji,Casual Dining,11am to 1am(Mon-Sun),Good,3.6,103
+Blue Apple Restaurant & Bar,800,"North Indian,Chinese,Goan",Goa,Calangute,Casual Dining,730am to 11pm(Mon-Sun),Good,3.8,35
+Margao Central,300,"South Indian,North Indian,Chinese,Seafood,Desserts,Beverages",Goa,Margao,Quick Bites,"7am to 11am,12noon to 11pm(Mon-Sun)",Good,3.5,15
+The Village Kitchen - Gaon Ka Chulha,600,"North Indian,Maharashtrian,Malwani,Goan,Rajasthani",Goa,Calangute,Quick Bites,NA,Good,3.7,49
+Tomatos By Red Carpet,500,"North Indian,Chinese,Seafood",Goa,Margao,Bar,11am to 11pm(Mon-Sun),Average,3.1,25
+River Lounge,500,"Goan,North Indian,Chinese,Seafood",Goa,Penha de Franca,Casual Dining,"Closed(Mon),12noon to 4pm,7pm to 11pm(Tue-Sun)",Good,3.6,25
+Silveira's Szechwan House,350,Chinese,Goa,Panaji,Quick Bites,7pm to 11pm(Mon-Sun),Good,3.7,30
+Apana Punjab,500,"Seafood,North Indian,Mughlai",Goa,Vagator,Casual Dining,10am to 11pm(Mon-Sun),Good,3.6,40
+Fishland,700,"Continental,Goan,North Indian,Chinese",Goa,Margao,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,44
+Alnas Rings Corner & Fresh Juice,200,"Fast Food,Beverages",Goa,Margao,Quick Bites,9am to 11pm(Mon-Sun),Good,3.8,30
+Kokani,500,North Indian,Goa,Penha de Franca,Casual Dining,"915am to 3pm,7pm to 11pm(Mon-Sun)",Average,3.4,24
+The Heritage Cafe,600,"Cafe,Sandwich,Burger",Goa,Panaji,Café,10am to 730pm(Mon-Sun),Poor,2.4,26
+Unique Bar and Restaurant,300,"Goan,Chinese",Goa,Panaji,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,24
+Heera,900,"Goan,Fast Food,North Indian,Mughlai,Chinese",Goa,Mapusa,Casual Dining,7am to 11pm(Mon-Sun),Good,3.7,44
+Durigo,600,"Seafood,Goan,Chinese",Goa,Colva,Casual Dining,"12noon to 3pm,7pm to 11pm(Mon-Sun)",Good,3.6,27
+Shree Fast Food,300,"North Indian,Chinese,Seafood",Goa,Margao,Quick Bites,"11am to 3pm,5pm to 1030pm(Mon-Sun)",Good,3.9,21
+Papai's Corner,400,"Seafood,North Indian,Chinese",Goa,Benaulim,Casual Dining,530pm to 11pm(Mon-Sun),Good,3.8,49
+Divine Restaurant,300,"North Indian,Chinese,Goan",Goa,Margao,Quick Bites,11am to 11pm(Mon-Sun),Average,2.9,25
+Heartbeat,700,"Seafood,North Indian,Chinese,Fast Food,Beverages",Goa,Mapusa,Casual Dining,"11am to 3pm,7pm to 11pm(Mon-Sun)",Average,3.4,44
+THE MUMBAI CANTEEN,400,Fast Food,Goa,Panaji,Quick Bites,"10am to 10pm(Mon-Sat),4pm to 10pm(Sun)",Good,3.6,27
+Borkar's Celebrations,1200,"Goan,Chinese,Continental,North Indian",Goa,Panaji,Casual Dining,"1pm to 3pm,7pm to 11pm(Mon-Sun)",Good,3.7,60
+Ori - The HQ,800,"Asian,Sushi,Seafood",Goa,The HQ-- Vasco,Casual Dining,"12noon to 3pm,7pm to 11pm(Mon-Sun)",Average,2.7,41
+Imanjuna,500,"Finger Food,Seafood,Goan",Goa,Anjuna,Bar,NA,Average,3.4,13
+LioLoco The Bistro,500,Cafe,Goa,Mapusa,Café,"11am to 830pm(Mon-Sat),Closed(Sun)",Good,3.5,22
+Hyderabadi Bawarchi Dum Biryani,400,"Biryani,Chinese",Goa,Panaji,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,16
+Lassi Cafe,400,"Fast Food,Beverages",Goa,Margao,Quick Bites,10am to 11pm(Mon-Sun),Good,3.8,28
+Pool Bar and Grill- Grand Hyatt,2000,Finger Food,Goa,Grand Hyatt-- Bambolim,Bar,8am to 7pm(Mon-Sun),Good,3.6,19
+Crush Cafe,400,"Cafe,Fast Food",Goa,Benaulim,Café,"Closed(Mon),9am to 9pm(Tue-Sun)",Good,3.6,42
+Chaat Junction,150,"North Indian,Beverages,Pizza",Goa,Panaji,Quick Bites,11am to 11pm(Mon-Sun),Average,2.8,11
+Chat Street,300,"Street Food,Juices",Goa,Panaji,Quick Bites,11am to 9pm(Mon-Sun),Good,3.6,41
+ट 4 Tasty,300,Street Food,Goa,Old Goa,Quick Bites,12noon to 10pm(Mon-Sun),Good,3.8,43
+Pleasure Pie - The HQ,450,"Pizza,Fast Food,Desserts",Goa,The HQ-- Vasco,Quick Bites,9am to 9pm(Mon-Sun),Average,3.3,40
+Horse Shoe,1000,"Goan,Portuguese",Goa,Panaji,Casual Dining,"7pm to 1030pm(Mon),12noon to 230pm,7pm to ...",Good,3.5,29
+Gokul Veg Restaurant,600,North Indian,Goa,Margao,Casual Dining,9am to 10pm(Mon-Sun),Good,3.5,38
+Sweet And Sour - La Paz,500,"Chinese,Seafood",Goa,La Paz-- Vasco,Casual Dining,"11am to 3pm,7pm to 11pm(Mon-Sun)",Good,3.5,31
+7th Heaven,400,"Bakery,Fast Food",Goa,Panaji,Bakery,11am to 11pm(Mon-Sun),Good,3.5,15
+Food Circuit,200,"Chinese,North Indian",Goa,Margao,Quick Bites,"12noon to 330pm,6pm to 1030pm(Mon-Sun)",Average,3.4,19
+Foody's,250,"Seafood,North Indian",Goa,Vasco,Quick Bites,"11am to 4pm,6pm to 11pm(Mon-Sun)",Average,2.8,23
+Ocean World Restaurant,700,"North Indian,Seafood,Chinese",Goa,Margao,Casual Dining,"11am to 3pm,6pm to 1030pm(Mon-Sun)",Good,3.7,35
+Rococco @ Ashvem,1200,"Mediterranean,North Indian,Chinese",Goa,Ashwem,Casual Dining,9am to 1030pm(Mon-Sun),Good,3.8,25
+Zaiqa,300,"North Indian,Fast Food",Goa,Panaji,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.0,21
+Savor,750,"North Indian,Chinese,Goan",Goa,Ponda,Casual Dining,"11am to 3pm,630pm to 11pm(Mon-Sun)",Average,3.3,45
+UBQ by Barbeque Nation,450,"North Indian,BBQ,Biryani,Kebab",Goa,Panaji,none,"12noon to 3pm,630pm to 10pm(Mon-Sun)",Average,3.3,10
+Subway,500,"Healthy Food,Sandwich,Salad",Goa,Mall De Goa-- Penha De Franca,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,36
+Flora Restaurant and Pub,250,"North Indian,Chinese,South Indian,Goan",Goa,Quepem,Quick Bites,"1130am to 330pm,630pm to 1045pm(Mon-Sun)",Good,3.8,27
+Blue Monkey,600,"Italian,Burger,Pizza",Goa,Penha de Franca,Casual Dining,"Closed(Mon),2pm to 11pm(Tue-Sun)",Good,3.6,30
+Mog cake studio+ All things good,400,Bakery,Goa,Margao,Bakery,9am to 1030pm(Mon-Sun),Good,3.7,33
+Shree Gomantak Family Restaurant & Bar,700,"Chinese,Goan,Indian",Goa,Margao,Casual Dining,"Closed(Mon),11am to 11pm(Tue-Sun)",Average,3.4,20
+Shahi Darbar,250,"Desserts,Mithai",Goa,Margao,Dessert Parlor,"11am to 11pm(Mon-Fri),1030am to 1130am...",Good,3.5,10
+Dosa Plaza,400,"South Indian,North Indian,Chinese",Goa,Calangute,Quick Bites,"830am to 1130pm(Mon-Fri),830am to 12midnight...",Good,3.5,105
+Goa Baking Company - Goa Marriott Resort & Spa,600,"Bakery,Desserts,Beverages",Goa,Goa Marriott Resort & Spa-- Panaji,Bakery,"8am to 11pm(Mon,Tue,Thu,Fri,Sat,Sun),823am...",Good,3.5,12
+Grand Chef,400,"North Indian,Chinese,Biryani",Goa,Penha de Franca,Casual Dining,"11am to 330pm,7pm to 11pm(Mon-Sun)",Average,3.3,26
+New Punjab,500,"North Indian,Chinese",Goa,Panaji,Casual Dining,"11am to 330pm,630pm to 11pm(Mon-Sun)",Average,3.3,36
+Mayur Punjab,1200,"Mughlai,Chinese,North Indian,Seafood",Goa,Mapusa,Casual Dining,"12noon to 3pm,7pm to 11pm(Mon-Sun)",Average,3.3,25
+The Garage Cafe,800,"Chinese,Cafe,Continental,Indian,Goan,North Indian,Italian,Desserts",Goa,Morjim,Café,1030am to 1130pm(Mon-Sun),Very Good,4.0,68
+Truffles,350,"Bakery,Desserts",Goa,Panaji,Bakery,"945am to 830pm(Mon-Sat),Closed(Sun)",Good,3.6,28
+Clube Nacional,600,"Goan,Seafood",Goa,Panaji,Casual Dining,"12noon to 3pm,7pm to 11pm(Mon-Sat),Closed(Sun)",Good,3.7,19
+Sushi Cafe,700,"Italian,Goan,Chinese,Seafood",Goa,Palolem,Casual Dining,9am to 11pm(Mon-Sun),Good,3.5,27
+Hangout Family Restaurant,800,"North Indian,Chinese,Goan",Goa,Margao,Casual Dining,11am to 11pm(Mon-Sun),Average,3.1,16
+Nelia's Kitchen,400,"Cafe,Beverages,Seafood",Goa,Margao,Café,"8am to 8pm(Mon-Sat),Closed(Sun)",Average,3.4,14
+Foodland,600,"North Indian,Chinese,Goan",Goa,Candolim,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,32
+The Rooster,300,"North Indian,Lebanese",Goa,Ponda,Casual Dining,"11am to 3pm,5pm to 10pm(Mon,Tue,Wed,Thu,Sat...",Good,3.6,41
+Pind Balluchi,1000,North Indian,Goa,Calangute,Casual Dining,12noon to 12midnight(Mon-Sun),Average,3.4,87
+Smugglers Inn,600,"Asian,Chinese,Continental,Desserts,Goan,Indian,Salad,Seafood",Goa,Margao,Casual Dining,"830am to 3pm,630pm to 11pm(Mon-Sun)",Average,3.4,16
+Kareems,800,Mughlai,Goa,Majorda,Casual Dining,"1215pm to 315pm,7pm to 11pm(Mon-Sun)",Average,3.4,22
+Momz Kitchen Family Restaurant & Fast Food,550,"North Indian,Chinese,Goan",Goa,Porvorim,Casual Dining,"11am to 3pm,7pm to 11pm(Mon-Sun)",Average,2.7,17
+The Olive Room,800,"Italian,North Indian,Goan,Seafood,Chinese",Goa,Palolem,Quick Bites,830am to 1130pm(Mon-Sun),Good,3.8,93
+Café Tinto - The Fern Kadamba,1300,"North Indian,Continental,Chinese",Goa,The Fern Kadamba,Casual Dining,630am to 11pm(Mon-Sun),Good,3.7,33
+Mejwani,1000,"North Indian,Chinese,Continental,Biryani,Seafood,Goan",Goa,Anantashram-- Vasco,Casual Dining,"1130am to 3pm,7pm to 11pm(Mon-Sun)",Good,3.5,26
+Kandeel Family Restaurant and Bar,1200,"Asian,Chinese,Goan,Seafood",Goa,Margao,Casual Dining,"11am to 330pm,7pm to 11pm(Mon-Sun)",Average,3.3,28
+The Coastal Bistro,500,Continental,Goa,Colva,Casual Dining,"Closed(Mon),9am to 11pm(Tue-Sun)",Good,3.5,13
+Bell Peppers,450,"Pizza,Fast Food",Goa,Margao,Quick Bites,10am to 1020pm(Mon-Sun),Average,3.4,19
+Casa Bhonsle,1000,"Goan,Seafood",Goa,Panaji,Casual Dining,"12noon to 330pm,7pm to 11pm(Mon-Sun)",Average,3.4,12
+Nawab's Hyderabadi Cuisine,300,"Hyderabadi,Mughlai",Goa,Panaji,Quick Bites,1230pm to 11pm(Mon-Sun),Average,3.2,14
+4 Seasons,800,"Goan,North Indian,Chinese,Seafood",Goa,Margao,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,20
+Kerala Cafe,400,South Indian,Goa,Panaji,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,34
+Mircho Go,700,"Chinese,Continental,Seafood",Goa,Margao,Casual Dining,"1030am to 4pm,6pm to 11pm(Mon-Sun)",Average,3.3,23
+You & Me,800,"Italian,Chinese,Continental,North Indian,Goan,Momos",Goa,Baga,Casual Dining,8am to 11pm(Mon-Sun),Good,3.5,21
+Zaika,400,"Fast Food,Mughlai",Goa,Mapusa,Quick Bites,"11am to 3pm,5pm to 11pm(Mon-Sun)",Average,3.4,35
+Ria's Cuisine,800,"Goan,Continental,Italian,Chinese",Goa,Colva,Casual Dining,"11am to 3pm,7pm to 10pm(Mon-Sun)",Good,3.6,24
+Home Food Dude,600,North Indian,Goa,Siolim,Quick Bites,"12noon to 4pm(Mon,Wed,Thu,Fri,Sat,Sun)...",Good,3.7,26
+Navdurga family  restaurant,300,"Biryani,Chinese",Goa,Margao,Casual Dining,1130am to 1130am(Mon-Sun),Average,3.3,12
+Fruitilicious,300,Desserts,Goa,Panaji,Dessert Parlor,930am to 8pm(Mon-Sun),Average,2.8,16
+Cafe Toto's,500,"North Indian,Chinese,Italian,Steak",Goa,Calangute,Casual Dining,8am to 4pm(Mon-Sun),Average,2.6,27
+Chef Peter's Kitchen,1000,Goan,Goa,Candolim,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,26
+Crusty's Restaurant And Bar,1000,"Pizza,Goan",Goa,Margao,Casual Dining,"Closed(Mon),6pm to 11pm(Tue-Sun)",Good,3.5,22
+Red Carpet,300,"North Indian,Chinese,Goan",Goa,Margao,Quick Bites,930am to 1030pm(Mon-Sun),Good,3.7,12
+Tasty,600,North Indian,Goa,Mall De Goa-- Penha De Franca,Food Court,10am to 10pm(Mon-Sun),Good,3.6,4
+Adelaide,700,"Goan,Seafood",Goa,Candolim,Casual Dining,11am to 11pm(Mon-Sun),Good,3.7,26
+Goa Grill,1200,"Continental,European",Goa,Arambol,Casual Dining,930am to 11pm(Mon-Sun),Average,3.4,23
+Flamingo,800,"North Indian,Chinese,Continental,Seafood",Goa,Panaji,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,19
+The Regency - La Paz,700,"North Indian,Goan,Continental",Goa,La Paz-- Vasco,Casual Dining,"11am to 3pm,7pm to 11pm(Mon-Sun)",Average,3.1,23
+Rasa The Essence,500,"North Indian,Mughlai,Goan,Seafood",Goa,Baga,Casual Dining,9am to 11pm(Mon-Sun),Good,3.6,35
+Paradise Foods Hyderabadi Biryani,500,"Hyderabadi,North Indian",Goa,Vasco,Casual Dining,11am to 11pm(Mon-Sun),Average,2.7,17
+Koelso 24/7,800,"Seafood,North Indian,Chinese,Russian,Continental",Goa,Arambol,Casual Dining,9am to 11pm(Mon-Sun),Good,3.6,27
+The Bakery Division,0,Bakery,Goa,Panaji,Bakery,10am to 10pm(Mon-Sun),Good,3.6,34
+Ashoka Classic,500,"North Indian,Chinese,Goan",Goa,Vasco,Casual Dining,"10am to 3pm,7pm to 11pm(Mon-Sun)",Average,3.3,14
+Lafansa Shawarma Cafe,300,Arabian,Goa,Panaji,Quick Bites,4pm to 11pm(Mon-Sun),Good,3.7,16
+Soyara's,250,"Fast Food,North Indian",Goa,Panaji,Quick Bites,11am to 4pm(Mon-Sun),Average,3.1,16
+Desi Cuppa,300,Beverages,Goa,Margao,Beverage Shop,9am to 11pm(Mon-Sun),Average,3.3,15
+Sweet Dreams,200,Desserts,Goa,Margao,Dessert Parlor,8am to 10pm(Mon-Sun),Good,3.5,18
+Pan Aroma Restaurant,1000,"Chinese,Goan,North Indian,Seafood",Goa,Panaji,Casual Dining,"1130am to 330pm,7pm to 11pm(Mon-Sun)",Average,3.4,11
+Everest Fine Dine,500,"North Indian,Chinese,Beverages",Goa,Panaji,Casual Dining,9am to 11pm(Mon-Sun),Good,3.6,16
+The Temptation,200,"Cafe,Desserts",Goa,Vasco,Café,24,Good,3.7,190
+Fat Panda - Chinese Kitchen,1200,Chinese,Goa,Candolim,Casual Dining,1pm to 1am(Mon-Sun),Very Good,4.1,251
+Piccola Roma,700,Italian,Goa,Vagator,Casual Dining,"1030am to 1130pm(Mon,Tue,Wed,Fri,Sat,Sun)...",Very Good,4.0,225
+Star Light,550,"North Indian,Chinese,Goan,Seafood",Goa,Anjuna,Casual Dining,"12noon to 5pm,7pm to 1130pm(Mon-Sun)",Very Good,4.0,231
+Sher E Punjab,1300,"North Indian,Mughlai",Goa,Panaji,Casual Dining,10am to 12midnight(Mon-Sun),Bueno,3.7,252
+Star Light,800,"Seafood,Goan",Goa,Margao,Casual Dining,10am to 12midnight(Mon-Sun),Very Good,4.2,258
+The Square Sparrow,950,"Continental,Italian,North Indian,Mediterranean,Asian",Goa,Anjuna,Casual Dining,930am to 2am(Mon-Sun),Very Good,4.1,219
+Spicy Bella,800,"North Indian,Goan,Thai,Italian",Goa,Colva,Casual Dining,"1030am to 2am(Mon),1030am to 1130pm(Tue-Sun)",Very Good,4.0,253
+Soul Curry- Multi Cuisine Restaurant & Bar,800,"Seafood,Goan,North Indian,Chinese",Goa,Mapusa,Casual Dining,8am to 1130pm(Mon-Sun),Very Good,4.1,124
+Tin Tin,900,"Pizza,Goan",Goa,Vagator,Casual Dining,"12noon to 12midnight(Mon,Wed,Fri,Sat,Sun)...",Very Good,4.2,213
+Soul Souffle,800,"Goan,North Indian,Continental,Chinese,Seafood",Goa,Majorda,Casual Dining,"11am to 3pm,630pm to 12midnight(Mon-Sun)",Good,3.9,198
+Bakers Street Goa,300,Bakery,Goa,Penha de Franca,Bakery,930am to 1am(Mon-Sun),Very Good,4.1,177
+Martins,1400,"Continental,Goan,Seafood",Goa,Margao,Casual Dining,"1130am to 4pm,7pm to 1130pm(Mon,Wed,Thu...",Very Good,4.0,194
+John Seagull,800,"North Indian,Chinese,Seafood,Goan",Goa,Bogmalo,Casual Dining,11am to 12midnight(Mon-Sun),Good,3.7,180
+Pink Chilli,600,"Goan,Street Food,Thai,Continental",Goa,Anjuna,Casual Dining,11am to 1am(Mon-Sun),Good,3.9,155
+Baked Fusion,500,"Bakery,Fast Food",Goa,Margao,Bakery,11am to 11pm(Mon-Sun),Average,3.3,10
+Lazeez Khana,600,"Biryani,Mughlai",Goa,Panaji,Casual Dining,"1130am to 3pm,730pm to 11pm(Mon),11am to 3pm...",Average,2.7,17
+Soft Rock Cafe,500,"Goan,Chinese",Goa,Panaji,Quick Bites,8am to 10pm(Mon-Sun),Good,3.7,21
+Hyderabadi Dum Biryani,450,"Biryani,Chinese,North Indian",Goa,Panaji,Quick Bites,11am to 11pm(Mon-Sun),Average,2.5,12
+Jazz Corner,800,"Chinese,Continental,Indian,Goan,Italian,Mughlai,Seafood",Goa,Candolim,Quick Bites,10am to 3am(Mon-Sun),Very Good,4.0,71
+The Creek,700,"Goan,Chinese,Mughlai,Steak",Goa,Panaji,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,11
+Copper,500,"North Indian,Chinese",Goa,Panaji,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,35
+Reis Corner,800,"North Indian,Seafood,Chinese,Mughlai",Goa,Mapusa,Casual Dining,"1030am to 315pm,630pm to 1045pm(Mon-Sun)",Average,2.9,25
+Hotel Kalika,400,"Chinese,Goan,Seafood",Goa,Margao,Quick Bites,"12noon to 330pm,7pm to 11pm(Mon-Sun)",Average,3.4,8
+Appetite,500,"South Indian,North Indian,Goan",Goa,Panaji,Quick Bites,"9am to 7pm(Mon-Sat),Closed(Sun)",Good,3.5,15
+The Waffle Monk,400,"Cafe,American,French,Desserts",Goa,Panaji,Café,"Closed(Mon),930am to 130pm,5pm to 930pm...",Good,3.5,22
+TG9 Resto Cafe,500,Cafe,Goa,Penha de Franca,Café,9am to 930pm(Mon-Sun),Average,3.4,11
+JD's Dine Inn,800,"Chinese,Goan,Seafood",Goa,Majorda,Casual Dining,"Closed(Mon),1230pm to 3pm,730pm to 11pm(Tue-Sun)",Good,3.5,19
+The Food Alchemist,350,Fast Food,Goa,Margao,Quick Bites,"Closed(Mon),1230pm to 10pm(Tue-Sun)",Average,3.2,8
+Alif Restaurant,400,Mughlai,Goa,Calangute,Quick Bites,9am to 11pm(Mon-Sun),Good,3.6,23
+The Royal Ruchik,400,"Goan,Indian",Goa,Panaji,Casual Dining,11am to 7pm(Mon-Sun),Average,3.1,17
+Sameer Classic,700,"North Indian,Seafood,Chinese",Goa,Palolem,Casual Dining,10am to 11pm(Mon-Sun),Average,3.3,10
+Heritage Food Palace,400,"North Indian,Chinese",Goa,Panaji,Quick Bites,"Closed(Mon),1030am to 4pm,6pm to 11pm(Tue-Sun)",Average,3.0,8
+Brews And Bakes,500,"Cafe,Pizza,Desserts",Goa,Margao,Café,9am to 11pm(Mon-Sun),Average,3.4,19
+Shahi Darbar,600,North Indian,Goa,Margao,Casual Dining,11am to 11pm(Mon-Sun),Average,3.1,11
+Navrang,300,Gujarati,Goa,Panaji,Casual Dining,10am to 4pm(Mon-Sun),Average,3.1,21
+Barrica Bistro,700,"American,European,Seafood,Continental,Goan,Salad,Healthy Food,North Indian",Goa,Candolim,Casual Dining,11am to 11pm(Mon-Sun),Good,3.7,20
+Punjab Sind,200,"Desserts,Beverages,Mithai",Goa,Margao,Dessert Parlor,9am to 9pm(Mon-Sun),Bom,3.5,20
+Country Kitchen,850,"Continental,North Indian,Goan,Seafood,Italian",Goa,Anjuna,Casual Dining,10am to 11pm(Mon-Sun),Good,3.5,19
+Haddocks,400,"Cafe,Fast Food",Goa,Vagator,Café,9am to 9pm(Mon-Sun),Average,3.0,16
+Shiv Sai,300,"Desserts,Ice Cream,Fast Food,Chinese",Goa,Margao,Dessert Parlor,8am to 10pm(Mon-Sun),Average,3.4,10
+Nature’s Gift,500,"Seafood,Goan,North Indian,South Indian",Goa,Benaulim,Casual Dining,8am to 11pm(Mon-Sun),Average,3.4,18
+Slice of Goa,750,"Pizza,Italian",Goa,Anjuna,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,10
+Hotel Anandashram,500,Goan,Goa,Panaji,Quick Bites,"12noon to 3pm,5pm to 11pm(Mon-Sun)",Average,3.2,11
+Cafe Aromatico,400,"Cafe,Fast Food,Chinese,Goan",Goa,Calangute,Café,8am to 11pm(Mon-Sun),Average,3.2,8
+The Q - The Nation of Barbeque,300,"North Indian,Chinese,Continental",Goa,Colva,Quick Bites,11am to 11pm(Mon-Sun),Average,2.8,5
+Roma,800,Italian,Goa,Arambol,Casual Dining,12noon to 11pm(Mon-Sun),Good,3.5,19
+Nandini,400,"South Indian,Goan,Chinese,North Indian",Goa,Calangute,Casual Dining,9am to 11pm(Mon-Sun),Average,3.4,16
+Culinary Delight,600,"North Indian,Seafood",Goa,Panaji,Casual Dining,"1230pm to 330pm,730pm to 11pm(Mon-Sat),Closed...",Good,3.5,22
+Baywatch Multicuisine Restaurant,1000,"Continental,Goan,Chinese,North Indian,South Indian",Goa,Colva,Casual Dining,730am to 1030pm(Mon-Sun),Average,3.2,7
+Hog Worth,600,"Goan,Chinese,North Indian,Continental",Goa,Panaji,Casual Dining,"12noon to 3pm,7pm to 11pm(Mon-Sun)",Average,3.1,5
+Janata,450,"Chinese,North Indian",Goa,Margao,Casual Dining,"1030am to 4pm,630pm to 11pm(Mon-Sun)",Average,3.4,14
+Ancient Rock,800,"North Indian,Goan,Chinese,Mughlai",Goa,Panaji,Casual Dining,830am to 11pm(Mon-Sun),Average,3.3,15
+Domnick,700,"Seafood,Goan",Goa,Benaulim,Casual Dining,9am to 11pm(Mon-Sun),Average,2.7,7
+Seven Seas,800,"Chinese,North Indian,Continental",Goa,Vasco,Casual Dining,"730am to 1030am,12noon to 3pm,730pm to ...",Average,2.8,10
+Astrids Cafe & Bistro,300,"Cafe,Bakery,Burger",Goa,Vagator,Café,10am to 9pm(Mon-Sun),Good,3.6,17
+Aditya Vada Pav and Dosa,200,"South Indian,Street Food",Goa,Porvorim,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,13
+Twisted Tiffin,300,"North Indian,Chinese,Continental,Goan",Goa,Margao,none,"1129am to 3pm(Mon,Sat),1130am to 3pm...",Average,3.4,16
+Hotel Astoria,500,Goan,Goa,Assagao,Casual Dining,8am to 10pm(Mon-Sun),Average,3.4,15
+Blue Tao,600,"Italian,Seafood,North Indian",Goa,Anjuna,Casual Dining,9am to 11pm(Mon-Sun),Good,3.5,17
+Nescafe,150,Cafe,Goa,Panaji,Café,24,Good,3.5,74
+Panjim Inn  - Welcomheritage,1800,"Goan,North Indian,Continental",Goa,Panaji,Fine Dining,11am to 10pm(Mon-Sun),Good,3.6,17
+Johnacin Hot Oven,500,"Italian,Burger,Fast Food",Goa,Majorda,Casual Dining,"8am to 1pm,4pm to 8pm(Mon-Sun)",Good,3.5,14
+Pergola,600,"North Indian,Chinese,Goan",Goa,Panaji,Casual Dining,"11am to 330pm,7pm to 11pm(Mon-Sun)",Average,3.4,16
+Venice Garden,500,"Goan,Chinese,Seafood,North Indian",Goa,Margao,Casual Dining,930am to 11pm(Mon-Sun),Average,3.4,15
+Tulip,450,"North Indian,Chinese,Goan",Goa,Panaji,Bar,7am to 11pm(Mon-Sun),Average,3.1,7
+Cafe Aria,700,"Cafe,Healthy Food,Salad",Goa,Bambolim,Café,930am to 630pm(Mon-Sun),Average,3.3,11
+Rabbani,200,Mughlai,Goa,Vasco,Quick Bites,7am to 11pm(Mon-Sun),Average,2.9,5
+The Mahal,600,"Goan,Seafood,North Indian",Goa,Benaulim,Casual Dining,8am to 11pm(Mon-Sun),Average,3.0,6
+Charcoal Chicken,600,North Indian,Goa,Penha de Franca,Quick Bites,4pm to 11pm(Mon-Sun),Good,3.5,16
+Master Chef,500,"Goan,Chinese,North Indian",Goa,Old Goa,Casual Dining,"11am to 3pm,730pm to 11pm(Mon-Sun)",Good,3.5,18
+Hotel Sarovar,400,South Indian,Goa,Panaji,Casual Dining,8am to 9pm(Mon-Sun),Average,2.9,17
+Kamat's Dreamland,500,"Chinese,Indian",Goa,Margao,Casual Dining,"11am to 3pm,630pm to 11pm(Mon-Sun)",Average,3.4,11
+Salil Family Bar & Restaurant,200,"Goan,Chinese,South Indian",Goa,Penha de Franca,Quick Bites,"1130am to 3pm,6pm to 11pm(Mon,Tue,Wed,Fri...",Average,3.0,7
+Avinay,500,"Seafood,Chinese,North Indian",Goa,Nerul,Casual Dining,"11am to 3pm,7pm to 11pm(Mon-Sun)",Average,3.4,16
+Dev's Bar & Kitchen,800,"Goan,North Indian",Goa,Porvorim,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,12
+Cakes on Skates,200,"Bakery,Desserts",Goa,Panaji,Bakery,12noon to 9pm(Mon-Sun),Average,3.2,8
+Para Picar,500,"Pizza,Salad",Goa,Benaulim,Quick Bites,"830am to 330pm,6pm to 11pm(Mon-Sun)",Average,3.2,5
+Quickpic,400,"Beverages,Fast Food",Goa,Panaji,Beverage Shop,9am to 10pm(Mon-Sun),Media,2.9,4
+SGS Nonveg Gundu Palav,500,"Biryani,South Indian",Goa,Mapusa,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,9
+Moonlight,500,"North Indian,South Indian,Chinese,Seafood",Goa,Mapusa,Casual Dining,"11am to 330pm,630pm to 11pm(Mon-Sun)",Average,2.7,13
+Tato's Fine Dining,500,"North Indian,South Indian,Goan",Goa,Margao,Casual Dining,730am to 1030pm(Mon-Sun),Average,3.4,13
+Shivam family restaurant,300,"North Indian,Mughlai",Goa,Margao,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,10
+Fatwich,300,"Sandwich,Fast Food",Goa,Penha de Franca,Quick Bites,"11am to 2pm,4pm to 10pm(Mon-Sun)",Average,3.4,14
+Destination One,1500,"North Indian,South Indian,Continental",Goa,Calangute,Lounge,7am to 11pm(Mon-Sun),Average,3.4,12
+Monginis,200,"Bakery,Desserts",Goa,Margao,Bakery,830am to 9pm(Mon-Sun),Average,3.4,9
+Udupi Inn,250,"South Indian,North Indian",Goa,Panaji,Quick Bites,7am to 9pm(Mon-Sun),Average,3.1,10
+Nelson's Mini Restaurant And Take Away,400,"Chinese,North Indian,Goan",Goa,Porvorim,Casual Dining,"1230AM to 3pm,7pm to 11pm(Mon-Sun)",Average,3.0,5
+Café Ave Maria,350,"Bakery,Fast Food",Goa,Bambolim,Bakery,8am to 8pm(Mon-Sun),Average,3.2,11
+Praana Speciality Indian,1500,"North Indian,Mughlai",Goa,Calangute,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,15
+Hotel Wilsha,450,"North Indian,Seafood,Goan",Goa,Old Goa,Casual Dining,"9am to 4pm,6pm to 1030pm(Mon-Sun)",Average,2.6,11
+Sai Kripa,0,Goan,Goa,Penha de Franca,Bar,11am to 11pm(Mon-Sun),Average,2.7,7
+The Royal Kitchen,250,"Goan,North Indian,Chinese",Goa,Panaji,Quick Bites,"11am to 3pm,7pm to 11pm(Mon-Sun)",Average,3.1,7
+After Seven,1000,"Continental,French",Goa,Calangute,Casual Dining,7pm to 11pm(Mon-Sun),Average,3.4,9
+Jáshn,800,North Indian,Goa,Penha de Franca,Casual Dining,12noon to 11pm(Mon-Sun),Average,3.2,11
+The Pink Flamingo,650,"North Indian,Chinese,Seafood,Fast Food",Goa,Candolim,Casual Dining,8am to 11pm(Mon-Sun),Average,2.9,7
+Hotel Sahibin,650,"North Indian,Chinese",Goa,Margao,Casual Dining,630am to 11pm(Mon-Sun),Average,3.4,10
+Bhingis,300,"North Indian,Chinese,Fast Food",Goa,Margao,Quick Bites,"Closed(Mon),11am to 3pm,6pm to 11pm(Tue-Sun)",Average,2.6,11
+San Francisco's,800,"Goan,Continental,Seafood,North Indian",Goa,Anjuna Beach-- Anjuna,Casual Dining,8am to 11pm(Mon-Sun),Average,3.3,9
+Sea Pearl Restaurant,1500,"Continental,Goan,Chinese",Goa,Panaji,Casual Dining,"1pm to 3pm,730pm to 1030pm(Mon-Sun)",Average,3.2,5
+Hungry Hatz,600,"North Indian,Goan,Chinese",Goa,Bambolim,Casual Dining,11am to 11pm(Mon-Sun),Average,2.8,10
+Silver Spoon,450,"Goan,North Indian,Fast Food",Goa,Vasco,Quick Bites,8am to 11pm(Mon-Sun),Average,2.9,10
+Goichi Restaurant,400,"Chinese,Indian",Goa,Margao,Casual Dining,"11am to 3pm,7pm to 11pm(Mon-Sun)",Average,3.1,4
+Martin's Place- The Village Bistro & Pub,1200,"Asian,Chinese,Continental,Goan,Indian",Goa,Margao,Casual Dining,"Closed(Mon),12noon to 11pm(Tue-Sun)",Average,3.1,4
+The Ice-Cream Man,200,"Desserts,Ice Cream",Goa,Panaji,Dessert Parlor,11am to 10pm(Mon-Sun),Average,3.4,16
+Magsons Mithai Mandir,300,Mithai,Goa,Panaji,Sweet Shop,"10am to 2pm,4pm to 830pm(Mon-Sun)",Average,3.2,9
+Everest,600,"Italian,Chinese,Goan,North Indian,Seafood",Goa,Cavelossim,Casual Dining,10am to 11pm(Mon-Sun),Average,2.9,10
+Biryani Cottage,400,"Biryani,North Indian",Goa,Bambolim,Casual Dining,"10am to 3pm,6pm to 1030pm(Mon-Sun)",Average,2.8,15
+Bootstart,600,Goan,Goa,Arambol,Casual Dining,"8am to 3pm,6pm to 11pm(Mon-Sun)",Average,3.0,5
+Field Top,600,"North Indian,Chinese,Seafood",Goa,Calangute,Casual Dining,10am to 11pm(Mon-Sun),Average,2.6,7
+Anand Sagar,400,"South Indian,North Indian,Chinese",Goa,Mapusa,Casual Dining,730am to 1030pm(Mon-Sun),Average,3.3,15
+Anand's,350,"Goan,North Indian,Chinese",Goa,Baga,Casual Dining,9am to 11pm(Mon-Sun),Average,3.2,8
+Areal Fast Food and Chaat Centre,100,"Fast Food,Street Food",Goa,Panaji,Quick Bites,10am to 10pm(Mon-Sun),Average,3.3,5
+Food Dude,550,"Goan,North Indian,Chinese,Fast Food",Goa,Vasco,Casual Dining,"8am to 1030am,1230pm to 3pm,7pm to 1030pm...",Average,3.1,5
+Chaiwala Asylum,150,"Tea,Beverages,Fast Food",Goa,Panaji,Quick Bites,10am to 730pm(Mon-Sun),Average,3.3,6
+The Fine Food,700,"North Indian,Chinese,Seafood",Goa,Benaulim,Casual Dining,8am to 11pm(Mon-Sun),Average,3.3,8
+Trupthi Delight,400,"North Indian,Chinese,Seafood",Goa,Panaji,Quick Bites,730am to 1030pm(Mon-Sun),Average,2.9,6
+SweetPeeps,400,"Bakery,Desserts",Goa,Panaji,Bakery,11am to 10pm(Mon-Sun),Average,3.2,6
+Padmaja Restaurant,800,"North Indian,Goan",Goa,Panaji,Casual Dining,"11am to 3pm,7pm to 11pm(Mon-Sun)",Average,2.9,9
+Cafe B3,500,Grill,Goa,Vagator,Quick Bites,9am to 11pm(Mon-Sun),Average,3.2,7
+Scirocco,1000,"Fast Food,Italian",Goa,Baga,Casual Dining,(Mon-Sun),Average,3.2,5
+Sunrise Foods,400,North Indian,Goa,Panaji,Quick Bites,11am to 10pm(Mon-Sun),Average,3.3,7
+Hotel Manvin's Restaurant,800,"Goan,Seafood,Chinese,Continental,North Indian",Goa,Panaji,Casual Dining,"7am to 11pm(Mon-Sat),Closed(Sun)",Average,3.1,8
+Why Not Prajyot's,650,"North Indian,Chinese,Seafood,Goan",Goa,Calangute,Casual Dining,8am to 11pm(Mon-Sun),Average,3.1,8
+Nature's Pride,1000,"Seafood,Continental",Goa,Bogmalo,Casual Dining,8am to 11pm(Mon-Sun),Average,3.3,13
+Shalimar Deluxe Restaurant,800,North Indian,Goa,Panaji,Casual Dining,8am to 11pm(Mon-Sun),Average,2.9,5
+Hot Spices,400,"North Indian,Chinese,Goan,Seafood",Goa,Old Goa,Casual Dining,"11am to 3pm,7pm to 11pm(Mon-Sun)",Average,3.3,11
+Baskin Robbins,300,"Ice Cream,Desserts",Goa,Old Goa,Dessert Parlor,10am to 11pm(Mon-Sun),Average,3.2,9
+Big Dosa,300,South Indian,Goa,Anjuna,Quick Bites,8am to 10pm(Mon-Sun),Average,3.2,10
+Viggis,0,"Goan,North Indian,Mughlai",Goa,Mapusa,Casual Dining,7am to 1030pm(Mon-Sun),Average,3.2,4
+The HangOut Siolim,400,North Indian,Goa,Siolim,Casual Dining,"11am to 11pm(Mon,Tue,Wed,Thu,Fri,Sun),Closed...",Average,3.2,6
+Punjabi Tadka,500,"Indian,Goan,Seafood",Goa,Calangute,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.1,6
+Pit Stop,600,"American,Fast Food",Goa,Baga,Casual Dining,(Mon-Sun),Average,2.9,6
+Navtara Veg Restaurant,650,"South Indian,North Indian,Chinese,Mughlai",Goa,Panaji,Casual Dining,"8am to 1030pm(Mon-Sat),730am to 1030pm(Sun)",Excellent,4.5,585
+Caravela Cafe and Bistro,400,"Beverages,Cafe,Sandwich,Italian,Pizza,Goan,Salad",Goa,Panaji,Café,"8am to 8pm(Mon,Tue,Wed,Thu,Sun),8am to ...",Excellent,4.6,394
+Yaki Zushi,1000,"Chinese,Japanese,Thai",Goa,Penha de Franca,Casual Dining,"11am to 3pm,7pm to 11pm(Mon-Sun)",Very Good,4.2,415
+Kailash Parbat,1200,"North Indian,Street Food",Goa,Candolim,Casual Dining,"1130am to 1130pm(Mon,Thu),113am to 1130pm...",Very Good,4.2,115
+Pizza Hut,700,"Pizza,Fast Food,Italian",Goa,Margao,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.0,568
+Peep Kitchen,900,"Seafood,Goan,North Indian,Asian",Goa,Panaji,Casual Dining,"Closed(Mon),12noon to 3pm,7pm to 11pm(Tue-Sun)",Excellent,4.5,616
+Spice Goa,900,"Goan,Seafood,North Indian,Chinese",Goa,Mapusa,Casual Dining,"1130am to 3pm,7pm to 11pm(Mon-Sun)",Very Good,4.4,525
+Arthur's Theme,1100,Continental,Goa,Candolim,Casual Dining,11am to 12midnight(Mon-Sun),Very Good,4.2,121
+AJ's,500,Continental,Goa,Margao,Quick Bites,"Closed(Mon),930am to 230pm,530pm to 930pm...",Very Good,4.1,163
+Cremeux Cafe & Bistro,600,Fast Food,Goa,Panaji,Café,9am to 1030pm(Mon-Sun),Very Good,4.0,209
+The Dining Room - Grand Hyatt,2500,"Asian,Italian,Middle Eastern,North Indian",Goa,Grand Hyatt-- Bambolim,Fine Dining,"7am to 11am,1pm to 4pm,7pm to 1130pm(Mon-Sun)",Very Good,4.1,113
+Peppers,1000,"Goan,Continental,North Indian,Seafood",Goa,Margao,Casual Dining,"1130am to 3pm,630pm to 11pm(Mon-Sun)",Very Good,4.0,224
+The Red Ginger,1200,"Asian,Chinese,Thai,Japanese",Goa,Colva,Bar,12noon to 11pm(Mon-Sun),Very Good,4.4,353
+The Kitchen On Top,1000,"North Indian,Chinese,Asian,Italian",Goa,Margao,Casual Dining,"12noon to 3pm,6pm to 11pm(Mon,Wed,Thu,Fri...",Very Good,4.1,69
+KFC,500,"Burger,Fast Food",Goa,Caculo Mall-- Panaji,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,297
+Uncle Sam's,400,Fast Food,Goa,Calangute,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,5
+Filafil,400,North Indian,Goa,Mapusa,Quick Bites,10am to 11pm(Mon-Sun),Average,2.7,4
+China Inn,300,Biryani,Goa,Margao,Quick Bites,10am to 11pm(Mon-Sun),Average,2.8,6
+Salam Fast Food,450,"Arabian,Chinese",Goa,Margao,Casual Dining,"12noon to 3pm,530pm to 11pm(Mon-Sun)",Average,3.1,5
+Goan Nook,500,"Seafood,Goan,Chinese,North Indian,Pizza",Goa,Nerul,Casual Dining,"Closed(Mon),12noon to 3pm,7pm to 11pm(Tue-Sun)",Average,3.3,7
+Aarohi Udupi Pure Veg Restaurant,250,"North Indian,South Indian",Goa,Panaji,Quick Bites,7am to 11pm(Mon-Sun),Good,3.6,5
+Cheezee Munchy's Pizzeria,500,"Pizza,Italian",Goa,Benaulim,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,8
+Cafe Mitra,250,"Cafe,Fast Food,North Indian",Goa,Margao,Café,7am to 8pm(Mon-Sun),Average,3.1,4
+Dosa Hub,400,South Indian,Goa,Anjuna,Quick Bites,8am to 1030pm(Mon-Sun),Average,3.3,6
+Krishna Cafe,400,"North Indian,Seafood,Chinese",Goa,Margao,Casual Dining,"7am to 330pm,7pm to 11pm(Mon-Sun)",Average,3.1,9
+Hotel karishma,200,"Biryani,Goan",Goa,Margao,Casual Dining,(Mon-Sun),Average,3.1,4
+Ritz,150,Seafood,Goa,Bicholim,Casual Dining,"7am to 8pm(Mon,Tue,Wed,Fri,Sat,Sun),Closed...",Average,3.0,6
+Salt N Pepper,500,"Goan,Seafood,Chinese",Goa,Colva,Casual Dining,"11am to 3pm,7pm to 11pm(Mon-Sun)",Average,2.8,9
+Fish & Booze,600,"Continental,Goan",Goa,Candolim,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,4
+Hotel Rohit 2,450,"North Indian,Chinese",Goa,Penha de Franca,Casual Dining,10am to 11pm(Mon-Sun),Average,3.1,4
+Rajni Tiffin,500,"Goan,North Indian",Goa,Panaji,none,7am to 7pm(Mon-Sun),Average,3.2,11
+Indian Red Chilli,0,Chinese,Goa,Vagator,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,5
+Sai Veg World,400,"Fast Food,North Indian",Goa,Baga,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,5
+Mandrem Food Court,1200,Cafe,Goa,Mandrem,Café,730am to 11pm(Mon-Sun),Average,3.4,4
+Pastry Palace,200,"Fast Food,Bakery",Goa,Panaji,Quick Bites,7am to 10pm(Mon-Sun),Average,3.0,9
+Titus Roma Pisa,800,"Italian,Goan",Goa,Candolim,Casual Dining,930am to 11pm(Mon-Sun),Average,3.2,5
+Navratna Udupi Pure Veg,700,"North Indian,South Indian",Goa,Calangute,Casual Dining,730am to 11pm(Mon-Sun),Average,3.0,8
+Hot & Spice Kitchen,800,"Kerala,North Indian,Chinese,Beverages",Goa,Colva,Casual Dining,8am to 11pm(Mon-Sun),Average,3.0,4
+Fresh Juice & More,600,"Beverages,Fast Food",Goa,Calangute,Quick Bites,NA,Average,3.2,8
+Desserts n More,350,Bakery,Goa,Panaji,Bakery,10am to 9pm(Mon-Sun),Average,3.2,5
+Kairali Restaurant,500,Kerala,Goa,Palolem,Quick Bites,"9am to 5pm,6pm to 11pm(Mon-Sun)",Average,3.0,6
+Thirsty Bear,600,"Cafe,American",Goa,Vagator,Café,24,Very Good,4.0,60
+River Lounge,600,"Goan,North Indian",Goa,Nerul,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,5
+Cafe Bappa,600,"Fast Food,Goan",Goa,Nerul,Quick Bites,11am to 11pm(Mon-Sun),Average,2.8,5
+Keventers,400,"Beverages,Ice Cream,Desserts",Goa,Panaji,Beverage Shop,9am to 12midnight(Mon-Sun),Good,3.8,66
+Tuna,800,"North Indian,Chinese,Continental,Seafood,Goan",Goa,Majorda,Casual Dining,"7am to 1030am,12noon to 330pm,6pm to 10pm...",Average,2.8,5
+Hotel Green Coconut Tree,500,South Indian,Goa,Anjuna,Casual Dining,8am to 9pm(Mon-Sun),Average,3.0,5
+Amul,150,"Ice Cream,Desserts",Goa,Mapusa,Dessert Parlor,11am to 11pm(Mon-Sun),Average,3.2,5
+Adarsh,400,"Chinese,North Indian",Goa,Vasco,Casual Dining,10am to 11pm(Mon-Sun),Average,3.0,4
+Goenchi Bhaji,100,Goan,Goa,Margao,Quick Bites,"630am to 11pm(Mon-Sat),630am to 1130pm(Sun)",Average,3.0,4
+Annapurna,200,Goan,Goa,Old Goa,Casual Dining,"11am to 330pm,7pm to 11pm(Mon-Sun)",Average,3.1,4
+Leda SeaShells,1500,Seafood,Goa,Bambolim,Casual Dining,"11am to 3pm,7pm to 11pm(Mon-Sun)",Very Good,4.2,177
+The Yellow Chilli,1000,North Indian,Goa,Penha de Franca,Casual Dining,"12noon to 330pm,7pm to 11pm(Mon-Sun)",Very Good,4.3,203
+Fish Ka,800,"North Indian,Chinese,Goan,Seafood",Goa,Betalbatim,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.0,364
+Chulha - Grand Hyatt,2500,North Indian,Goa,Grand Hyatt-- Bambolim,Fine Dining,"1230pm to 330pm,7pm to 1130pm(Mon-Sun)",Very Good,4.1,134
+The Goan Room,1000,"Goan,Seafood",Goa,Panaji,Casual Dining,"1230pm to 330pm,730pm to 11pm(Mon-Sun)",Very Good,4.0,196
+Anantashram,1000,"North Indian,Chinese,Continental,Biryani,Seafood,Goan",Goa,Anantashram-- Vasco,Casual Dining,"1130am to 3pm,7pm to 11pm(Mon-Sat),Closed(Sun)",Very Good,4.0,287
+Dandey's Grill House,1200,"European,Continental,Seafood",Goa,Porvorim,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.1,197
+O'Pescador,1000,"Seafood,Goan,North Indian,Continental",Goa,Baga,Casual Dining,2pm to 5am(Mon-Sun),Very Good,4.2,159
+Nostalgia,1200,"Portuguese,Goan",Goa,Margao,Casual Dining,"Closed(Mon),11am to 3pm,7pm to 11pm(Tue-Sun)",Very Good,4.3,184
+Goan Fish Cafe,700,"Cafe,Seafood,European,Goan",Goa,Panaji,Café,"12noon to 10pm(Mon-Sat),Closed(Sun)",Good,3.7,145
+Domino's Pizza,700,"Pizza,Fast Food",Goa,Calangute,Quick Bites,11am to 3am(Mon-Sun),Good,3.7,148
+Just Lobo's,800,"Chinese,Continental,Goan,North Indian,Italian,Seafood",Goa,Calangute,Casual Dining,8am to 3am(Mon-Sun),Good,3.7,144
+Kismoor,800,Goan,Goa,Panaji,Casual Dining,"Closed(Mon),11am to 3pm,7pm to 11pm(Tue-Sun)",Very Good,4.0,181
+Ben And Sand,600,"Goan,Seafood,North Indian",Goa,Colva,Casual Dining,"1130am to 3pm,7pm to 11pm(Mon-Sun)",Good,3.9,127
+Cherry Tomato,1000,"North Indian,Finger Food",Goa,Margao,Casual Dining,"12noon to 1030pm(Mon,Tue,Thu,Fri,Sat,Sun)...",Very Good,4.0,130
+Kinara,750,"Chinese,Goan,North Indian,Seafood",Goa,Margao,Casual Dining,11am to 1130pm(Mon-Sun),Very Good,4.0,59
+Pet Pooja,400,"North Indian,Gujarati,Fast Food",Goa,Vagator,Casual Dining,"11am to 4pm,7pm to 12midnight(Mon-Sun)",Good,3.9,71
+Angry Sardar,700,"Seafood,Juices,Beverages,Desserts,North Indian,Chinese",Goa,Anjuna,Casual Dining,"12midnight to 2am,8am to 12midnight(Mon-Sun)",Good,3.9,79
+Eatopia Bar & Restaurant,1800,"North Indian,Goan",Goa,Anjuna,Casual Dining,9am to 12midnight(Mon-Sun),Average,3.4,89
+Shagun,450,"North Indian,Mughlai,Chinese",Goa,Margao,Casual Dining,"11am to 4pm,7pm to 12midnight(Mon-Sun)",Good,3.9,77
+Temptations,350,"Chinese,North Indian",Goa,Panaji,Casual Dining,"12noon to 3pm,7pm to 12midnight(Mon-Sun)",Average,3.4,80
+Ritz Classic,0,"Goan,North Indian,Seafood",Goa,Penha de Franca,Casual Dining,1030am to 1130pm(Mon-Sun),Very Good,4.0,59
+Highway Kitchen,450,Goan,Goa,Bogmalo,Quick Bites,9am to 12midnight(Mon-Sun),Average,3.0,52
+Viva Goa,800,"Goan,Chinese,Continental,Finger Food,Seafood",Goa,Colva,Casual Dining,"1130am to 330pm,630pm to 12midnight(Mon-Sun)",Good,3.8,70
+The Camron,1000,"North Indian,Seafood,Chinese,Goan",Goa,Majorda,Casual Dining,9am to 1130pm(Mon-Sun),Good,3.6,57
+Arabian Courtyard Multi Cuisine Restaurant,800,"Indian,Arabian,Fast Food",Goa,Colva,Casual Dining,11am to 12midnight(Mon-Sun),Average,3.1,43
+Chaska,700,"Asian,Thai,North Indian,Seafood",Goa,Penha de Franca,Casual Dining,"12noon to 315pm,7pm to 1115pm(Mon-Sun)",Good,3.5,50
+Savera Restaurant and Takeaway,500,"Arabian,Chinese,North Indian,Mughlai",Goa,Panaji,Casual Dining,"12noon to 3pm,6pm to 12midnight(Mon-Sun)",Good,3.7,60
+La Cucina,600,"Italian,Pizza",Goa,Ashwem,Casual Dining,8am to 2am(Mon-Sun),Very Good,4.0,51
+Hotel Maruti Wada Kombda,400,"Maharashtrian,Goan",Goa,Porvorim,Casual Dining,7am to 12midnight(Mon-Sun),Good,3.6,53
+Burger Bar & Bakery,250,"Fast Food,Bakery",Goa,Siolim,Quick Bites,10am to 12midnight(Mon-Sun),Good,3.7,34
+Mansher Goa,600,"Seafood,Goan",Goa,Anjuna,Quick Bites,"1230pm to 5pm,730pm to 12midnight(Mon-Sun)",Good,3.7,56
+Goan Spice,450,"Goan,Chinese,Continental",Goa,Mapusa,Casual Dining,12noon to 12midnight(Mon-Sun),Good,3.9,61
+Magik Muncheez,500,"North Indian,Chinese,Fast Food",Goa,Gastronut-- Panaji,Food Court,9am to 1am(Mon-Sun),Good,3.6,60
+The Orange Mint,1200,"Goan,North Indian",Goa,Baga,Casual Dining,2pm to 2am(Mon-Sun),Good,3.9,39
+Oltremarino Italian Restaurant,2000,Italian,Goa,Anjuna,Casual Dining,1pm to 1130pm(Mon-Sun),Good,3.8,57
+Pai Palace,600,"Beverages,Chinese,Fast Food,Goan,South Indian,North Indian",Goa,Margao,Casual Dining,8am to 1130pm(Mon-Sun),Average,3.2,26
+Grapevine - The HQ,800,"Continental,North Indian,Goan,Italian",Goa,The HQ-- Vasco,Casual Dining,7am to 1130pm(Mon-Sun),Good,3.6,54
+Alibi,1000,North Indian,Goa,Calangute,Casual Dining,8am to 12midnight(Mon-Sun),Good,3.6,55
+The Curry House,800,"Chinese,Continental,Indian,Finger Food,North Indian,Italian,Seafood",Goa,Calangute,Casual Dining,9am to 2am(Mon-Sun),Good,3.7,28
+CUEBEBAR,500,Cuisine Varies,Goa,Assagao,Quick Bites,"7pm to 1130pm(Mon,Wed,Thu,Fri,Sat,Sun)...",Good,3.8,42
+Mikey's Place,700,"Seafood,North Indian,Goan",Goa,Candolim,Casual Dining,12noon to 12midnight(Mon-Sun),Good,3.8,55
+New Matsya Sagar,500,"Goan,Seafood,Mangalorean,North Indian",Goa,Penha de Franca,Casual Dining,1130am to 1130pm(Mon-Sun),Poor,2.3,48
+Sher-A-Punjab,1000,"North Indian,Mughlai,Goan,Seafood",Goa,Calangute,Casual Dining,6am to 530am(Mon-Sun),Average,2.6,30
+Shalimar,750,"Chinese,South Indian,North Indian",Goa,Panaji,Casual Dining,8am to 3am(Mon-Sun),Average,2.7,45
+Avneet Restaurant And Bar,600,"North Indian,Chinese,Seafood,Goan",Goa,Colva,Casual Dining,"1215pm to 315pm,615pm to 1215AM(Mon-Sun)",Good,3.6,26
+Beetle Pub,1000,"Continental,Finger Food,Italian",Goa,Porvorim,Bar,12noon to 12midnight(Mon-Sun),Good,3.7,31
+Picnic,500,"North Indian,Goan,Seafood",Goa,Penha de Franca,Bar,"11am to 3pm,630pm to 1230AM(Mon-Sun)",Average,2.5,48
+Pizzaronee,800,"Italian,Pizza",Goa,Calangute,Casual Dining,8am to 12midnight(Mon-Sun),Good,3.6,57
+Bhaiyya's Pav Bhaji,120,Street Food,Goa,Panaji,Quick Bites,5pm to 12midnight(Mon-Sun),Good,3.6,54
+Bawarchi Biryaani,500,Biryani,Goa,Penha de Franca,Quick Bites,2pm to 4am(Mon-Sun),Good,3.7,24
+Sua Casa Restaurant,800,"Biryani,North Indian,Momos,Kebab",Goa,Penha de Franca,Casual Dining,"1115am to 4pm,7pm to 1130pm(Mon-Thu),1115am...",Average,2.8,28
+Wagah Border,1200,"North Indian,Mughlai",Goa,Calangute,Casual Dining,830am to 1150pm(Mon-Sun),Average,2.7,40
+Urban Turban,500,"North Indian,Chinese",Goa,Penha de Franca,Casual Dining,12noon to 12midnight(Mon-Sun),Average,2.6,31
+Mapuche,1300,"Mughlai,Seafood,Chinese",Goa,Mapusa,Casual Dining,8am to 1130pm(Mon-Sun),Good,3.6,47
+Natural,200,"Desserts,Ice Cream",Goa,Margao,Dessert Parlor,10am to 1am(Mon-Sun),Good,3.7,23
+Spice House,500,"Goan,Chinese",Goa,Penha de Franca,Casual Dining,12noon to 12midnight(Mon-Sun),Average,3.3,37
+Punjabi Roadhouse,500,"North Indian,Fast Food,Continental",Goa,Anjuna,Quick Bites,10am to 3am(Mon-Sun),Average,2.9,27
+Kinara,600,"Goan,Chinese,Seafood,North Indian,Fast Food",Goa,Cavelossim,Casual Dining,10am to 12midnight(Mon-Sun),Average,3.4,47
+Krishna Bar & Restaurant,550,"North Indian,Chinese,Seafood",Goa,Calangute,Casual Dining,"9am to 5pm,7pm to 5am(Mon-Sun)",Average,3.3,36
+De Little Goa Kitchen & Bar,1000,"Continental,Goan",Goa,Calangute,Casual Dining,12noon to 1am(Mon-Sun),Average,3.4,11
+Mingo's,1000,"North Indian,Chinese,Momos",Goa,Anjuna,Casual Dining,24,Good,3.5,20
+Buon Appetito,600,"Italian,Pizza",Goa,Vagator,Casual Dining,1230pm to 1130pm(Mon-Sun),Good,3.7,38
+The Pavilion,500,"Goan,Seafood,North Indian,Chinese",Goa,Benaulim,Casual Dining,730am to 1130pm(Mon-Sun),Good,3.5,40
+Ratna Sagar Restaurant,800,"North Indian,South Indian,Goan",Goa,Calangute,Casual Dining,24,Good,3.5,30
+Goan Spice,600,Seafood,Goa,Anjuna,Bar,11am to 1130pm(Mon-Sun),Good,3.5,33
+Red Monkey,500,"North Indian,Goan,Continental,Mughlai",Goa,Mapusa,Casual Dining,"11am to 330pm,7pm to 1130pm(Mon-Sun)",Average,3.1,5
+Sunrise,450,"North Indian,Chinese,Goan,Seafood,Continental",Goa,Baga,Casual Dining,930am to 1230AM(Mon-Sun),Average,2.9,7
+Kafe Kuber,500,"North Indian,Chinese,Goan,Seafood",Goa,Vagator,Casual Dining,12noon to 12midnight(Mon-Sun),Good,3.5,39
+Chic N Fish,600,"Seafood,North Indian,Chinese",Goa,Calangute,Casual Dining,9am to 1am(Mon-Sun),Good,3.6,34
+Kailasha Cafe,600,"Chinese,Goan,North Indian,Seafood",Goa,Anjuna,Casual Dining,1pm to 5am(Mon-Sun),Average,3.4,31
+Khana Khajana,1200,"Seafood,Goan",Goa,Calangute,Casual Dining,12noon to 12midnight(Mon-Sun),Average,3.1,4
+Kokum,800,"Continental,Asian",Goa,Anjuna,Casual Dining,"1130am to 1am(Mon,Wed,Thu,Fri,Sat,Sun)...",Average,3.1,5
+The Great Punjab Goa,1000,North Indian,Goa,Assagao,Casual Dining,"12noon to 330pm,630pm to 1145pm(Mon,Tue...",Good,3.5,20
+Jazz Bistro,1000,"Chinese,Continental,North Indian,Seafood",Goa,Baga,Casual Dining,24,Average,3.0,22
+Naturals,250,Ice Cream,Goa,Panaji,Dessert Parlor,11am to 12midnight(Mon-Sun),Good,3.7,22
+Anand Restaurant,500,"North Indian,South Indian,Chinese",Goa,Calangute,Casual Dining,24,Good,3.6,40
+Marc Brown Café,500,"Bakery,Cafe",Goa,Panaji,Bakery,24,Average,3.3,8
+COLORS Restaurant & Bar,650,"Goan,North Indian",Goa,Penha de Franca,Casual Dining,11am to 1130pm(Mon-Sun),Good,3.5,33
+Zaiqa,300,Biryani,Goa,Panaji,none,12noon to 12midnight(Mon-Sun),Good,3.5,11
+Buddies Restaurant & Bar,1000,"Continental,Seafood,Italian,Pizza,North Indian,Chinese",Goa,Anjuna,Quick Bites,8am to 3am(Mon-Sun),Average,3.3,30
+8seashells,1200,"Continental,Seafood",Goa,Calangute,Casual Dining,930am to 1130pm(Mon-Sun),Good,3.6,20
+The Verandah - Grand Hyatt,2500,Italian,Goa,Grand Hyatt-- Bambolim,Casual Dining,7pm to 1130pm(Mon-Sun),Good,3.7,26
+The Hungry Fish,400,"Seafood,North Indian,Chinese",Goa,Anjuna,Casual Dining,"9am to 12midnight(Mon,Tue,Wed,Thu,Fri,Sun)...",Average,3.4,18
+Rooster Town,400,Fast Food,Goa,Panaji,Quick Bites,11am to 2am(Mon-Sun),Good,3.5,15
+Mezmiz Goa,1200,Middle Eastern,Goa,Penha de Franca,Casual Dining,"Closed(Mon),7pm to 12midnight(Tue-Sun)",Good,3.5,12
+Punjabi Handi,800,"Chinese,Continental,North Indian",Goa,Calangute,Casual Dining,6am to 12midnight(Mon-Sun),Good,3.6,15
+Taste Of India,700,"North Indian,Chinese",Goa,Calangute,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,209
+Barcode Lounge and Grill,1300,"American,Continental,Goan",Goa,Porvorim,Casual Dining,12noon to 11pm(Mon-Sun),Very Good,4.0,185
+Legacy of Bombay - Fidalgo,700,"South Indian,Street Food",Goa,Fidalgo-- Panaji,Quick Bites,7am to 11pm(Mon-Sun),Very Good,4.0,223
+Bombay Spice,600,"North Indian,Mughlai,Italian",Goa,Margao,Casual Dining,"9am to 10pm(Mon-Sat),Closed(Sun)",Good,3.9,171
+Mahek-E-Punjab,800,"North Indian,Chinese",Goa,Calangute,Casual Dining,24,Good,3.7,150
+Chilli N Spice - Fidalgo,2000,"Continental,Asian",Goa,Fidalgo-- Panaji,Fine Dining,"12noon to 330pm,7pm to 11pm(Mon-Sun)",Good,3.9,179
+49er's,500,"Continental,Goan,Chinese,North Indian,South Indian",Goa,Colva,Casual Dining,24,Average,3.0,145
+Girish Ranche Ghar,500,"Goan,Chinese,North Indian",Goa,Margao,Casual Dining,"10am to 330pm,7pm to 11pm(Mon-Sun)",Very Good,4.0,153
+Krishna,300,Goan,Goa,Margao,Quick Bites,8am to 11pm(Mon-Sun),Very Good,4.1,122
+Pizza Mia,700,"Pizza,Italian,Salad",Goa,Panaji,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.0,153
+"Por Do Sol, Beach Lounge",2000,"Mediterranean,Seafood,Goan,North Indian",Goa,Ashwem,Lounge,12noon to 12midnight(Mon-Sun),Very Good,4.2,98
+Niyaaz,300,"Chinese,North Indian",Goa,Bambolim,Casual Dining,7am to 11pm(Mon-Sun),Very Good,4.0,194
+The Chocolate Room,500,"Desserts,Cafe,Bakery",Goa,Margao,Dessert Parlor,10am to 2am(Mon-Sun),Good,3.5,71
+Daawat,900,"Seafood,Goan,Continental,Mughlai,Chinese",Goa,Panaji,Casual Dining,NA,Very Good,4.0,243
+Guru,800,"North Indian,Chinese,Continental,Italian,Tibetan",Goa,Anjuna Beach-- Anjuna,Casual Dining,730am to 12midnight(Mon-Sun),Very Good,4.0,138
+The Seasoning,400,"Chinese,Continental,Indian,Goan,Italian,Seafood",Goa,Panaji,Quick Bites,1130am to 1230AM(Mon-Sun),Good,3.5,13
+Iceberg Icecreams,250,"Desserts,Ice Cream",Goa,Margao,Dessert Parlor,11am to 12midnight(Mon-Sun),Good,3.5,15
+Ninja Hakkas,250,"Chinese,Thai,North Indian,Goan",Goa,Panaji,Quick Bites,"Closed(Mon),12noon to 3pm,7pm to 1130pm(Tue-Sun)",Average,3.4,16
+Gelato Italiano,200,"Desserts,Ice Cream",Goa,Margao,Dessert Parlor,10am to 1130pm(Mon-Sun),Average,3.3,12
+Om Sai Ratna,350,"Chinese,Gujarati,North Indian,Rajasthani,South Indian",Goa,Calangute,Quick Bites,6am to 530am(Mon-Sun),Average,3.1,7
+Spice of Life,1000,"Kebab,North Indian,Beverages",Goa,Vagator,Casual Dining,9am to 1am(Mon-Sun),Average,3.3,9
+Natuna Seafood House,800,"Goan,Indian,Mangalorean,Seafood",Goa,Vagator,Casual Dining,11am to 12midnight(Mon-Sun),Average,3.3,13
+Lassi & Cream,200,Ice Cream,Goa,Margao,Dessert Parlor,11am to 1130pm(Mon-Sun),Average,3.4,10
+Olive Garden,600,"Fast Food,Beverages",Goa,Arambol,Casual Dining,8am to 12midnight(Mon-Sun),Average,3.4,13
+O'Patio,1500,"Goan,North Indian,Continental,Thai,Italian",Goa,Panaji,Casual Dining,24,Average,2.9,14
+Bawarchi Biryani,0,"North Indian,Chinese,Mughlai,Biryani",Goa,Porvorim,Casual Dining,12noon to 5am(Mon-Sun),Average,3.2,14
+Sidhu Punjabi Food,350,North Indian,Goa,Candolim,Quick Bites,12noon to 2am(Mon-Sun),Good,3.5,22
+Top Table,500,"Goan,North Indian,Italian,Chinese",Goa,Candolim,Casual Dining,9am to 1130pm(Mon-Sun),Average,3.4,15
+The Bazaar,600,"American,Fast Food,Goan",Goa,Candolim,Casual Dining,12noon to 1230AM(Mon-Sun),Average,3.4,16
+Rasoi,300,"North Indian,Chinese",Goa,Calangute,Casual Dining,8am to 12midnight(Mon-Sun),Average,3.4,21
+Chicken Man,650,Fast Food,Goa,Calangute,Quick Bites,1pm to 1am(Mon-Sun),Average,3.4,19
+WOM Restaurant,400,"North Indian,Chinese,Fast Food",Goa,Vagator,Quick Bites,7am to 1am(Mon-Sun),Average,3.3,12
+India Cafe,250,"Goan,Chinese,North Indian",Goa,Panaji,Quick Bites,9am to 12midnight(Mon-Sun),Average,3.4,11
+8 Ball Cafe,500,Cafe,Goa,Colva,Café,"8am to 12midnight(Mon,Tue,Wed,Thu,Sat,Sun)...",Average,3.1,7
+Biryani Palace,1000,"North Indian,Mughlai,Chinese",Goa,Anjuna,Casual Dining,830am to 1230AM(Mon-Sun),Average,3.4,14
+#vagahouse,800,"Cafe,North Indian,Mughlai,Continental,European,Modern Indian",Goa,Vagator,Casual Dining,"12midnight to 3am,10am to 12midnight(Mon-Sun)",Good,3.5,14
+Tulips,700,"North Indian,Continental,Chinese,Seafood",Goa,Calangute,Casual Dining,9am to 1130pm(Mon-Sun),Average,3.4,17
+Spice Rack,600,North Indian,Goa,Calangute,Casual Dining,830am to 12midnight(Mon-Sun),Average,2.8,14
+Sai Family Restaurant,400,"South Indian,North Indian,Chinese",Goa,Baga,Casual Dining,6am to 530am(Mon-Sun),Average,2.9,9
+Snack Galli,400,"Fast Food,South Indian",Goa,Panaji,Quick Bites,7am to 12midnight(Mon-Sun),Average,2.8,6
+La Franza Bar & Restaurant,1000,"Seafood,North Indian,Continental,Goan,Chinese",Goa,Anjuna,Casual Dining,6pm to 1130pm(Mon-Sun),Average,3.3,16
+Cookie's Food Corner,300,"North Indian,Mughlai",Goa,Panaji,Quick Bites,7am to 2am(Mon-Sun),Good,3.5,7
+Soul Curry,500,"Chinese,Goan,North Indian",Goa,Calangute,Quick Bites,6am to 12midnight(Mon-Sun),Average,3.3,15
+Bay Watch Cafe,1000,"Chinese,North Indian,Seafood,Goan",Goa,Calangute Beach-- Calangute,Casual Dining,9am to 12midnight(Mon-Sun),Average,3.2,13
+La Sana Vida,1000,"Chinese,North Indian,South Indian,Seafood",Goa,Calangute,Casual Dining,730am to 1130pm(Mon-Sun),Average,3.3,5
+Foodland Select Bar & Restaurant,700,"North Indian,Chinese,Seafood",Goa,Calangute,Casual Dining,10am to 1am(Mon-Sun),Average,3.2,13
+Seafood Junction,800,Seafood,Goa,Calangute,Casual Dining,11am to 12midnight(Mon-Sun),Average,3.4,11
+Om Sai Sagar,300,"South Indian,Chinese,North Indian",Goa,Anjuna,Quick Bites,24,Average,2.9,18
+Glen's Corner,650,"North Indian,Chinese,Goan",Goa,Calangute,Casual Dining,7am to 2am(Mon-Sun),Average,3.3,11
+Star Fast Food,250,Chinese,Goa,Vasco,Casual Dining,"12noon to 3pm,6pm to 12midnight(Mon-Sun)",Average,2.8,12
+Sai Leela,300,"North Indian,Chinese,South Indian,Seafood,Goan",Goa,Calangute,Casual Dining,24,Average,2.7,12
+Sangolda Shack Restaurant And Bar,400,"North Indian,Chinese,Goan",Goa,Panaji,Quick Bites,"1030am to 330pm,6pm to 12midnight(Mon-Sun)",Average,3.1,4
+Mannpasand,1000,"North Indian,Street Food",Goa,Calangute,Quick Bites,9am to 1am(Mon-Sun),Average,3.0,14
+Harman Punjabi,400,"North Indian,Chinese",Goa,Baga,Casual Dining,1030am to 2am(Mon-Sun),Average,3.1,11
+Sai Utsav,800,"Chinese,North Indian,South Indian",Goa,Candolim,Casual Dining,8am to 2am(Mon-Sun),Average,3.2,7
+Scirocco,550,"North Indian,Mughlai,Chinese",Goa,Calangute,Casual Dining,12noon to 12midnight(Mon-Sun),Average,2.8,8
+Chill Out,700,"North Indian,Chinese,Continental,Fast Food",Goa,Vagator,Casual Dining,9am to 12midnight(Mon-Sun),Average,2.7,11
+The Goan Hub,0,"Chinese,Seafood",Goa,Anjuna,Casual Dining,830am to 1130pm(Mon-Sun),Average,3.3,13
+Feed More,500,"Goan,North Indian,Chinese",Goa,Benaulim,Casual Dining,12noon to 130am(Mon-Sun),Good,3.5,11
+Citi Burger,400,"Fast Food,Chinese,Beverages",Goa,Vasco,Quick Bites,10am to 1130pm(Mon-Sun),Average,2.8,13
+Blue Coconut,900,"Goan,Chinese,Italian,North Indian,Continental",Goa,Calangute Beach-- Calangute,Casual Dining,7am to 12midnight(Mon-Sun),Average,2.6,10
+Baba's Wood Cafe,1500,Italian,Goa,Baga,Fine Dining,"12noon to 4pm,730pm to 1130pm(Mon,Tue,Wed...",Average,3.2,10
+Satkar Garden Dhaba & Restaurant,500,"Gujarati,North Indian,Chinese,South Indian",Goa,Calangute,Casual Dining,7am to 12midnight(Mon-Sun),Average,3.3,14
+KiKi Bar & Grill,800,"Pizza,Continental,Goan",Goa,Candolim,Bar,"12midnight to 1am,6am to 12midnight(Mon-Sun)",Average,3.3,11
+Tandoori Zaika,500,"Chinese,North Indian,Goan",Goa,Colva,Casual Dining,8am to 1130pm(Mon-Sun),Average,3.3,8
+Saib Restaurant,600,"North Indian,Chinese,Goan",Goa,Panaji,Casual Dining,730am to 1130pm(Mon-Sun),Average,3.2,6
+Cafe Capricorn,500,"Goan,North Indian,Chinese,Continental,Fast Food",Goa,Arambol,Casual Dining,7am to 3am(Mon-Sun),Average,3.3,14
+Shree Annapurna,450,"Fast Food,Goan,North Indian",Goa,Baga,Casual Dining,24,Average,3.4,11
+Rangoli Restaurant & Bar,650,"North Indian,Goan,Continental,Chinese",Goa,Calangute,Casual Dining,9am to 1am(Mon-Sun),Average,3.1,6
+Oceanic Bar & Restaurant,700,"Continental,Chinese,Italian,Goan,North Indian,Seafood,Afghan",Goa,Anjuna,Casual Dining,730am to 12midnight(Mon-Sun),Average,3.2,6
+XOXO By Titos,1100,"Italian,Continental,North Indian",Goa,Vagator,Casual Dining,12noon to 12midnight(Mon-Sun),Average,3.3,10
+The Camelot,800,"Continental,South Indian,Chinese,North Indian",Goa,Baga,Casual Dining,8am to 12midnight(Mon-Sun),Average,2.9,6
+Om Sai sagar,700,"Chinese,North Indian,South Indian",Goa,Calangute,Casual Dining,7am to 12midnight(Mon-Sun),Average,2.9,4
+Hyderabadi Delights,500,Hyderabadi,Goa,Panaji,none,8am to 12midnight(Mon-Sun),Average,3.0,5
+Two Brother's,0,Seafood,Goa,Vagator,Bar,10am to 1130pm(Mon-Sun),Average,3.1,6
+Konkan Kinara,800,"Goan,Seafood",Goa,Candolim,Casual Dining,9am to 12midnight(Mon-Sun),Average,3.0,5
+Om,400,"North Indian,Chinese,Street Food",Goa,Calangute,Casual Dining,24,Average,2.8,7
+Café O' Patio,1000,"American,Fast Food,Goan",Goa,Baga,Casual Dining,7am to 5am(Mon-Sun),Average,3.1,7
+Pico's,400,"Goan,Italian,Chinese,North Indian",Goa,Benaulim,Casual Dining,11am to 1am(Mon-Sun),Average,3.2,6
+Banyan Shade Fastfood,700,Goan,Goa,Anjuna,Casual Dining,8am to 12midnight(Mon-Sun),Average,3.2,7
+Flamingo,700,,Goa,Calangute,Casual Dining,1pm to 1230AM(Mon-Sun),Average,3.1,6
+Skyking,500,"North Indian,Chinese,Fast Food",Goa,Vagator,Casual Dining,9am to 12midnight(Mon-Sun),Average,2.8,5
+Lucky Bhai Bob's,250,"North Indian,Biryani",Goa,Panaji,Casual Dining,"12noon to 3pm,630pm to 1130pm(Mon-Sun)",Average,3.1,7
+Punjabi Tadka,500,"North Indian,Chinese,South Indian",Goa,Calangute,Casual Dining,24,Average,3.1,4
+Thanco Natural,150,"Ice Cream,Desserts",Goa,Ponda,Dessert Parlor,930am to 1230AM(Mon-Sun),Average,3.0,6
+Teama Bar & Restaurant,800,"North Indian,Chinese,Seafood",Goa,Candolim,Casual Dining,9am to 12midnight(Mon-Sun),Average,3.0,5
+Aflatoon Restaurant,450,"Biryani,Chinese,North Indian",Goa,Calangute,Quick Bites,10am to 1am(Mon-Sun),Average,3.0,5
+Hari Om,300,"Chinese,North Indian",Goa,Calangute,Quick Bites,8am to 12midnight(Mon-Sun),Average,3.1,5
+Hotel Udipi Darbar,550,"North Indian,Chinese,Seafood",Goa,Calangute,Casual Dining,730am to 1130pm(Mon-Sun),Average,2.9,5
+K's Kitchen & Bar,1000,"Continental,Italian",Goa,Candolim,Casual Dining,830am to 12midnight(Mon-Sun),Average,3.0,5
+Rolls Mania,450,"Rolls,Fast Food",Goa,Gastronut-- Panaji,Quick Bites,9am to 1am(Mon-Sun),Very Good,4.0,127
+Chi:Noa Kitchen,250,"American,Goan",Goa,Chicalim,Casual Dining,"10am to 11pm(Mon,Wed,Thu,Fri,Sat,Sun),Closed...",Very Good,4.0,92
+Cluck Tales,600,"European,Goan",Goa,Panaji,Casual Dining,"12noon to 11pm(Mon-Sat),9am to 11pm(Sun)",Good,3.5,115
+The Junction,650,North Indian,Goa,Caculo Mall-- Panaji,Casual Dining,"12noon to 3pm,730pm to 11pm(Mon-Sun)",Good,3.7,120
+Patisserie Victoria,150,Bakery,Goa,Margao,Bakery,8am to 10pm(Mon-Sun),Good,3.9,78
+Tato's Fine Dine,800,"Seafood,Goan,North Indian",Goa,Gera Imperium I-- Panaji,Casual Dining,"11am to 330pm,630pm to 11pm(Mon-Sun)",Good,3.9,128
+Paradise Kitchen Hyderabadi Biryani,800,"Biryani,Goan,North Indian",Goa,Panaji,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,108
+Vasco Square,900,"North Indian,Goan,Continental,Seafood",Goa,Vasco,Casual Dining,"Closed(Mon),1130am to 330pm,7pm to 11pm(Tue-Sun)",Good,3.7,95
+Bhojan - Fidalgo,700,Gujarati,Goa,Fidalgo-- Panaji,Casual Dining,"12noon to 3pm,7pm to 11pm(Mon-Sun)",Good,3.8,162
+Carasid,200,"Desserts,Bakery",Goa,Panaji,Dessert Parlor,"Closed(Mon),8am to 9pm(Tue-Sun)",Good,3.8,104
+Twenty Three,650,"North Indian,Chinese,Goan,Continental,Mughlai",Goa,Baga,Casual Dining,24,Good,3.5,139
+Konkani Restaurant,500,"North Indian,Konkan,Goan,Seafood",Goa,Margao,Casual Dining,"12noon to 330pm,7pm to 1030pm(Mon-Sun)",Good,3.7,110
+Lounge Terminal,1500,"Chinese,Goan",Goa,Caculo Mall-- Panaji,Lounge,"12noon to 3pm,730pm to 12midnight...",Very Good,4.1,83
+Salt Bar and Restaurant,1200,"Continental,Goan,North Indian,Chinese,Italian",Goa,Anjuna,Casual Dining,11am to 2am(Mon-Sun),Very Good,4.0,81
+Cafe De Goa,600,"Cafe,Desserts",Goa,Calangute,Café,8am to 11pm(Mon-Sun),Very Good,4.1,90
+Raddish Bar & Restaurant,1000,"Chinese,Continental,Goan,North Indian,Russian",Goa,Royal Goan Beach Club-- Salcette,Casual Dining,9am to 12midnight(Mon-Sun),Good,3.9,98
+Gaylin Chinese Restaurant,1000,Chinese,Goa,Margao,Casual Dining,"1145am to 3pm,645pm to 11pm(Mon-Sun)",Good,3.7,127
+Le Jardin,700,"Goan,North Indian,Chinese",Goa,Mapusa,Casual Dining,"12noon to 315pm,7pm to 1045pm(Mon,Tue,Wed...",Good,3.7,87
+Pesto,500,"Fast Food,Continental",Goa,Vagator,Casual Dining,"930am to 4pm(Mon,Tue,Wed,Fri,Sat),930am to ...",Very Good,4.1,135
+House No.2,800,"Goan,European,Continental,North Indian,Chinese",Goa,Margao,Casual Dining,"1130am to 3pm,7pm to 11pm(Mon-Sun)",Good,3.7,71
+Smokin Joe's,700,"Pizza,Fast Food",Goa,Margao,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,95
+George Restaurant & Bar,700,"Goan,Seafood,North Indian,Chinese",Goa,Panaji,Casual Dining,"1230pm to 330pm,630pm to 1045pm(Mon-Sun)",Good,3.5,109
+McDonald's,500,"Burger,Fast Food",Goa,Calangute,Quick Bites,10am to 10pm(Mon-Sun),Very Good,4.0,110
+Swad,500,"South Indian,North Indian,Chinese",Goa,Margao,Casual Dining,730pm to 1030pm(Mon-Sun),Very Good,4.1,54
+Orto,900,"Italian,European",Goa,Mandrem,Casual Dining,10am to 11pm(Mon-Sun),Very Good,4.0,78
+Kalika Bar And Restaurant,600,"Chinese,North Indian,Goan,Seafood",Goa,Margao,Casual Dining,12noon to 11pm(Mon-Sun),Very Good,4.1,51
+Kokoons - Modern Indian Diner,900,"North Indian,Chinese,Continental",Goa,Candolim,Casual Dining,8am to 1am(Mon-Sun),Very Good,4.3,138
+Pomodoro,700,Italian,Goa,Panaji,Casual Dining,1230pm to 12midnight(Mon-Sun),Very Good,4.0,56
+Bhojan,700,"North Indian,Goan,Chinese,Seafood",Goa,Penha de Franca,Casual Dining,"1130am to 330pm,7pm to 11pm(Mon-Sun)",Good,3.5,107
+The Biryani House,800,"North Indian,Biryani,Seafood",Goa,Margao,Casual Dining,10am to 11pm(Mon-Sun),Good,3.7,54
+St Anthony Resto Bar,700,"North Indian,Chinese,Continental,Seafood",Goa,Calangute,Casual Dining,7am to 11pm(Mon-Sun),Average,2.5,106
+Zakis Biryani,600,"Biryani,Mughlai",Goa,Panaji,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,106
+Portofino,800,"Chinese,Seafood,Goan,North Indian",Goa,Colva,Casual Dining,"12noon to 3pm,645pm to 11pm(Mon-Sun)",Good,3.8,82
+Cafe Choco Craze,400,Fast Food,Goa,Margao,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,50
+Udupi Anand Sagar,400,"North Indian,South Indian,Chinese",Goa,Calangute,Casual Dining,8am to 11pm(Mon-Sun),Good,3.7,96
+Al Akbar,400,"North Indian,Mughlai",Goa,Margao,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,65
+Antojitos,600,"Street Food,American,Mexican",Goa,Panaji,Food Truck,530pm to 10pm(Mon-Sun),Very Good,4.0,78
+Workshop Restaurant,700,"Biryani,Goan,Seafood",Goa,Penha de Franca,Quick Bites,"Closed(Mon),12noon to 230pm,7pm to 11pm(Tue-Sun)",Good,3.9,53
+The Chikoo Tree Project,1000,Modern Indian,Goa,Margao,Casual Dining,"Closed(Mon),10am to 10pm(Tue-Sun)",Good,3.9,64
+MFC Royal Inn Family Restaurant,400,"North Indian,Chinese",Goa,Panaji,Quick Bites,12noon to 10pm(Mon-Sun),Average,3.4,34
+The Belgian Waffle Co,250,"Desserts,Beverages",Goa,Panaji,Dessert Parlor,1030am to 12midnight(Mon-Sun),Good,3.8,74
+17th Avenue Cafe,250,Cafe,Goa,Colva,Café,9am to 9pm(Mon-Sun),Average,3.4,54
+Nandan,600,"North Indian,South Indian",Goa,Panaji,Casual Dining,730am to 11pm(Mon-Sun),Good,3.8,61
+China Gate,700,"Seafood,North Indian,Goan,Chinese",Goa,Margao,Casual Dining,"12noon to 3pm,7pm to 11pm(Mon-Sun)",Good,3.7,75
+The Daily Roast,800,Cafe,Goa,Colva,Café,10am to 10pm(Mon-Sun),Good,3.8,51
+Rice Bowl,400,Chinese,Goa,Colva,Casual Dining,"1030am to 3pm,630pm to 11pm(Mon-Sun)",Good,3.7,49
+Tiger Bay,800,"Middle Eastern,Continental,Indian,Greek,North Indian,Italian,Lebanese",Goa,Morjim,Casual Dining,8am to 2am(Mon-Sun),Very Good,4.1,60
+Hayatt Restaurant And Caterers,800,"North Indian,Chinese",Goa,Margao,Casual Dining,"11am to 3pm,6pm to 1045pm(Mon-Sun)",Good,3.6,41
+Sincro Restaurant,700,"North Indian,Seafood,Chinese,Continental",Goa,Margao,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,66
+Foodland Garden Retreat,350,"North Indian,Chinese,South Indian,Goan",Goa,Panaji,Casual Dining,"7am to 4pm,7pm to 11pm(Mon-Sun)",Good,3.7,45
+Fisherman's,500,"Italian,Continental,Seafood,Goan",Goa,Palolem,Casual Dining,10am to 1030pm(Mon-Sun),Good,3.5,57
+The Coastal Spice,1100,"Continental,Goan,North Indian,Seafood",Goa,Siolim,Casual Dining,"9am to 1130am,12noon to 4pm,7pm to 11pm(Mon-Sun)",Good,3.8,70
+Moti Mahal,1100,"North Indian,Chinese,Goan,Beverages",Goa,Panaji,Casual Dining,"1130am to 330pm,7pm to 11pm(Mon-Sun)",Good,3.8,68
+Patisserie Victoria,400,"Bakery,Cafe",Goa,Colva,Bakery,10am to 9pm(Mon-Sun),Good,3.6,49
+Satkar,500,"South Indian,Chinese,North Indian",Goa,Panaji,Casual Dining,"8am to 330pm,630pm to 1030pm(Mon-Sun)",Average,3.0,37
+Babaji Classic,500,"North Indian,South Indian,Chinese",Goa,Mapusa,Casual Dining,9am to 1030pm(Mon-Sun),Good,3.6,38

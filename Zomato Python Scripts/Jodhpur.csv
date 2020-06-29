@@ -1,0 +1,338 @@
+Name,Price,Cuisine_Category,City,Region,Cuisine_Type,Timing,Rating_Types,Rating,Votes
+New Raja Chicken Corner,500,"Mughlai,North Indian",Jodhpur,Station Road,Quick Bites,1130am to 11pm(Mon-Sun),Very Good,4.2,505
+Naveen Juice And Ice Cream Parlour,400,"Beverages,Fast Food",Jodhpur,Shastri Nagar,Beverage Shop,9am to 11pm(Mon-Sun),Very Good,4.0,316
+Gurunanak Lassi Bhandar,100,Beverages,Jodhpur,Sardarpura,Beverage Shop,7am to 1130pm(Mon-Sun),Very Good,4.3,448
+Gypsy Dining Hall,600,Rajasthani,Jodhpur,Sardarpura,Casual Dining,"12noon to 330pm,7pm to 11pm(Mon-Sun)",Excellent,4.5,301
+Jantawala Sweets & Restaurant,400,"North Indian,Mithai",Jodhpur,Sardarpura,Casual Dining,7am to 1030pm(Mon-Sun),Very Good,4.0,250
+Punjabi Chic Inn,400,"North Indian,Fast Food,Chinese",Jodhpur,Shastri Nagar,Quick Bites,6pm to 12midnight(Mon-Sun),Excellent,4.6,386
+Cafe 651,900,"Cafe,Continental,Coffee,Beverages,Desserts",Jodhpur,Sardarpura,Café,11am to 11pm(Mon-Sun),Excellent,4.9,313
+Mosaic Eatery,800,"Cafe,Continental,Italian,Chinese,Thai",Jodhpur,Basni,Café,11am to 11pm(Mon-Sun),Very Good,4.2,280
+Gypsy,400,"Fast Food,North Indian,South Indian",Jodhpur,Sardarpura,Quick Bites,10am to 11pm(Mon-Sun),Very Good,4.4,373
+Laxmi Cold Drinks,350,"Beverages,Fast Food,Sandwich,Pizza,South Indian",Jodhpur,Shastri Nagar,Café,10am to 11pm(Mon-Sun),Very Good,4.0,196
+Aunty's Pizza,200,"Fast Food,Burger,Sandwich,Beverages,Pizza",Jodhpur,Shastri Nagar,Quick Bites,11am to 1130pm(Mon-Sun),Very Good,4.1,230
+Bawarchi Fast Food,150,"Fast Food,North Indian,South Indian",Jodhpur,Sardarpura,Quick Bites,10am to 1030pm(Mon-Sun),Very Good,4.1,261
+The Filos Cafe & Restaurant,500,"Cafe,Continental",Jodhpur,Air Force Area,Café,8am to 11pm(Mon-Sun),Very Good,4.3,178
+Domino's Pizza,500,"Pizza,Fast Food",Jodhpur,Rawaton ka bass,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,386
+The Daily Grinds,700,"Cafe,Continental,North Indian,Chinese,Mexican",Jodhpur,Cantt Area,Café,12noon to 12midnight(Mon-Sun),Excellent,4.5,227
+The 29 Bakers,200,Bakery,Jodhpur,Cantt Area,Bakery,9am to 11pm(Mon-Sun),Average,3.4,50
+The Breeze,600,"North Indian,South Indian,Continental,Mughlai",Jodhpur,Ratanada,Casual Dining,(Mon-Sun),Average,3.3,8
+Sip N Slurp,300,"South Indian,Italian,Fast Food,Desserts",Jodhpur,Paota,Quick Bites,10am to 10pm(Mon-Sun),Average,3.2,13
+Keventers,400,"Desserts,Beverages,Ice Cream",Jodhpur,Sardarpura,Beverage Shop,10am to 12midnight(Mon-Sun),Good,3.8,39
+Maa Bhawani Dal Bati Churma,100,North Indian,Jodhpur,1st Pulia,Quick Bites,11am to 10pm(Mon-Sun),Average,3.0,5
+Chai Ki Chuski,350,Cafe,Jodhpur,Ratanada,Café,10am to 11pm(Mon-Sun),Good,3.5,64
+Navdurga Sweet Corner,500,"Mithai,Street Food",Jodhpur,Chopasni Housing Board,Sweet Shop,10am to 10pm(Mon-Sun),Average,3.2,8
+The Kitchen,400,"North Indian,Fast Food",Jodhpur,Sardarpura,none,12noon to 11pm(Mon-Sun),Good,3.8,44
+Bhagwati Fast Food Cafe,200,"Fast Food,Chinese,Sandwich",Jodhpur,Paota,Quick Bites,10am to 10pm(Mon-Sun),Average,3.2,6
+Rasraj Sweet Corner,200,"Mithai,Bakery",Jodhpur,Pal Gaon,Sweet Shop,7am to 10pm(Mon-Sun),Average,3.1,4
+Pooja Sweets,250,"Desserts,Mithai,Bakery",Jodhpur,Air Force Area,Bakery,11am to 10pm(Mon-Sun),Average,3.1,8
+Alpahar,100,Fast Food,Jodhpur,Sardarpura,none,11am to 9pm(Mon-Sun),Average,3.1,5
+Jeeman,400,North Indian,Jodhpur,Ratanada,Casual Dining,10am to 10pm(Mon-Sun),Average,2.8,6
+Goli,150,Street Food,Jodhpur,Sardarpura,Quick Bites,11am to 10pm(Mon-Sun),Average,3.3,9
+Fresh N Green,300,"Desserts,Bakery",Jodhpur,Sardarpura,Bakery,9am to 10pm(Mon-Sun),Average,3.0,4
+Cafe Royale At ClockTower,350,Cafe,Jodhpur,Kabir Nagar,Café,9am to 9pm(Mon-Sun),Average,3.4,7
+Dhani Google Re,300,North Indian,Jodhpur,Air Force Area,Casual Dining,11am to 10pm(Mon-Sun),Average,3.0,4
+Amigos Cafe,400,"Cafe,Italian,Chinese,Brazilian,Beverages",Jodhpur,Air Force Area,Café,10am to 1am(Mon-Sun),Average,2.9,41
+Kesariya Softy And Softy,150,Fast Food,Jodhpur,Ratanada,Quick Bites,9am to 11pm(Mon-Sun),Average,2.6,49
+The Roll 'A' Wrap,200,Rolls,Jodhpur,Sardarpura,Quick Bites,12noon to 12midnight(Mon-Sun),Good,3.7,63
+Doner And Gyros,600,"Fast Food,German",Jodhpur,Sardarpura,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,18
+The Liquor Industry,1000,"Cafe,North Indian,Continental,Mexican,Italian,Chinese,Burger,Sandwich",Jodhpur,Paota,Casual Dining,11am to 11pm(Mon-Sun),Good,3.8,55
+Roadster Meal,100,Fast Food,Jodhpur,Sardarpura,Quick Bites,11am to 1130pm(Mon-Sun),Good,3.9,48
+RJ 19 Restaurant,400,"North Indian,South Indian,Burger,Pizza,Sandwich,Chinese",Jodhpur,Sardarpura,Casual Dining,9am to 11pm(Mon-Sun),Good,3.5,40
+Shri Ram Bhojanalaya,350,North Indian,Jodhpur,Station Road,Casual Dining,9am to 11pm(Mon-Sun),Good,3.6,39
+Arora's Delicious,200,"Fast Food,Chinese,Continental,Italian,Beverages",Jodhpur,Sardarpura,Quick Bites,"11am to 1045pm(Mon-Thu),11am to 1030pm(Fri-Sun)",Good,3.9,62
+The Book Cafe,600,Cafe,Jodhpur,Sardarpura,Café,12midnight to 1130pm(Mon-Sun),Average,3.4,47
+Jalapeno The Eatery,150,"South Indian,Fast Food,Pizza",Jodhpur,Chopasni Housing Board,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,45
+2Nine Restaurant,300,Rajasthani,Jodhpur,Chopasni Housing Board,Quick Bites,"11am to 1115pm(Mon,Tue,Wed,Thu,Sat,Sun)...",Good,3.5,29
+Krishna Softy & Softy,400,"Fast Food,North Indian",Jodhpur,Sardarpura,Casual Dining,9am to 12midnight(Mon-Sun),Average,3.4,22
+Thalis - The Fern Residency,500,North Indian,Jodhpur,The Fern Residency-- Ratanada,Casual Dining,10am to 11pm(Mon-Sun),Average,3.3,38
+Rudraksh- Chase the Flavours,400,"North Indian,Chinese,Sandwich,South Indian,Italian,Burger,Beverages",Jodhpur,Chopasni Housing Board,Quick Bites,830am to 11pm(Mon-Sun),Average,3.3,36
+Mughals,150,Mughlai,Jodhpur,Sardarpura,Quick Bites,6pm to 1115pm(Mon-Sun),Good,3.7,56
+Rajasthan Bhojnalya,150,"North Indian,Chinese,Rajasthani",Jodhpur,Ratanada,Bhojanalya,8am to 11pm(Mon-Sun),Average,2.7,9
+American Fried Chicken,250,Fast Food,Jodhpur,Sardarpura,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,67
+Meyhigh,600,"Cafe,North Indian,Chinese,Mexican,Pizza,Sandwich",Jodhpur,Ratanada,Café,12noon to 1030pm(Mon-Sun),Good,3.8,34
+The Rockyard,500,"Chinese,Continental,North Indian",Jodhpur,Air Force Area,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,51
+F.R.I.E.N.D.S Central Perk Nineteen,300,"North Indian,Chinese",Jodhpur,Sardarpura,Quick Bites,11am to 1030pm(Mon-Sun),Good,3.8,38
+Hari Om Dosa Corner,150,"North Indian,Chinese",Jodhpur,Paota,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,26
+The Jodhpur Coffee House,200,"South Indian,North Indian,Beverages,Chinese",Jodhpur,Rawaton ka bass,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,55
+Pavitras,600,"North Indian,South Indian,Pizza,Fast Food",Jodhpur,Sardarpura,Casual Dining,11am to 11pm(Mon-Sun),Good,3.7,44
+The Royal Taste of Sasural,350,"North Indian,Mughlai",Jodhpur,Shastri Nagar,Quick Bites,6pm to 11pm(Mon-Sun),Good,3.9,47
+Marwar Excellency,600,North Indian,Jodhpur,Pal Gaon,Casual Dining,9am to 11pm(Mon-Sun),Average,3.3,7
+Eatonn,250,"North Indian,Chinese",Jodhpur,Sardarpura,none,11am to 11pm(Mon-Sun),Good,3.9,31
+One Airport,500,"North Indian,Beverages,Rajasthani",Jodhpur,Ratanada,Quick Bites,"12noon to 4pm,6pm to 11pm(Mon-Sun)",Good,3.9,22
+Patiyala Chicken Corner,300,"North Indian,Mughlai",Jodhpur,Paota,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,32
+Spicy Kitchen Restaurant,600,"North Indian,South Indian,Chinese",Jodhpur,Pal Gaon,Casual Dining,11am to 11pm(Mon-Sun),Good,3.7,35
+Kashmiri Spicy,600,"North Indian,Fast Food",Jodhpur,Station Road,Casual Dining,"10am to 6pm,7pm to 11pm(Mon-Sun)",Good,3.6,36
+Sukh Sagar Hotel,150,North Indian,Jodhpur,Station Road,Quick Bites,10am to 12midnight(Mon-Sun),Good,3.5,31
+Food Court By Shri Ram Empire,500,"North Indian,Sandwich,Burger,South Indian,Chinese",Jodhpur,Sardarpura,Casual Dining,7am to 11pm(Mon-Sun),Good,3.5,28
+Nihari's Restaurant,400,"North Indian,Chinese,Fast Food,South Indian,Sandwich",Jodhpur,Kabir Nagar,Quick Bites,9am to 11pm(Mon-Sun),Good,3.7,38
+Radhey Krishna Foods,400,"North Indian,Chinese,Italian,Burger,Sandwich",Jodhpur,Paota,Quick Bites,8am to 11pm(Mon-Sun),Good,3.6,29
+Sam's Pizza,400,Italian,Jodhpur,Ratanada,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,51
+Step Up Cafe & Bistro,300,"Desserts,Italian,Cafe",Jodhpur,Basni,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,7
+Red Chilli,500,"North Indian,Mexican,Italian,South Indian,Chinese,Burger,Sandwich",Jodhpur,Air Force Area,Quick Bites,9am to 11pm(Mon-Sun),Good,3.5,31
+Innings Restaurant,600,"Desserts,Fast Food,Beverages,Cafe",Jodhpur,Sardarpura,Bakery,9am to 1130pm(Mon-Sun),Good,3.9,36
+New Gujrat Dabeli Vada Pav And Fast Food,150,"Gujarati,South Indian,Chinese",Jodhpur,Chopasni Housing Board,Quick Bites,10am to 11pm(Mon-Sun),Good,3.7,18
+Chaifeteria,250,"Cafe,Beverages",Jodhpur,Ratanada,Café,11am to 11pm(Mon-Sun),Good,3.9,32
+The Food Zone,300,Fast Food,Jodhpur,Ratanada,Quick Bites,12noon to 1030pm(Mon-Sun),Good,3.6,29
+Sukh Sagar Restaurant,400,"North Indian,Rajasthani,South Indian",Jodhpur,Ratanada,Casual Dining,10am to 11pm(Mon-Sun),Poor,2.4,52
+Arora's Soda Hub & Fast Food,150,"Fast Food,Beverages",Jodhpur,Sardarpura,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,27
+The Nerdy Beans,400,"Mexican,Italian,Beverages",Jodhpur,Sardarpura,Café,11am to 11pm(Mon-Sun),Average,2.7,49
+Food Planet,250,"North Indian,Chinese",Jodhpur,Paota,none,11am to 11pm(Mon-Sun),Good,3.5,21
+Brain Freeze Ice Cream & Desserts,200,"Ice Cream,Desserts",Jodhpur,Sardarpura,Dessert Parlor,12noon to 12midnight(Mon-Sun),Good,3.8,28
+Jeeman - Nirali Dhani,1500,"Continental,Italian,Chinese,Mexican,North Indian",Jodhpur,Chopasni Housing Board,Fine Dining,24,Good,3.5,41
+Where Is The Food?,400,"Cafe,North Indian,Fast Food,Chinese,Beverages",Jodhpur,Sardarpura,Quick Bites,6pm to 6am(Mon-Sun),Good,3.6,36
+Mokaaz Cafe,700,Cafe,Jodhpur,Pal Gaon,Café,11am to 3am(Mon-Sun),Good,3.9,32
+The Crown Plaza Restaurant,500,"North Indian,Chinese,South Indian,Pizza,Sandwich,Burger,Beverages",Jodhpur,Paota,Quick Bites,11am to 11pm(Mon-Sun),Average,2.8,35
+Grill's,200,Fast Food,Jodhpur,Sardarpura,Quick Bites,10am to 1030pm(Mon-Sun),Good,3.5,14
+World Cuisine Cafe - Barnella,500,"Cafe,North Indian,Continental,Pizza,Fast Food,Beverages",Jodhpur,Ratanada,Café,1030am to 1030pm(Mon-Sun),Good,3.5,27
+Mr & Mrs Idly,450,South Indian,Jodhpur,Sardarpura,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,31
+Goru Misthan Bhandar,250,"Desserts,Mithai",Jodhpur,Chopasni Housing Board,Dessert Parlor,8am to 1130pm(Mon-Sun),Average,3.4,14
+Shri Ram Ras Bhandar,100,"Beverages,Ice Cream",Jodhpur,Chopasni Housing Board,Beverage Shop,10am to 11pm(Mon-Sun),Good,3.5,16
+Kissan Baker,200,Desserts,Jodhpur,Chopasni Housing Board,Quick Bites,9am to 1030pm(Mon-Sun),Average,3.4,15
+Jai Maa Bhawani Dal Bati,300,North Indian,Jodhpur,Sardarpura,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,22
+Solanki Bhojnalaya,150,North Indian,Jodhpur,Pal Gaon,Bhojanalya,10am to 11pm(Mon-Sun),Good,3.6,19
+Jai Shree Jodhpur Sweets,150,Mithai,Jodhpur,Paota,Sweet Shop,9am to 11pm(Mon-Sun),Good,3.5,19
+Shree Kissan Bhojnalay,400,North Indian,Jodhpur,Sardarpura,Quick Bites,9am to 11pm(Mon-Sun),Good,3.6,27
+Plan B,950,North Indian,Jodhpur,Ratanada,Lounge,11am to 11pm(Mon-Sun),Good,3.9,25
+Maggi Wala,150,Fast Food,Jodhpur,Bhagat Ki Kothi,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,20
+Cafe Blue,400,"Cafe,Sandwich,Chinese,Fast Food",Jodhpur,Lawaran,Café,11am to 11pm(Mon-Sun),Average,3.2,9
+Spasiba Bakers,150,Bakery,Jodhpur,Shastri Nagar,Bakery,9am to 11pm(Mon-Sun),Good,3.5,22
+De Mithaiwala,200,Mithai,Jodhpur,Sardarpura,Sweet Shop,10am to 11pm(Mon-Sun),Good,3.7,27
+The Chocolate Room,300,"Desserts,Beverages,Fast Food",Jodhpur,Paota,Dessert Parlor,11am to 11pm(Mon-Sun),Average,3.4,13
+D Cafe,200,"Beverages,Fast Food",Jodhpur,Ratanada,Quick Bites,10am to 11pm(Mon-Sun),Good,3.5,13
+Raj Alphar,500,"North Indian,Rajasthani",Jodhpur,Sardarpura,Quick Bites,9am to 11pm(Mon-Sun),Good,3.6,23
+Bombay  Chocolate Sandwich,150,Sandwich,Jodhpur,Sardarpura,Quick Bites,5pm to 11pm(Mon-Sun),Good,3.6,16
+Punjabi Sharbat & More,100,"Fast Food,Juices,Beverages",Jodhpur,Shastri Nagar,Beverage Shop,11am to 11pm(Mon-Sun),Average,3.3,14
+The London Shakes,300,Beverages,Jodhpur,Sardarpura,Beverage Shop,11am to 1130pm(Mon-Sun),Good,3.5,19
+Madhu Dairy,100,Desserts,Jodhpur,Chopasni Housing Board,Sweet Shop,11am to 11pm(Mon-Sun),Average,3.4,15
+Krishna Dabeli Point,100,"Fast Food,South Indian,Gujarati",Jodhpur,Bhadu Market,Quick Bites,10am to 11pm(Mon-Sun),Good,3.8,28
+Shakewallah,250,Beverages,Jodhpur,Shastri Nagar,Beverage Shop,11am to 1030pm(Mon-Sun),Excellent,4.5,183
+The Rolling Stove,500,"Italian,Mexican,Beverages,Pizza",Jodhpur,Sardarpura,Food Truck,6pm to 11pm(Mon-Sun),Very Good,4.1,124
+Fun N Food Fast Food,500,"Fast Food,North Indian,South Indian",Jodhpur,Sardarpura,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.1,246
+Dilip Fast Food,150,"Sandwich,Burger,Pizza,Fast Food,Chinese,Beverages",Jodhpur,Chopasni Housing Board,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.0,136
+The Burger Joint,150,"Burger,Fast Food",Jodhpur,Air Force Area,Quick Bites,"11am to 11pm(Mon-Thu),11am to 12midnight(Fri-Sun)",Very Good,4.0,46
+Al Baik Candle Light,300,North Indian,Jodhpur,Chopasni Housing Board,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.2,137
+Pokar Sweets And Restaurant,350,"North Indian,South Indian,Fast Food,Burger,Sandwich",Jodhpur,Kabir Nagar,Quick Bites,6am to 2am(Mon-Sun),Very Good,4.0,114
+Hotel Priya,300,North Indian,Jodhpur,Rawaton ka bass,Quick Bites,7am to 12midnight(Mon-Sun),Very Good,4.0,97
+Jodhpuri Darbar,500,"North Indian,Mughlai",Jodhpur,Sardarpura,Quick Bites,6pm to 11pm(Mon-Sun),Very Good,4.2,204
+The Book Cafe,400,"Cafe,Fast Food,Chinese,Continental,Mexican",Jodhpur,Basni,Café,11am to 3am(Mon-Sun),Very Good,4.0,175
+Kalinga Restaurant,500,North Indian,Jodhpur,Sardarpura,Casual Dining,12noon to 11pm(Mon-Sun),Very Good,4.2,124
+Khaas Bagh,1500,"North Indian,Rajasthani",Jodhpur,Ratanada,Fine Dining,12noon to 11pm(Mon-Sun),Excellent,4.8,141
+Pizza Hut,500,Pizza,Jodhpur,Sardarpura,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,176
+The Kaps Pizza,200,"Fast Food,Pizza",Jodhpur,Sardarpura,Quick Bites,1045am to 1045pm(Mon-Sun),Very Good,4.1,127
+The Belgian Waffle Co.,250,Desserts,Jodhpur,Sardarpura,Dessert Parlor,10am to 12midnight(Mon-Sun),Very Good,4.1,98
+Big Bite,150,Fast Food,Jodhpur,Paota,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,13
+Guru Nanak Vaishnav Hotel,400,North Indian,Jodhpur,Paota,Quick Bites,9am to 11pm(Mon-Sun),Good,3.6,26
+The Creamy Culture,250,"Desserts,Fast Food",Jodhpur,Sardarpura,Dessert Parlor,10am to 11pm(Mon-Sun),Average,2.6,17
+Kajoo Katlee Wala,200,Mithai,Jodhpur,Rawaton ka bass,Sweet Shop,11am to 11pm(Mon-Sun),Average,3.0,17
+Moustachef,200,"Fast Food,Desserts",Jodhpur,Sardarpura,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.4,11
+Al Baik Star,500,"Mughlai,North Indian",Jodhpur,Paota,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,22
+Supreme Restaurant,200,North Indian,Jodhpur,Chopasni Housing Board,Quick Bites,3pm to 1am(Mon-Sun),Good,3.5,13
+Tiffin Boys,200,North Indian,Jodhpur,Paota,Quick Bites,8am to 11pm(Mon-Sun),Good,3.5,15
+Royal Softy N Softy,250,"Beverages,Fast Food",Jodhpur,Paota,Beverage Shop,11am to 11pm(Mon-Sun),Average,3.4,18
+Rasraj,1000,"North Indian,South Indian,Street Food",Jodhpur,Air Force Area,Casual Dining,10am to 11pm(Mon-Sun),Good,3.5,30
+Shri Mangalam Restaurant,250,"Cafe,Italian,North Indian,Chinese,South Indian,Fast Food",Jodhpur,Basni,Quick Bites,10am to 11pm(Mon-Sun),Average,3.3,14
+Jungle Bhookh,1000,North Indian,Jodhpur,Sardarpura,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,26
+99 Bakers,300,Bakery,Jodhpur,Shastri Nagar,Bakery,10am to 11pm(Mon-Sun),Good,3.5,17
+Hotel Jain Excellency,500,"North Indian,Chinese,South Indian,Mexican,Fast Food",Jodhpur,Sardarpura,Casual Dining,"730am to 1045pm(Mon-Sat),745am to 1045pm(Sun)",Good,3.5,16
+Umar Bhai Tikkiya Wale,250,North Indian,Jodhpur,Paota,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,12
+Shri Parashwanath Cold Drinks,150,Beverages,Jodhpur,Sardarpura,Beverage Shop,10am to 11pm(Mon-Sun),Average,3.3,12
+Dana Pani Restaurant,200,"North Indian,Mughlai,Chinese",Jodhpur,Ratanada,Quick Bites,7pm to 11pm(Mon-Sun),Good,3.6,23
+Bhawani Fast Food,150,Fast Food,Jodhpur,Basni,Quick Bites,11am to 1030pm(Mon-Sun),Average,2.9,7
+Hamza Ahmedabad Chicken Chinese,300,North Indian,Jodhpur,Paota,Quick Bites,6pm to 12midnight(Mon-Sun),Average,3.4,13
+Pachranga- Ranbanka Palace,2000,"North Indian,Fast Food",Jodhpur,Ranbanka Palace-- Cantt Area,Fine Dining,7am to 11pm(Mon-Sun),Good,3.7,28
+Pavitras Food Court,100,"Beverages,North Indian",Jodhpur,Paota,Quick Bites,6pm to 11pm(Mon-Sun),Good,3.5,15
+Tamarind Restaurant,550,North Indian,Jodhpur,Sardarpura,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,21
+New Al Baik,350,Mughlai,Jodhpur,Paota,Quick Bites,6pm to 12midnight(Mon-Sun),Good,3.5,18
+Happiness Ice Cream Parlour,200,"Beverages,Ice Cream",Jodhpur,Sardarpura,Beverage Shop,9am to 12midnight(Mon-Sun),Average,3.4,10
+Vishnu Dosa & Restaurant,250,"Seafood,North Indian",Jodhpur,Paota,Quick Bites,10am to 11pm(Mon-Sun),Average,3.4,14
+Shyam Restaurant,200,"North Indian,Chinese,Pizza",Jodhpur,Pal Gaon,Quick Bites,10am to 11pm(Mon-Sun),Average,2.9,9
+Punjabi Dhaba,250,"North Indian,Fast Food",Jodhpur,Air Force Area,Quick Bites,"11am to 4pm,6pm to 11pm(Mon-Sun)",Average,3.3,14
+Mr Bakers,300,"Pizza,Burger,Bakery,Desserts",Jodhpur,Pal Gaon,Bakery,1030am to 11pm(Mon-Sun),Average,3.2,6
+Chicken Hub,150,Fast Food,Jodhpur,Basni,Quick Bites,6pm to 11pm(Mon-Sun),Average,3.0,16
+Midtown Restaurant,750,"North Indian,Rajasthani",Jodhpur,Station Road,Casual Dining,8am to 1030pm(Mon-Sun),Average,3.4,22
+Fulka,500,"Chinese,North Indian",Jodhpur,Basni,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,21
+Baari Restaurant & Lounge,800,"North Indian,Chinese,Pizza,Sandwich,Beverages",Jodhpur,Paota,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,14
+8 pack momos,100,Momos,Jodhpur,Shastri Nagar,none,6pm to 11pm(Mon-Sun),Average,2.6,14
+Marudhar Jalpan Grah And Bhojnalaya,250,North Indian,Jodhpur,Basni,Bhojanalya,"11am to 415pm,630pm to 11pm(Mon-Sun)",Average,3.1,5
+Geoffrey's,1200,Finger Food,Jodhpur,Air Force Area,Pub,11am to 11pm(Mon-Sun),Good,3.7,22
+Parashwanath Cold Drinks House,150,Beverages,Jodhpur,Sardarpura,Beverage Shop,930am to 12midnight(Mon-Sun),Good,3.6,11
+K R Chicken,300,North Indian,Jodhpur,Sardarpura,Quick Bites,6pm to 1145pm(Mon-Sun),Average,3.4,11
+Maggie Man,150,Fast Food,Jodhpur,Sardarpura,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,16
+Habitz,200,"Ice Cream,Desserts",Jodhpur,Sardarpura,Dessert Parlor,11am to 11pm(Mon-Sun),Average,3.3,11
+Coasters- The Coffee Club,300,Cafe,Jodhpur,Shastri Nagar,Café,11am to 11pm(Mon-Sun),Good,3.5,12
+Blu19 Sports Grill,350,"Fast Food,Pizza",Jodhpur,Sardarpura,Café,11am to 11pm(Mon-Sun),Average,3.3,10
+Ice Cream Works,300,Desserts,Jodhpur,Basni,Dessert Parlor,10am to 12midnight(Mon-Sun),Average,3.2,18
+The Food Chain,350,"North Indian,Chinese,Fast Food,Beverages",Jodhpur,Paota,Quick Bites,9am to 11pm(Mon-Sun),Average,3.3,16
+Cherry On Top,200,"Bakery,Desserts",Jodhpur,Ratanada,Bakery,11am to 11pm(Mon-Sun),Average,3.0,5
+Mandap Restaurant,250,"North Indian,South Indian",Jodhpur,Chopasni Housing Board,Quick Bites,1030am to 1030pm(Mon-Sun),Average,3.4,16
+Mani Dhaba,400,North Indian,Jodhpur,Sardarpura,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,8
+Curry House,800,"North Indian,South Indian,Chinese,Continental",Jodhpur,Chopasni Housing Board,Casual Dining,7am to 11pm(Mon-Sun),Average,3.2,9
+Jammu Kashmir Hotel,400,"Indian,Mughlai,North Indian",Jodhpur,Kabir Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,16
+Pawan Sagar - Chandra Inn,800,"North Indian,Continental,South Indian,Chinese,Burger,Sandwich,Ice Cream,Beverages",Jodhpur,Ratanada,Casual Dining,710am to 11pm(Mon-Sun),Average,3.2,7
+Dagley,400,North Indian,Jodhpur,Kabir Nagar,Quick Bites,8am to 11pm(Mon-Sun),Average,3.2,9
+Namaste Cafe,300,"Cafe,North Indian,Chinese,Beverages",Jodhpur,Kabir Nagar,Café,10am to 11pm(Mon-Sun),Average,3.3,10
+Silver Turtle,200,Fast Food,Jodhpur,Sardarpura,Quick Bites,1115am to 1030pm(Mon-Sun),Good,3.5,17
+Spicy Bites,500,"North Indian,South Indian",Jodhpur,Sardarpura,Casual Dining,7am to 11pm(Mon-Sun),Average,3.2,6
+Samarth Eatery,150,North Indian,Jodhpur,Air Force Area,Quick Bites,10am to 11pm(Mon-Sun),Good,3.5,16
+Ashok Vatika Restaurant,100,North Indian,Jodhpur,Air Force Area,Quick Bites,10am to 11pm(Mon-Sun),Average,3.2,9
+Rasoi Tadka,350,North Indian,Jodhpur,Paota,Quick Bites,10am to 1030pm(Mon-Sun),Average,2.8,11
+Paratha House,200,North Indian,Jodhpur,Shastri Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,2.8,11
+Balaji makhan Dosa,100,South Indian,Jodhpur,Shastri Nagar,Quick Bites,830am to 1030pm(Mon-Sun),Average,3.3,9
+Bikaji Retail Outlet,400,"Fast Food,Desserts",Jodhpur,Sardarpura,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,11
+The Jeeman Restaurant,300,North Indian,Jodhpur,Sardarpura,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,20
+Foodie Box,400,"Fast Food,Beverages",Jodhpur,Sardarpura,none,12noon to 1030pm(Mon-Sun),Good,3.7,13
+Panjabi Tandoori Paratha,150,Fast Food,Jodhpur,Sardarpura,Quick Bites,5pm to 11pm(Mon-Sun),Average,3.4,14
+Shree Vatika Restaurant,200,North Indian,Jodhpur,Basni,Quick Bites,9am to 11pm(Mon-Sun),Average,3.2,6
+Ice Cream Works,300,"Desserts,Ice Cream",Jodhpur,Sardarpura,Dessert Parlor,10am to 12midnight(Mon-Sun),Average,3.4,12
+21 Love Garib Bakery,250,"Bakery,Sandwich,Burger",Jodhpur,Sardarpura,Bakery,11am to 11pm(Mon-Sun),Average,3.2,12
+Havmor Ice Cream,300,Desserts,Jodhpur,Sardarpura,Dessert Parlor,10am to 12midnight(Mon-Sun),Average,2.9,7
+The Fitoor Cafe,200,"North Indian,Fast Food",Jodhpur,Ratanada,Quick Bites,10am to 11pm(Mon-Sun),Average,3.4,12
+RS Tasty Bites,300,North Indian,Jodhpur,Basni,Quick Bites,10am to 11pm(Mon-Sun),Good,3.5,20
+Ark by The Mihir,400,"North Indian,Fast Food",Jodhpur,Bhagat Ki Kothi,Quick Bites,11am to 11pm(Mon-Sun),Average,2.7,9
+New Lucky Namkeen,100,Fast Food,Jodhpur,Sardarpura,none,11am to 11pm(Mon-Sun),Good,3.5,4
+Yash Juice,150,Juices,Jodhpur,Sardarpura,Beverage Shop,10am to 11pm(Mon-Sun),Average,3.2,7
+Barnella Express,500,"North Indian,Chinese,Fast Food",Jodhpur,Ratanada,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,6
+Area 51 Cafe & Lounge,600,Cafe,Jodhpur,Shastri Nagar,Café,11am to 11pm(Mon-Sun),Average,3.3,11
+Blue Coriander,1000,North Indian,Jodhpur,Sardarpura,Casual Dining,"7am to 1030am,7pm to 11pm,12noon to 3pm(Mon-Sun)",Good,3.5,11
+Ramji Food Plaza,200,"North Indian,South Indian,Chinese",Jodhpur,Paota,Quick Bites,10am to 11pm(Mon-Sun),Average,3.2,6
+Mumal Ras,500,North Indian,Jodhpur,Chopasni Housing Board,none,11am to 11pm(Mon-Sun),Average,3.2,8
+The Checkers,500,Finger Food,Jodhpur,Ratanada,Bar,11am to 11pm(Mon-Sun),Average,3.3,8
+Escape Cafe,550,Cafe,Jodhpur,Cantt Area,Café,1030am to 1030pm(Mon-Sun),Average,3.0,8
+The Green Chilli,300,"Beverages,Fast Food",Jodhpur,Shastri Nagar,Quick Bites,11am to 1130pm(Mon-Sun),Average,3.1,18
+KSD Shakes & Snacks,250,"Beverages,Fast Food",Jodhpur,Sardarpura,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,4
+Fresh Juice Bar,200,Juices,Jodhpur,Shastri Nagar,Beverage Shop,11am to 11pm(Mon-Sun),Average,2.9,4
+Paprika Cafe & Restaurant,600,"Fast Food,North Indian,Rajasthani,Desserts",Jodhpur,Cantt Area,Casual Dining,7am to 11pm(Mon-Sun),Average,3.2,5
+Jai Vilas Namkeen & Bakers,150,"Mithai,Desserts",Jodhpur,Chopasni Housing Board,Sweet Shop,11am to 11pm(Mon-Sun),Average,3.1,6
+Cafe Frespresso,350,Cafe,Jodhpur,Cantt Area,Café,11am to 11pm(Mon-Sun),Average,3.2,9
+Apni Rasoi,250,"North Indian,Fast Food",Jodhpur,Sardarpura,none,6pm to 1030pm(Mon-Sun),Average,3.1,4
+The Spice Route,500,"North Indian,Chinese",Jodhpur,Paota,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,8
+Arora's Restaurant,600,"North Indian,Chinese",Jodhpur,Pal Gaon,Casual Dining,9am to 11pm(Mon-Sun),Average,2.9,9
+Chandra Chaat Corner,100,Street Food,Jodhpur,Chopasni Housing Board,none,11am to 11pm(Mon-Sun),Average,3.0,4
+FOOD ADDA - Stoo C,200,"North Indian,Chinese",Jodhpur,Ratanada,Quick Bites,12noon to 1030pm(Mon-Sun),Average,3.1,6
+Shanu's Rolling Kitchen,200,Fast Food,Jodhpur,Basni,Quick Bites,430pm to 1130pm(Mon-Sun),Average,3.1,6
+Vyanjan - Hotel Raj,450,North Indian,Jodhpur,Chopasni Housing Board,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,6
+Bhavy Arora Restaurant,250,"North Indian,Rajasthani",Jodhpur,Sardarpura,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,6
+Jai Sai Bakers,200,"Bakery,Desserts",Jodhpur,Chopasni Housing Board,Bakery,11am to 11pm(Mon-Sun),Average,3.2,6
+Chef's Treat,600,"North Indian,South Indian,Chinese,Sandwich",Jodhpur,Ratanada,Casual Dining,12noon to 12midnight(Mon-Sun),Average,3.3,10
+Hotel Niky  International - Noon To Moon.,1200,"North Indian,Italian,Continental,Chinese",Jodhpur,Niky International Hotel-- Airforce Area,Casual Dining,3pm to 11pm(Mon-Sun),Average,3.3,8
+Hard Roar Cafe & Lounge,350,"Cafe,Pizza,Fast Food,Chinese,Beverages",Jodhpur,Sardarpura,Café,11am to 11pm(Mon-Sun),Average,3.3,11
+Garib Nawaz Dhaba,200,"North Indian,Mughlai",Jodhpur,Shastri Nagar,Dhaba,6pm to 11pm(Mon-Sun),Average,3.2,6
+Pearl Cafe,150,North Indian,Jodhpur,Pal Gaon,Quick Bites,10am to 11pm(Mon-Sun),Average,3.1,5
+Kalpadrum Multi Cuisine Family Restaurant,700,North Indian,Jodhpur,Shastri Nagar,Casual Dining,12noon to 11pm(Mon-Sun),Average,3.3,9
+Marvel Umed,400,"North Indian,Chinese,Sandwich,Beverages",Jodhpur,Paota,Casual Dining,11am to 11pm(Mon-Sun),Average,3.1,9
+Saddle & Bites,300,"North Indian,Fast Food",Jodhpur,Paota,Quick Bites,11am to 12midnight(Mon-Sun),Average,3.1,4
+Hotel City Palace,600,"North Indian,Chinese,Fast Food,Beverages,Italian,South Indian",Jodhpur,Kabir Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.1,8
+Nakoda Bhairav Restaurant,250,North Indian,Jodhpur,Sardarpura,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,5
+Shahi Modern Chicken Corner,250,Mughlai,Jodhpur,1st Pulia,Quick Bites,3pm to 11pm(Mon-Sun),Average,3.0,4
+Rajasthan Sweets,400,Mithai,Jodhpur,Mandore,Sweet Shop,10am to 11pm(Mon-Sun),Average,3.1,6
+Tandoor Restaurant,400,North Indian,Jodhpur,Air Force Area,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,9
+Hotel Shivam Restaurant,400,"North Indian,Chinese",Jodhpur,Paota,Quick Bites,11am to 1030pm(Mon-Sun),Average,3.1,4
+Hot N Cool,150,Beverages,Jodhpur,Paota,Beverage Shop,11am to 11pm(Mon-Sun),Average,3.2,7
+Shef Mickey Food Court,250,"Street Food,North Indian",Jodhpur,Shastri Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,7
+A Solomon Lok,400,"North Indian,Chinese",Jodhpur,Air Force Area,Casual Dining,12noon to 11pm(Mon-Sun),Average,3.4,7
+MoXa Restaurant,700,"North Indian,Chinese,Mexican,Italian,Beverages",Jodhpur,Ratanada,Casual Dining,"730am to 1030am,730pm to 1030pm,1230pm to ...",Average,3.3,5
+The Laughing B,1100,"Thai,Asian,Chinese",Jodhpur,Cantt Area,Bar,1230pm to 12midnight(Mon-Sun),Very Good,4.2,175
+Rawat Misthan Bhandar,100,"Mithai,Street Food",Jodhpur,Paota,Sweet Shop,6am to 11pm(Mon-Sun),Very Good,4.0,107
+Bake & Bite,500,"Bakery,Desserts,Fast Food",Jodhpur,Sardarpura,Bakery,11am to 11pm(Mon-Sun),Good,3.9,68
+Usman Chicken Corner,350,North Indian,Jodhpur,Station Road,none,11am to 11pm(Mon-Sun),Good,3.7,52
+Goru Sweet Home,200,"Desserts,Mithai",Jodhpur,Sardarpura,Sweet Shop,11am to 11pm(Mon-Sun),Very Good,4.0,85
+Sparrow's Pizzeria,600,Italian,Jodhpur,Cantt Area,Casual Dining,12noon to 11pm(Mon-Sun),Very Good,4.2,78
+Mauryan,500,"North Indian,Rajasthani",Jodhpur,Sardarpura,Casual Dining,11am to 11pm(Mon-Sun),Good,3.9,94
+Purple Saffron,500,"North Indian,Continental",Jodhpur,Ratanada,Casual Dining,"1pm to 1130pm(Mon,Wed,Thu,Fri,Sat,Sun)...",Very Good,4.1,166
+Sufi Darbaan,550,"North Indian,Mughlai,Chinese",Jodhpur,Chopasni Housing Board,Quick Bites,"1pm to 11pm(Mon,Tue,Wed,Thu,Sat,Sun),1pm to ...",Very Good,4.0,73
+Mishri Lal Mishtan Bhandar,300,"Mithai,Street Food",Jodhpur,Kabir Nagar,Sweet Shop,9am to 1030pm(Mon-Sun),Good,3.9,81
+Six Sense,600,North Indian,Jodhpur,Sardarpura,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.2,159
+Shri Ram Excellency - The Recipe,700,"North Indian,South Indian,Mexican,Chinese,Pizza,Fast Food,Sandwich,Beverages",Jodhpur,Sardarpura,Casual Dining,7am to 11pm(Mon-Sun),Good,3.7,85
+The Chicks And Kabs,450,"North Indian,Kebab,Fast Food",Jodhpur,Shastri Nagar,Quick Bites,"15pm to 11pm(Mon),6pm to 1030pm(Tue),1pm to ...",Good,3.9,91
+Thali@9,300,"North Indian,Chinese",Jodhpur,Sardarpura,none,11am to 11pm(Mon-Sun),Good,3.9,85
+The Moji's Cafe,500,"Indian,Chinese,Burger,Sandwich,Pizza,Beverages",Jodhpur,Sardarpura,Casual Dining,11am to 11pm(Mon-Sun),Good,3.8,34
+Shivam Restaurant,500,"Cafe,North Indian,Chinese,Beverages",Jodhpur,Kabir Nagar,Café,7am to 1130pm(Mon-Sun),Average,2.8,4
+Friends Fast Food,150,"Chinese,Fast Food",Jodhpur,Sardarpura,Quick Bites,11am to 11pm(Mon-Sun),Average,2.8,5
+Nishika Restaurant & Fast Food,250,"Chinese,North Indian",Jodhpur,Basni,Quick Bites,11am to 11pm(Mon-Sun),Average,2.9,4
+Hotel Shri Nakshatra Excellency,600,"North Indian,Chinese,South Indian",Jodhpur,Bhagat Ki Kothi,Casual Dining,10am to 11pm(Mon-Sun),Average,3.0,4
+Rhythm,500,"Fast Food,North Indian",Jodhpur,Air Force Area,Casual Dining,7am to 11pm(Mon-Sun),Average,2.9,7
+Bawa Foods Takeaway,250,Fast Food,Jodhpur,Shastri Nagar,Quick Bites,6pm to 11pm(Mon-Sun),Average,3.2,5
+Kings Spoon,400,Fast Food,Jodhpur,Sardarpura,Quick Bites,11am to 11pm(Mon-Sun),Average,2.9,6
+The Palash,250,"North Indian,Fast Food",Jodhpur,Air Force Area,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,6
+New Sigdi Restaurant,350,"North Indian,Fast Food",Jodhpur,Shastri Nagar,Quick Bites,12noon to 12midnight(Mon-Sun),Average,2.7,6
+Turban Tadka,250,"North Indian,Fast Food",Jodhpur,Shastri Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,4
+Royal Tadka,400,"Chinese,Fast Food,Sandwich,North Indian",Jodhpur,Mandore,Casual Dining,8am to 1045pm(Mon-Sun),Average,2.8,4
+Tandoori Nights,0,,Jodhpur,Cantt Area,Casual Dining,7pm to 12midnight(Mon-Sun),Average,3.0,4
+Naveen Juice And General Store,400,"Beverages,Fast Food",Jodhpur,Shastri Nagar,Quick Bites,10am to 11pm(Mon-Sun),Good,3.8,115
+Kailash Bhojanalya,150,North Indian,Jodhpur,Sardarpura,Quick Bites,12noon to 1130am(Mon-Sun),Good,3.8,50
+Food Junction,100,"Fast Food,South Indian,Chinese,North Indian,Pizza",Jodhpur,Sardarpura,Quick Bites,10am to 1030pm(Mon-Sun),Good,3.9,88
+Subway,500,"Healthy Food,Salad,Sandwich",Jodhpur,Cantt Area,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,105
+Wah Ji Wah,400,North Indian,Jodhpur,Sardarpura,Quick Bites,1130am to 1130pm(Mon-Sun),Very Good,4.0,79
+Kalpvriksha,700,"North Indian,Chinese,Pizza,Beverages,Mexican",Jodhpur,Paota,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.1,123
+Al Nabi Tasty House,400,"North Indian,Mughlai,Chinese,Fast Food",Jodhpur,Chopasni Housing Board,Quick Bites,3pm to 11pm(Mon-Sun),Good,3.9,79
+Arabica Cafe Club,500,Cafe,Jodhpur,Basni,Café,9am to 11pm(Mon-Sun),Good,3.9,77
+Chandra Vilas Namkeen,200,Street Food,Jodhpur,Paota,Quick Bites,"9am to 930pm(Mon),9am to 10pm(Tue-Sun)",Very Good,4.1,151
+Pizza Da Dhaba,200,Pizza,Jodhpur,Sardarpura,Quick Bites,11am to 1130pm(Mon-Sun),Good,3.8,79
+Crossroads,600,"North Indian,Thai,Chinese",Jodhpur,Air Force Area,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.1,64
+Laziz Pizza,400,"Fast Food,Pizza",Jodhpur,Sardarpura,Quick Bites,1145am to 1045am(Mon-Sun),Very Good,4.1,82
+Al-Haq Laziz,400,"Mughlai,North Indian",Jodhpur,Kabir Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,72
+Shri Multan Ji Sweets And Restaurant,300,"Fast Food,Mithai,North Indian",Jodhpur,Paota,Sweet Shop,10am to 1130pm(Mon-Sun),Average,2.9,68
+Bricks Restaurant,250,North Indian,Jodhpur,Maderana Colony,Quick Bites,1130am to 11pm(Mon-Sun),Good,3.7,18
+Sankalp,500,South Indian,Jodhpur,Sardarpura,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.0,102
+Bakeology,200,Bakery,Jodhpur,Ratanada,Bakery,930am to 930pm(Mon-Sun),Good,3.6,80
+Choudhary Mishtan Bhandar,300,Mithai,Jodhpur,Sardarpura,Sweet Shop,7am to 10pm(Mon-Sun),Good,3.9,78
+Fun N Food Dinning,900,"North Indian,South Indian",Jodhpur,Sardarpura,Casual Dining,11am to 11pm(Mon-Sun),Good,3.8,53
+Mulla Ji Ka Dhaba,300,"North Indian,Mughlai",Jodhpur,Station Road,Quick Bites,10am to 11pm(Mon-Sun),Very Good,4.0,75
+Shahi Samosa,100,Fast Food,Jodhpur,Kabir Nagar,Quick Bites,8am to 8pm(Mon-Sun),Very Good,4.0,86
+Parihaar Bhojnalay,300,North Indian,Jodhpur,Sardarpura,Quick Bites,9am to 11pm(Mon-Sun),Good,3.7,72
+Barnella Fine Dinning Restaurant,800,"North Indian,Salad",Jodhpur,Ratanada,Casual Dining,1030am to 1030pm(Mon-Sun),Very Good,4.1,73
+Raj Arora Juice & Fast Food,200,"Fast Food,Juices",Jodhpur,Chopasni Housing Board,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,58
+Rawat Misthan Bhandar,100,"North Indian,Desserts,Street Food,Bakery",Jodhpur,Shastri Nagar,Sweet Shop,11am to 11pm(Mon-Sun),Good,3.5,37
+Dipti Fast Food,200,"Fast Food,Burger,Sandwich,Pizza",Jodhpur,Sardarpura,Quick Bites,9am to 11pm(Mon-Sun),Average,3.0,35
+Chandra Shahi Samosa,100,Fast Food,Jodhpur,Cantt Area,Quick Bites,830am to 830pm(Mon-Sun),Very Good,4.0,46
+Al Kaif,400,"Mughlai,Chinese,North Indian",Jodhpur,Sardarpura,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,59
+Skyzz,700,"Chinese,Fast Food,North Indian,Italian,Mexican",Jodhpur,Cantt Area,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,77
+Evening Point,100,Fast Food,Jodhpur,Sardarpura,Quick Bites,4pm to 10pm(Mon-Sun),Good,3.8,48
+The Secret Recipe,500,"North Indian,Italian,Chinese,South Indian,Rajasthani",Jodhpur,Sardarpura,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,52
+Fredy Foods,400,"Pizza,Chinese,Ice Cream",Jodhpur,Chopasni Housing Board,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.0,44
+Arora Namkeen,100,Mithai,Jodhpur,Paota,none,9am to 730pm(Mon-Sun),Good,3.5,11
+Chandu Restaurant,250,North Indian,Jodhpur,Chopasni Housing Board,none,10am to 11pm(Mon-Sun),Good,3.9,45
+Mughal Darbar Chinese Chicken Corner,400,Mughlai,Jodhpur,Kabir Nagar,Quick Bites,1pm to 1am(Mon-Sun),Good,3.8,59
+Swagat Ice Cream Parlour and Juice Corner,200,"Desserts,Juices",Jodhpur,Ratanada,Dessert Parlor,945am to 1015pm(Mon-Sun),Average,3.4,22
+Kikis Cafe,500,"Burger,Sandwich,Pizza,Rolls,Chinese,Fast Food",Jodhpur,Paota,Quick Bites,"230pm to 10pm(Mon,Tue,Wed,Fri,Sat,Sun)...",Good,3.7,35
+Kothari juice & Ice Cream,200,"Juices,Ice Cream",Jodhpur,Paota,Beverage Shop,11am to 11pm(Mon-Sun),Good,3.6,44
+Dabbawala Thali House,400,North Indian,Jodhpur,Basni,Quick Bites,11am to 10pm(Mon-Sun),Good,3.7,23
+Goli,150,Street Food,Jodhpur,Sardarpura,Quick Bites,10am to 10pm(Mon-Sun),Good,3.7,35
+Jaljog Khatri Namkeen,100,Street Food,Jodhpur,Shastri Nagar,Quick Bites,7am to 9pm(Mon-Sun),Good,3.8,24
+21st Fast Food,100,Fast Food,Jodhpur,Shastri Nagar,Quick Bites,10am to 6pm(Mon-Sun),Good,3.7,25
+Jodhpur Dabbawala,400,North Indian,Jodhpur,Paota,none,6am to 10pm(Mon-Sun),Good,3.5,26
+Shyama Sweets,300,Mithai,Jodhpur,Shastri Nagar,Sweet Shop,10am to 10pm(Mon-Sun),Average,3.4,13
+JN - Jodhpur Sweets and Namkeen,100,"Desserts,Mithai",Jodhpur,Ratanada,Sweet Shop,8am to 9pm(Mon-Sun),Average,3.4,17
+Dosa Plaza,400,South Indian,Jodhpur,Chopasni Housing Board,Quick Bites,12noon to 10pm(Mon-Sun),Average,3.2,23
+Rinku's Fast Food,150,Fast Food,Jodhpur,Air Force Area,Quick Bites,10am to 10pm(Mon-Sun),Good,3.7,41
+Food Adda - Fine Dining,500,North Indian,Jodhpur,Ratanada,Casual Dining,10am to 10pm(Mon-Sun),Good,3.7,41
+Arora Chat & Fast Food,100,"Fast Food,Pizza",Jodhpur,Sardarpura,Quick Bites,530pm to 930pm(Mon-Sun),Good,3.7,36
+New Arora Sweets and Namkeen,200,Mithai,Jodhpur,Pal Gaon,Sweet Shop,7am to 10pm(Mon-Sun),Good,3.5,20
+Bombay A1 Sandwich,100,"Sandwich,Burger",Jodhpur,Pal Gaon,Quick Bites,12noon to 10pm(Mon-Sun),Good,3.7,23
+Haveli Cafe & Lounge,300,Cafe,Jodhpur,Ratanada,Café,10am to 10pm(Mon-Sun),Average,3.3,14
+Ice Cream Works,300,Desserts,Jodhpur,Cantt Area,Dessert Parlor,(Mon-Sun),Average,3.2,15
+Jail Khana,600,Cafe,Jodhpur,Sardarpura,Café,10am to 10pm(Mon-Sun),Good,3.6,34
+Jodhpuri Tadka Restaurant,500,North Indian,Jodhpur,Sardarpura,Casual Dining,11am to 10pm(Mon-Sun),Average,3.3,26
+The Beard Bistro,150,Indian,Jodhpur,Sardarpura,Quick Bites,10am to 10pm(Mon-Sun),Average,3.3,10
+Pizza Break,150,"Fast Food,Beverages",Jodhpur,Bhagat Ki Kothi,Food Court,10am to 10pm(Mon-Sun),Good,3.6,20
+MD Vada Pav,40,Fast Food,Jodhpur,Sardarpura,Quick Bites,11am to 10pm(Mon-Sun),Good,3.5,14
+Masala Kitchen,650,"North Indian,Chinese,Fast Food,Continental",Jodhpur,Paota,Casual Dining,24,Good,3.6,85
+Bakeology,200,"Bakery,Desserts",Jodhpur,Air Force Area,Bakery,9am to 10pm(Mon-Sun),Average,3.2,14
+The Top Roast,600,"Cafe,North Indian,Chinese,Burger,Sandwich,Beverages",Jodhpur,Sardarpura,Casual Dining,11am to 11pm(Mon-Sun),Good,3.8,66
+RDZ 1983,400,Bakery,Jodhpur,Sardarpura,Confectionery,11am to 11pm(Mon-Sun),Good,3.5,19
+Rameshweri Paan and Cold Drinks,100,Paan,Jodhpur,Chopasni Housing Board,Paan Shop,(Mon-Sun),Average,3.4,11
+Top 12 Food Point,300,Fast Food,Jodhpur,Sardarpura,Quick Bites,11am to 10pm(Mon-Sun),Average,3.4,15
+MK Ice & Fast Food,100,North Indian,Jodhpur,Sardarpura,Quick Bites,7am to 8pm(Mon-Sun),Average,3.1,10
+The Jeeman Restaurant,150,North Indian,Jodhpur,Ratanada,Quick Bites,"10am to 4pm,6pm to 10pm(Mon-Sun)",Good,3.5,21
+Call 4 Biryani,400,"Biryani,Roast Chicken,North Indian",Jodhpur,Basni,none,"11am to 10pm(Mon,Wed,Thu,Fri,Sat,Sun),Closed...",Good,3.6,14
+Khushi Fast Food,100,"Fast Food,Chinese",Jodhpur,Sardarpura,Quick Bites,10am to 10pm(Mon-Sun),Average,3.4,14
+Kathri Shahi Namkeen,100,Street Food,Jodhpur,Bhagat Ki Kothi,Quick Bites,7am to 10pm(Mon-Sun),Average,3.2,9
+Cafe Coffee Break,400,Beverages,Jodhpur,Cantt Area,Beverage Shop,8am to 10pm(Mon-Sun),Average,3.4,13
+Shree Arihant Bakers,300,"Desserts,Beverages",Jodhpur,Paota,Bakery,10am to 10pm(Mon-Sun),Average,3.0,4
+Blue Ridge Cafe & Fast Food,300,Fast Food,Jodhpur,Paota,Quick Bites,11am to 930pm(Mon-Sun),Average,2.7,5
+Pirates The Du Matin,200,"North Indian,Continental,Chinese",Jodhpur,Shastri Nagar,Quick Bites,10am to 10pm(Mon-Sun),Good,3.5,16
+Krishna Arora Shahi Namkeen,100,"Street Food,Mithai",Jodhpur,Paota,Quick Bites,10am to 10pm(Mon-Sun),Average,2.9,4
+Hungry Fast Food & Restaurant,250,"Fast Food,North Indian",Jodhpur,Chopasni Housing Board,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,42
+Vaishnav Fast Food,100,Fast Food,Jodhpur,Shastri Nagar,none,11am to 10pm(Mon-Sun),Average,3.1,6
+K.B. Restaurant,400,North Indian,Jodhpur,Sardarpura,Casual Dining,11am to 10pm(Mon-Sun),Average,3.2,7
+MANU'S KITCHEN,200,"North Indian,Rajasthani",Jodhpur,Paota,Quick Bites,10am to 8pm(Mon-Sun),Average,3.2,7

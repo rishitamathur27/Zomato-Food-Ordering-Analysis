@@ -1,0 +1,243 @@
+Name,Price,Cuisine_Category,City,Region,Cuisine_Type,Timing,Rating_Types,Rating,Votes
+Domino's Pizza,700,"Pizza,Fast Food",Allahabad,Civil Lines,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,518
+Pizza Hut,700,"Italian,Pizza",Allahabad,Civil Lines,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.0,567
+Well Bean Cafe,500,Cafe,Allahabad,Civil Lines,Café,11am to 11pm(Mon-Sun),Very Good,4.4,286
+Old School Cafe,1000,"Cafe,North Indian,Continental,Chinese,Indian,Thai,Burger",Allahabad,Civil Lines,Café,11am to 11pm(Mon-Sun),Very Good,4.4,360
+KFC,600,"Burger,Fast Food",Allahabad,Civil Lines,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.2,432
+Nainital Momos,400,"Momos,Beverages",Allahabad,Civil Lines,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.0,123
+Mr. Dewsis,600,"North Indian,Chinese",Allahabad,Civil Lines,Casual Dining,8am to 11pm(Mon-Sun),Very Good,4.2,486
+Bikanerwala,500,"North Indian,Street Food,Fast Food",Allahabad,Civil Lines,Casual Dining,8am to 11pm(Mon-Sun),Sangat Baik,4.2,226
+EDEN by Connoisseur,1000,"North Indian,Chinese,Continental",Allahabad,Civil Lines,Casual Dining,12noon to 11pm(Mon-Sun),Excellent,4.5,97
+Aryan Family's Delight,500,"North Indian,South Indian,Fast Food",Allahabad,Civil Lines,Casual Dining,11am to 12midnight(Mon-Sun),Very Good,4.3,299
+7th Heaven,200,"Bakery,Italian,Continental,Desserts",Allahabad,Civil Lines,Dessert Parlor,11am to 11pm(Mon-Sun),Very Good,4.0,79
+Pind Balluchi,1000,"North Indian,Mughlai",Allahabad,Civil Lines,Casual Dining,12noon to 11pm(Mon-Sun),Very Good,4.3,305
+Haldiram Bhujiawala,700,"North Indian,Fast Food,Street Food,South Indian,Chinese",Allahabad,Civil Lines,Casual Dining,8am to 11pm(Mon-Sun),Very Good,4.1,317
+Makkhan's,1000,North Indian,Allahabad,Civil Lines,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.1,83
+Cafe BigBoxx,600,"Indian,Continental",Allahabad,Civil Lines,Casual Dining,"11am to 11pm(Mon,Tue,Wed,Thu,Sun),5pm to ...",Very Good,4.2,123
+Bukhara Point,300,Mughlai,Allahabad,Civil Lines,Quick Bites,"1pm to 10pm(Mon,Wed,Thu,Fri,Sat,Sun),Closed...",Good,3.5,20
+The Baking Room,400,Cafe,Allahabad,Allapur,Café,10am to 10pm(Mon-Sun),Average,2.7,13
+Chandra Sweets,300,"North Indian,South Indian,Mithai,Indian",Allahabad,Tagore Town,Quick Bites,8am to 1030pm(Mon-Sun),Average,3.3,5
+Om Shanti Sweets,400,"Mithai,Fast Food",Allahabad,Tagore Town,Quick Bites,9am to 10pm(Mon-Sun),Good,3.5,15
+R P Restaurant,300,"Chinese,Indian",Allahabad,Teliarganj,Quick Bites,11am to 1030pm(Mon-Sun),Average,3.4,9
+Fast & Foodious,300,Fast Food,Allahabad,Tagore Town,Quick Bites,12noon to 10pm(Mon-Sun),Average,3.3,14
+Alok & Brother's Restro,300,"North Indian,South Indian",Allahabad,Naini,Quick Bites,11am to 10pm(Mon-Sun),Average,3.2,12
+Lucky Sweet House,250,Mithai,Allahabad,Naini,Sweet Shop,11am to 10pm(Mon-Sun),Average,3.2,7
+Banarasi Misthan Bhandar,500,Mithai,Allahabad,Civil Lines,Sweet Shop,12noon to 10pm(Mon-Sun),Average,3.1,7
+Mirchi The Taste of India,600,Chinese,Allahabad,Dhoomanganj,Quick Bites,11am to 10pm(Mon-Sun),Average,3.0,12
+Green Bean Cafe & Restaurant,200,South Indian,Allahabad,George Town,Quick Bites,11am to 10pm(Mon-Sun),Average,3.1,12
+D.Hashtag,500,"Chinese,Pizza",Allahabad,Naini,Café,11am to 10pm(Mon-Sun),Average,3.3,9
+Maharaja Restaurant,300,North Indian,Allahabad,Katra,Quick Bites,"11am to 1030pm(Mon,Wed,Thu,Fri,Sat,Sun)...",Average,3.3,9
+Glassy Junction - Hotel Milan Palace,1000,North Indian,Allahabad,Civil Lines,Bar,"12noon to 10pm(Mon,Tue,Wed,Fri,Sat,Sun)...",Average,3.2,14
+The Hide Out,500,"Cafe,North Indian",Allahabad,Naini,Café,11am to 1030pm(Mon-Sun),Average,3.3,19
+S Cafe,500,North Indian,Allahabad,Teliarganj,Quick Bites,8am to 10pm(Mon-Sun),Average,3.1,7
+Dastarkhwan,400,Cafe,Allahabad,Tagore Town,Café,12noon to 10pm(Mon-Sun),Average,3.4,19
+Aahar  Restaurant,400,"North Indian,Chinese",Allahabad,Civil Lines,Casual Dining,10am to 1030pm(Mon-Sun),Average,2.7,16
+Allahabad Kabab Paratha,600,Mughlai,Allahabad,Kareli,Casual Dining,5pm to 11pm(Mon-Sun),Very Good,4.0,49
+Blackout Juice Corner,150,"Juices,Beverages",Allahabad,Teliarganj,Beverage Shop,4pm to 10pm(Mon-Sun),Average,2.8,8
+Golgappe Wala,100,Street Food,Allahabad,Civil Lines,Quick Bites,3pm to 10pm(Mon-Sun),Average,3.3,6
+Best Bakery,150,Bakery,Allahabad,Lukerganj,Bakery,8am to 10pm(Mon-Sun),Average,3.4,9
+M.F Chicken Point,200,"Biryani,North Indian",Allahabad,Meergunj,Quick Bites,10am to 10pm(Mon-Sun),Average,3.2,12
+Satya Priya,200,Desserts,Allahabad,Civil Lines,Sweet Shop,11am to 10pm(Mon-Sun),Average,3.3,5
+Hunger Delight,200,"North Indian,Chinese",Allahabad,Katra,none,11am to 9pm(Mon-Sun),Average,3.0,11
+Zayka,500,"Biryani,Chinese,Mughlai,North Indian",Allahabad,Dhoomanganj,Dhaba,11am to 10pm(Mon-Sun),Average,3.3,13
+Anshika Sweets,200,"Mithai,Desserts",Allahabad,Dhoomanganj,Sweet Shop,11am to 9pm(Mon-Sun),Average,3.2,6
+Shree  Ganesh Sweets,200,Mithai,Allahabad,Dhoomanganj,Sweet Shop,9am to 10pm(Mon-Sun),Average,3.2,5
+Mini Meals On Wheels,300,Indian,Allahabad,Civil Lines,Quick Bites,11am to 10pm(Mon-Sun),Average,3.4,7
+Aryan Restaurant & Coffee House,350,"North Indian,South Indian,Chinese",Allahabad,Naini,Casual Dining,10am to 10pm(Mon-Sun),Average,3.1,8
+Delight Cakes,400,"Desserts,Bakery",Allahabad,Bamrouli,Dessert Parlor,11am to 8pm(Mon-Sun),Average,3.3,6
+Kwality Restaurant,700,"North Indian,Chinese,Continental",Allahabad,Civil Lines,Casual Dining,930am to 1030pm(Mon-Sun),Average,3.1,4
+Buddy's,250,North Indian,Allahabad,Naini,Quick Bites,11am to 10pm(Mon-Sun),Average,2.9,4
+Gourmet Family Restaurant,300,"North Indian,Chinese",Allahabad,Dhoomanganj,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,25
+Jade Garden,800,"North Indian,Chinese,Fast Food",Allahabad,Civil Lines,Casual Dining,"11am to 3pm,7pm to 11pm(Mon-Sun)",Very Good,4.0,81
+Aroma,500,"Mughlai,North Indian",Allahabad,Civil Lines,Quick Bites,"11am to 11pm(Mon,Wed,Thu,Fri,Sat,Sun),Closed...",Good,3.8,60
+Al-Baik,300,Fast Food,Allahabad,Civil Lines,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,34
+Fire at Night,700,Finger Food,Allahabad,Civil Lines,Lounge,9am to 11pm(Mon-Sun),Good,3.9,64
+HungersHunt,500,"Sandwich,Burger,Rolls,North Indian",Allahabad,Tagore Town,Casual Dining,10am to 11pm(Mon-Sun),Average,3.1,30
+Cafe Ballon D'OR,500,"Cafe,Fast Food",Allahabad,Naini,Café,10am to 11pm(Mon-Sun),Good,3.8,58
+Nawab Ki Rasoi,250,North Indian,Allahabad,Civil Lines,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,25
+Handi,300,North Indian,Allahabad,George Town,Quick Bites,4pm to 11pm(Mon-Sun),Good,3.6,52
+The 7 Shots,350,"South Indian,Chinese",Allahabad,Civil Lines,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,35
+Muktanandam Moti Mahal Delux,750,"North Indian,Mughlai",Allahabad,Civil Lines,Casual Dining,11am to 1130pm(Mon-Sun),Good,3.9,40
+Vilayat Cafe Lounge & Restro,850,North Indian,Allahabad,Katra,Casual Dining,"12noon to 11pm(Mon,Wed,Thu,Fri,Sat,Sun)...",Average,2.9,59
+Jaiswal Dosa Corner,150,South Indian,Allahabad,George Town,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.8,46
+Malt,500,Cafe,Allahabad,Civil Lines,Café,1130am to 11pm(Mon-Sun),Very Good,4.0,53
+Grill Inn,400,"Burger,Italian,Beverages",Allahabad,Naini,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,21
+Temptation's,400,"South Indian,North Indian,Chinese,Fast Food",Allahabad,Katra,Casual Dining,10am to 11pm(Mon-Sun),Good,3.5,45
+Gunjan Dhaba,250,"North Indian,Chinese",Allahabad,Naini,Dhaba,12noon to 1230AM(Mon-Sun),Good,3.8,35
+Skylight Coffee Cafe,800,"Coffee,Italian",Allahabad,Civil Lines,Café,9am to 11pm(Mon-Sun),Good,3.7,18
+BonFire X Restro,600,"Mughlai,Chinese,Italian",Allahabad,Kareli,Casual Dining,1130am to 1130pm(Mon-Sun),Good,3.7,29
+Rozana,300,"Chinese,North Indian,Rolls",Allahabad,Civil Lines,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.8,44
+Lazizo Restaurant & Cafe,300,"Street Food,North Indian,Fast Food",Allahabad,Colonel Ganj,Quick Bites,9am to 11pm(Mon-Sun),Average,3.1,28
+Hyderabadi Biryani,400,"North Indian,Mughlai,Biryani",Allahabad,Civil Lines,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,36
+Softy Corner,150,"Ice Cream,Desserts",Allahabad,Civil Lines,Dessert Parlor,11am to 11pm(Mon-Sun),Good,3.7,30
+Taste in Kasba,500,"North Indian,South Indian,Fast Food",Allahabad,Civil Lines,Casual Dining,11am to 11pm(Mon-Sun),Average,2.6,48
+Combo King,450,"Indian,Chinese,Fast Food,North Indian",Allahabad,Civil Lines,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,28
+Cravings Food Corner,250,Fast Food,Allahabad,Civil Lines,Quick Bites,1130am to 11pm(Mon-Sun),Good,3.7,21
+Shalimar Restaurant,450,North Indian,Allahabad,Leader Road,Casual Dining,10am to 11pm(Mon-Sun),Good,3.6,14
+Zafar Ki Rasoi,300,"North Indian,Mughlai",Allahabad,Katra,Dhaba,5pm to 11pm(Mon-Sun),Average,2.6,24
+The Baker's Table,300,"Desserts,Bakery",Allahabad,George Town,Dessert Parlor,10am to 11pm(Mon-Sun),Good,3.5,8
+Kohinoor Restaurant,800,"North Indian,Chinese",Allahabad,Civil Lines,Casual Dining,11am to 11pm(Mon-Sun),Good,3.7,27
+Baskin Robbins,300,Ice Cream,Allahabad,Civil Lines,Dessert Parlor,1130am to 1130pm(Mon-Sun),Good,3.7,31
+Rockk Onn Dine & Lounge,500,"North Indian,Chinese",Allahabad,Rajrooppur,Café,11am to 11pm(Mon-Sun),Average,3.0,15
+Charcoal,350,"North Indian,Sandwich,Burger,Beverages",Allahabad,Katra,Quick Bites,11am to 1130pm(Mon-Sun),Average,3.3,11
+Pocket Meals,200,"North Indian,Chinese",Allahabad,Civil Lines,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,13
+Zaika Restaurant,800,North Indian,Allahabad,Civil Lines,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,7
+Aagman Restaurant,400,North Indian,Allahabad,Katra,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,22
+Chicken Khurana,200,North Indian,Allahabad,Civil Lines,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.0,8
+The Frozen Kitchen,250,"North Indian,Chinese",Allahabad,Civil Lines,Quick Bites,"11am to 11pm(Mon,Wed,Thu,Fri,Sat,Sun),Closed...",Average,3.4,16
+Kalika Restaurant,400,North Indian,Allahabad,Civil Lines,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,26
+Kazuza Ind.,500,"North Indian,Chinese",Allahabad,Naini,Casual Dining,11am to 11pm(Mon-Sun),Average,2.6,22
+Day Night Restaurant,150,"Biryani,Mughlai",Allahabad,Kareli,Quick Bites,"11am to 11pm(Mon,Wed,Thu,Fri,Sat,Sun),Closed...",Good,3.5,23
+Bebo's Kitchen,400,"North Indian,South Indian,Chinese,Continental",Allahabad,Rajrooppur,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,34
+The Kitchen,250,"Fast Food,North Indian,Chinese",Allahabad,Tagore Town,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.3,7
+The Oval - Hotel Milan Palace,1000,"North Indian,Mughlai",Allahabad,Civil Lines,Casual Dining,"9am to 11pm(Mon,Tue,Wed,Fri,Sat,Sun),9am to ...",Good,3.5,21
+New Kwality Ice Cream Parlour,400,"Ice Cream,Desserts",Allahabad,Civil Lines,Dessert Parlor,11am to 11pm(Mon-Sun),Good,3.8,23
+Naturelo,200,Ice Cream,Allahabad,Civil Lines,Dessert Parlor,1145am to 1115pm(Mon-Sun),Good,3.5,15
+Al Fresco,700,"North Indian,Chinese",Allahabad,Rajrooppur,Café,11am to 11pm(Mon-Sun),Average,3.4,10
+The Mughlai Hut,400,"Mughlai,North Indian",Allahabad,Civil Lines,Quick Bites,2pm to 11pm(Mon-Sun),Good,3.5,21
+Millennium Restaurant,300,"North Indian,Fast Food",Allahabad,Teliarganj,Quick Bites,10am to 11pm(Mon-Sun),Average,2.7,17
+Food Of Heaven,300,North Indian,Allahabad,Dhoomanganj,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,13
+King Classic Restaurant,600,"North Indian,Continental,Chinese,Fast Food,Rolls",Allahabad,Civil Lines,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,21
+BrewBakes,500,Cafe,Allahabad,Civil Lines,Café,11am to 11pm(Mon-Sun),Good,3.8,91
+Chicago Pizza,400,"Pizza,Beverages",Allahabad,Civil Lines,Quick Bites,1030am to 11pm(Mon-Sun),Very Good,4.1,334
+Shree Kanha Sweets & Restaurant,500,"Mithai,North Indian,Street Food",Allahabad,George Town,Quick Bites,1030am to 11pm(Mon-Sun),Very Good,4.2,75
+Black Out Restaurant,500,North Indian,Allahabad,Katra,Casual Dining,1pm to 11pm(Mon-Sun),Very Good,4.0,138
+Eat On,200,North Indian,Allahabad,Civil Lines,Quick Bites,"12noon to 10pm(Mon,Wed,Thu,Fri,Sat,Sun)...",Excellent,4.9,2221
+Raju Kitchen Restaurant,400,"North Indian,Chinese",Allahabad,Civil Lines,Casual Dining,11am to 11pm(Mon-Sun),Good,3.9,163
+Subway,500,"Healthy Food,Salad,Fast Food",Allahabad,Civil Lines,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.0,179
+Kamdhenu,400,Mithai,Allahabad,Civil Lines,Sweet Shop,8am to 11pm(Mon-Sun),Very Good,4.2,149
+Chhappan Bhog,600,"North Indian,South Indian,Chinese",Allahabad,Katra,Casual Dining,7am to 11pm(Mon-Sun),Good,3.6,118
+Hotel Ravisha Continental,600,"North Indian,South Indian,Chinese",Allahabad,Civil Lines,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.0,70
+Hot n Cool,450,"Desserts,Fast Food,Ice Cream",Allahabad,Colonel Ganj,Dessert Parlor,"1130am to 10pm(Mon,Wed,Thu,Fri,Sat,Sun)...",Very Good,4.3,242
+El Chico Restaurant,800,"Continental,North Indian,Chinese",Allahabad,Civil Lines,Casual Dining,9am to 10pm(Mon-Sun),Very Good,4.3,507
+Baba Biryani,500,"Biryani,Mughlai",Allahabad,Civil Lines,Casual Dining,1230pm to 11pm(Mon-Sun),Average,2.6,161
+Celebrations,600,"North Indian,Chinese,Continental",Allahabad,Civil Lines,Casual Dining,1030am to 11pm(Mon-Sun),Good,3.8,149
+Paradise,500,"Desserts,Fast Food",Allahabad,Civil Lines,Dessert Parlor,930am to 10pm(Mon-Sun),Very Good,4.4,208
+Khana Khazana Restaurant -Hotel Grand Continental,1250,North Indian,Allahabad,Civil Lines,Fine Dining,"11am to 3pm,7pm to 11pm(Mon-Sun)",Average,3.2,20
+Tamboora,600,"North Indian,Chinese",Allahabad,Civil Lines,Casual Dining,10am to 11pm(Mon-Sun),Average,3.1,23
+Art Of Spices,600,"North Indian,South Indian,Chinese,Continental",Allahabad,Civil Lines,Quick Bites,6am to 530am(Mon-Sun),Average,3.1,6
+Mughlai Food,200,Mughlai,Allahabad,Katra,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.2,9
+Gyan Vaishno Bhojanalaya,500,North Indian,Allahabad,Leader Road,Casual Dining,8am to 1am(Mon-Sun),Average,2.8,17
+AL- Broust's De- Fountain Restaurant,500,"Chinese,North Indian,Rolls",Allahabad,Civil Lines,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,12
+Wafl Cafe,400,"Desserts,Bakery,Beverages,Fast Food,Continental",Allahabad,Civil Lines,Café,11am to 11pm(Mon-Sun),Average,3.3,5
+Celebrations Grill & Lounge,600,North Indian,Allahabad,Ashok Nagar,Casual Dining,1030am to 11pm(Mon-Sun),Average,3.2,6
+Dynasty Restaurant - Imperial House,1000,"North Indian,Chinese",Allahabad,Ashok Nagar,Fine Dining,"11am to 3pm,7pm to 11pm(Mon-Sun)",Good,3.6,12
+Taste Of Prayagraj,300,"Fast Food,North Indian",Allahabad,Dhoomanganj,Quick Bites,9am to 11pm(Mon-Sun),Average,3.1,9
+Bawarchi Non-Veg & Veg Restaurant,200,North Indian,Allahabad,Civil Lines,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.4,8
+Zimana,500,"North Indian,Chinese,Beverages,Coffee,Continental,Desserts,Pizza,South Indian",Allahabad,Civil Lines,Casual Dining,730am to 11pm(Mon-Sun),Average,3.4,12
+South Mouth,500,South Indian,Allahabad,Vinayak City Centre Mall-- Civil Lines,Food Court,11am to 11pm(Mon-Sun),Average,3.2,10
+The Lupitas,250,North Indian,Allahabad,Civil Lines,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,6
+U.P. 70 Resto,450,"Chinese,North Indian",Allahabad,George Town,Quick Bites,10am to 11pm(Mon-Sun),Good,3.5,16
+Samira Restaurant,600,North Indian,Allahabad,Leader Road,Casual Dining,1130am to 1130pm(Mon-Sun),Average,3.0,13
+Giza Family Restaurant,500,"Mughlai,North Indian",Allahabad,Kareli,Quick Bites,"4pm to 11pm(Mon,Wed,Thu,Fri,Sat,Sun),Closed...",Average,3.1,9
+Food Village Restaurant,500,"North Indian,Chinese,Continental",Allahabad,Rajrooppur,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,18
+Appetour & Frotica,300,Fast Food,Allahabad,Civil Lines,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,8
+Moonshine,500,"North Indian,Biryani",Allahabad,Civil Lines,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,10
+New Sizzler Point,450,"North Indian,Chinese",Allahabad,Civil Lines,Dhaba,11am to 11pm(Mon-Sun),Average,3.4,14
+Punjabi Tadka,500,North Indian,Allahabad,Vinayak City Centre Mall-- Civil Lines,Food Court,11am to 11pm(Mon-Sun),Average,3.0,6
+Rang Mahal - Hotel Ajay International,2000,"North Indian,Chinese,Continental,South Indian",Allahabad,Civil Lines,Casual Dining,7am to 11pm(Mon-Sun),Average,3.4,9
+Avion Fast Food,150,"North Indian,South Indian,Chinese",Allahabad,Civil Lines,Quick Bites,10am to 11pm(Mon-Sun),Average,3.1,4
+New Novelty Restaurant,500,North Indian,Allahabad,Chowk,Casual Dining,9am to 1130pm(Mon-Sun),Average,2.8,12
+Hari Vrindavan,400,"Chinese,South Indian,North Indian",Allahabad,Ashok Nagar,Quick Bites,1130am to 11pm(Mon-Sun),Average,3.3,7
+Lazeez Darbar,500,"North Indian,Mughlai",Allahabad,Civil Lines,Casual Dining,11am to 1130pm(Mon-Sun),Average,3.3,11
+MFC Restaurant Champaran Meat House,400,North Indian,Allahabad,Civil Lines,Quick Bites,"12noon to 11pm(Mon,Wed,Thu,Fri,Sat,Sun)...",Average,3.1,6
+The Hunt Bakers,150,"Bakery,Desserts",Allahabad,Naini,Bakery,10am to 11pm(Mon-Sun),Average,3.0,5
+EDR Restaurant,600,North Indian,Allahabad,Allapur,Casual Dining,11am to 11pm(Mon-Sun),Average,3.1,10
+Nalanda Hotel,300,North Indian,Allahabad,Leader Road,Casual Dining,10am to 2am(Mon-Sun),Average,3.2,5
+Penguin Indian & Mugal Foods,250,"Indian,Mughlai",Allahabad,Allapur,Quick Bites,2pm to 11pm(Mon-Sun),Average,3.2,8
+Ananya Bhojnalaya,300,North Indian,Allahabad,Civil Lines,Bhojanalya,11am to 11pm(Mon-Sun),Average,3.0,6
+Silk Restaurant,550,"North Indian,South Indian,Chinese",Allahabad,Bairahana,Casual Dining,10am to 11pm(Mon-Sun),Average,2.9,6
+Hashtag Cafe,500,Cafe,Allahabad,Naini,Café,11am to 11pm(Mon-Sun),Average,3.1,4
+Crispy And Juicy,250,"Biryani,Fast Food",Allahabad,Naini,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,6
+Sagar Ratna,600,"South Indian,North Indian,Chinese,Continental",Allahabad,Tagore Town,Casual Dining,10am to 1030pm(Mon-Sun),Very Good,4.4,624
+Moti Mahal Delux,600,"Mughlai,North Indian,Chinese",Allahabad,Vinayak City Centre Mall-- Civil Lines,Casual Dining,111am to 12midnight(Mon-Sun),Very Good,4.0,153
+Dosa Plaza,400,South Indian,Allahabad,Civil Lines,Casual Dining,10am to 11pm(Mon-Sun),Very Good,4.1,173
+Makkhan's Restaurant,450,"North Indian,South Indian,Chinese,Fast Food",Allahabad,Dhoomanganj,Casual Dining,10am to 11pm(Mon-Sun),Very Good,4.0,210
+Tandoor Restaurant,500,"North Indian,Chinese",Allahabad,Civil Lines,Casual Dining,10am to 1030pm(Mon-Sun),Average,2.7,344
+SCORE - The Games Cafe,200,"Cafe,Desserts,Beverages",Allahabad,Civil Lines,Café,1115am to 9pm(Mon-Sun),Excellent,4.5,335
+Kailash Parbat,400,"North Indian,South Indian,Chinese,Continental",Allahabad,Civil Lines,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,31
+Barcode,1400,"Biryani,North Indian,Finger Food",Allahabad,Civil Lines,Lounge,12noon to 11pm(Mon-Sun),Average,3.4,146
+Cafe El Chico,1000,"Cafe,Italian,Continental",Allahabad,Civil Lines,Café,12noon to 10pm(Mon-Sun),Very Good,4.3,222
+Rolls Mania,450,"Rolls,Fast Food",Allahabad,Ashok Nagar,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.0,110
+Shamiana's,300,North Indian,Allahabad,Civil Lines,Casual Dining,10am to 11pm(Mon-Sun),Good,3.6,112
+The Tamarind Tree,500,"South Indian,Chinese",Allahabad,Civil Lines,Casual Dining,11am to 1030pm(Mon-Sun),Very Good,4.0,248
+Hot Stuff,500,"North Indian,Fast Food",Allahabad,Civil Lines,Casual Dining,1030am to 1030pm(Mon-Sun),Very Good,4.0,272
+Food Square,300,"North Indian,Chinese,Mughlai",Allahabad,Katra,Casual Dining,830am to 1130pm(Mon-Sun),Good,3.7,33
+Malt,300,"Cafe,Beverages,Bakery",Allahabad,Ashok Nagar,Café,11am to 1030pm(Mon-Sun),Excellent,4.6,291
+Harish Bhojanalaya & Restaurant,300,Fast Food,Allahabad,Civil Lines,Quick Bites,10am to 11pm(Mon-Sun),Good,3.7,70
+Bean Here,350,"Cafe,Fast Food",Allahabad,Civil Lines,Café,11am to 930pm(Mon-Sun),Good,3.9,173
+The Pantry Car,300,"Chinese,Continental,Momos",Allahabad,Civil Lines,Quick Bites,1pm to 1030pm(Mon-Sun),Good,3.9,96
+Dosa Plaza,500,"South Indian,North Indian,Chinese",Allahabad,Katra,Casual Dining,10am to 11pm(Mon-Sun),Good,3.7,52
+Kaffe Kona,400,Cafe,Allahabad,Naini,Café,1130am to 10pm(Mon-Sun),Very Good,4.0,68
+Paradise Confectioner,500,"Fast Food,Desserts",Allahabad,Tagore Town,Quick Bites,930am to 10pm(Mon-Sun),Very Good,4.2,146
+Gay Time Family Restaurant,500,"North Indian,South Indian,Chinese,Fast Food",Allahabad,Civil Lines,Casual Dining,1030am to 1130pm(Mon-Sun),Dobré,3.7,143
+Chill Lounge,800,"North Indian,South Indian,Chinese,Continental",Allahabad,Civil Lines,Casual Dining,12noon to 11pm(Mon-Sun),Good,3.6,95
+The Second Wife,500,North Indian,Allahabad,George Town,Casual Dining,9am to 12midnight(Mon-Sun),Average,2.7,103
+Coffee Calling,400,Cafe,Allahabad,Civil Lines,Café,1015am to 10pm(Mon-Sun),Good,3.9,109
+Balaji Idli House,500,"South Indian,North Indian",Allahabad,Tagore Town,Casual Dining,11am to 11pm(Mon-Sun),Good,3.9,58
+Rajwada's,700,"North Indian,South Indian,Chinese,Fast Food",Allahabad,Colonel Ganj,Casual Dining,11am to 11pm(Mon-Sun),Good,3.7,70
+Keventers,400,"Beverages,Ice Cream,Desserts",Allahabad,Civil Lines,Beverage Shop,11am to 11pm(Mon-Sun),Very Good,4.2,84
+9280 The Family Restaurant,600,North Indian,Allahabad,Civil Lines,Casual Dining,12noon to 1030pm(Mon-Sun),Good,3.9,145
+Kalptaru Sweets N Bakery,450,"Fast Food,North Indian,Continental,Beverages,Mithai",Allahabad,Lukerganj,Quick Bites,9am to 1030pm(Mon-Sun),Good,3.9,111
+Prayag Food Plaza,300,Chinese,Allahabad,George Town,none,11am to 10pm(Mon-Sun),Very Good,4.0,79
+El Chico Pastry Shop,300,Desserts,Allahabad,Civil Lines,Dessert Parlor,10am to 10pm(Mon-Sun),Very Good,4.3,79
+Allahabad Biryani Centre,400,"Biryani,Mughlai",Allahabad,Civil Lines,Casual Dining,"1pm to 10pm(Mon,Tue,Wed,Fri,Sat,Sun),Closed...",Good,3.8,153
+Kamdhenu Sweets,400,Desserts,Allahabad,Civil Lines,Dessert Parlor,9am to 10pm(Mon-Sun),Very Good,4.2,125
+The London Shakes And Cafe,300,"Pizza,Fast Food,Beverages",Allahabad,Civil Lines,Café,11am to 10pm(Mon-Sun),Good,3.9,61
+Daana Pani Restaurant,250,North Indian,Allahabad,Dhoomanganj,Quick Bites,10am to 10pm(Mon-Sun),Average,3.4,55
+Dilli Galiyara,800,"North Indian,South Indian,Chinese",Allahabad,Vinayak City Centre Mall-- Civil Lines,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,86
+Jai Shri Shankar Bhojnalaya,300,North Indian,Allahabad,Civil Lines,Bhojanalya,11am to 11pm(Mon-Sun),Good,3.8,80
+Andeywala,200,Fast Food,Allahabad,Civil Lines,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,54
+Zaika Biryani Ka,200,"Biryani,North Indian,Rolls",Allahabad,Colonel Ganj,Quick Bites,1130am to 11pm(Mon-Sun),Good,3.9,66
+Reserveseats,700,"North Indian,South Indian,Chinese",Allahabad,Katra,Casual Dining,1030am to 11pm(Mon-Sun),Good,3.8,68
+Busy Bee Restro,700,"Chinese,North Indian,Continental,Beverages",Allahabad,Naini,Casual Dining,"10am to 10pm(Mon-Sat),10am to 11pm(Sun)",Good,3.6,35
+Chai Onn,200,"Beverages,Cafe,Desserts,Pizza,Tea",Allahabad,Naini,none,"11am to 9pm(Mon-Sat),3pm to 9pm(Sun)",Good,3.5,11
+Shahi Darbar Restaurant,450,"North Indian,Chinese,Beverages",Allahabad,Civil Lines,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,68
+Old Town,500,"North Indian,Chinese",Allahabad,Civil Lines,Casual Dining,11am to 1030pm(Mon-Sun),Good,3.6,88
+Chaat Chatore,250,"Fast Food,North Indian,South Indian,Continental",Allahabad,Katra,Quick Bites,11am to 10pm(Mon-Sun),Average,2.8,34
+U S PIZZA,700,"Pizza,Salad,Beverages",Allahabad,Katra,Quick Bites,1030am to 10pm(Mon-Sun),Good,3.8,47
+Maharani Zaika,500,North Indian,Allahabad,George Town,Casual Dining,11am to 11pm(Mon-Sun),Good,3.8,95
+Bliss Restro,500,"North Indian,Chinese",Allahabad,Naini,Casual Dining,11am to 1030pm(Mon-Sun),Good,3.6,72
+Santosh Juice Corner,150,"North Indian,South Indian,Chinese",Allahabad,Katra,Quick Bites,11am to 10pm(Mon-Sun),Good,3.7,39
+Stark House Cafe,550,"Mexican,Italian",Allahabad,Civil Lines,Café,11am to 730pm(Mon-Sun),Good,3.8,42
+Yame Food Court,300,"North Indian,Chinese,Fast Food",Allahabad,Ashok Nagar,Quick Bites,5pm to 10pm(Mon-Sun),Very Good,4.0,84
+SuVisto Shakes & Cafe,250,"Fast Food,Beverages",Allahabad,George Town,Quick Bites,11am to 10pm(Mon-Sun),Good,3.6,20
+H2O Cafe,400,"Cafe,Fast Food,Beverages",Allahabad,Civil Lines,Café,"1030am to 10pm(Mon-Sat),Closed(Sun)",Good,3.8,31
+Mexican Pizzeria,300,"Fast Food,Pizza",Allahabad,Naini,Quick Bites,1030am to 11pm(Mon-Sun),Good,3.6,47
+Kanha Sweets & Restaurant,400,"North Indian,Desserts",Allahabad,Katra,Casual Dining,10am to 10pm(Mon-Sun),Good,3.6,40
+Goli Vada Pav No.1,200,Street Food,Allahabad,Civil Lines,Quick Bites,10am to 10pm(Mon-Sun),Good,3.7,53
+Karn's Restaurant,200,"North Indian,South Indian,Chinese,Fast Food",Allahabad,Dhoomanganj,Quick Bites,11am to 1030pm(Mon-Sun),Good,3.7,47
+USPFC,200,"Burger,Sandwich,Fast Food",Allahabad,Civil Lines,Quick Bites,11am to 10pm(Mon-Sun),Good,3.7,19
+Guru Kripa Bhojnalaya,150,North Indian,Allahabad,Dhoomanganj,Bhojanalya,10am to 10pm(Mon-Sun),Average,2.8,20
+Indish,500,"North Indian,South Indian,Chinese,Continental,Fast Food,Sandwich",Allahabad,Civil Lines,Casual Dining,11am to 11pm(Mon-Sun),Good,3.7,75
+Mohit Cafe,100,"Fast Food,Beverages,Desserts",Allahabad,Katra,Café,10am to 9pm(Mon-Sun),Good,3.7,36
+Tuck In,250,Fast Food,Allahabad,Civil Lines,Casual Dining,12noon to 11pm(Mon-Sun),Good,3.8,89
+The Downtown Kitchen,200,Fast Food,Allahabad,Teliarganj,Quick Bites,9am to 10pm(Mon-Sun),Average,2.9,37
+Shahenshah Fast Food,400,"North Indian,Chinese,Fast Food",Allahabad,Civil Lines,Casual Dining,1115am to 1030pm(Mon-Sun),Good,3.8,45
+Mishra Mishthan Bhandar,350,"Desserts,Mithai",Allahabad,Katra,Dessert Parlor,7am to 10pm(Mon-Sun),Good,3.6,12
+FnP Cakes 'n' More,400,Bakery,Allahabad,Civil Lines,Bakery,11am to 1030pm(Mon-Sun),Good,3.7,27
+Art of Rolls,200,"Rolls,Kebab,Grill,Afghan",Allahabad,Civil Lines,Quick Bites,2pm to 1030pm(Mon-Sun),Good,3.5,29
+Desi Twist Cafe,250,Fast Food,Allahabad,Naini,Quick Bites,"1030am to 1015pm(Mon-Sat),1130am to 1015pm(Sun)",Average,2.8,31
+Blue Spark,250,"North Indian,Chinese",Allahabad,Civil Lines,Quick Bites,"10am to 3pm,7pm to 10pm(Mon-Sun)",Good,3.6,26
+Natraj Savour,200,"Fast Food,Rolls",Allahabad,Teliarganj,Quick Bites,1130am to 10pm(Mon-Sun),Average,3.3,18
+Mahesh Restauarant,300,Street Food,Allahabad,Katra,Casual Dining,10am to 10pm(Mon-Sun),Good,3.7,21
+The Moghal,300,"North Indian,Chinese,Street Food",Allahabad,Civil Lines,Casual Dining,"5pm to 10pm(Mon-Sat),5pm to 1010pm(Sun)",Good,3.6,30
+A & J The Juice Bar,250,Juices,Allahabad,Civil Lines,Beverage Shop,11am to 10pm(Mon-Sun),Average,3.3,17
+Fresh Point,250,Fast Food,Allahabad,George Town,Quick Bites,9am to 8pm(Mon-Sun),Average,3.4,17
+Albaik Chicken,250,Fast Food,Allahabad,Dhoomanganj,Casual Dining,"1pm to 10pm(Mon,Wed,Thu,Fri,Sat,Sun),Closed...",Average,3.4,24
+Kallu Kachouri Bhandar,100,Street Food,Allahabad,Katra,Kiosk,11am to 9pm(Mon-Sun),Average,3.2,16
+Star Family Restaurant,500,"North Indian,Chinese,Fast Food",Allahabad,Dhoomanganj,Casual Dining,11am to 10pm(Mon-Sun),Average,3.4,13
+Live Icecream Rolls,200,"Desserts,Ice Cream",Allahabad,Civil Lines,Dessert Parlor,11am to 1030pm(Mon-Sun),Good,3.6,15
+New Om Shiv Bholey Fast Food Corner,200,Fast Food,Allahabad,Dhoomanganj,Quick Bites,10am to 10pm(Mon-Sun),Average,3.3,12
+Mela,500,"North Indian,Chinese",Allahabad,Civil Lines,Casual Dining,1030am to 1030pm(Mon-Sun),Good,3.6,33
+Mamta Bakery,250,"Bakery,Desserts",Allahabad,Dhoomanganj,Bakery,"930am to 9pm(Mon,Tue,Thu,Fri,Sat,Sun)...",Average,3.0,10
+JK Bakers,200,Bakery,Allahabad,Katra,Bakery,9am to 10pm(Mon-Sun),Good,3.6,16
+My Yumm Meal,400,North Indian,Allahabad,Ashok Nagar,none,"8am to 10pm(Mon-Sat),Closed(Sun)",Good,3.7,20
+Top-In-Town Baker's,300,Bakery,Allahabad,Lukerganj,Bakery,11am to 10pm(Mon-Sun),Average,3.2,4
+Shanti Kulfi,150,Desserts,Allahabad,Civil Lines,Dessert Parlor,11am to 10pm(Mon-Sun),Good,3.8,19
+Veggie Galaxy,600,"North Indian,South Indian,Chinese",Allahabad,P Square Mall-- Civil Lines,Casual Dining,10am to 1030pm(Mon-Sun),Average,3.3,18
+Vadilal Scoop Shop,200,Ice Cream,Allahabad,Naini,Dessert Parlor,11am to 10pm(Mon-Sun),Average,3.3,7
+Occasion,150,"Burger,Sandwich,Bakery,Desserts",Allahabad,Katra,Bakery,(Mon-Sun),Average,3.3,8
+Kathi Express,200,North Indian,Allahabad,Colonel Ganj,Casual Dining,12noon to 11pm(Mon-Sun),Good,3.8,44
+Khana Khazana Restaurant & Cafe,450,"North Indian,Chinese,Mughlai",Allahabad,Civil Lines,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,51
+Route o Bakers,300,Bakery,Allahabad,Civil Lines,Bakery,12noon to 10pm(Mon-Sun),Average,3.4,12

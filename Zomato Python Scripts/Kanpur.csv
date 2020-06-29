@@ -1,0 +1,632 @@
+Name,Price,Cuisine_Category,City,Region,Cuisine_Type,Timing,Rating_Types,Rating,Votes
+Zyka Restaurant,300,"North Indian,Biryani,Desserts,Fast Food,Pizza",Kanpur,Parade,Quick Bites,1pm to 11pm(Mon-Sun),Very Good,4.1,598
+Hot Pizza Ace,400,"Pizza,Fast Food",Kanpur,Barra,Quick Bites,10am to 1130pm(Mon-Sun),Very Good,4.0,473
+Domino's Pizza,700,"Pizza,Fast Food",Kanpur,Kidwai Nagar Market,Quick Bites,11am to 12midnight(Mon-Sun),Good,3.5,1002
+Mocha,1000,Cafe,Kanpur,Mall Road,Café,12noon to 12midnight(Mon-Sun),Excellent,4.8,852
+Facebook Point,400,"Burger,Chinese,North Indian,Rolls",Kanpur,Nandlal Chawraha,Quick Bites,11am to 1130pm(Mon-Sun),Very Good,4.0,386
+Mi Casa,500,"Continental,Italian,Fast Food,Burger,American,Chinese",Kanpur,Ashok Nagar,Casual Dining,12noon to 12midnight(Mon-Sun),Very Good,4.4,141
+Sagar Ratna,500,"South Indian,North Indian,Chinese",Kanpur,Lajpat Nagar,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.3,447
+Silver Spoons,700,"Bakery,Fast Food,Chinese,Continental,Italian,Momos,Pizza",Kanpur,Kakadeo,Bakery,910am to 1145pm(Mon-Sun),Very Good,4.2,424
+Pandit's,450,"North Indian,Mithai",Kanpur,Shastri Nagar,Quick Bites,9am to 11pm(Mon-Sun),Very Good,4.2,323
+Bazooka,500,"Cafe,North Indian,Chinese",Kanpur,Swaroop Nagar,Café,230pm to 1130pm(Mon-Sun),Good,3.9,875
+Spicy Foods,350,"North Indian,Fast Food",Kanpur,Kidwai Nagar Market,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.0,445
+Baba Food Court,450,"Mughlai,Hyderabadi",Kanpur,Jajmau,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.1,354
+KFC,400,"Burger,Fast Food",Kanpur,Z Square Mall-- Mall Road,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.1,614
+Mithas,400,"Mithai,Desserts,Fast Food,Street Food",Kanpur,Kidwai Nagar,Sweet Shop,8am to 11pm(Mon-Sun),Very Good,4.2,339
+The Chocolate Room,300,"Cafe,Desserts",Kanpur,Swaroop Nagar,Café,11am to 12midnight(Mon-Sun),Very Good,4.2,261
+Shree Baba Bhojanalaya,200,North Indian,Kanpur,Geeta Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,68
+California Pizza Cafe,450,Fast Food,Kanpur,Swaroop Nagar,Quick Bites,"12midnight to 1am,12noon to 12midnight(Mon-Sun)",Good,3.6,124
+New Pizza Yum,600,"Fast Food,Pizza",Kanpur,Barra,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,139
+Royal Dine - Hotel Royal Cliff,2500,"North Indian,Chinese",Kanpur,Hotel Royal Cliff,Fine Dining,730am to 11pm(Mon-Sun),Good,3.9,116
+Hot Pizza Yum,600,"Pizza,Fast Food",Kanpur,Lajpat Nagar,Quick Bites,11am to 1045pm(Mon-Sun),Good,3.9,218
+Anantam Restrau,350,"Chinese,North Indian",Kanpur,Sharda Nagar,Casual Dining,"11am to 11pm(Mon-Thu),11am to 1130pm(Fri-Sun)",Good,3.7,94
+Crown Burgers,400,North Indian,Kanpur,Lajpat Nagar,Quick Bites,"11am to 11pm(Mon-Thu),11am to 1145pm(Fri-Sun)",Good,3.7,157
+The Cockpit Cafe,200,Fast Food,Kanpur,Mall Road,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.1,30
+Treat Convenience Foods,250,"North Indian,South Indian",Kanpur,Lal Bangla,Casual Dining,1130am to 11pm(Mon-Sun),Good,3.5,79
+Subway,500,"Healthy Food,Sandwich,Salad",Kanpur,Swaroop Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,135
+Nawabz,1200,North Indian,Kanpur,SGM Plaza-- Arya Nagar,Casual Dining,1230pm to 11pm(Mon-Sun),Good,3.7,106
+Chai Walazz,400,Street Food,Kanpur,Kakadeo,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,59
+Ice Cream Zone,250,"Ice Cream,Desserts",Kanpur,Ashok Nagar,Dessert Parlor,11am to 11pm(Mon-Sun),Very Good,4.1,59
+Ten 11,500,"Burger,Chinese,Rolls",Kanpur,Nandlal Chawraha,Quick Bites,10am to 11pm(Mon-Sun),Good,3.8,121
+Swaadpurna,600,"Chinese,Fast Food,North Indian,South Indian",Kanpur,Kidwai Nagar Market,Casual Dining,11am to 11pm(Mon-Sun),Good,3.7,105
+Blue Moon Restaurant,300,"North Indian,Chinese",Kanpur,Lal Bangla,Casual Dining,12noon to 11pm(Mon-Sun),Very Good,4.3,68
+Satnam Kulfi,100,"Desserts,Ice Cream",Kanpur,Nandlal Chawraha,Dessert Parlor,12noon to 1030pm(Mon-Sun),Very Good,4.0,138
+Happy Treats,200,"Desserts,Beverages",Kanpur,Keshavpuram,Dessert Parlor,11am to 11pm(Mon-Sun),Good,3.6,44
+Sippers,400,"Beverages,Desserts",Kanpur,Mall Road,Beverage Shop,10am to 1130pm(Mon-Sun),Good,3.8,78
+Shahi Lazeez Darbar & Family Restaurant,500,"North Indian,Chinese",Kanpur,Lal Bangla,Casual Dining,11am to 11pm(Mon-Sun),Good,3.7,92
+Treat - The Garden Restro,900,"North Indian,South Indian,Chinese,Italian",Kanpur,Kanpur Cantt,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.0,75
+Antarang,1500,North Indian,Kanpur,Rave 3-- Tilak Nagar,Fine Dining,12noon to 11pm(Mon-Sun),Good,3.8,169
+Chachi Vaishno Dhaba,300,Indian,Kanpur,Nandlal Chawraha,Dhaba,11am to 1030pm(Mon-Sun),Good,3.8,196
+Rakesh Chicken Biryani,250,"North Indian,Biryani",Kanpur,Parade,Quick Bites,"11am to 9pm(Mon,Wed,Thu,Fri,Sat,Sun),Closed...",Good,3.9,232
+Village Da Dhaba,350,North Indian,Kanpur,Panki,Dhaba,"10am to 1145pm(Mon),10am to 12midnight(Tue-Sun)",Good,3.6,72
+2 Brother,250,Fast Food,Kanpur,Ratan lal Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,69
+Kumar Bhelpuri & Fast Food Corner,300,"Chinese,Fast Food",Kanpur,Nandlal Chawraha,Quick Bites,NA,Good,3.9,142
+EMchat Red,250,"Street Food,Fast Food",Kanpur,Mall Road,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,91
+Veggies,400,Fast Food,Kanpur,Arya Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,82
+The Fuel - A Pizza & Coffee Cafe,400,Cafe,Kanpur,Kakadeo,Café,11am to 1030pm(Mon-Sun),Good,3.9,160
+Budhsen Sweet House,150,"Desserts,Street Food",Kanpur,Birhana Road,Quick Bites,830am to 10pm(Mon-Sun),Very Good,4.3,111
+Upper Crust,600,"Bakery,Fast Food",Kanpur,Swaroop Nagar,Bakery,"10am to 10pm(Mon-Thu),10am to 1030pm(Fri-Sun)",Good,3.5,128
+Chingari Family Restaurant,500,"Chinese,Mughlai,North Indian",Kanpur,Parade,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.8,132
+Lunch Box,400,"North Indian,Chinese,Fast Food",Kanpur,Fazalganj,Quick Bites,"12midnight to 4am,12noon to 12midnight(Mon-Sun)",Good,3.8,111
+The Chocolate Room,400,"Ice Cream,Bakery,Desserts",Kanpur,Mall Road,Dessert Parlor,11am to 11pm(Mon-Sun),Very Good,4.0,18
+New Pizza Delighto,250,Pizza,Kanpur,Keshavpuram,Quick Bites,11am to 10pm(Mon-Sun),Good,3.6,104
+Chicago Pizza,500,"Pizza,Fast Food",Kanpur,Mall Road,Quick Bites,"11am to 10pm(Mon-Thu),11am to 1015pm(Fri),11am...",Good,3.6,163
+Mr.Baker's,300,"Bakery,Burger,Cafe,Coffee,Fast Food,Pizza,Sandwich,Street Food",Kanpur,Kidwai Nagar Market,Bakery,10am to 11pm(Mon-Sun),Average,2.9,78
+Hashtag Cawnpore,350,"Beverages,Desserts,Fast Food",Kanpur,Jajmau,Quick Bites,1pm to 11pm(Mon-Sun),Good,3.7,81
+Celebrations,300,"Burger,Fast Food,Pizza,Sandwich,Street Food",Kanpur,Indira Nagar,Quick Bites,9am to 10pm(Mon-Sun),Good,3.9,109
+Janwadis,50,Street Food,Kanpur,Kidwai Nagar Market,Quick Bites,1230pm to 9pm(Mon-Sun),Good,3.8,131
+Laziz Pizza,550,"Fast Food,Pizza",Kanpur,Nandlal Chawraha,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,148
+Fugees,200,Fast Food,Kanpur,Mall Road,Quick Bites,"Closed(Mon),5pm to 11pm(Tue-Sun)",Very Good,4.0,94
+Lazeezo,500,"Biryani,Mughlai,Afghan",Kanpur,Kidwai Nagar Market,Casual Dining,12noon to 11pm(Mon-Sun),Average,3.1,75
+New Pizza Yum,450,Fast Food,Kanpur,Kakadeo,Quick Bites,11am to 1030pm(Mon-Sun),Average,3.4,158
+The Cinnamon - Flavors of Nature,850,"Cafe,North Indian,Chinese,Italian,Fast Food",Kanpur,Kakadeo,Café,10am to 11pm(Mon-Sun),Poor,2.3,94
+New ZZZ Pizza,250,Pizza,Kanpur,Kakadeo,Kiosk,2pm to 1030pm(Mon-Sun),Good,3.5,84
+Samosa 0512 (Pappu Samosa Wala),150,Street Food,Kanpur,Kakadeo,Quick Bites,"11am to 945pm(Mon),111am to 12midnight...",Good,3.8,66
+Ice n Spice,250,Fast Food,Kanpur,Mall Road,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,77
+G T Marg Dhaba,100,North Indian,Kanpur,IIT Kanpur,Dhaba,2pm to 11pm(Mon-Sun),Average,3.2,54
+Latika’s Thalia,600,"Fast Food,Bakery",Kanpur,Parade,Quick Bites,9am to 10pm(Mon-Sun),Average,3.0,79
+Z Bakers,400,Bakery,Kanpur,Mall Road,Bakery,10am to 1030pm(Mon-Sun),Good,3.9,82
+The Pizza Wale,200,Pizza,Kanpur,Lal Bangla,Quick Bites,11am to 1030pm(Mon-Sun),Good,3.9,55
+Krishna Bhojnalaya,250,North Indian,Kanpur,Ghantaghar,Quick Bites,9am to 10pm(Mon-Sun),Average,3.2,51
+Pamela Restaurant,400,North Indian,Kanpur,Kakadeo,Casual Dining,10am to 11pm(Mon-Sun),Good,3.6,77
+Bake N More,300,"South Indian,Chinese,Fast Food,Bakery",Kanpur,Keshavpuram,Quick Bites,9am to 10pm(Mon-Sun),Good,3.6,81
+Urban Swad,500,"Fast Food,Pizza",Kanpur,Lal Bangla,Quick Bites,11am to 10pm(Mon-Sun),Very Good,4.0,77
+Udta Punjab,200,Beverages,Kanpur,Mall Road,Beverage Shop,10am to 10pm(Mon-Sun),Good,3.8,59
+New Kesarwani Dosa,250,South Indian,Kanpur,Parade,Quick Bites,12noon to 1030pm(Mon-Sun),Average,2.8,125
+Bombay Fast Food,400,"Chinese,Fast Food,South Indian",Kanpur,Arya Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,84
+Medhanshi Bakers,500,"Bakery,Desserts",Kanpur,Azad Nagar,Bakery,9am to 9pm(Mon-Sun),Average,3.4,24
+Mr.Brown,400,"Bakery,Desserts,Fast Food",Kanpur,Mall Road,Quick Bites,8am to 10pm(Mon-Sun),Good,3.9,155
+Muskaan Fast Food,250,North Indian,Kanpur,Rawatpur,Quick Bites,11am to 10pm(Mon-Sun),Good,3.5,42
+LIghts Camera Action,600,"North Indian,Chinese",Kanpur,Ashok Nagar,Café,1pm to 11pm(Mon-Sun),Average,2.7,63
+Four Season,600,North Indian,Kanpur,Shyam Nagar,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,120
+The Pizza Restaurant,300,"Pizza,Fast Food,Chinese,South Indian",Kanpur,Kidwai Nagar,Quick Bites,11am to 11pm(Mon-Sun),İyi,3.9,129
+Gallery of Pizza,500,"Pizza,Fast Food",Kanpur,Panki,Quick Bites,11am to 1030pm(Mon-Sun),Good,3.6,75
+Cawnpore 1857 - The Landmark Hotel,2200,North Indian,Kanpur,The Landmark Hotel-- Mall Road,Fine Dining,730pm to 1130pm(Mon-Sun),Good,3.9,117
+Jai Spicy Corner,200,"North Indian,Fast Food,Chinese",Kanpur,Kidwai Nagar Market,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,58
+Ajmeri Darbar,600,North Indian,Kanpur,Rawatpur,Casual Dining,12noon to 10pm(Mon-Sun),Good,3.7,66
+Vaango,600,South Indian,Kanpur,Mall Road,Food Court,11am to 1030pm(Mon-Sun),Good,3.5,78
+Paapi Paet,350,Indian,Kanpur,Kakadeo,Quick Bites,7pm to 4am(Mon-Sun),Good,3.9,84
+Tricone Pizza,150,Pizza,Kanpur,Shastri Nagar,Quick Bites,1pm to 11pm(Mon-Sun),Good,3.7,84
+Kalyan-G-Bakery,200,"Bakery,Desserts",Kanpur,Naveen Market-- Mall Road,Bakery,1130am to 10pm(Mon-Sun),Good,3.6,105
+Urban India Family Restaurant,400,"North Indian,Fast Food",Kanpur,Panki,Quick Bites,10am to 10pm(Mon-Sun),Good,3.7,82
+New Tiwari Sweets,150,"Mithai,Street Food,North Indian,South Indian,Fast Food",Kanpur,Jajmau,Sweet Shop,11am to 10pm(Mon-Sun),Good,3.6,55
+Delhi Darbar,500,"North Indian,Chinese,Fast Food",Kanpur,Shastri Nagar,Casual Dining,12noon to 11pm(Mon-Sun),Average,2.6,116
+Kathi Junction,400,Fast Food,Kanpur,Swaroop Nagar,Quick Bites,12noon to 11pm(Mon-Sun),Average,2.7,71
+Cafe Nu,500,Cafe,Kanpur,Mall Road,Café,"8am to 10pm(Mon-Sat),9am to 4pm(Sun)",Very Good,4.0,65
+Google Fast Food,200,"Fast Food,Chinese",Kanpur,Nandlal Chawraha,Quick Bites,2pm to 10pm(Mon-Sun),Good,3.8,87
+Muradabadi Chicken Biryani & Hyderabadi Chicken Biryani,200,Biryani,Kanpur,Kakadeo,Quick Bites,11am to 1030pm(Mon-Sun),Good,3.8,139
+Rain Foresto Cafe,700,"North Indian,Chinese",Kanpur,Azad Nagar,Casual Dining,11am to 1030pm(Mon-Sun),Good,3.9,46
+Goli Vada Pav,200,Street Food,Kanpur,Birhana Road,Quick Bites,10am to 10pm(Mon-Sun),Good,3.7,86
+Samosa 0512,100,Street Food,Kanpur,Birhana Road,Quick Bites,"1036am to 1036pm(Mon),11am to 10pm...",Good,3.7,57
+Pahalwan Ji Ka Special Mattha,100,"Healthy Food,Juices",Kanpur,Mall Road,none,6am to 1pm(Mon-Sun),Very Good,4.1,73
+Ram Corner,150,"Mithai,Bakery,Chinese",Kanpur,Saket Nagar,Sweet Shop,11am to 11pm(Mon-Sun),Good,3.5,65
+Swad Fast Food,250,"Burger,Chinese,Fast Food",Kanpur,Kidwai Nagar Market,Quick Bites,10am to 1030pm(Mon-Sun),Good,3.6,77
+Madras Cafe,200,South Indian,Kanpur,Lal Bangla,Quick Bites,10am to 10pm(Mon-Sun),Good,3.8,47
+Sanjha Chulha Restaurant,1200,"Mughlai,North Indian",Kanpur,Nandlal Chawraha,Casual Dining,2pm to 11pm(Mon-Sun),Good,3.7,122
+Satyam Restaurant,600,"North Indian,Chinese,South Indian,Fast Food",Kanpur,Hotel Satyam-- IIT Kanpur,Casual Dining,"10am to 11pm(Mon-Wed),11am to 11pm(Thu-Sun)",Good,3.6,94
+Ajmeri Darbar,200,"Mughlai,Mediterranean",Kanpur,Mall Road,Quick Bites,1130am to 1030pm(Mon-Sun),Good,3.6,57
+Chillers 7,200,"Bakery,Burger,Cafe,Chinese,Desserts,Fast Food",Kanpur,Saket Nagar,Quick Bites,10am to 10pm(Mon-Sun),Good,3.6,98
+Baba Sweethouse,300,"Desserts,North Indian",Kanpur,Colonel Ganj,Quick Bites,11am to 10pm(Mon-Sun),Good,3.8,110
+Durga Sweets & Restaurant,150,"North Indian,Fast Food",Kanpur,Lal Bangla,Quick Bites,1030am to 1045pm(Mon-Sun),Good,3.6,66
+Amantran Fast Food,400,Fast Food,Kanpur,Kidwai Nagar Market,Casual Dining,1030am to 1030pm(Mon-Sun),Average,2.8,73
+F&C Fast Food,200,Fast Food,Kanpur,Barra,Quick Bites,11am to 10pm(Mon-Sun),Good,3.6,53
+Eat&Meet,350,"Continental,Fast Food",Kanpur,Sharda Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,73
+Thikana Restaurant,400,"Fast Food,North Indian",Kanpur,Saket Nagar,Quick Bites,10am to 1030pm(Mon-Sun),Good,3.8,61
+Chaiology-By Chai Walazz,200,"Continental,Tea",Kanpur,Ashok Nagar,Quick Bites,11am to 1045pm(Mon-Sun),Good,3.6,40
+Baba Jalebi,200,Mithai,Kanpur,Nandlal Chawraha,Quick Bites,"11am to 1250pm,4pm to 950pm(Mon-Sun)",Good,3.7,29
+New Dipali Sweets,250,"Street Food,Mithai",Kanpur,Lal Bangla,Quick Bites,7am to 9pm(Mon-Sun),Average,3.3,10
+The Salt - Hotel Vijay Intercontinental,1600,"North Indian,Chinese",Kanpur,Tilak Nagar,Fine Dining,8am to 1030pm(Mon-Sun),Good,3.9,49
+Solitaire,850,"North Indian,Chinese,Continental",Kanpur,Swaroop Nagar,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.0,99
+Sanjeet Mandal Ka Momo,150,Street Food,Kanpur,Kakadeo,Quick Bites,11am to 11pm(Mon-Sun),Poor,2.4,82
+Kukkad at Nukkad,750,"Mughlai,North Indian",Kanpur,Swaroop Nagar,Quick Bites,"3pm to 11pm(Mon,Tue,Wed,Fri,Sat,Sun),Closed...",Average,3.4,90
+YUMZIE,300,"Pizza,Fast Food",Kanpur,Nandlal Chawraha,Quick Bites,1pm to 10pm(Mon-Sun),Good,3.5,47
+Paavan Bakery,400,"Bakery,Desserts",Kanpur,Fazalganj,Bakery,6am to 11pm(Mon-Sun),Good,3.7,67
+Chicken Adda,500,"BBQ,North Indian",Kanpur,Kakadeo,Quick Bites,"2pm to 10pm(Mon,Wed,Thu,Fri,Sat,Sun),Closed...",Average,2.7,81
+"D"" pizzeria""",500,Pizza,Kanpur,Barra,Quick Bites,11am to 10pm(Mon-Sun),Good,3.5,36
+Petoo,350,"North Indian,Continental,Chinese,Burger",Kanpur,Kakadeo,Quick Bites,11am to 11pm(Mon-Sun),Poor,2.3,76
+Mango I Foods,500,"Chinese,North Indian,South Indian",Kanpur,Indira Nagar,Quick Bites,1030am to 10pm(Mon-Sun),Average,3.3,62
+Chicken Mall,400,North Indian,Kanpur,Mall Road,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.8,69
+Lala Foods,200,Fast Food,Kanpur,Lal Bangla,Quick Bites,130pm to 1030pm(Mon-Sun),Good,3.6,35
+Excellent China Town,300,"Chinese,North Indian",Kanpur,Phoolbagh,Quick Bites,11am to 10pm(Mon-Sun),Good,3.5,28
+Cool Minutes,300,Fast Food,Kanpur,Ashok Nagar,Quick Bites,"Closed(Mon),1130am to 930pm(Tue-Sun)",Good,3.5,55
+Ambi Baba Dosa,300,"South Indian,Chinese",Kanpur,IIT Kanpur,Quick Bites,1130am to 11pm(Mon-Sun),Average,2.7,69
+Breads et al,300,"Bakery,Desserts",Kanpur,Swaroop Nagar,Bakery,9am to 10pm(Mon-Sun),Good,3.5,31
+Food Carnival,200,"Rolls,North Indian",Kanpur,Arya Nagar,Quick Bites,3pm to 1030pm(Mon-Sun),Good,3.8,54
+Dn'D Dine N Drive,300,Fast Food,Kanpur,Lal Bangla,Food Truck,12noon to 10pm(Mon-Sun),Good,3.7,31
+Agra Vala Sweets,200,"Street Food,Mithai",Kanpur,Ashok Nagar,Quick Bites,9am to 11pm(Mon-Sun),Good,3.7,65
+Mast Banarasi Paan,200,"Paan,Desserts",Kanpur,Nandlal Chawraha,Paan Shop,11am to 1150pm(Mon-Sun),Good,3.7,46
+Mansa Sweets & Restaurant,800,"North Indian,South Indian,Chinese",Kanpur,Geeta Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,98
+Chak De Fast Food,60,Fast Food,Kanpur,Mall Road,Quick Bites,10am to 10pm(Mon-Sun),Average,2.9,51
+Agra Sweet House,200,"Street Food,Desserts,Mithai",Kanpur,Ashok Nagar,Quick Bites,9am to 10pm(Mon-Sun),Good,3.7,47
+Dot In Takeaway,250,"North Indian,South Indian,Chinese,Continental,Mughlai,Fast Food",Kanpur,Lal Bangla,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,39
+The Ice House,200,"Ice Cream,Desserts",Kanpur,Swaroop Nagar,Dessert Parlor,1230pm to 1230AM(Mon-Sun),Good,3.9,49
+Mc Paa Family Restaurant,250,"Pizza,Burger,Fast Food",Kanpur,Keshavpuram,Quick Bites,11am to 10pm(Mon-Sun),Average,3.4,19
+Mama Mio Ice Cream,200,"Desserts,Ice Cream",Kanpur,Gutaiya,Dessert Parlor,"1130pm to 12midnight(Mon),1127pm to 12midnight...",Average,3.3,29
+Chatora Junction,200,"Chinese,North Indian",Kanpur,Arya Nagar,Quick Bites,11am to 11pm(Mon-Sun),Buono,3.9,69
+Brewbakes Cafe,400,"Beverages,Fast Food",Kanpur,Ashok Nagar,Café,10am to 1030pm(Mon-Sun),Good,3.5,12
+Cheers Milkshakes,300,Beverages,Kanpur,Tilak Nagar,Beverage Shop,11am to 10pm(Mon-Sun),Good,3.8,23
+Ashok Chole Kulche,150,"North Indian,Street Food",Kanpur,Barra,Quick Bites,9am to 4pm(Mon-Sun),Good,3.6,26
+Nirala Chicken Darbar,450,"North Indian,Biryani,Mughlai,Beverages",Kanpur,Kanpur Cantt,Quick Bites,1159am to 12midnight(Mon-Sun),Good,3.9,74
+Dipsy Doze Cafe,250,Fast Food,Kanpur,Kidwai Nagar Market,Quick Bites,1130am to 1030pm(Mon-Sun),Good,3.6,48
+Panditji Khanewale,150,North Indian,Kanpur,IIT Kanpur,Quick Bites,"124pm to 1045pm(Mon,Wed),125pm to 1045pm...",Average,3.4,32
+The Pizza Bite,400,Pizza,Kanpur,Kidwai Nagar,Quick Bites,10am to 10pm(Mon-Sun),Bom,3.5,22
+Pandit Bakery,300,Bakery,Kanpur,Harsh Nagar,Bakery,11am to 10pm(Mon-Sun),Average,3.4,20
+Forever,600,"North Indian,Continental,Chinese",Kanpur,Lal Bangla,Casual Dining,11am to 10pm(Mon-Sun),Average,3.3,56
+Arabecue Pizza,500,Pizza,Kanpur,Parade,Quick Bites,1130am to 11pm(Mon-Sun),Good,3.7,73
+WTF - Wow Tasty Food,150,"Chinese,Fast Food",Kanpur,Colonel Ganj,Food Truck,4pm to 10pm(Mon-Sun),Good,3.5,47
+Spicy Wala,300,North Indian,Kanpur,Panki,Quick Bites,11am to 10pm(Mon-Sun),Average,3.4,25
+Biryani Hub,200,Biryani,Kanpur,Swaroop Nagar,Quick Bites,12noon to 1130pm(Mon-Sun),Good,3.6,60
+Chef's,350,"Street Food,Biryani",Kanpur,Ashok Nagar,Quick Bites,5pm to 10pm(Mon-Sun),Good,3.5,48
+Maharaj Restaurant,300,North Indian,Kanpur,Jajmau,Quick Bites,11am to 11pm(Mon-Sun),Średnio,3.4,51
+Mash's Cakes & More,500,Bakery,Kanpur,Swaroop Nagar,Bakery,10am to 1030pm(Mon-Sun),Average,3.4,43
+MJ Cakes,200,"Bakery,Desserts",Kanpur,Saket Nagar,Bakery,10am to 1030pm(Mon-Sun),Good,3.5,28
+Cafe N10,400,"Fast Food,Chinese,South Indian",Kanpur,Kakadeo,Quick Bites,12noon to 10pm(Mon-Sun),Average,3.2,38
+Chef Rasoi Se,300,North Indian,Kanpur,Panki,Quick Bites,11am to 11pm(Mon-Sun),Average,2.9,69
+The Pizza King,450,Pizza,Kanpur,IIT Kanpur,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.1,254
+Tripund Food Cafe,500,"Cafe,Chinese,Thai,Japanese",Kanpur,Kidwai Nagar,Casual Dining,12noon to 11pm(Mon-Sun),Excellent,4.5,528
+McDonald's,500,"Burger,Fast Food",Kanpur,Z Square Mall-- Mall Road,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.1,551
+Busy Beans,250,"Fast Food,Italian",Kanpur,Arya Nagar,Quick Bites,1pm to 11pm(Mon-Sun),Excellent,4.8,301
+The Bun Street,350,Cafe,Kanpur,Swaroop Nagar,Café,11am to 11pm(Mon-Sun),Good,3.9,318
+Foodoo Pizza,400,"Fast Food,Pizza,Chinese",Kanpur,Kidwai Nagar,Quick Bites,10am to 11pm(Mon-Sun),Good,3.8,399
+Hot Pizza Yum,400,"Pizza,Continental",Kanpur,Nandlal Chawraha,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.0,320
+New Rahul Sweets & Restaurant,150,"Fast Food,Mithai",Kanpur,Panki,Quick Bites,830am to 11pm(Mon-Sun),Very Good,4.1,391
+Sweet Affairs,600,"Chinese,Italian,Thai,Desserts",Kanpur,Govindpuri,Café,11am to 11pm(Mon-Sun),Very Good,4.3,45
+Ajmeri Darbar,400,"Awadhi,Mughlai",Kanpur,Chamanganj,Casual Dining,12noon to 11pm(Mon-Sun),Good,3.9,362
+Pizza Yum,600,"Pizza,Fast Food",Kanpur,Swaroop Nagar,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.9,411
+Tandoori Nights,400,"North Indian,Biryani",Kanpur,Kakadeo,Quick Bites,1130am to 11pm(Mon-Sun),Very Good,4.0,279
+Spicy Corner,600,"North Indian,Chinese",Kanpur,Lajpat Nagar,Quick Bites,1130am to 11pm(Mon-Sun),Very Good,4.1,265
+Shree Bhojnalya Restaurant & Sweet,200,"North Indian,Desserts,Chinese,Fast Food",Kanpur,Vijay Nagar,Quick Bites,"7am to 4pm,630pm to 1130pm(Mon-Sun)",Good,3.9,316
+Haveli Restaurant,400,North Indian,Kanpur,Lajpat Nagar,Casual Dining,12noon to 11pm(Mon-Sun),Very Good,4.1,422
+Shiv Sweet & Restaurant,500,"South Indian,Chinese",Kanpur,Shyam Nagar,Quick Bites,9am to 10pm(Mon-Sun),Good,3.6,14
+Mehmaan,400,North Indian,Kanpur,Lal Bangla,Casual Dining,1030am to 1030pm(Mon-Sun),Average,3.2,36
+Baba Biryani,300,"Biryani,Chinese",Kanpur,Mall Road,Quick Bites,1230pm to 11pm(Mon-Sun),Good,3.5,108
+Hydrabadi's,300,Biryani,Kanpur,Lajpat Nagar,Casual Dining,6pm to 11pm(Mon-Sun),Good,3.6,89
+Lazeez,500,"North Indian,Chinese",Kanpur,Keshavpuram,Quick Bites,"1230pm to 1030pm(Mon,Wed,Thu,Fri,Sat,Sun)...",Average,3.3,40
+Fugees Fast Food,400,Fast Food,Kanpur,Ashok Nagar,Quick Bites,"Closed(Mon),1130am to 10pm(Tue-Sun)",Good,3.5,25
+Shri Ram Anurag Restaurant,500,"Beverages,Chinese,North Indian",Kanpur,Swaroop Nagar,Dhaba,9am to 1230AM(Mon-Sun),Good,3.7,68
+Mohan Sweets & Restaurant,150,"North Indian,Fast Food,Chinese,Mithai",Kanpur,Panki,Casual Dining,830am to 11pm(Mon-Sun),Good,3.9,90
+Pawan Sweets,400,"North Indian,South Indian,Fast Food,Desserts",Kanpur,Lal Bangla,Quick Bites,10am to 10pm(Mon-Sun),Average,2.6,21
+Bhola Fast Food Corner,250,Fast Food,Kanpur,Indira Nagar,Quick Bites,11am to 10pm(Mon-Sun),Good,3.5,31
+Anmol Restaurant & Fast Food Centre,300,"Fast Food,Indian",Kanpur,Phoolbagh,Quick Bites,"10am to 11pm(Mon),10am to 12noon(Tue,Thu,Fri...",Average,2.8,23
+New Ajmeri Restaurant,300,North Indian,Kanpur,Rawatpur,Quick Bites,11am to 10pm(Mon-Sun),Good,3.7,41
+Baba Food Court,500,"Beverages,Biryani,Burger,Cafe,Chinese,Indian,North Indian",Kanpur,Nayi Chungi,Food Court,11am to 11pm(Mon-Sun),Good,3.5,108
+New Pizza Point,400,Pizza,Kanpur,Sharda Nagar,Quick Bites,11am to 10pm(Mon-Sun),Average,3.2,9
+Biryani House Company,500,"North Indian,Biryani,BBQ,Mughlai",Kanpur,Kakadeo,Quick Bites,1130am to 11pm(Mon-Sun),Good,3.6,73
+Chawla's 2 online.com,900,"Chinese,North Indian,Mughlai",Kanpur,Fazalganj,none,11am to 1030pm(Mon-Sun),Good,3.9,22
+Verma Ji Ke Golgappe,100,Fast Food,Kanpur,Mall Road,Quick Bites,12noon to 10pm(Mon-Sun),Average,3.1,21
+Manoj Fast Food Plaza,300,Chinese,Kanpur,Lajpat Nagar,Casual Dining,11am to 10pm(Mon-Sun),Good,3.5,32
+Mad About China,700,"Chinese,Momos",Kanpur,Z Square Mall-- Mall Road,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,96
+Shri Gupta Ji Kachori & Samosa,120,"Street Food,Mithai",Kanpur,Jajmau,Quick Bites,9am to 10pm(Mon-Sun),Average,3.1,9
+Kailash Misthan Bhandar,200,Desserts,Kanpur,Ashok Nagar,Dessert Parlor,10am to 1055pm(Mon-Sun),Good,3.6,58
+Arora's The Restaurant,500,"North Indian,Chinese,South Indian",Kanpur,Nandlal Chawraha,Dhaba,10am to 11pm(Mon-Sun),Good,3.7,64
+Laxmi Fast Food,150,"Chinese,Fast Food",Kanpur,Ashok Nagar,Quick Bites,10am to 1030pm(Mon-Sun),Average,3.4,18
+Ajay Sweets,200,Desserts,Kanpur,Kidwai Nagar,Sweet Shop,12noon to 10pm(Mon-Sun),Average,3.3,16
+GuruNanak Fast Food,300,Fast Food,Kanpur,Nawab Ganj,Quick Bites,"130am to 1030am(Mon,Wed,Thu,Fri,Sat,Sun)...",Good,3.6,30
+Hanuman Chaat,100,Street Food,Kanpur,Kakadeo,Quick Bites,515pm to 10pm(Mon-Sun),Average,3.2,10
+The Cage Pizza,400,"Pizza,Fast Food",Kanpur,Ashok Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,55
+Da Pizza Yum,200,"Pizza,Fast Food",Kanpur,Ratan lal Nagar,Quick Bites,11am to 1030pm(Mon-Sun),Average,3.3,17
+Shri Bhojanlaya Restaurant & Sweet,400,"North Indian,Mithai",Kanpur,Vijay Nagar,Bhojanalya,9am to 11pm(Mon-Sun),Good,3.8,88
+Bathinda Tandoori Chai & Cafe,100,"Tea,Beverages",Kanpur,Kakadeo,Beverage Shop,"10am to 1030pm(Mon,Wed,Thu,Fri,Sat,Sun)...",Average,3.4,19
+The Veg Window,0,North Indian,Kanpur,Panki,Quick Bites,9am to 7pm(Mon-Sun),Average,3.0,38
+Ghosh Misthan,200,Desserts,Kanpur,Ashok Nagar,Dessert Parlor,"830am to 10pm(Mon-Sat),830pm to 10pm(Sun)",Average,3.2,12
+Cafe Udupi Ruchi,250,"North Indian,South Indian,Chinese",Kanpur,Kidwai Nagar,Quick Bites,8am to 10pm(Mon-Sun),Average,3.4,16
+Chopra's Food Junction,200,"Rolls,Fast Food",Kanpur,Barra,Quick Bites,12noon to 830pm(Mon-Sun),Average,3.3,25
+Skyfall Lounge,2500,North Indian,Kanpur,Tilak Nagar,Lounge,630pm to 12midnight(Mon-Sun),Very Good,4.2,87
+High Spirits,1200,"Chinese,North Indian,Continental",Kanpur,Swaroop Nagar,Lounge,3pm to 1130pm(Mon-Sun),Good,3.6,42
+La Chocolaterie,550,"Desserts,Bakery",Kanpur,Fazalganj,Dessert Parlor,10am to 8pm(Mon-Sun),Average,3.3,20
+Puchii's,200,"North Indian,Fast Food",Kanpur,Lajpat Nagar,Quick Bites,"5pm to 12midnight(Mon,Wed,Thu,Fri,Sat,Sun)...",Good,3.6,57
+Mulberry Restaurant,250,"North Indian,Chinese,Fast Food",Kanpur,Panki,Casual Dining,10am to 10pm(Mon-Sun),Average,2.9,20
+Aahar,800,"North Indian,Chinese,South Indian",Kanpur,Barra,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,64
+Siddhi Vinayak Laddu Wala,300,Mithai,Kanpur,Lal Bangla,Sweet Shop,11am to 9pm(Mon-Sun),Average,3.2,18
+Shree Radhe Ki Rasoi,300,North Indian,Kanpur,Indira Nagar,Dhaba,9am to 10pm(Mon-Sun),Average,2.9,13
+Ghosh Misthan,300,Mithai,Kanpur,Arya Nagar,Dessert Parlor,830am to 10pm(Mon-Sun),Average,3.4,15
+Baba Fast Food,300,Fast Food,Kanpur,Ashok Nagar,Quick Bites,11am to 10pm(Mon-Sun),Average,3.4,15
+Pizza Street,550,Fast Food,Kanpur,Kidwai Nagar,Quick Bites,10am to 1030pm(Mon-Sun),Average,2.7,21
+Golden Coner,200,"Fast Food,Ice Cream",Kanpur,Kakadeo,Quick Bites,930am to 9pm(Mon-Sun),Average,3.0,5
+Singh Dairy & Bakery,350,"Fast Food,Bakery",Kanpur,Shyam Nagar,Bakery,10am to 10pm(Mon-Sun),Average,3.0,5
+Mehmaan Restaurant,200,"Chinese,South Indian,Continental,North Indian",Kanpur,Lal Bangla,Quick Bites,"12noon to 430pm(Mon),12noon to 1045pm(Tue-Sun)",Average,3.2,4
+Funny Town Fast Food,300,Fast Food,Kanpur,Barra,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,35
+Romi Veg,300,"Fast Food,Indian",Kanpur,Ashok Nagar,Quick Bites,11am to 10pm(Mon-Sun),Average,3.4,19
+Momos Factory & Bakers,100,Bakery,Kanpur,Govindpuri,Bakery,11am to 10pm(Mon-Sun),Average,3.2,9
+Mini Meals- The Platters,250,North Indian,Kanpur,Mall Road,Quick Bites,"11am to 10pm(Mon,Wed,Thu,Fri,Sat),Closed...",Average,3.2,6
+Goli Vada Pav,200,Fast Food,Kanpur,Govindpuri,Quick Bites,10am to 10pm(Mon-Sun),Average,3.3,18
+Food Web,200,"North Indian,Fast Food",Kanpur,Panki,Quick Bites,1130am to 1030pm(Mon-Sun),Average,3.4,19
+Tongue And Taste,150,"Momos,Sandwich",Kanpur,Kakadeo,Quick Bites,"11pm to 10pm(Mon),1pm to 10pm(Tue,Thu,Fri...",Average,3.3,15
+Labbaik Chicken Darbar,200,North Indian,Kanpur,Anwar Ganj,Quick Bites,2pm to 11pm(Mon-Sun),Good,3.6,52
+Pakvan Restaurant,850,"North Indian,Chinese",Kanpur,Kakadeo,Casual Dining,"11am to 10pm(Mon-Sat),Closed(Sun)",Average,2.9,19
+Aachi Madrasi Dosa,200,South Indian,Kanpur,Lajpat Nagar,Quick Bites,11am to 10pm(Mon-Sun),Average,2.8,16
+Chaska- A Non Veg Point,150,Fast Food,Kanpur,Shyam Nagar,Quick Bites,4pm to 10pm(Mon-Sun),Average,3.1,7
+Crème Kanpur,400,Bakery,Kanpur,Jajmau,Bakery,10am to 10pm(Mon-Sun),Average,3.2,5
+Kesarwani Fast Food,200,Fast Food,Kanpur,Harsh Nagar,Quick Bites,11am to 1030pm(Mon-Sun),Average,3.1,4
+Kwality Corner,250,Continental,Kanpur,Ashok Nagar,Quick Bites,10am to 10pm(Mon-Sun),Average,3.3,17
+Hotel Baghel Chullah,500,"Mughlai,North Indian",Kanpur,Barra,Casual Dining,5pm to 10pm(Mon-Sun),Average,3.2,8
+Manoj Fast Food,400,"Fast Food,Chinese",Kanpur,Kakadeo,Casual Dining,12noon to 11pm(Mon-Sun),Good,3.6,86
+Veg Hunger Point,300,"Chinese,Biryani,Rolls",Kanpur,Swaroop Nagar,Quick Bites,11am to 10pm(Mon-Sun),Average,3.1,8
+Bajpai Sweets,200,Desserts,Kanpur,Lajpat Nagar,Dessert Parlor,10am to 10pm(Mon-Sun),Average,3.2,8
+Hot Bites,500,Fast Food,Kanpur,Rave Moti-- Kakadeo,Quick Bites,11am to 9pm(Mon-Sun),Average,2.7,10
+Chhappan Bhog,200,"North Indian,South Indian",Kanpur,Nawab Ganj,Quick Bites,8am to 10pm(Mon-Sun),Average,3.2,5
+Ganesh Restaurant,300,"North Indian,Fast Food",Kanpur,Keshavpuram,Quick Bites,11am to 10pm(Mon-Sun),Average,3.1,11
+The Unbeatable Brothers,250,"South Indian,Chinese,Continental",Kanpur,Geeta Nagar,Quick Bites,10am to 10pm(Mon-Sun),Average,3.1,4
+Taal,300,"North Indian,Chinese,Continental",Kanpur,Kidwai Nagar Market,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,51
+Vaidik Cafe,200,"North Indian,Chinese,Italian",Kanpur,Shyam Nagar,Quick Bites,1pm to 9pm(Mon-Sun),Average,2.9,11
+Saanjha,200,"Chinese,North Indian",Kanpur,Fazalganj,Quick Bites,11am to 10pm(Mon-Sun),Average,3.2,6
+Hargun Bakery,300,Bakery,Kanpur,Ratan lal Nagar,Bakery,11am to 8pm(Mon-Sun),Average,3.2,7
+Grill Inn,200,Italian,Kanpur,Indira Nagar,Casual Dining,10am to 930pm(Mon-Sun),Average,3.2,5
+RTS Enterprises,300,North Indian,Kanpur,General Ganj,Quick Bites,11am to 9pm(Mon-Sun),Average,3.2,8
+Surjeet Fast Food,300,Fast Food,Kanpur,Tilak Nagar,Quick Bites,11am to 10pm(Mon-Sun),Average,3.1,6
+The Grill Corner,200,Fast Food,Kanpur,Barra,Quick Bites,1130am to 11pm(Mon-Sun),Average,3.4,50
+Dabang Chicken Biryani,200,North Indian,Kanpur,Lal Bangla,Quick Bites,10am to 10pm(Mon-Sun),Average,2.9,10
+Punjabi Dhaba,200,"North Indian,Chinese",Kanpur,Panki,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,42
+Om Sai Bhojnalaya,300,North Indian,Kanpur,Kakadeo,Quick Bites,730am to 10pm(Mon-Sun),Average,2.8,7
+Mayank Bakery,700,Bakery,Kanpur,Swaroop Nagar,Quick Bites,930am to 10pm(Mon-Sun),Average,3.0,4
+Desi Adda,200,Fast Food,Kanpur,Panki,Quick Bites,10am to 10pm(Mon-Sun),Average,3.2,7
+Mutton King,400,Mughlai,Kanpur,Rai Purwa,none,"4pm to 11pm(Mon,Wed,Thu,Fri,Sat,Sun),Closed...",Very Good,4.0,79
+Siddiq Biryani Corner,200,Biryani,Kanpur,Nayi Chungi,Quick Bites,8am to 4pm(Mon-Sun),Average,2.8,8
+Anil Meat Wala,300,North Indian,Kanpur,Indira Nagar,Quick Bites,2pm to 10pm(Mon-Sun),Average,3.0,4
+New Bhatia Corner,400,Bakery,Kanpur,Ashok Nagar,Bakery,8am to 10pm(Mon-Sun),Average,3.2,7
+H.A Food Center,300,Fast Food,Kanpur,Lajpat Nagar,none,"5pm to 10pm(Mon,Wed,Thu,Fri,Sat,Sun),Closed...",Average,3.1,5
+Now Maggi time Fast Food,250,"Chinese,South Indian,Rolls",Kanpur,Fazalganj,Quick Bites,11am to 1030pm(Mon-Sun),Average,3.1,5
+Shiv Shakti Dugdh Bhandar,500,Mithai,Kanpur,Kidwai Nagar,Sweet Shop,8am to 10pm(Mon-Sun),Average,3.1,6
+Waffles Point,150,Fast Food,Kanpur,Jajmau,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,37
+Tvarita Tiffin Catering & Event Management Company,150,North Indian,Kanpur,Shyam Nagar,none,11am to 11pm(Mon-Sun),Good,3.5,38
+Garib Nawaj Chicken Darbar,150,North Indian,Kanpur,Nayi Chungi,Quick Bites,9am to 10pm(Mon-Sun),Average,3.0,4
+Havmor Ice cream,250,Ice Cream,Kanpur,Swaroop Nagar,Dessert Parlor,11am to 11pm(Mon-Sun),Good,3.8,26
+Aarna Fast Food and Restaurant,200,"Chinese,Fast Food",Kanpur,Kakadeo,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,49
+New Chicken Mall,600,North Indian,Kanpur,Nayi Chungi,Casual Dining,1pm to 11pm(Mon-Sun),Good,3.8,44
+Indian Tadka,600,North Indian,Kanpur,Z Square Mall-- Mall Road,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,76
+New Good Luck,400,"North Indian,Chinese",Kanpur,Lajpat Nagar,Quick Bites,1130am to 11pm(Mon-Sun),Good,3.7,73
+Jai Dosa King Cafe,400,"Cafe,Chinese,Fast Food,North Indian,South Indian",Kanpur,Kidwai Nagar Market,Casual Dining,1030am to 11pm(Mon-Sun),Average,3.3,68
+Wow! Momo,250,"Chinese,Momos,Tibetan",Kanpur,Z Square Mall-- Mall Road,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,27
+Kanha Continental,850,"North Indian,Chinese,Continental",Kanpur,Ashok Nagar,Casual Dining,12noon to 11pm(Mon-Sun),Good,3.7,84
+Offline Cafe,800,"Cafe,Continental",Kanpur,Tilak Nagar,Café,24,Very Good,4.2,529
+Veggie HUB,400,"South Indian,Fast Food,North Indian,Chinese",Kanpur,Kidwai Nagar,Casual Dining,10am to 11pm(Mon-Sun),Good,3.5,303
+Anaicha's Food Joint,1000,"North Indian,South Indian,Continental,Chinese,Italian,Fast Food,Street Food,Beverages",Kanpur,Swaroop Nagar,Casual Dining,1130am to 11pm(Mon-Sun),Very Good,4.0,335
+Cawnpore Kitchen,1000,"North Indian,Mughlai",Kanpur,Kidwai Nagar,Casual Dining,11am to 11pm(Mon-Sun),Good,3.9,169
+The Mill,1400,"Continental,Italian,North Indian",Kanpur,Azad Nagar,Casual Dining,12noon to 12midnight(Mon-Sun),Very Good,4.1,181
+Treat,500,"Fast Food,North Indian",Kanpur,Naveen Market-- Mall Road,Casual Dining,9am to 11pm(Mon-Sun),Very Good,4.1,365
+THE Treehouse Cafe,700,"Asian,Bakery,Biryani,Burger,Chinese,Afghan",Kanpur,Swaroop Nagar,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.0,277
+R S Bhojnalay,300,Indian,Kanpur,Kakadeo,Bhojanalya,12noon to 11pm(Mon-Sun),Very Good,4.0,278
+Tunday Kababi,400,Lucknowi,Kanpur,Z Square Mall-- Mall Road,Quick Bites,12noon to 11pm(Mon-Sun),Very Good,4.2,256
+Zinaldia,1200,"North Indian,Chinese,Italian,Mexican,Continental",Kanpur,Swaroop Nagar,Lounge,"1230pm to 1130pm(Mon-Fri),1230pm to 1am(Sat-Sun)",Excellent,4.5,177
+Barracks,800,"Finger Food,North Indian",Kanpur,Swaroop Nagar,Lounge,"12midnight to 5am,12noon to 12midnight(Mon-Sun)",Very Good,4.2,420
+Sidhu Nonveg Point,350,"North Indian,Mughlai",Kanpur,Nandlal Chawraha,Quick Bites,2pm to 11pm(Mon-Sun),Very Good,4.2,225
+Khan Baba,500,"Afghan,Mughlai,Rolls",Kanpur,Mall Road,Quick Bites,1230pm to 1230AM(Mon-Sun),Very Good,4.1,320
+The Hidden Lounge,700,"Chinese,North Indian,Continental",Kanpur,Swaroop Nagar,Casual Dining,10am to 11pm(Mon-Sun),Very Good,4.2,391
+UrbanCrave,1200,"Cafe,Continental,Desserts,Ice Cream,Italian,Beverages",Kanpur,Parade,Café,"12midnight to 2am,12noon to 12midnight(Mon-Sun)",Very Good,4.0,335
+# Wednesday,250,"Fast Food,Chinese,North Indian",Kanpur,Keshavpuram,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,26
+Real Bombay Bhelpuri,300,"Burger,Chinese,Pizza,Sandwich",Kanpur,Swaroop Nagar,Quick Bites,12noon to 12midnight(Mon-Sun),Good,3.7,58
+Sri Vindhyawasini Sweets & Restaurant,300,Fast Food,Kanpur,Jajmau,Quick Bites,1130am to 11pm(Mon-Sun),Average,3.3,38
+Kababji,300,"North Indian,Kebab",Kanpur,Kanpur Cantt,Quick Bites,4pm to 11pm(Mon-Sun),Good,3.9,52
+Jee Sahab,500,North Indian,Kanpur,Vijay Nagar,Casual Dining,"11am to 4pm,7pm to 11pm(Mon-Sun)",Good,3.7,68
+Rahul Sweets And Restaurant,300,North Indian,Kanpur,Shastri Nagar,Quick Bites,"11am to 4pm,7pm to 11pm(Mon-Sun)",Good,3.6,79
+Gravity 360 Degreeze,1500,"Finger Food,Fast Food",Kanpur,Fazalganj,Lounge,6pm to 11pm(Mon-Sun),Average,3.1,80
+Veg Point,100,North Indian,Kanpur,Kakadeo,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,28
+Krishna Palace,300,"North Indian,South Indian,Chinese",Kanpur,Birhana Road,Casual Dining,11am to 11pm(Mon-Sun),Average,2.8,92
+AL- Baik.Com,300,"Fast Food,Burger,Beverages",Kanpur,Nandlal Chawraha,Quick Bites,2pm to 11pm(Mon-Sun),Good,3.8,56
+Vardaan mutton corner,400,North Indian,Kanpur,Swaroop Nagar,Quick Bites,3pm to 12midnight(Mon-Sun),Good,3.8,42
+Arinoma Julia,250,North Indian,Kanpur,Ratan lal Nagar,Quick Bites,"4pm to 1130pm(Mon,Wed,Thu,Fri,Sat,Sun)...",Good,3.7,39
+Tadka - The Food Cafe,400,"North Indian,Chinese,South Indian",Kanpur,Barra,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,33
+Hatrick The Sports Bar,500,Finger Food,Kanpur,Swaroop Nagar,Casual Dining,1230pm to 12midnight(Mon-Sun),Very Good,4.0,21
+Freezing Hub,300,"Ice Cream,Desserts",Kanpur,Govindpuri,Dessert Parlor,1230pm to 12midnight(Mon-Sun),Good,3.5,55
+Singh Non Veg Point,250,North Indian,Kanpur,Govindpuri,Quick Bites,5pm to 11pm(Mon-Sun),Good,3.5,27
+Rakesh Chicken Biryani,300,Biryani,Kanpur,Fazalganj,Quick Bites,5pm to 11pm(Mon-Sun),Average,3.3,52
+ANNAPURNA BHOJNALAYA,200,North Indian,Kanpur,Ashok Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,28
+sky lounge,1000,"Continental,North Indian",Kanpur,Swaroop Nagar,Lounge,11am to 11pm(Mon-Sun),Good,3.8,40
+Cafe Coffee Day,500,Cafe,Kanpur,Kakadeo,Café,10am to 11pm(Mon-Sun),Average,2.5,52
+The Kitchen,400,North Indian,Kanpur,Kidwai Nagar,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.5,48
+Shri Rajkamal Bakers And Sweets,300,"Bakery,Mithai",Kanpur,Ratan lal Nagar,Bakery,11am to 11pm(Mon-Sun),Good,3.7,38
+Pizza Cave,200,"Italian,Fast Food",Kanpur,Lal Bangla,Quick Bites,11am to 11pm(Mon-Sun),Average,2.9,16
+Bua Ji Ki Rasoi,300,North Indian,Kanpur,Fazalganj,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,43
+Friends Cafe & Lounge,800,"North Indian,Fast Food",Kanpur,Arya Nagar,Casual Dining,12noon to 11pm(Mon-Sun),Average,2.6,43
+Shivam Sweets & Restaurant,200,"North Indian,Fast Food,Mithai",Kanpur,Shyam Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,32
+Hot Chicken Store,400,North Indian,Kanpur,Colonel Ganj,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,34
+BFC Food Center,300,"Chinese,Rolls",Kanpur,Nandlal Chawraha,Quick Bites,2pm to 11pm(Mon-Sun),Average,3.4,42
+Sohum's Sweets,300,Mithai,Kanpur,Nandlal Chawraha,Sweet Shop,9am to 11pm(Mon-Sun),Good,3.7,44
+Jo Hukum,500,North Indian,Kanpur,Saket Nagar,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,63
+Rathi Dhokla and Namkeen,200,Fast Food,Kanpur,General Ganj,none,9am to 11pm(Mon-Sun),Good,3.8,36
+Urban Chutney,550,"North Indian,Chinese",Kanpur,Mall Road,none,11am to 11pm(Mon-Sun),Good,3.5,56
+Al Huda,500,North Indian,Kanpur,Parade,Quick Bites,3pm to 11pm(Mon-Sun),Good,3.8,79
+The Red Olive,1200,"North Indian,Mughlai,Italian",Kanpur,Ashok Nagar,Casual Dining,11am to 1130pm(Mon-Sun),Good,3.7,39
+Spice Box,350,"North Indian,South Indian,Chinese,Rolls",Kanpur,Kidwai Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,30
+Foodnut Restaurant,300,Fast Food,Kanpur,Lal Bangla,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,20
+The Sweet Tooth Cafe,400,Desserts,Kanpur,Nandlal Chawraha,Dessert Parlor,11am to 11pm(Mon-Sun),Good,3.8,43
+Stone,2000,Modern Indian,Kanpur,Status Club-- Kanpur Cantonment,Lounge,7pm to 12midnight(Mon-Sun),Good,3.6,60
+Vessel- The Bridge,1500,"North Indian,Mughlai,Chinese,Continental",Kanpur,Anwar Ganj,Casual Dining,"7am to 1030am,11am to 11pm(Mon-Sun)",Average,3.4,38
+Shahi Darbar,200,North Indian,Kanpur,Parade,Quick Bites,430pm to 11pm(Mon-Sun),Average,3.3,23
+Shang-Hai Chinese Restaurant,500,Chinese,Kanpur,Mall Road,Quick Bites,"11am to 3pm,7pm to 11pm(Mon-Sun)",Good,3.7,54
+Madhuban Masti Restaurant,800,"South Indian,North Indian,Chinese",Kanpur,Bithoor,Casual Dining,9am to 11pm(Mon-Sun),Average,2.8,17
+Chinese Hub,300,"Chinese,Fast Food,South Indian,North Indian",Kanpur,Kakadeo,Quick Bites,8am to 11pm(Mon-Sun),Average,2.8,58
+Chef On Wheels,350,"North Indian,Chinese",Kanpur,Swaroop Nagar,Quick Bites,"7am to 11pm(Mon,Wed,Thu,Fri,Sat,Sun),Closed...",Good,3.8,49
+Swad Paratha Point,200,North Indian,Kanpur,Saket Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,49
+Meena's Food House,300,"Fast Food,Chinese,North Indian",Kanpur,Indira Nagar,Quick Bites,1pm to 11pm(Mon-Sun),Average,3.3,52
+Kool Ice Cream Parlour & Fast Food,400,"Fast Food,Ice Cream,Desserts",Kanpur,Swaroop Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,33
+Turnip,850,"North Indian,Chinese,Continental",Kanpur,Tilak Nagar,Casual Dining,12noon to 11pm(Mon-Sun),Good,3.6,63
+Delicious Kebab Paratha,200,"Fast Food,Street Food",Kanpur,Birhana Road,Quick Bites,2pm to 11pm(Mon-Sun),Average,3.2,25
+Pushpanjali Restaurant And Fast Food Corner,600,"North Indian,Chinese,Fast Food",Kanpur,Barra,Casual Dining,10am to 11pm(Mon-Sun),Average,3.2,63
+Avon Biryani,500,"Biryani,North Indian",Kanpur,Ashok Nagar,Quick Bites,"4pm to 11pm(Mon,Wed,Thu,Fri,Sat,Sun),Closed...",Good,3.5,40
+Punjabi Non-Veg Corner,500,"North Indian,Fast Food",Kanpur,Nandlal Chawraha,Quick Bites,6pm to 11pm(Mon-Sun),Good,3.5,33
+Daddy's Kitchen,150,"Rolls,Fast Food,Street Food",Kanpur,Ratan lal Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,24
+Shakerrz,200,"Fast Food,Chinese,Pizza",Kanpur,Swaroop Nagar,Quick Bites,9am to 12midnight(Mon-Sun),Average,3.4,20
+Cheers The Godly Drink,250,"Beverages,Desserts,Ice Cream",Kanpur,Swaroop Nagar,Quick Bites,1pm to 1130pm(Mon-Sun),Good,3.5,38
+Party Point,450,Fast Food,Kanpur,Swaroop Nagar,Quick Bites,1pm to 11pm(Mon-Sun),Average,3.3,41
+Noodle Station,450,"Chinese,Momos",Kanpur,Z Square Mall-- Mall Road,Casual Dining,11am to 11pm(Mon-Sun),Average,3.1,59
+Fish Chicken & Mutton Point,400,Mughlai,Kanpur,Nandlal Chawraha,Quick Bites,530pm to 1130pm(Mon-Sun),Average,3.4,34
+KGN AAB-O-DAANA,150,Mughlai,Kanpur,Jajmau,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,19
+Mediterra - Hotel Royal Cliff,1500,Mediterranean,Kanpur,Hotel Royal Cliff,Casual Dining,7pm to 11pm(Mon-Sun),Good,3.7,44
+Ram Misthan Bhandar,400,Mithai,Kanpur,General Ganj,Sweet Shop,9am to 11pm(Mon-Sun),Average,3.2,8
+Chennai Dosa,200,South Indian,Kanpur,Swaroop Nagar,Quick Bites,12noon to 12midnight(Mon-Sun),Average,3.4,23
+Nigam Dosawale,300,South Indian,Kanpur,Parade,Quick Bites,1130am to 1130pm(Mon-Sun),Average,3.2,23
+Kolkata Non-Veg Point,250,Fast Food,Kanpur,Lal Bangla,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.5,25
+Flavours Fast Food,100,"Desserts,Fast Food",Kanpur,Shyam Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,6
+Veera Maggie Point,150,Fast Food,Kanpur,Kidwai Nagar,Quick Bites,7am to 12midnight(Mon-Sun),Average,3.4,13
+Ganesh Family Restaurant,400,"Chinese,North Indian,South Indian",Kanpur,Kidwai Nagar Market,Quick Bites,1030am to 11pm(Mon-Sun),Average,3.4,38
+Labhedi Kulfi,200,"Desserts,Ice Cream",Kanpur,Fazalganj,Dessert Parlor,8am to 12midnight(Mon-Sun),Average,3.4,11
+Paras Kulfi Falooda,150,Desserts,Kanpur,Mall Road,Dessert Parlor,12noon to 1130pm(Mon-Sun),Average,3.3,16
+Murli Batashe Wale,100,Street Food,Kanpur,Birhana Road,Quick Bites,3pm to 11pm(Mon-Sun),Good,3.6,31
+SGM(Sanjay Guest House),550,"North Indian,Seafood",Kanpur,Govindpuri,Café,10am to 11pm(Mon-Sun),Good,3.5,48
+Temptations,500,Fast Food,Kanpur,Mall Road,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,40
+Khajoor Gallery,150,"Desserts,Bakery",Kanpur,Colonel Ganj,Confectionery,"11am to 11pm(Mon,Tue,Wed,Thu,Sat,Sun),1pm...",Average,3.4,30
+Minute Foods,150,"North Indian,Fast Food",Kanpur,Kidwai Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,14
+The Soda Cafe,150,"Fast Food,Pizza,Burger",Kanpur,Saket Nagar,Quick Bites,830am to 1130pm(Mon-Sun),Good,3.5,24
+Maharaja's Pride,200,"Momos,Rolls",Kanpur,Kakadeo,Quick Bites,2pm to 11pm(Mon-Sun),Average,2.7,31
+Arey Waah,800,"Chinese,Continental,North Indian",Kanpur,Arya Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,42
+Laxmi Madrasi Dosa,250,"South Indian,Chinese",Kanpur,Arya Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,14
+Pet Pooja,250,"North Indian,Fast Food,Street Food",Kanpur,Birhana Road,Casual Dining,830am to 11pm(Mon-Sun),Average,2.9,42
+Chennai Express,500,Fast Food,Kanpur,Swaroop Nagar,Quick Bites,11am to 2am(Mon-Sun),Good,3.7,19
+Biryani Hub,250,"North Indian,Mughlai",Kanpur,Jajmau,Quick Bites,11am to 11pm(Mon-Sun),Average,2.9,13
+Unplug Lounge,700,Cafe,Kanpur,Lajpat Nagar,Café,2pm to 11pm(Mon-Sun),Average,3.3,35
+Say Cheezz,250,Fast Food,Kanpur,Arya Nagar,Quick Bites,"2pm to 11pm(Mon,Wed,Thu,Fri,Sat,Sun),Closed...",Good,3.6,29
+Baskin Robbins,300,Ice Cream,Kanpur,Swaroop Nagar,Dessert Parlor,11am to 11pm(Mon-Sun),Good,3.9,29
+Pooja Dhaba Family Restaurant,300,"North Indian,South Indian,Chinese",Kanpur,Shyam Nagar,Casual Dining,12noon to 11pm(Mon-Sun),Average,3.2,8
+Khana Pani,500,"North Indian,South Indian,Chinese",Kanpur,Mall Road,Casual Dining,12noon to 11pm(Mon-Sun),Average,3.4,34
+Snacks Factory,300,"Indian,Fast Food,Chinese",Kanpur,Shastri Nagar,Casual Dining,"Closed(Mon),130pm to 11pm(Tue-Sun)",Average,3.4,40
+Shri Bhojnam Food,200,North Indian,Kanpur,Saket Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,21
+Trance - Hotel Royal Cliff,2000,"North Indian,Chinese",Kanpur,Hotel Royal Cliff,Fine Dining,2pm to 11pm(Mon-Sun),Good,3.5,44
+Spice Cafe,100,Fast Food,Kanpur,Indira Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,15
+Ansaar BBQ,250,Mughlai,Kanpur,Jajmau,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,12
+Premio Gelato,300,Desserts,Kanpur,Swaroop Nagar,Dessert Parlor,1pm to 12noon(Mon-Sun),Good,3.7,20
+Special Chicken Biryani,200,Biryani,Kanpur,Fazalganj,Quick Bites,3pm to 11pm(Mon-Sun),Average,3.3,18
+The President Hotel,500,North Indian,Kanpur,Keshavpuram,Casual Dining,12noon to 11pm(Mon-Sun),Average,2.9,25
+Chakhna Bhojnalaya & Fast Food Point,100,Fast Food,Kanpur,Jajmau,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,9
+Rahi Darbar,300,North Indian,Kanpur,Jajmau,Quick Bites,12noon to 11pm(Mon-Sun),Priemer,3.2,24
+Hi-Street Food,150,Fast Food,Kanpur,Lal Bangla,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,12
+Big Crisp,300,Fast Food,Kanpur,Kakadeo,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,24
+Bhatia Restaurant Food Express,300,North Indian,Kanpur,Parade,Casual Dining,2pm to 11pm(Mon-Sun),Average,3.4,39
+Rigour Fast Food,200,Fast Food,Kanpur,Fazalganj,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,23
+Noodle Oodle,400,Chinese,Kanpur,Indira Nagar,Quick Bites,2pm to 11pm(Mon-Sun),Average,3.3,21
+Shaunak's Cafe,200,"Fast Food,Coffee,Beverages",Kanpur,Kidwai Nagar,Quick Bites,9am to 11pm(Mon-Sun),Average,3.1,17
+7 to Eleven pm,400,Fast Food,Kanpur,Fazalganj,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,24
+Red Chilli Restaurant,500,"North Indian,Chinese",Kanpur,Nawab Ganj,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,20
+Lajawab Biriyani,400,Hyderabadi,Kanpur,Fazalganj,Casual Dining,12noon to 11pm(Mon-Sun),Average,3.4,43
+Kalyan Bakery,200,Bakery,Kanpur,Vijay Nagar,Bakery,10am to 11pm(Mon-Sun),Average,3.4,24
+Kalyan-G Bakery,200,Bakery,Kanpur,Ashok Nagar,Bakery,11am to 11pm(Mon-Sun),Average,3.4,22
+S S K Continental,150,"South Indian,Fast Food,Street Food,Beverages",Kanpur,Barra,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,8
+Monu Juice And Ice Cream Corner,100,Fast Food,Kanpur,Saket Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,16
+R.K. Mumbaiya Vada Pav.,150,Street Food,Kanpur,Lajpat Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,29
+Crescent Ice Cream Parlor Bakery & Restaurant,200,"Ice Cream,Desserts",Kanpur,Kakadeo,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,8
+Lucky Restaurant & Ice Cream Parlour,150,"Ice Cream,Fast Food",Kanpur,Lal Bangla,Dessert Parlor,11am to 11pm(Mon-Sun),Average,3.2,5
+Giani Ice Cream,350,"Ice Cream,Beverages",Kanpur,Mall Road,Dessert Parlor,11am to 11pm(Mon-Sun),Average,3.3,10
+Mastana Dosa,200,South Indian,Kanpur,Rai Purwa,Quick Bites,"Closed(Mon),5pm to 11pm(Tue-Sun)",Average,3.3,14
+Tandoori Nights,300,"North Indian,Fast Food",Kanpur,Arya Nagar,Casual Dining,"530pm to 11pm(Mon,Wed,Thu,Fri,Sat,Sun)...",Good,3.7,38
+Kallu Dosa Wala,200,"South Indian,Fast Food",Kanpur,Birhana Road,Kiosk,3pm to 11pm(Mon-Sun),Average,3.1,15
+Tandoori Brothers Tea Cafe,300,"Tea,Fast Food",Kanpur,Mall Road,Beverage Shop,11am to 11pm(Mon-Sun),Average,3.4,19
+Lollipop Veg Restaurant,300,"Chinese,Rolls,Fast Food",Kanpur,Lajpat Nagar,Quick Bites,"1pm to 11pm(Mon,Wed,Thu,Fri,Sat,Sun),Closed...",Good,3.7,36
+Chef Xpress,500,North Indian,Kanpur,Lajpat Nagar,Casual Dining,1pm to 11pm(Mon-Sun),Good,3.5,23
+Food Bytes,300,Fast Food,Kanpur,Kakadeo,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,28
+Amit Special Masala Dosa,100,"South Indian,Street Food",Kanpur,Vijay Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,30
+Mc Paa,250,"Fast Food,Burger",Kanpur,Bithoor,none,11am to 11pm(Mon-Sun),Good,3.5,25
+Crispy Singh,300,"Burger,Fast Food",Kanpur,Govindpuri,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,33
+New Evergreen Food Plaza,300,"North Indian,Chinese",Kanpur,Armapur,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,10
+My Choice Galaxy Restaurant & Bakery,400,"North Indian,Chinese,South Indian,Fast Food",Kanpur,Keshavpuram,Casual Dining,1130am to 11pm(Mon-Sun),Average,3.2,13
+The Host,400,North Indian,Kanpur,Mall Road,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,20
+Amber Hotel,300,North Indian,Kanpur,Mall Road,Quick Bites,230pm to 1130pm(Mon-Sun),Average,3.3,11
+3VR Pizza Inn,500,Pizza,Kanpur,Kidwai Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,28
+Bake Off!,400,"Cafe,Desserts",Kanpur,Ashok Nagar,Café,11am to 11pm(Mon-Sun),Good,3.6,14
+Amber Hotel,350,North Indian,Kanpur,Mall Road,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,9
+Food Garage,800,"North Indian,Chinese,BBQ",Kanpur,Kakadeo,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,11
+Nandini'S Kitchen,200,"Fast Food,North Indian",Kanpur,Kakadeo,Quick Bites,"9am to 11pm(Mon,Tue,Wed,Fri,Sat,Sun),9am to ...",Average,3.1,7
+Murga Shurga Family Restaurant,650,Mughlai,Kanpur,Lajpat Nagar,Quick Bites,"1pm to 11pm(Mon,Wed,Thu,Fri,Sat,Sun),Closed...",Very Good,4.3,409
+Liquid,1000,"Finger Food,North Indian,Continental,Italian,Mediterranean",Kanpur,Ashok Nagar,Lounge,4pm to 1am(Mon-Sun),Very Good,4.0,285
+Jai Siyaram Hotel,400,North Indian,Kanpur,Ghantaghar,Quick Bites,11am to 12midnight(Mon-Sun),Very Good,4.0,242
+Mama Hotel,300,North Indian,Kanpur,Swaroop Nagar,Quick Bites,11am to 1130pm(Mon-Sun),Good,3.8,225
+Eclair,400,"Bakery,Desserts",Kanpur,Lajpat Nagar,Bakery,8am to 11pm(Mon-Sun),Very Good,4.1,177
+CHOOLAAH,700,"Mughlai,Chinese",Kanpur,Lajpat Nagar,Casual Dining,12noon to 11pm(Mon-Sun),Very Good,4.0,375
+Frozen Junction,350,Ice Cream,Kanpur,Swaroop Nagar,Dessert Parlor,12noon to 12midnight(Mon-Sun),Very Good,4.2,163
+Ice Cube,400,"North Indian,Chinese,South Indian,Fast Food",Kanpur,Lal Bangla,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,198
+Yappy Cafe,650,"North Indian,Italian,Chinese,Cafe",Kanpur,Kakadeo,Café,24,Good,3.9,172
+Dawat,500,North Indian,Kanpur,Nandlal Chawraha,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,256
+Waterside - The Landmark Hotel,3000,"North Indian,Chinese",Kanpur,The Landmark Hotel-- Mall Road,Fine Dining,7am to 12midnight(Mon-Sun),Very Good,4.2,250
+NH 91,550,"North Indian,Fast Food",Kanpur,IIT Kanpur,Casual Dining,11am to 11pm(Mon-Sun),Good,3.7,281
+Kudos,350,"Fast Food,Pizza",Kanpur,Lal Bangla,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,164
+China Town,350,"Chinese,North Indian",Kanpur,IIT Kanpur,Casual Dining,11am to 11pm(Mon-Sun),Good,3.6,296
+Lucky Bhojnalay,200,North Indian,Kanpur,Kakadeo,Bhojanalya,11am to 11pm(Mon-Sun),Average,3.1,160
+The Star - Black,1200,Finger Food,Kanpur,Kakadeo,Pub,6pm to 1am(Mon-Sun),Average,3.3,24
+UP Fillers,300,"Fast Food,Tibetan",Kanpur,Fazalganj,Quick Bites,1pm to 11pm(Mon-Sun),Average,3.4,26
+Jaiswal Bhojanalay,200,North Indian,Kanpur,Lal Bangla,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,14
+SWASTIK RESTAURANT,600,North Indian,Kanpur,Lajpat Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.2,25
+Bajpai Food Hut,300,"Burger,Chinese,South Indian",Kanpur,Ashok Nagar,Quick Bites,12noon to 12midnight(Mon-Sun),Average,3.4,25
+Kalyan-G-Bakery,50,"Bakery,Desserts",Kanpur,Ashok Nagar,Bakery,11am to 11pm(Mon-Sun),Average,2.8,24
+Sunil Meat Wala,300,North Indian,Kanpur,Govindpuri,Quick Bites,1pm to 11pm(Mon-Sun),Average,3.3,10
+SD Eats (Hotel Sain Dass),700,"Chinese,North Indian,Mughlai,Beverages",Kanpur,Ashok Nagar,Casual Dining,8am to 1130pm(Mon-Sun),Average,3.3,11
+Crispy The Food Hub,200,"North Indian,Chinese,Fast Food",Kanpur,Kidwai Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,5
+Pizzaria,600,Pizza,Kanpur,Ashok Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,2.9,20
+Cakewalk,300,Bakery,Kanpur,Nandlal Chawraha,Bakery,9am to 11pm(Mon-Sun),Average,3.2,20
+Airbus,800,"North Indian,Continental",Kanpur,Nandlal Chawraha,Casual Dining,12noon to 11pm(Mon-Sun),Average,3.0,24
+Airbus,800,"North Indian,Continental",Kanpur,Nandlal Chawraha,Casual Dining,12noon to 11pm(Mon-Sun),Average,3.0,24
+Laddi Meat Wale,300,North Indian,Kanpur,Govindpuri,Quick Bites,"5pm to 11pm(Mon,Wed,Thu,Fri,Sat,Sun),Closed...",Average,3.4,17
+Bombay Choupati,500,"Street Food,North Indian",Kanpur,Saket Nagar,Quick Bites,"10am to 4pm,7pm to 11pm(Mon-Sun)",Average,2.5,23
+Punjabi Rasoi,250,North Indian,Kanpur,Lal Bangla,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,7
+Gwaliya Street Foods,150,Fast Food,Kanpur,IIT Kanpur,Quick Bites,330pm to 11pm(Mon-Sun),Average,3.2,6
+Goldee Exclusive,200,"Fast Food,Bakery",Kanpur,Ratan lal Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,21
+Lazzat Restaurent,300,"Chinese,South Indian,North Indian",Kanpur,Kakadeo,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,17
+Ice Zone,250,Ice Cream,Kanpur,Ashok Nagar,Dessert Parlor,11am to 11pm(Mon-Sun),Good,3.5,21
+Offline Replay,800,"North Indian,Chinese,Continental",Kanpur,Swaroop Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,6
+Taste Junction,300,Fast Food,Kanpur,Rai Purwa,Quick Bites,"1pm to 12midnight(Mon,Wed,Thu,Fri,Sat,Sun)...",Average,3.3,17
+Accubo,700,"North Indian,Chinese,Continental",Kanpur,Lajpat Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.4,16
+SRK FAST FOOD,300,"Chinese,South Indian",Kanpur,Lal Bangla,Casual Dining,12noon to 11pm(Mon-Sun),Average,3.2,8
+Plaza Ice Cream,150,"Ice Cream,Desserts",Kanpur,Swaroop Nagar,Dessert Parlor,2pm to 11pm(Mon-Sun),Average,3.3,11
+"WTF!!? Wow, Tasty, Food",100,Street Food,Kanpur,Keshavpuram,Quick Bites,11am to 11pm(Mon-Sun),Average,2.7,26
+The Pizza Bite,200,Pizza,Kanpur,Kidwai Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,15
+Mahendra's T3- The Tempting Table,250,"North Indian,Fast Food",Kanpur,Swaroop Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,10
+Chill 91,600,"North Indian,Chinese",Kanpur,IIT Kanpur,Casual Dining,12noon to 11pm(Mon-Sun),Average,3.3,16
+Naturelo,400,"Ice Cream,Beverages",Kanpur,Swaroop Nagar,Dessert Parlor,12noon to 12midnight(Mon-Sun),Average,3.3,14
+Swami Mishthan Bhandar,150,"Mithai,Fast Food",Kanpur,Barra,Sweet Shop,11am to 11pm(Mon-Sun),Average,3.1,6
+Ching Chong Chicken Corner,300,"Mughlai,Indian",Kanpur,Fazalganj,Quick Bites,1pm to 11pm(Mon-Sun),Average,3.3,18
+VINO Restaurant,300,"North Indian,Chinese,Continental,Desserts,Beverages",Kanpur,Kidwai Nagar,Quick Bites,12noon to 12midnight(Mon-Sun),Average,3.2,8
+Kalyan-G Bakery,200,Bakery,Kanpur,Nandlal Chawraha,Bakery,11am to 11pm(Mon-Sun),Average,3.3,11
+Maa Riddhi Mushoor Poha Oil Free,200,Fast Food,Kanpur,Swaroop Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,6
+The Hidden Family Restaurant,700,"North Indian,Biryani",Kanpur,Swaroop Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,10
+Pizza Live Kitchen By Baba,250,"Fast Food,Pizza",Kanpur,Jajmau,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,8
+Kitchen By Shanti Kutir,250,North Indian,Kanpur,Swaroop Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,14
+Stratos Cafeteria,200,"Beverages,Salad,Coffee,Bakery",Kanpur,Lajpat Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,7
+24 Carat Restaurant,700,"North Indian,Chinese",Kanpur,Kakadeo,Quick Bites,12noon to 11pm(Mon-Sun),Good,3.5,15
+Agarwal Bhojnalya-Hathras wale,150,North Indian,Kanpur,Parade,Bhojanalya,730am to 11pm(Mon-Sun),Average,3.0,7
+Santushti Restaurant,500,"North Indian,Chinese,Italian,Fast Food",Kanpur,Lal Bangla,Casual Dining,8am to 11pm(Mon-Sun),Good,3.5,21
+Veggie Junction - The Chinese Hub,250,"Chinese,Pizza,Burger",Kanpur,Swaroop Nagar,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.3,15
+Hotel Dasterkhwan,400,North Indian,Kanpur,Kidwai Nagar Market,Quick Bites,"3pm to 11pm(Mon,Wed,Thu,Fri,Sat,Sun),Closed...",Average,2.9,15
+The Chinese Corner,150,Chinese,Kanpur,Lal Bangla,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,6
+Offline- On The Go,500,"Fast Food,Pizza,Burger",Kanpur,Shastri Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,7
+MKR Wild Wings,250,"North Indian,BBQ,Beverages",Kanpur,Kidwai Nagar,Quick Bites,"5pm to 11pm(Mon,Wed,Thu,Fri,Sat,Sun),Closed...",Average,3.3,12
+Pipe Dreamz,600,Asian,Kanpur,Nandlal Chawraha,Casual Dining,10am to 11pm(Mon-Sun),Average,3.4,14
+Sidhu Veg Point,350,Street Food,Kanpur,Nandlal Chawraha,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.3,14
+The Star - Gold,1500,"North Indian,Chinese,Continental",Kanpur,Kakadeo,Casual Dining,1pm to 11pm(Mon-Sun),Average,3.0,13
+Vrindavan Royal Restaurant,300,"North Indian,Chinese",Kanpur,Ashok Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.4,14
+Maa Bakes and Shakes,200,"Beverages,Chinese,Mughlai",Kanpur,Arya Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,2.7,10
+Chicken Cafe,300,North Indian,Kanpur,Kidwai Nagar,Café,3pm to 12midnight(Mon-Sun),Average,3.2,7
+Cawnpore Central,500,North Indian,Kanpur,Gutaiya,Food Court,11am to 11pm(Mon-Sun),Average,2.7,16
+9T9 Food Hut,250,North Indian,Kanpur,Sharda Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,8
+Channa Non-Veg Point,350,"Mughlai,North Indian",Kanpur,Nandlal Chawraha,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.2,24
+Wat-a-Biryani,500,"Biryani,North Indian",Kanpur,Fazalganj,Quick Bites,6pm to 4am(Mon-Sun),Average,2.9,9
+Mom Choice Pizza Live,150,Pizza,Kanpur,Ashok Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,6
+Maa Ambey Sweets,300,"Mithai,Bakery",Kanpur,Chakeri,Sweet Shop,7am to 11pm(Mon-Sun),Average,3.1,5
+Royal Street,150,Fast Food,Kanpur,Kanpur Cantt,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,6
+Chinese Hut,100,"Chinese,Fast Food",Kanpur,Ashok Nagar,Quick Bites,11am to 1130pm(Mon-Sun),Average,3.2,7
+Kolkata Egg Rolls,200,Fast Food,Kanpur,Phoolbagh,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,6
+Yummy Tree,500,"North Indian,Mughlai,Chinese,Continental",Kanpur,Fazalganj,Casual Dining,12noon to 12midnight(Mon-Sun),Average,3.3,13
+Dayaram Bhojnalaya,150,North Indian,Kanpur,Harsh Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,7
+Cafe 007,600,"North Indian,Chinese",Kanpur,Mall Road,Casual Dining,11am to 11pm(Mon-Sun),Good,3.5,17
+Punjabi Chicken Corner,550,"Mughlai,North Indian",Kanpur,Lajpat Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,8
+Radhika Restaurant,300,"North Indian,Chinese",Kanpur,Ghantaghar,Casual Dining,7am to 11pm(Mon-Sun),Average,3.2,8
+Cake Bakers,300,Bakery,Kanpur,Barra,Bakery,11am to 11pm(Mon-Sun),Average,3.3,8
+Milestone,400,"Fast Food,Bakery",Kanpur,Keshavpuram,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.4,13
+Pa Ji Family Restro,150,"Chinese,North Indian",Kanpur,Rai Purwa,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,9
+Bharat Restaurant,500,North Indian,Kanpur,Parade,Casual Dining,11am to 11pm(Mon-Sun),Average,2.8,17
+Dilkhush Egg Roll Palace,200,North Indian,Kanpur,Ratan lal Nagar,none,5pm to 11pm(Mon-Sun),Average,3.3,13
+Nanda's Hot Spot Fast Food Junction,200,"Chinese,South Indian,North Indian",Kanpur,Ratan lal Nagar,none,12noon to 11pm(Mon-Sun),Average,3.1,4
+Neelam Restaurant,400,North Indian,Kanpur,Ashok Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.3,12
+Peturam,150,North Indian,Kanpur,Kakadeo,Quick Bites,12noon to 11pm(Mon-Sun),Average,3.3,8
+Like Pizza Bite,300,"Fast Food,Pizza,Italian",Kanpur,Barra,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,6
+Hot Stones Pizza,250,Pizza,Kanpur,Panki,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,11
+Chicken Point,450,North Indian,Kanpur,Jajmau,Casual Dining,"2pm to 11pm(Mon,Wed,Thu,Fri,Sat,Sun),Closed...",Average,3.3,11
+Bistro,900,"North Indian,Mughlai,Continental",Kanpur,Fazalganj,Casual Dining,11am to 11pm(Mon-Sun),Average,3.1,5
+RS Chicken Biryani Corner,150,"Biryani,North Indian",Kanpur,Sharda Nagar,Quick Bites,1pm to 11pm(Mon-Sun),Average,3.2,10
+President Hotel,600,"North Indian,Chinese",Kanpur,Fazalganj,Casual Dining,11am to 12midnight(Mon-Sun),Average,2.9,8
+Prachi Dosa,250,"South Indian,Chinese,Fast Food",Kanpur,Parade,Quick Bites,10am to 11pm(Mon-Sun),Average,3.1,8
+Gupta Sweets,200,Desserts,Kanpur,Lajpat Nagar,Dessert Parlor,11am to 11pm(Mon-Sun),Average,3.1,7
+Twister Bar,850,Finger Food,Kanpur,Tilak Nagar,Bar,1130am to 1130pm(Mon-Sun),Average,2.9,8
+Loot -Le Ching  Chinese,300,"Chinese,North Indian",Kanpur,Shyam Nagar,Quick Bites,1230pm to 11pm(Mon-Sun),Average,3.0,4
+My Food,500,North Indian,Kanpur,Mall Road,Quick Bites,"12midnight to 5am,6pm to 12midnight(Mon-Sun)",Average,3.2,11
+Quality Point,150,"Street Food,North Indian,Chinese",Kanpur,Kakadeo,Quick Bites,5pm to 11pm(Mon-Sun),Average,3.3,11
+Punjabi Darbar,300,North Indian,Kanpur,Lal Bangla,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,4
+Desi Vyanjan,150,"Chinese,Indian,Sandwich,Burger,Beverages",Kanpur,Mall Road,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,4
+Sunil Meat wala,250,North Indian,Kanpur,Govindpuri,Quick Bites,1pm to 11pm(Mon-Sun),Average,3.3,9
+Food Ka Mood,150,North Indian,Kanpur,Rai Purwa,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,5
+Kakeum Non Veg,250,North Indian,Kanpur,Mall Road,Quick Bites,1pm to 11pm(Mon-Sun),Average,3.1,4
+Shanker Chaat Bhandar,100,Street Food,Kanpur,Birhana Road,Kiosk,3pm to 11pm(Mon-Sun),Average,2.8,8
+In Takeaway,400,"Chinese,North Indian",Kanpur,Lal Bangla,Quick Bites,12noon to 11pm(Mon-Sun),Average,2.9,6
+Four Season,500,"Fast Food,North Indian,Rolls,Street Food",Kanpur,Gutaiya,Food Court,11am to 11pm(Mon-Sun),Average,3.1,10
+Le Cirque,300,"North Indian,Italian",Kanpur,Panki,Casual Dining,9am to 11pm(Mon-Sun),Average,2.6,10
+Hotel Malik Residency,1000,"North Indian,Chinese,Italian",Kanpur,Ashok Nagar,Casual Dining,7am to 11pm(Mon-Sun),Average,2.7,9
+Chatori Ki Katori,200,Street Food,Kanpur,Ashok Nagar,Food Truck,"Closed(Mon),230pm to 11pm(Tue-Sun)",Average,3.2,13
+Elit Restro Lounge,600,North Indian,Kanpur,Mall Road,Casual Dining,12noon to 11pm(Mon-Sun),Average,3.0,8
+New Family Restaurant,200,"Fast Food,South Indian",Kanpur,Kidwai Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,2.9,10
+Shah Ji Corner Seekh Boti And Kabab,400,Fast Food,Kanpur,Colonel Ganj,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,8
+Blue Lagoon,400,"Bakery,Desserts,Ice Cream",Kanpur,Lajpat Nagar,Bakery,130pm to 1230AM(Mon-Sun),Average,3.1,7
+Saucy Slice Pizza,450,Fast Food,Kanpur,Keshavpuram,Quick Bites,11am to 11pm(Mon-Sun),Good,3.5,188
+Bhikharam Sweet House,200,"Mithai,Street Food",Kanpur,Mall Road,Dessert Parlor,8am to 11pm(Mon-Sun),Good,3.8,109
+Dhuaan,1500,"Mediterranean,Asian",Kanpur,Status Club-- Kanpur Cantonment,Fine Dining,"12noon to 12midnight(Mon),12noon to 11pm(Tue-Sun)",Very Good,4.2,321
+50 ml Bar,850,"North Indian,Finger Food",Kanpur,Nandlal Chawraha,Casual Dining,12noon to 1145pm(Mon-Sun),Very Good,4.0,204
+Baba Biryani,500,"Biryani,Chinese,North Indian,Mughlai",Kanpur,Parade,Quick Bites,1230pm to 11pm(Mon-Sun),Good,3.8,161
+Shree Neelam Hotel & Restaurant,250,North Indian,Kanpur,Ghantaghar,Quick Bites,10am to 2am(Mon-Sun),Very Good,4.0,157
+The Zaffran - Banquet & Restaurant,900,"North Indian,Continental,Asian",Kanpur,Ashok Nagar,Casual Dining,1130am to 11pm(Mon-Sun),Very Good,4.0,203
+Arabian Broost Chicken,450,Arabian,Kanpur,Chamanganj,Quick Bites,2pm to 11pm(Mon-Sun),Very Good,4.0,232
+The King Of Pizza,400,Pizza,Kanpur,IIT Kanpur,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.1,139
+Social Adda,400,Continental,Kanpur,Shastri Nagar,Quick Bites,11am to 1230AM(Mon-Sun),Very Good,4.0,155
+Feast India Company,800,"Continental,Italian,North Indian",Kanpur,Swaroop Nagar,Casual Dining,"12midnight to 1230AM,1pm to 12midnight(Mon...",Good,3.7,185
+Chinese Cafe,300,"North Indian,Chinese,Biryani,Momos",Kanpur,Swaroop Nagar,Quick Bites,1230pm to 1155pm(Mon-Sun),Good,3.9,174
+Baba Biryani,300,Biryani,Kanpur,Jajmau,Quick Bites,12noon to 11pm(Mon-Sun),Very Good,4.4,142
+Naatures Scuup,500,"Fast Food,Desserts,Chinese,Indian,South Indian",Kanpur,Mall Road,Dessert Parlor,11am to 11pm(Mon-Sun),Good,3.8,126
+Kerela Cafe,400,South Indian,Kanpur,IIT Kanpur,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.0,200
+Rasoi Restaurant,0,"North Indian,Chinese,Fast Food",Kanpur,Saket Nagar,Casual Dining,7am to 11pm(Mon-Sun),Average,2.9,8
+Mikki Chicken & Fish Corner,400,"North Indian,Chinese",Kanpur,Nandlal Chawraha,Quick Bites,11am to 11pm(Mon-Sun),Average,2.8,7
+Annapurna Restaurant,400,Indian,Kanpur,Ghantaghar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.0,7
+Shanker Batashe Wale,300,Street Food,Kanpur,Birhana Road,Quick Bites,3pm to 11pm(Mon-Sun),Average,3.1,10
+Baghel Chulha,250,North Indian,Kanpur,Barra,Quick Bites,11am to 11pm(Mon-Sun),Average,3.1,5
+AL Kabeer,500,Mughlai,Kanpur,Colonel Ganj,Quick Bites,5pm to 1am(Mon-Sun),Average,3.0,6
+Shiva Restaurant,350,Fast Food,Kanpur,Tilak Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,4
+Mini Meal,400,"Chinese,Indian,North Indian",Kanpur,Mall Road,Quick Bites,11am to 11pm(Mon-Sun),Average,3.2,9
+Arya Misthan & Fast Food,150,"Desserts,Fast Food",Kanpur,Shastri Nagar,Quick Bites,11am to 11pm(Mon-Sun),Average,3.0,4
+Hotel Vaani Continental,600,"North Indian,Chinese",Kanpur,Govindpuri,Casual Dining,11am to 11pm(Mon-Sun),Average,3.0,4
+Hangout Fast Food Corner,400,"Burger,Chinese,Fast Food,North Indian,South Indian,Street Food",Kanpur,Nandlal Chawraha,Quick Bites,930am to 11pm(Mon-Sun),Average,2.9,6
+Food Mohalla,200,"North Indian,Fast Food",Kanpur,Ashok Nagar,Quick Bites,9am to 11pm(Mon-Sun),Average,3.0,5
+Baskin Robbins,300,Ice Cream,Kanpur,Lajpat Nagar,Dessert Parlor,1130am to 1130pm(Mon-Sun),Average,3.1,4
+Best Western Bliss,1200,"Chinese,Continental,North Indian",Kanpur,Ashok Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.0,4
+Keventers,400,"Beverages,Ice Cream,Desserts",Kanpur,Swaroop Nagar,Beverage Shop,11am to 11pm(Mon-Sun),Very Good,4.3,131
+Alive The Eatery,400,"Chinese,Continental,North Indian",Kanpur,Geeta Nagar,Casual Dining,12noon to 11pm(Mon-Sun),Very Good,4.1,80
+Atmosphere Grill Cafe Sheesha,1000,"Indian,Chinese,Continental",Kanpur,Mall Road,Casual Dining,1230pm to 11pm(Mon-Sun),Very Good,4.0,185
+Kudos,350,"Fast Food,Pizza",Kanpur,Lal Bangla,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,164
+Verandah,1500,"Chinese,Italian,Fast Food",Kanpur,Tilak Nagar,Casual Dining,12noon to 11pm(Mon-Sun),Good,3.7,211
+Pizzawala,500,"Pizza,Fast Food",Kanpur,Shastri Nagar,Quick Bites,12noon to 12midnight(Mon-Sun),Good,3.7,160
+Shanti Niketan Sweets,250,Desserts,Kanpur,Kidwai Nagar Market,Dessert Parlor,7am to 11pm(Mon-Sun),Good,3.8,98
+Pind Canada,350,Fast Food,Kanpur,Fazalganj,Quick Bites,10am to 11pm(Mon-Sun),Good,3.7,175
+Pizza Hubb,200,Pizza,Kanpur,Azad Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.6,154
+Foodantram,500,"North Indian,Chinese,Fast Food",Kanpur,Barra,Casual Dining,11am to 11pm(Mon-Sun),Good,3.9,91
+Pizza Yum,400,Pizza,Kanpur,Lal Bangla,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.0,120
+Jushn Restro,500,"North Indian,Chinese",Kanpur,Lal Bangla,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,173
+Talk Of The Town,350,Chinese,Kanpur,Ashok Nagar,Quick Bites,"Closed(Mon),1130am to 930pm(Tue-Sun)",Very Good,4.4,608
+Mithas,250,"Mithai,Fast Food,Street Food,South Indian",Kanpur,Swaroop Nagar,Quick Bites,8am to 10pm(Mon-Sun),Very Good,4.4,460
+Belgiyum Waffles & More,300,"Desserts,Fast Food",Kanpur,Swaroop Nagar,Quick Bites,3pm to 11pm(Mon-Sun),Very Good,4.3,161
+Foodie Goodie,600,"North Indian,Chinese,Fast Food",Kanpur,Fazalganj,Casual Dining,8am to 12midnight(Mon-Sun),Average,3.2,154
+Yummy Tree,700,"North Indian,Chinese,Fast Food",Kanpur,Ratan lal Nagar,Casual Dining,12noon to 11pm(Mon-Sun),Good,3.7,126
+Hot Lips,600,"Chinese,North Indian",Kanpur,Swaroop Nagar,Quick Bites,"12noon to 11pm(Mon,Wed,Thu,Fri,Sat,Sun)...",Good,3.9,172
+Jai Siya Ram,400,North Indian,Kanpur,Kidwai Nagar Market,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.0,136
+S.D.Chat & Fast Food Corner,300,"Chinese,Fast Food",Kanpur,Naveen Market-- Mall Road,Quick Bites,"1pm to 11pm(Mon-Fri),11am to 11pm(Sat-Sun)",Good,3.9,154
+Chauuan Pandit Paties,100,Fast Food,Kanpur,Barra,Quick Bites,11am to 10pm(Mon-Sun),Excellent,4.5,422
+Dominic Pizza,200,"Fast Food,Pizza",Kanpur,Ashok Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,97
+Bhatia Rasoi,250,North Indian,Kanpur,Keshavpuram,Quick Bites,10am to 11pm(Mon-Sun),Average,3.2,113
+Jo Hukum,800,"North Indian,Chinese",Kanpur,Mall Road,Casual Dining,11am to 11pm(Mon-Sun),Very Good,4.2,158
+The Yacht Club,2500,"Continental,Chinese,North Indian",Kanpur,Arya Nagar,Club,1230pm to 11pm(Mon-Sun),Good,3.9,177
+Juicebox,200,"Beverages,Fast Food",Kanpur,Saket Nagar,Quick Bites,"12noon to 10pm(Mon,Wed,Thu,Fri,Sat,Sun)...",Very Good,4.3,341
+Arabecue Pizza,400,"Fast Food,Pizza",Kanpur,Lal Bangla,Quick Bites,10am to 11pm(Mon-Sun),Good,3.5,173
+Chacha Biryani,250,Biryani,Kanpur,Keshavpuram,Quick Bites,5pm to 11pm(Mon-Sun),Good,3.8,120
+The Imperial Cord,500,"Fast Food,North Indian",Kanpur,Kakadeo,Quick Bites,11am to 11pm(Mon-Sun),Good,3.9,178
+Barra House,400,"North Indian,Mughlai",Kanpur,Kanpur Cantt,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.1,136
+Treat Convenience Foods,250,"North Indian,South Indian",Kanpur,Lal Bangla,Casual Dining,1130am to 11pm(Mon-Sun),Good,3.5,79
+Arabecue Fried Chicken,500,"Fast Food,Indian,Mughlai",Kanpur,Parade,Quick Bites,1130am to 11pm(Mon-Sun),Very Good,4.0,177
+Manvi 5C's,500,"Fast Food,Chinese,South Indian",Kanpur,Kakadeo,Casual Dining,10am to 11pm(Mon-Sun),Good,3.7,98
+Tadka The Food Hub,400,"Chinese,North Indian,South Indian",Kanpur,Kidwai Nagar Market,Quick Bites,1030am to 11pm(Mon-Sun),Good,3.7,122
+Arabecue Fried Chicken,500,Mughlai,Kanpur,Lal Bangla,Quick Bites,12noon to 11pm(Mon-Sun),Very Good,4.2,112
+Taste Mafia,500,Fast Food,Kanpur,Mall Road,Food Truck,6pm to 11pm(Mon-Sun),Very Good,4.1,148
+Samocha: Stories Around Chai,250,Cafe,Kanpur,Swaroop Nagar,Quick Bites,930am to 10pm(Mon-Sun),Excellent,4.6,380
+Pizza Yum,400,"Pizza,Fast Food",Kanpur,Harsh Nagar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,113
+Purple Wok Co.,400,Chinese,Kanpur,Kakadeo,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.1,137
+Wengers Ice Cream,300,"Ice Cream,Desserts",Kanpur,Ashok Nagar,Dessert Parlor,12noon to 11pm(Mon-Sun),Very Good,4.1,112
+Lucky Restaurant,600,"North Indian,Fast Food",Kanpur,Sharda Nagar,Casual Dining,11am to 11pm(Mon-Sun),Average,3.1,181
+Anil Meat Wala,300,Mughlai,Kanpur,Nandlal Chawraha,Quick Bites,"2pm to 930pm(Mon,Wed,Thu,Fri,Sat,Sun)...",Very Good,4.0,435
+Aladdin's,400,"Fast Food,Lebanese",Kanpur,Swaroop Nagar,Food Truck,"5pm to 11pm(Mon,Tue,Wed,Fri,Sat,Sun),Closed...",Very Good,4.2,108
+Tewari Sweets,300,"North Indian,Street Food,Desserts",Kanpur,Birhana Road,Quick Bites,8am to 12midnight(Mon-Sun),Average,3.4,106
+Gyan Vaishnav Restaurant,250,North Indian,Kanpur,Ghantaghar,Quick Bites,11am to 11pm(Mon-Sun),Good,3.7,119
+Gupta Veg Biryani,150,North Indian,Kanpur,Rai Purwa,Quick Bites,11am to 11pm(Mon-Sun),Very Good,4.0,113
+Latika's Thalia,550,"Bakery,Desserts,Fast Food",Kanpur,Swaroop Nagar,Bakery,9am to 1030pm(Mon-Sun),Very Good,4.2,177
+Meezzaah,600,"Pizza,Chinese,Italian",Kanpur,Nandlal Chawraha,Casual Dining,11am to 11pm(Mon-Sun),Average,3.3,122
+Checkmate Restaurant,100,Fast Food,Kanpur,Keshavpuram,Quick Bites,11am to 11pm(Mon-Sun),Good,3.8,116
+Yllo Food Cafe- G2C,800,"North Indian,Chinese,Continental",Kanpur,Lajpat Nagar,Casual Dining,12noon to 11pm(Mon-Sun),Good,3.7,104
+D-Cafe,800,"Cafe,Asian,North Indian",Kanpur,Mall Road,Café,11am to 10pm(Mon-Sun),Very Good,4.1,207
+Anand Restaurant,300,"North Indian,Chinese",Kanpur,Sharda Nagar,Quick Bites,"11am to 11pm(Mon,Tue,Thu,Fri,Sat,Sun),11am...",Good,3.5,206
+Apna Bhojnalaya,250,North Indian,Kanpur,Kakadeo,Bhojanalya,11am to 11pm(Mon-Sun),Good,3.8,95
+Chin Mi,1500,Chinese,Kanpur,Rave 3-- Tilak Nagar,Fine Dining,"12noon to 3pm,7pm to 11pm(Mon-Sun)",Very Good,4.1,166
+Giani's,300,"Desserts,Ice Cream,Beverages",Kanpur,Swaroop Nagar,Dessert Parlor,11am to 12midnight(Mon-Sun),Very Good,4.2,68
+Neelam Restaurant,400,North Indian,Kanpur,Kidwai Nagar,Quick Bites,12noon to 11pm(Mon-Sun),Average,2.9,96
+I.T. Chicken Darbar,500,North Indian,Kanpur,IIT Kanpur,Casual Dining,11am to 11pm(Mon-Sun),Average,2.9,94
+Midnight Express,600,"North Indian,Chinese",Kanpur,Fazalganj,none,"12noon to 4pm,6pm to 6am(Mon-Sun)",Good,3.9,178
+Urban Crave Express,600,"Cafe,Italian",Kanpur,IIT Kanpur,Café,4pm to 1am(Mon-Sun),Good,3.8,143
